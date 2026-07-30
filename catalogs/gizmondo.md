@@ -39,11 +39,11 @@ constituency asking for one. `Ported` count of **zero**.
 
 | Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Notes |
 |---|---|---|---|---|---|---|---|---|---|
-| Trailblazer | 2005 | Warthog | Gizmondo Studios | Racing | 1 | No | **Stranded** | — | A launch title, and a remake of a 1986 home computer game — included because this build was made for the Gizmondo, though the lineage weakens the claim. |
-| Sticky Balls | 2005 | Gizmondo Studios | Gizmondo Studios | Puzzle | 1 | No | **Stranded** | — | A launch title; Gizmondo Studios was wound up with the parent company. |
 | Chicane: Street Racing | 2005 | Gizmondo Studios | Gizmondo Studios | Racing | 1 | No | **Stranded** | — | Used the handheld's GPS for real-world location features — a hardware dependency on top of the rights problem. |
-| Point of Destruction | 2005 | Gizmondo Studios | Gizmondo Studios | Shoot 'em up | 1 | No | **Stranded** | — | An in-house Gizmondo Studios shooter; the studio was wound up with the parent company in Feb 2006 and its assets went into insolvency. |
 | Momma Can I Mow The Lawn? | 2005 | Gizmondo Studios | Gizmondo Studios | Action | 1 | No | **Stranded** | — | One of the last releases before the February 2006 collapse, shipped in tiny numbers. Original cartridges are now collector items purely for the company's notoriety. |
+| Point of Destruction | 2005 | Gizmondo Studios | Gizmondo Studios | Shoot 'em up | 1 | No | **Stranded** | — | An in-house Gizmondo Studios shooter; the studio was wound up with the parent company in Feb 2006 and its assets went into insolvency. |
+| Sticky Balls | 2005 | Gizmondo Studios | Gizmondo Studios | Puzzle | 1 | No | **Stranded** | — | A launch title; Gizmondo Studios was wound up with the parent company. |
+| Trailblazer | 2005 | Warthog | Gizmondo Studios | Racing | 1 | No | **Stranded** | — | A launch title, and a remake of a 1986 home computer game — included because this build was made for the Gizmondo, though the lineage weakens the claim. |
 
 ## Excluded
 

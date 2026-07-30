@@ -32,10 +32,10 @@ other retired platform's.
 
 | | Count |
 |---|---|
-| **Debut games** | **31** |
-| — still `Stranded` | 21 |
-| — since `Ported` | 8 |
-| — `Sim-ship` | 2 |
+| **Debut games** | **32** |
+| — still `Stranded` | 22 |
+| — since `Ported` | 7 |
+| — `Sim-ship` | 3 |
 | **Contested** | 1 |
 
 **Why the Xbox One strands games.** Chiefly **because PC was the escape hatch**, and
@@ -60,7 +60,7 @@ this repo does not count it. Beyond that:
 | Ryse: Son of Rome | 2013 | Crytek | Microsoft | Action | 1–2 | Dead | **Stranded** | — | Launch title. A PC version shipped in 2014; no other console. |
 | Fantasia: Music Evolved | 2014 | Harmonix | Disney | Rhythm | 1–2 | No | **Stranded** | — | Kinect **plus** a Disney licence **plus** licensed music — three independent walls, the most over-locked entry on the platform. |
 | Forza Horizon 2 | 2014 | Playground Games | Microsoft | Racing | 1–12 | Dead | **Stranded** | — | Delisted in 2018. |
-| Halo: The Master Chief Collection | 2014 | 343 Industries | Microsoft | Compilation | 1–24 | Yes | Ported | PC (2019–20) | Its `Halo 2: Anniversary` remaster is exclusive to this package. |
+| Halo: The Master Chief Collection | 2014 | 343 Industries | Microsoft | Compilation | 1–24 | Yes | **Stranded** | — | Its `Halo 2: Anniversary` remaster is exclusive to this package. A PC version exists (2019–20) but PC is not a catalogued platform, so there is no second console for it. |
 | Kinect Sports Rivals | 2014 | Rare | Microsoft | Sports | 1–2 | Dead | **Stranded** | — | Rare's last Kinect game before *Sea of Thieves*. Needs hardware discontinued in 2017. |
 | Sunset Overdrive | 2014 | Insomniac | Microsoft | Action | 1–8 | Dead | **Stranded** | — | Insomniac was later bought by **Sony**, which makes a re-release of a Microsoft-published game structurally awkward. PC version 2018. |
 | Halo 5: Guardians | 2015 | 343 Industries | Microsoft | FPS | 1–24 | Yes | **Stranded** | — | **The only mainline Halo never released on PC and never added to *The Master Chief Collection*.** Microsoft has repeatedly declined to explain why. |
@@ -80,10 +80,11 @@ this repo does not count it. Beyond that:
 | Battletoads | 2020 | Dlala Studios | Microsoft | Beat 'em up | 1–3 | No | **Stranded** | — | The series' revival. PC version day-one; unlike the NES original it is not in *Rare Replay*. |
 | Bleeding Edge | 2020 | Ninja Theory | Microsoft | Multiplayer brawler | 1–8 | **Dead (2024)** | **Stranded** | — | Support ended within a year and servers closed in 2024. Online-only, so the game no longer functions. |
 | Grounded | 2020 | Obsidian | Microsoft | Survival | 1–4 | Yes | Ported | PS5, Switch (2024), PC | Part of the 2024 multiplatform wave. |
+| Minecraft Dungeons | 2020 | Mojang | Microsoft | Action RPG | 1–4 | Yes | Sim-ship | PS4, Switch, PC (2020, same day) | A rare Microsoft title that launched multiplatform on day one rather than staying on Xbox. |
 | Ori and the Will of the Wisps | 2020 | Moon Studios | Microsoft | Platformer | 1 | No | Ported | Switch (2020), PC | |
 | Tell Me Why | 2020 | Dontnod | Microsoft | Adventure | 1 | No | **Stranded** | — | PC version day-one; delisted from sale in 2024 and made temporarily free. |
-| Forza Horizon 5 | 2021 | Playground Games | Microsoft | Racing | 1–12 | Yes | Sim-ship | Xbox Series X\|S (2021, same day); PS5 (2025), PC | Also catalogued under [Xbox Series X\|S](xbox-series.md). |
-| Halo Infinite | 2021 | 343 Industries | Microsoft | FPS | 1–24 | Yes | Sim-ship | Xbox Series X\|S, PC (2021, same day) | Cross-gen launch; also catalogued under [Xbox Series X\|S](xbox-series.md). |
+| Forza Horizon 5 | 2021 | Playground Games | Microsoft | Racing | 1–12 | Yes | Sim-ship | Xbox Series X/S (2021, same day); PS5 (2025), PC | Also catalogued under [Xbox Series X\|S](xbox-series.md). |
+| Halo Infinite | 2021 | 343 Industries | Microsoft | FPS | 1–24 | Yes | Sim-ship | Xbox Series X/S, PC (2021, same day) | Cross-gen launch; also catalogued under [Xbox Series X\|S](xbox-series.md). |
 | Pentiment | 2022 | Obsidian | Microsoft | Adventure | 1 | No | Ported | PS5, Switch (2024), PC | |
 
 ## Contested
@@ -100,7 +101,7 @@ this repo does not count it. Beyond that:
 | Phantom Dust HD, Voodoo Vince Remastered | 2017 | Remasters of original Xbox games. |
 | Age of Empires: Definitive Edition line | 2018–21 | Remasters of PC originals. |
 | Hellblade: Senua's Sacrifice | 2018 | PS4 and PC original (2017). |
-| Minecraft Dungeons, Flight Simulator | 2020 | Simultaneous multiplatform / PC-first. |
+| Microsoft Flight Simulator | 2021 | PC original (2020) — the console version followed a year later. |
 | Any Xbox / 360 BC titles | — | Backward compatibility, not a re-release. |
 | *(games with a later or day-one PC port)* | — | **Not `Ported`.** PC is not a catalogued platform — the game stays `Stranded` with the PC release noted. |
 

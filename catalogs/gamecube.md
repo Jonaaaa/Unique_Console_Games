@@ -121,7 +121,7 @@ What is left splits three ways:
 | Phantasy Star Online Episode I & II | 2002 | Expanded port of the 2000 Dreamcast game. |
 | Doshin the Giant | 2002 | Port of the 1999 Nintendo 64DD game. |
 | Twilight Princess (GameCube) | 2006 | The Wii version released first (19 Nov 2006 vs 12 Dec). The GameCube build is the later release of the pair. |
-| Ikaruga | 2002 | Arcade first (2001); also Dreamcast in Japan. |
+| Ikaruga | 2002 | The **Dreamcast** version reached home first (Japan, Sep 2002) — see [Dreamcast](dreamcast.md). Arcades are out of scope, so the arcade original is irrelevant; the prior home release is what disqualifies it. |
 | Any Wii disc played on GameCube hardware | — | Not possible; the reverse is backward compatibility. |
 | *(games with an earlier arcade release)* | — | **No longer excluded.** Arcades are out of scope — a cabinet is not a collectable home device — so the first *home* release counts as the debut. A prior release on another **home** console still disqualifies. |
 

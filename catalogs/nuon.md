@@ -38,9 +38,9 @@ own rights.
 
 | Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Notes |
 |---|---|---|---|---|---|---|---|---|---|
-| Tempest 3000 | 2000 | Llamasoft | Hasbro Interactive | Tube shooter | 1 | No | **Stranded** | — | **Jeff Minter's third Tempest**, after the Jaguar's `Tempest 2000` and before the Vita's `TxK`. This one is stranded while `Tempest 2000` is in *Atari 50* — because Hasbro published it and VM Labs' collapse orphaned it. Minter's Tempest lineage is now split across three platforms with three different rights outcomes. |
-| Merlin Racing | 2000 | Genetic Fantasia | VM Labs | Kart racer | 1–4 | No | **Stranded** | — | A launch title; the developer dissolved with the platform. |
 | Iron Soldier 3 | 2000 | Eclipse Software | Telegames | Mech action | 1 | No | **Stranded** | — | The sequel to the Jaguar's `Iron Soldier`, and stranded on an even more obscure platform than its predecessor. Telegames is dormant. |
+| Merlin Racing | 2000 | Genetic Fantasia | VM Labs | Kart racer | 1–4 | No | **Stranded** | — | A launch title; the developer dissolved with the platform. |
+| Tempest 3000 | 2000 | Llamasoft | Hasbro Interactive | Tube shooter | 1 | No | **Stranded** | — | **Jeff Minter's third Tempest**, after the Jaguar's `Tempest 2000` and before the Vita's `TxK`. This one is stranded while `Tempest 2000` is in *Atari 50* — because Hasbro published it and VM Labs' collapse orphaned it. Minter's Tempest lineage is now split across three platforms with three different rights outcomes. |
 | Freefall 3050 A.D. | 2001 | Cinematronics | VM Labs | Action | 1–2 | No | **Stranded** | — | One of the last Nuon releases before VM Labs folded. |
 | Space Invaders XL | 2001 | Nuon / Taito | VM Labs | Shoot 'em up | 1 | No | Ported | Various Taito collections | Escaped only because Taito owns `Space Invaders` and folds its variants into its own compilations. |
 

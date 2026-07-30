@@ -156,7 +156,6 @@ conflate *not on Switch* with *exclusive*. Recorded so they are not re-added.
 | Wii U Panorama View | 2013 | Video application, not a game. |
 | Wii Karaoke U | 2013 | Subscription service application, not a game. |
 | Minecraft: Wii U Edition | 2015 | Port of the 2011 PC game. Frequently miscounted as an exclusive because the Wii U SKU never moved. |
-| Tank! Tank! Tank! | 2012 | **Arcade first** — Namco arcades, 2009. |
 | Word Search / Word Puzzles / Word Logic by POWGI | 2015–16 | Lightwood's word-game line shipped Wii U + 3DS day-and-date, later Switch/PS4/Vita. |
 | Color Zen / Color Zen Kids | 2014 | **iOS first** (2013). |
 | Electronic Super Joy: Groove City | 2015 | PC first (2014). |

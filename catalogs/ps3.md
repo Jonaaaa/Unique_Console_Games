@@ -14,10 +14,10 @@
 
 | | Count |
 |---|---|
-| **Debut games** | **57** |
+| **Debut games** | **60** |
 | — still `Stranded` | 31 |
 | — since `Ported` | 19 |
-| — `Sim-ship` | 7 |
+| — `Sim-ship` | 10 |
 | **Contested** | 2 |
 
 **Why the PS3 strands games.** The PS3 is the first platform in this repo where the
@@ -55,6 +55,7 @@ not "someone emulated it".
 | Ratchet & Clank Future: Tools of Destruction | 2007 | Insomniac | Sony | Platformer | 1 | No | **Stranded** | — | The PS3 "Future" trilogy is the only part of the Ratchet series never collected or remastered. |
 | Uncharted: Drake's Fortune | 2007 | Naughty Dog | Sony | Action-adventure | 1 | No | Ported | PS4 (2015, *The Nathan Drake Collection*) | |
 | Warhawk | 2007 | Incognito | Sony | Vehicular shooter | 1–32 | **Dead (2019)** | **Stranded** | — | **Online-only.** With the servers gone the disc has no single-player content — it is not merely stranded, it is non-functional. |
+| Echochrome | 2008 | Japan Studio | Sony | Puzzle | 1 | No | Sim-ship | PSP (2008, same day) | Also catalogued under [PSP](psp.md). An Escher-inspired perspective puzzler. |
 | LittleBigPlanet | 2008 | Media Molecule | Sony | Platformer / creation | 1–4 | **Dead (2021)** | **Stranded** | — | Its entire point was community level sharing. Sony took the servers down permanently in 2021 after sustained abuse, deleting roughly 10 million user levels. The game that remains is a fraction of what shipped. |
 | Metal Gear Solid 4: Guns of the Patriots | 2008 | Kojima Productions | Konami | Stealth action | 1–16 | Dead | **Stranded** | — | ⚠ [Contested](#contested) — announced for *Master Collection Vol. 2*, but its Cell-specific engine has made it the hardest Metal Gear game to move. |
 | Siren: Blood Curse | 2008 | SCE Japan Studio | Sony | Survival horror | 1 | No | **Stranded** | — | Episodic PSN release; Japan Studio was dissolved in 2021. |
@@ -100,9 +101,11 @@ not "someone emulated it".
 | Gran Turismo 6 | 2013 | Polyphony Digital | Sony | Racing | 1–16 | **Dead (2018)** | **Stranded** | — | Released weeks after the PS4 launched, then abandoned. |
 | Puppeteer | 2013 | SCE Japan Studio | Sony | Platformer | 1–2 | No | **Stranded** | — | A theatre-stage platformer with sets that physically change mid-level. Critically praised, commercially ignored, and Japan Studio no longer exists. The clearest "deserves a port and will never get one" entry on the platform. |
 | Rain | 2013 | Acquire / Japan Studio | Sony | Puzzle-adventure | 1 | No | **Stranded** | — | A small Japan Studio digital release; the studio was dissolved in 2021. |
+| Rayman Legends | 2013 | Ubisoft Montpellier | Ubisoft | Platformer | 1–5 | No | Sim-ship | Wii U, Xbox 360, PC (2013, same day); PS4/XB1 (2014), Switch (2017) | Also catalogued under [Wii U](wii-u.md) and [Xbox 360](xbox-360.md). Originally a Wii U exclusive, delayed and widened to a multiplatform launch. |
 | Sly Cooper: Thieves in Time | 2013 | Sanzaru Games | Sony | Platformer | 1 | No | Sim-ship | Vita (2013, same day) | Cross-buy. The series has been dormant since. |
 | The Last of Us | 2013 | Naughty Dog | Sony | Action-adventure | 1–8 | Dead (2019) | Ported | PS4 (2014, *Remastered*), PS5 (2022, *Part I*), PC | |
 | The Legend of Heroes: Trails of Cold Steel | 2013 | Nihon Falcom | Falcom / XSEED | JRPG | 1 | No | Sim-ship | PS Vita (2013, same day), PC (2017), PS4 (2019), Switch (2022) | Also catalogued under [PS Vita](ps-vita.md). |
+| Persona 5 | 2016 | Atlus | Atlus | JRPG | 1 | No | Sim-ship | PS4 (2016, same day) | Also catalogued under [PS4](ps4.md). The PS3 version was Japan-and-Asia only in some regions and is the last major PS3 release of note. |
 
 ## Contested
 

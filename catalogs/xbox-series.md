@@ -31,10 +31,10 @@ there**. Padding this file would mean breaking the ruleset.
 
 | | Count |
 |---|---|
-| **Debut games** | **10** |
+| **Debut games** | **12** |
 | — still `Stranded` | 5 |
 | — since `Ported` | 4 |
-| — `Sim-ship` | 1 |
+| — `Sim-ship` | 3 |
 | **Contested** | 1 |
 
 **Why the Series X|S strands games.** Almost nothing here is stranded by an
@@ -52,8 +52,9 @@ The one durable cause is the familiar one: **licensed cars**. `Forza Motorsport`
 
 | Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Notes |
 |---|---|---|---|---|---|---|---|---|---|
-| Forza Horizon 5 | 2021 | Playground Games | Microsoft | Racing | 1–12 | Yes | Ported | PS5 (2025), Xbox One (2021, same day), PC | Cross-gen at launch, then the first Forza to reach PlayStation. |
+| Forza Horizon 5 | 2021 | Playground Games | Microsoft | Racing | 1–12 | Yes | Sim-ship | Xbox One (2021, same day); PS5 (2025), PC | Also catalogued under [Xbox One](xbox-one.md). Cross-gen at launch, then the first Forza to reach PlayStation. |
 | Halo Infinite | 2021 | 343 Industries | Microsoft | FPS | 1–24 | Yes | Sim-ship | Xbox One, PC (2021, same day) | Also catalogued under [Xbox One](xbox-one.md). Its campaign shipped without the co-op and Forge modes originally promised. |
+| The Medium | 2021 | Bloober Team | Bloober Team | Survival horror | 1 | No | Ported | PC (2021, same day); PS5 (2021), Switch 2 (2025) | A timed console exclusive; the same-day PC launch makes this a Series X/S debut under the PC rule, and the later PS5 release makes it `Ported`. |
 | Forza Motorsport | 2023 | Turn 10 | Microsoft | Racing | 1–24 | Yes | **Stranded** | — | Licensed cars and manufacturers. Every prior Forza has been delisted once those licences lapsed; this one is on the same clock. |
 | Hi-Fi Rush | 2023 | Tango Gameworks | Microsoft | Rhythm action | 1 | No | Ported | PS5 (2024), Switch (2025), PC | Shadow-dropped. **Tango Gameworks was closed by Microsoft in 2024 and then sold to Krafton**, which is why the game survived while its studio did not. |
 | Redfall | 2023 | Arkane Austin | Microsoft | Co-op FPS | 1–4 | **Dead (2025)** | **Stranded** | — | Critically panned; **Arkane Austin was closed in 2024** and support ended in 2025. Its always-online design means the servers' closure materially breaks it. |
@@ -62,6 +63,7 @@ The one durable cause is the familiar one: **licensed cars**. `Forza Motorsport`
 | Senua's Saga: Hellblade II | 2024 | Ninja Theory | Microsoft | Action-adventure | 1 | No | Ported | PS5 (2025), PC | Ninja Theory's second Hellblade, and part of the 2024–25 PlayStation wave. |
 | Avowed | 2025 | Obsidian | Microsoft | Action RPG | 1 | No | **Stranded** | — | PC version day-one; no console release elsewhere yet. |
 | South of Midnight | 2025 | Compulsion Games | Microsoft | Action-adventure | 1 | No | **Stranded** | — | PC version day-one. |
+| The Outer Worlds 2 | 2025 | Obsidian | Microsoft | Action RPG | 1 | No | Sim-ship | PS5, PC (2025, same day) | Microsoft's multiplatform pivot applied from day one rather than retroactively — the clearest sign the exclusivity era has ended. |
 
 ## Contested
 
@@ -73,9 +75,7 @@ The one durable cause is the familiar one: **licensed cars**. `Forza Motorsport`
 
 | Title | Year | Why excluded |
 |---|---|---|
-| The Medium | 2021 | Simultaneous Series X\|S + PC; also reached PS5 in 2021. Effectively a cross-platform launch. |
 | Microsoft Flight Simulator 2024 | 2024 | PC-first lineage; the 2020 edition preceded it on Windows. |
-| The Outer Worlds 2 | 2025 | Simultaneous multiplatform launch including PS5. |
 | Grounded, Pentiment, Sea of Thieves, State of Decay 2 | 2018–22 | Xbox One debuts — catalogued under [Xbox One](xbox-one.md). |
 | Gears 5, Halo: MCC, Forza Horizon 4 | 2019–20 | Xbox One debuts or compilations. |
 | Age of Empires IV | 2021 | PC original (2021); the console version followed in 2023. |

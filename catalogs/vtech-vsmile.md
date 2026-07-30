@@ -38,10 +38,10 @@ games-preservation interest. `Ported` count of **zero**.
 | Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Notes |
 |---|---|---|---|---|---|---|---|---|---|
 | Alphabet Park Adventure | 2004 | VTech | VTech | Edutainment | 1 | No | **Stranded** | — | The pack-in title, and one of the few V.Smile releases without a third-party licence — yet still unreissued, because VTech has no route to distribute legacy software. |
-| Cars: Rev It Up in Radiator Springs | 2006 | VTech | VTech | Edutainment | 1 | No | **Stranded** | — | A Disney/Pixar licence, representative of the platform's dominant pattern. |
 | Scooby-Doo! Funland Frenzy | 2005 | VTech | VTech | Edutainment | 1 | No | **Stranded** | — | Warner licence. |
-| Thomas & Friends: Engines Working Together | 2006 | VTech | VTech | Edutainment | 1 | No | **Stranded** | — | Mattel now owns Thomas, a rights transfer that further complicates any reissue. |
 | Winnie the Pooh: The Honey Hunt | 2005 | VTech | VTech | Edutainment | 1 | No | **Stranded** | — | Disney licence. |
+| Cars: Rev It Up in Radiator Springs | 2006 | VTech | VTech | Edutainment | 1 | No | **Stranded** | — | A Disney/Pixar licence, representative of the platform's dominant pattern. |
+| Thomas & Friends: Engines Working Together | 2006 | VTech | VTech | Edutainment | 1 | No | **Stranded** | — | Mattel now owns Thomas, a rights transfer that further complicates any reissue. |
 
 ## Excluded
 

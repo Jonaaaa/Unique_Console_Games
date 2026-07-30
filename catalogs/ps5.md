@@ -25,10 +25,10 @@ What is left is a modest set of genuine PS5-only debuts.
 
 | | Count |
 |---|---|
-| **Debut games** | **17** |
+| **Debut games** | **18** |
 | — still `Stranded` | 12 |
 | — since `Ported` | 0 |
-| — `Sim-ship` | 5 |
+| — `Sim-ship` | 6 |
 | **Contested** | 1 |
 
 **Why the PS5 strands games.** Policy, as with the PS4 and Switch — Sony does not
@@ -63,6 +63,7 @@ that lacks them — the same category as `Wii Sports` or `Drag x Drive`.
 | Stellar Blade | 2024 | Shift Up | Sony | Action | 1 | No | **Stranded** | — | A Korean-developed Sony exclusive; PC in 2025. |
 | Death Stranding 2: On the Beach | 2025 | Kojima Productions | Sony | Action-adventure | 1 | Yes | **Stranded** | — | Kojima Productions retained rights to the first game and took it to Xbox; whether this follows is unresolved. |
 | Ghost of Yōtei | 2025 | Sucker Punch | Sony | Action-adventure | 1 | Yes | **Stranded** | — | The follow-up to `Ghost of Tsushima`. |
+| The Outer Worlds 2 | 2025 | Obsidian | Microsoft | Action RPG | 1 | No | Sim-ship | Xbox Series X/S, PC (2025, same day) | Also catalogued under [Xbox Series X\|S](xbox-series.md). A Microsoft-published game launching on PlayStation day one. |
 
 ## Contested
 

@@ -53,10 +53,10 @@ debut is permanent.
 | [SNK Neo Geo Pocket / Color](catalogs/neo-geo-pocket-color.md) | Oct 1998 – 2001 | **17** | 6 | 11 |
 | [Bandai WonderSwan](catalogs/wonderswan.md) | Mar 1999 – 2003 | **15** | 12 | 3 |
 | [VM Labs Nuon](catalogs/nuon.md) | 2000 – 2002 | **5** | 4 | 1 |
-| [Sony PlayStation 2](catalogs/ps2.md) | Mar 2000 – Jan 2013 | **63** | 28 | 32 +3 sim |
+| [Sony PlayStation 2](catalogs/ps2.md) | Mar 2000 – Jan 2013 | **67** | 28 | 33 +6 sim |
 | [Nintendo GameCube](catalogs/gamecube.md) | Sep 2001 (JP) – 2007 | **51** | 24 | 24 +3 sim |
 | [Game Boy Advance](catalogs/gba.md) | Mar 2001 (JP) – 2010 | **41** | 19 | 22 |
-| [Microsoft Xbox](catalogs/xbox.md) | Nov 2001 – 2009 | **34** | 21 | 10 +3 sim |
+| [Microsoft Xbox](catalogs/xbox.md) | Nov 2001 – 2009 | **35** | 21 | 10 +4 sim |
 | [LeapFrog Leapster / Didj / LeapTV](catalogs/leapfrog.md) | 2003 – 2016 | **6** | 6 | 0 |
 | [Nokia N-Gage](catalogs/n-gage.md) | Oct 2003 – 2005 (hardware) | **8** | 8 | 0 |
 | [Nintendo DS](catalogs/nintendo-ds.md) | Nov 2004 – 2014 | **49** | 35 | 14 |
@@ -64,17 +64,17 @@ debut is permanent.
 | [VTech V.Smile](catalogs/vtech-vsmile.md) | 2004 – 2011 | **5** | 5 | 0 |
 | [SSD Company XaviXPORT](catalogs/xavix.md) | 2004 – 2010 | **5** | 5 | 0 |
 | [Tiger Telematics Gizmondo](catalogs/gizmondo.md) | Mar 2005 – Feb 2006 | **5** | 5 | 0 |
-| [Microsoft Xbox 360](catalogs/xbox-360.md) | Nov 2005 – 2016 | **44** | 22 | 20 +2 sim |
-| [Sony PlayStation 3](catalogs/ps3.md) | Nov 2006 – 2017 | **57** | 31 | 19 +7 sim |
+| [Microsoft Xbox 360](catalogs/xbox-360.md) | Nov 2005 – 2016 | **45** | 22 | 20 +3 sim |
+| [Sony PlayStation 3](catalogs/ps3.md) | Nov 2006 – 2017 | **60** | 31 | 19 +10 sim |
 | [Nintendo Wii](catalogs/wii.md) | Nov 2006 – 2013 | **51** | 37 | 14 |
 | [Nintendo 3DS](catalogs/nintendo-3ds.md) | Feb 2011 (JP) – Sep 2020 (production ended) | **145** | 124 | 14 +7 sim |
-| [PlayStation Vita](catalogs/ps-vita.md) | Dec 2011 (JP) – Mar 2019 (production ended) | **58** | 37 | 14 +7 sim |
+| [PlayStation Vita](catalogs/ps-vita.md) | Dec 2011 (JP) – Mar 2019 (production ended) | **59** | 37 | 14 +8 sim |
 | [Nintendo Wii U](catalogs/wii-u.md) | Nov 2012 – Jan 2017 (13.56M units sold) | **79** | 43 | 29 +7 sim |
-| [Sony PlayStation 4](catalogs/ps4.md) | Nov 2013 – 2021 (production wound down) | **28** | 21 | 3 +4 sim |
-| [Microsoft Xbox One](catalogs/xbox-one.md) | Nov 2013 – 2020 | **31** | 21 | 8 +2 sim |
-| [Nintendo Switch](catalogs/switch.md) | Mar 2017 – present (superseded by Switch 2, Jun 2025) | **47** | 41 | 5 +1 sim |
-| [Sony PlayStation 5](catalogs/ps5.md) | Nov 2020 – present | **17** | 12 | 0 +5 sim |
-| [Microsoft Xbox Series X|S](catalogs/xbox-series.md) | Nov 2020 – present | **10** | 5 | 4 +1 sim |
+| [Sony PlayStation 4](catalogs/ps4.md) | Nov 2013 – 2021 (production wound down) | **32** | 21 | 3 +8 sim |
+| [Microsoft Xbox One](catalogs/xbox-one.md) | Nov 2013 – 2020 | **32** | 22 | 7 +3 sim |
+| [Nintendo Switch](catalogs/switch.md) | Mar 2017 – present (superseded by Switch 2, Jun 2025) | **51** | 41 | 5 +5 sim |
+| [Sony PlayStation 5](catalogs/ps5.md) | Nov 2020 – present | **18** | 12 | 0 +6 sim |
+| [Microsoft Xbox Series X|S](catalogs/xbox-series.md) | Nov 2020 – present | **12** | 5 | 4 +3 sim |
 | [Panic Playdate](catalogs/playdate.md) | Apr 2022 – present | **6** | 5 | 1 |
 | [Nintendo Switch 2](catalogs/switch-2.md) | Jun 2025 – present | **9** | 6 | 0 +3 sim |
 
@@ -83,7 +83,7 @@ and portable games system with a commercial software library, from the Magnavox 
 (1972) to the Switch 2 (2025). See [ROSTER.md](ROSTER.md) for what is included,
 excluded and folded in, and why.
 
-**1,709 debut games. 1016 still stranded.**
+**1,731 debut games. 1017 still stranded.**
 
 
 **Hardware revisions are not platforms.** Game Boy Pocket/Light, GBA SP/Micro,

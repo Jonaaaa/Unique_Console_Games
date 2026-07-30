@@ -25,10 +25,10 @@ is `Ported` as normal.
 
 | | Count |
 |---|---|
-| **Debut games** | **34** |
+| **Debut games** | **35** |
 | — still `Stranded` | 21 |
 | — since `Ported` | 10 |
-| — `Sim-ship` | 3 |
+| — `Sim-ship` | 4 |
 | **Contested** | 1 |
 
 **Why the Xbox strands games.** Three causes, and the first is unique to Microsoft.
@@ -73,6 +73,7 @@ is `Ported` as normal.
 | Grabbed by the Ghoulies | 2003 | Rare | Microsoft | Beat 'em up | 1 | No | Ported | Xbox One, PC (2015, *Rare Replay*) | Rare's first game after the Microsoft acquisition. |
 | Otogi 2: Immortal Warriors | 2003 | FromSoftware | Sega | Action | 1–2 | No | **Stranded** | — | Sega-published FromSoftware, the same rights split that strands the first game. |
 | Project Gotham Racing 2 | 2003 | Bizarre Creations | Microsoft | Racing | 1–8 | Dead | **Stranded** | — | Licensed cars and a licensed radio soundtrack, and Bizarre Creations closed in 2011. |
+| Soulcalibur II | 2003 | Project Soul | Namco | Fighting | 1–2 | Dead | Sim-ship | GameCube, PS2 (2003, same day) | Also catalogued under [GameCube](gamecube.md) and [PS2](ps2.md). The Xbox build's exclusive guest was Spawn, licensed from Todd McFarlane — which is why this version specifically has never been reissued. |
 | Star Wars: Knights of the Old Republic | 2003 | BioWare | LucasArts | RPG | 1 | No | Ported | Switch, PS4/PS5, mobile (2003–22) | |
 | Breakdown | 2004 | Namco | Namco | FPS / action | 1 | No | **Stranded** | — | Entirely first-person including melee and cutscenes. |
 | Fable | 2004 | Big Blue Box / Lionhead | Microsoft | Action RPG | 1 | No | Ported | Xbox 360 (2008, *Anniversary* 2014), PC | |

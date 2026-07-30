@@ -42,8 +42,8 @@ even if someone wanted to. `Ported` count of **zero**.
 |---|---|---|---|---|---|---|---|---|---|
 | Crystball | 1992 | Watara | Watara | Puzzle | 1 | No | **Stranded** | — | A pack-in title. Watara commissioned its launch software without crediting developers, so there is no identifiable author or rights holder. |
 | Journey to the West | 1992 | Watara | Watara | Action-platformer | 1 | No | **Stranded** | — | Based on the classical Chinese novel — public domain, so the licence is not the barrier; the total absence of a rights holder is. |
-| Chimera | 1993 | Watara | Watara | Shoot 'em up | 1 | No | **Stranded** | — | One of the platform's better-regarded originals. |
 | Tennis Pro 92 | 1992 | Watara | Watara | Sports | 1–2 | No | **Stranded** | — | Supported link-cable two-player, unusual for a budget handheld of the era. |
+| Chimera | 1993 | Watara | Watara | Shoot 'em up | 1 | No | **Stranded** | — | One of the platform's better-regarded originals. |
 
 ## Contested
 

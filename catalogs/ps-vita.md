@@ -14,10 +14,10 @@
 
 | | Count |
 |---|---|
-| **Debut games** | **58** |
+| **Debut games** | **59** |
 | — still `Stranded` | 37 |
 | — since `Ported` | 14 |
-| — `Sim-ship` | 7 |
+| — `Sim-ship` | 8 |
 | **Contested** | 1 |
 
 **Why the Vita strands games.** The Wii U stranded games through hardware — the
@@ -76,6 +76,7 @@ Every game that debuted on this platform and launched nowhere else. `Status` rec
 | Hyperdimension Neptunia: Producing Perfection | 2013 | Idea Factory | Idea Factory | Idol sim | 1 | No | Stranded | — | Nearly every other Neptunia game reached Switch or PC; this one did not. |
 | Invizimals: The Alliance | 2013 | Novarama | SCE | AR collectathon | 1–2 | Dead | Stranded | — | Camera-based AR monster capture; the whole series is stranded on PSP/Vita. |
 | Killzone: Mercenary | 2013 | Guerrilla Cambridge | SCE | FPS | 1–8 | Dead (2018) | Stranded | — | Widely rated the best-looking Vita game. Guerrilla Cambridge was closed in 2017; the Killzone series has been dormant since. |
+| Sly Cooper: Thieves in Time | 2013 | Sanzaru Games | Sony | Platformer | 1 | No | Sim-ship | PS3 (2013, same day) | Also catalogued under [PS3](ps3.md). Cross-buy; the series has been dormant since. |
 | Soul Sacrifice | 2013 | SCE Japan Studio / Marvelous | SCE | Action RPG | 1–4 | Dead | Stranded | — | *Soul Sacrifice Delta* (2014) is a same-platform expanded re-release, so both remain Vita-only. |
 | Tearaway | 2013 | Media Molecule | SCE | Platformer | 1 | No | Ported | PS4 (2015, *Unfolded*) | ⚠ [Contested](#contested) — *Unfolded* rebuilds the game around a DualShock 4 because the original's controls were rear-pad-specific. |
 | The Legend of Heroes: Trails of Cold Steel | 2013 | Nihon Falcom | Falcom / XSEED | JRPG | 1 | No | Sim-ship | PS3 (2013, same day), PC (2017), PS4 (2019), Switch (2022) | |

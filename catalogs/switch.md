@@ -29,10 +29,10 @@ answer for a collector, but it is not the same kind of fact.
 
 | | Count |
 |---|---|
-| **Debut games** | **47** |
+| **Debut games** | **51** |
 | — still `Stranded` | 41 |
 | — since `Ported` | 5 |
-| — `Sim-ship` | 1 |
+| — `Sim-ship` | 5 |
 | **Contested** | 1 |
 
 **Why the Switch strands games.** Almost entirely **policy**. Nintendo owns its
@@ -76,6 +76,7 @@ Two narrower causes do real work, though:
 | Yoshi's Crafted World | 2019 | Good-Feel | Nintendo | Platformer | 1–2 | No | **Stranded** | — | Good-Feel developed it, but Nintendo owns Yoshi and does not license the character out. |
 | Animal Crossing: New Horizons | 2020 | Nintendo EPD | Nintendo | Life sim | 1–8 | Yes | **Stranded** | — | **47.86M — the best-selling game in this repo that is still stranded.** |
 | Hyrule Warriors: Age of Calamity | 2020 | Omega Force | Nintendo | Musou | 1–2 | No | **Stranded** | — | Unlike the Wii U *Hyrule Warriors*, this one has not moved. |
+| Minecraft Dungeons | 2020 | Mojang | Microsoft | Action RPG | 1–4 | Yes | Sim-ship | Xbox One, PS4, PC (2020, same day) | Also catalogued under [Xbox One](xbox-one.md) and [PS4](ps4.md). |
 | Paper Mario: The Origami King | 2020 | Intelligent Systems | Nintendo | Adventure | 1 | No | **Stranded** | — | Intelligent Systems is a Nintendo subsidiary — there is no third party who could port it. |
 | Super Mario 3D All-Stars | 2020 | Nintendo EPD | Nintendo | Compilation | 1 | No | **Stranded** | — | **Deliberately delisted.** Nintendo sold it for six months only and withdrew it in March 2021, so a compilation of three Mario games became unobtainable by design — the only entry in this repo made unavailable on purpose while the console was current. |
 | Bravely Default II | 2021 | Claytechworks | Square Enix / Nintendo | RPG | 1 | No | **Stranded** | — | No console release. PC version exists (PC (2021)) but PC is not a catalogued platform. |
@@ -101,6 +102,9 @@ Two narrower causes do real work, though:
 | Princess Peach: Showtime! | 2024 | Good-Feel | Nintendo | Action-adventure | 1 | No | **Stranded** | — | Good-Feel developed it; Nintendo owns the character and the publishing rights. |
 | Super Mario Party Jamboree | 2024 | Nd Cube | Nintendo | Party | 1–4 | Yes | Ported | Switch 2 (2025, *Switch 2 Edition*) | |
 | The Legend of Zelda: Echoes of Wisdom | 2024 | Grezzo | Nintendo | Action-adventure | 1 | No | **Stranded** | — | The first mainline Zelda with Zelda as the playable character. |
+| Metroid Prime 4: Beyond | 2025 | Retro Studios | Nintendo | Action-adventure | 1 | No | Sim-ship | Switch 2 (2025, same day) | Also catalogued under [Switch 2](switch-2.md). Announced in 2017 and restarted from scratch in 2019. |
+| Pokémon Legends: Z-A | 2025 | Game Freak | Nintendo | RPG | 1–4 | Yes | Sim-ship | Switch 2 (2025, same day) | Also catalogued under [Switch 2](switch-2.md). |
+| Super Mario Galaxy 1+2 | 2025 | Nintendo EPD | Nintendo | Compilation | 1–2 | No | Sim-ship | Switch 2 (2025, same day) | Also catalogued under [Switch 2](switch-2.md). Brought `Galaxy 2` off Wii after 15 years. |
 
 ## Contested
 

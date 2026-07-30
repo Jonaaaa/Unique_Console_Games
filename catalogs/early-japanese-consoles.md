@@ -43,12 +43,12 @@ an educational publisher. `Ported` count of **zero** across all three.
 
 | Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Notes |
 |---|---|---|---|---|---|---|---|---|---|
-| Missile Vader | 1979 | Bandai | Bandai | Shoot 'em up | 1 | No | **Stranded** | — | **Super Vision 8000.** A launch title for the first Japanese cartridge console with a CPU — four years before the Famicom. Bandai has never acknowledged the platform since. |
 | Beam Galaxian | 1979 | Bandai | Bandai | Shoot 'em up | 1 | No | **Stranded** | — | **Super Vision 8000.** An unlicensed Galaxian derivative, which adds a second bar to reissue. |
-| Pooyan | 1983 | Casio | Casio | Action | 1 | No | **Stranded** | — | **PV-1000.** A Konami arcade licence on a console Casio withdrew within weeks of release — the PV-1000 is among the shortest-lived commercial consoles ever sold. |
-| Dirty Chameleon | 1983 | Casio | Casio | Action | 1 | No | **Stranded** | — | **PV-1000.** A Casio original, and one of only thirteen games released before the platform was pulled. |
-| Space Panic | 1983 | Casio | Casio | Platformer | 1 | No | **Stranded** | — | **PV-1000.** A Universal arcade licence. |
+| Missile Vader | 1979 | Bandai | Bandai | Shoot 'em up | 1 | No | **Stranded** | — | **Super Vision 8000.** A launch title for the first Japanese cartridge console with a CPU — four years before the Famicom. Bandai has never acknowledged the platform since. |
 | Bomb Bee | 1983 | Gakken | Gakken | Action | 1 | No | **Stranded** | — | **TV Boy.** Gakken is an educational publisher that made one console; nothing from it has ever been reissued and its library is barely documented. |
+| Dirty Chameleon | 1983 | Casio | Casio | Action | 1 | No | **Stranded** | — | **PV-1000.** A Casio original, and one of only thirteen games released before the platform was pulled. |
+| Pooyan | 1983 | Casio | Casio | Action | 1 | No | **Stranded** | — | **PV-1000.** A Konami arcade licence on a console Casio withdrew within weeks of release — the PV-1000 is among the shortest-lived commercial consoles ever sold. |
+| Space Panic | 1983 | Casio | Casio | Platformer | 1 | No | **Stranded** | — | **PV-1000.** A Universal arcade licence. |
 
 ## Contested
 

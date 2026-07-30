@@ -26,9 +26,9 @@ state and `Ported` is the exception.
 
 | | Count |
 |---|---|
-| **Debut games** | **63** |
+| **Debut games** | **67** |
 | — still `Stranded` | 28 |
-| — since `Ported` | 32 |
+| — since `Ported` | 33 |
 | **Contested** | 2 |
 
 **Why the PS2 strands games.** Licensed music becomes the dominant cause for the
@@ -70,6 +70,7 @@ Three more causes:
 | Shadow Hearts | 2001 | Sacnoth | Aruze / Midway | RPG | 1 | No | **Stranded** | — | Sacnoth became Nautilus and dissolved; Aruze exited games. The whole trilogy has no clear rights holder and none of it has ever been reissued. |
 | Silent Hill 2 | 2001 | Team Silent | Konami | Survival horror | 1 | No | Ported | Xbox, PC, *HD Collection*; PS5/PC (2024 remake) | |
 | Clock Tower 3 | 2002 | Capcom / Sunsoft | Capcom | Survival horror | 1 | No | **Stranded** | — | Directed by Kinji Fukasaku, who died shortly after — a director credit that complicates reissue. |
+| Final Fantasy XI | 2002 | Square | Square Enix | MMORPG | 1–?? | Dead (2016) | Ported | PC (2002, same day); Xbox 360 (2006) | Square's first MMO. The PC version launched the same day, and under the PC rule that still makes this a PS2 debut. Its PS2 and Xbox 360 service ended in 2016; the game survives on PC only, so the console versions are gone. |
 | Grand Theft Auto: Vice City | 2002 | Rockstar North | Rockstar | Open-world action | 1 | No | Ported | PC, Xbox, mobile, *Definitive Edition* (2021) | Its licensed radio soundtrack was partially cut from later re-releases. |
 | Kingdom Hearts | 2002 | Square | Square / Disney | Action RPG | 1 | No | Ported | PS3, PS4, Xbox, Switch, PC (*HD 1.5 ReMIX* onward) | |
 | Ratchet & Clank | 2002 | Insomniac | Sony | Platformer | 1 | No | Ported | PS3 (2012, *HD*), PS4 (2016 reimagining) | |
@@ -88,6 +89,7 @@ Three more causes:
 | Shin Megami Tensei III: Nocturne | 2003 | Atlus | Atlus | RPG | 1 | No | Ported | Switch, PS4, PC (2021, *HD Remaster*) | |
 | Silent Hill 3 | 2003 | Team Silent | Konami | Survival horror | 1 | No | Ported | PC, *HD Collection* (2012) | |
 | Siren | 2003 | SCE Japan Studio | Sony | Survival horror | 1 | No | **Stranded** | — | Keiichiro Toyama's follow-up to `Silent Hill`. Its "sightjacking" mechanic has never been revisited. |
+| Soulcalibur II | 2003 | Project Soul | Namco | Fighting | 1–2 | Dead | Sim-ship | GameCube, Xbox (2003, same day) | Also catalogued under [GameCube](gamecube.md) and [Xbox](xbox.md). Each version had an exclusive guest character; the PS2 build's was Heihachi. |
 | SSX 3 | 2003 | EA Canada | EA | Snowboarding | 1–2 | No | **Stranded** | — | Licensed soundtrack; EA has never revisited it. |
 | Burnout 3: Takedown | 2004 | Criterion | EA | Racing | 1–2 | No | **Stranded** | — | Widely considered the best arcade racer ever made, and completely unavailable. Licensed soundtrack plus EA's disinterest in the series. |
 | Champions of Norrath | 2004 | Snowblind | Sony Online | Action RPG | 1–4 | No | **Stranded** | — | Snowblind's engine games are split across publishers, which has kept them locked. |
@@ -103,6 +105,7 @@ Three more causes:
 | Guitar Hero | 2005 | Harmonix | RedOctane | Rhythm | 1–2 | No | **Stranded** | — | Requires the guitar controller **and** carries a fully licensed tracklist. Two independent walls. |
 | Haunting Ground | 2005 | Capcom | Capcom | Survival horror | 1 | No | **Stranded** | — | PAL: *Demento*. Capcom has reissued nearly every other horror game it owns; this one has never been touched, and discs command high prices. |
 | Killer7 | 2005 | Grasshopper Manufacture | Capcom | Action-adventure | 1 | No | Sim-ship | GameCube (2005, same day), PC (2018) | Also catalogued under [GameCube](gamecube.md). |
+| Psychonauts | 2005 | Double Fine | Majesco | Platformer | 1 | No | Sim-ship | Xbox, PC (2005, same day) | Also catalogued under [Xbox](xbox.md). Double Fine's debut; later ported nearly everywhere. |
 | Shadow of Rome | 2005 | Capcom | Capcom | Action / stealth | 1 | No | **Stranded** | — | A one-off Capcom historical action game with no sequel and no collection to join. |
 | Shadow of the Colossus | 2005 | Team Ico | Sony | Action-adventure | 1 | No | Ported | PS3 (2011, *HD*), PS4 (2018 remake) | |
 | Steambot Chronicles | 2005 | Irem | Atlus | Action RPG | 1 | No | **Stranded** | — | Irem exited console development in 2011. |
@@ -116,6 +119,7 @@ Three more causes:
 | Odin Sphere | 2007 | Vanillaware | Atlus | Action RPG | 1 | No | Ported | PS4, PS3, Vita (2016, *Leifthrasir*) | |
 | Rogue Galaxy | 2007 | Level-5 | Sony | Action RPG | 1 | No | Ported | PS4 (2018) | |
 | Persona 4 | 2008 | Atlus | Atlus | RPG | 1 | No | Ported | Vita (2012, *Golden*), PC, PS4, Switch, Xbox | |
+| Jak and Daxter: The Lost Frontier | 2009 | High Impact Games | Sony | Platformer | 1 | No | Sim-ship | PSP (2009, same day) | Also catalogued under [PSP](psp.md). The last new Jak game. |
 
 ## Contested
 
@@ -136,7 +140,6 @@ Three more causes:
 | Tales of Symphonia (PS2) | 2004 | Port of the 2003 GameCube game. |
 | Rez | 2002 | Dreamcast original (2001). |
 | Grandia II, Skies of Arcadia, Sonic Adventure 2 (PS2/GC ports) | 2002–03 | Dreamcast originals. |
-| Final Fantasy XI | 2002 | Simultaneous PC + PS2, and an MMO whose servers define it. |
 | Guitar Hero II onward | 2006– | Sequels rather than debuts; also multiplatform. |
 | Any PS2 Classics / PS Plus Premium release | — | Re-releases by definition. |
 | *(games with an earlier arcade release)* | — | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on another home platform still disqualifies. |

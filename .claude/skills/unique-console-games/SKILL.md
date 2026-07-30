@@ -97,6 +97,12 @@ descriptive; it never affects membership.
 | **Ported** | Released elsewhere **later**. Fill `Also On` with platform + year. |
 | **Sim-ship** | Launched the same day on other platforms. Fill `Also On` with the co-launch platforms. The entry appears in each of those platforms' catalogues too. |
 
+**`Sim-ship` outranks `Ported`.** A game can do both — launch same-day on two consoles
+and *then* reach a third years later. `Forza Horizon 5` sim-shipped on Xbox One and
+Series X/S in 2021 and reached PS5 in 2025. Keep the status as `Sim-ship`, because that
+is the fact about its *debut*, and list the later platforms in `Also On` alongside the
+co-launch ones. Using `Ported` would hide that it had two debut platforms.
+
 Status decays in one direction: `Stranded` → `Ported`, never back. When a port is
 announced, change the status and fill `Also On`. **Never delete the row** — the
 debut is a permanent historical fact.

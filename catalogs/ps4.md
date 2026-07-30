@@ -25,10 +25,10 @@ Those are `Sim-ship` entries appearing in **both** files, not PS4-only debuts.
 
 | | Count |
 |---|---|
-| **Debut games** | **28** |
+| **Debut games** | **32** |
 | — still `Stranded` | 21 |
 | — since `Ported` | 3 |
-| — `Sim-ship` | 4 |
+| — `Sim-ship` | 8 |
 | **Contested** | 1 |
 
 **Why the PS4 strands games.** Almost entirely **policy**, like the Switch — Sony
@@ -56,6 +56,7 @@ Two narrower causes do real work:
 | Uncharted: The Nathan Drake Collection | 2015 | Bluepoint Games | Sony | Compilation | 1 | No | **Stranded** | — | The three PS3 Uncharted games rebuilt for PS4. Notably omits `Golden Abyss`, which remains stranded on [PS Vita](ps-vita.md). |
 | Until Dawn | 2015 | Supermassive | Sony | Interactive horror | 1 | No | Ported | PS5, PC (2024 remake) | The remake is a rebuild rather than a port of this build. |
 | Dragon Quest Builders | 2016 | Square Enix | Square Enix | Sandbox | 1 | No | Sim-ship | PS Vita (2016, same day); Switch (2018) | Also catalogued under [PS Vita](ps-vita.md). |
+| Persona 5 | 2016 | Atlus | Atlus | JRPG | 1 | No | Sim-ship | PS3 (2016, same day) | Also catalogued under [PS3](ps3.md). *Royal* (2019) is an expanded re-release that later reached PC, Switch and Xbox. |
 | Ratchet & Clank | 2016 | Insomniac | Sony | Platformer | 1 | No | **Stranded** | — | A reimagining of the 2002 PS2 game rather than a remaster, so it counts as its own debut. Never ported. |
 | The Last Guardian | 2016 | SCE Japan Studio / genDESIGN | Sony | Puzzle-adventure | 1 | No | **Stranded** | — | Fumito Ueda's follow-up to `Ico` and `Shadow of the Colossus` — both of which were remastered and ported repeatedly. This one has not been. |
 | Uncharted 4: A Thief's End | 2016 | Naughty Dog | Sony | Action-adventure | 1–10 | Dead (2019) | Ported | PS5, PC (2022, *Legacy of Thieves Collection*) | |
@@ -74,9 +75,12 @@ Two narrower causes do real work:
 | Dreams | 2020 | Media Molecule | Sony | Creation | 1–4 | **Dead (2024)** | **Stranded** | — | A game-creation platform whose entire value was the community. Sony ended live support in 2024, and Media Molecule was restructured. Millions of user creations exist only inside a service in wind-down — the same shape as `LittleBigPlanet` one generation earlier. |
 | Ghost of Tsushima | 2020 | Sucker Punch | Sony | Action-adventure | 1–3 | Yes | **Stranded** | — | PC in 2024 and a PS5 director's cut; no other console. |
 | Marvel's Spider-Man: Miles Morales | 2020 | Insomniac | Sony | Action-adventure | 1 | No | Sim-ship | PS5 (2020, same day); PC (2022) | Cross-gen launch — also catalogued under [PS5](ps5.md). |
+| Minecraft Dungeons | 2020 | Mojang | Microsoft | Action RPG | 1–4 | Yes | Sim-ship | Xbox One, Switch, PC (2020, same day) | Also catalogued under [Xbox One](xbox-one.md) and [Switch](switch.md). |
 | Sackboy: A Big Adventure | 2020 | Sumo Digital | Sony | Platformer | 1–4 | Dead | Sim-ship | PS5 (2020, same day); PC (2022) | Also catalogued under [PS5](ps5.md). |
 | The Last of Us Part II | 2020 | Naughty Dog | Sony | Action-adventure | 1 | No | **Stranded** | — | A PS5 remaster (2024) and PC (2025), both within the family or off-console. |
+| God of War Ragnarök | 2022 | SCE Santa Monica | Sony | Action-adventure | 1 | No | Sim-ship | PS5 (2022, same day); PC (2024) | Also catalogued under [PS5](ps5.md). |
 | Gran Turismo 7 | 2022 | Polyphony Digital | Sony | Racing | 1–20 | Yes | Sim-ship | PS5 (2022, same day) | Also catalogued under [PS5](ps5.md). The last major cross-gen PS4 release. |
+| Horizon Forbidden West | 2022 | Guerrilla Games | Sony | Action RPG | 1 | No | Sim-ship | PS5 (2022, same day); PC (2024) | Also catalogued under [PS5](ps5.md). |
 
 ## Contested
 
@@ -92,7 +96,6 @@ Two narrower causes do real work:
 | Journey, Flower, flOw (PS4) | 2015–16 | PS3 originals — see [PS3](ps3.md). |
 | Shadow of the Colossus (2018) | 2018 | Remake of the 2005 PS2 game. |
 | Demon's Souls (2020) | 2020 | A PS5 remake of the 2009 PS3 game — see [PS5](ps5.md). |
-| Persona 5 | 2016 | Simultaneous PS3 + PS4 in Japan; the PS3 build is the older platform. |
 | Horizon Forbidden West, Ghost of Tsushima Director's Cut | 2021–22 | Cross-gen releases where PS5 is the lead platform — see [PS5](ps5.md). |
 | Bloodborne: The Old Hunters | 2015 | Same-platform expansion. |
 | *(games with a later or day-one PC port)* | — | **Not `Ported`.** PC is not a catalogued platform — the game stays `Stranded` with the PC release noted. |

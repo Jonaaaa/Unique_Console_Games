@@ -14,10 +14,10 @@
 
 | | Count |
 |---|---|
-| **Debut games** | **44** |
+| **Debut games** | **45** |
 | — still `Stranded` | 22 |
 | — since `Ported` | 20 |
-| — `Sim-ship` | 2 |
+| — `Sim-ship` | 3 |
 | **Contested** | 1 |
 
 **Why the Xbox 360 strands games.** Four causes, and two of them are new to this
@@ -75,7 +75,7 @@ repo.
 | Halo: Reach | 2010 | Bungie | Microsoft | FPS | 1–16 | Dead (2021) | Ported | Xbox One, PC (2019, *MCC*) | Bungie's last Halo. |
 | Kinect Adventures! | 2010 | Good Science Studio | Microsoft | Party | 1–4 | Dead | **Stranded** | — | **24M copies** — bundled with every Kinect. Requires a depth camera Microsoft discontinued in 2017. By sales, one of the largest permanently unportable games ever made. |
 | Kinect Sports | 2010 | Rare | Microsoft | Sports | 1–4 | Dead | **Stranded** | — | Rare's Kinect era. Excluded from *Rare Replay* for the obvious reason. |
-| Nier | 2010 | Cavia | Square Enix | Action RPG | 1 | No | Sim-ship | PS3 (2010, same day) | Also catalogued under [PS3](ps3.md). |
+| NieR | 2010 | Cavia | Square Enix | Action RPG | 1 | No | Sim-ship | PS3 (2010, same day) | Also catalogued under [PS3](ps3.md). |
 | Red Dead Redemption | 2010 | Rockstar San Diego | Rockstar | Open-world action | 1–16 | Dead | Sim-ship | PS3 (2010, same day); Switch, PS4 (2023) | Also catalogued under [PS3](ps3.md). |
 | Bastion | 2011 | Supergiant | Warner Bros. | Action RPG | 1 | No | Ported | PS4, Switch, PC, iOS (2011–18) | Supergiant's debut, an XBLA timed exclusive. |
 | Forza Motorsport 4 | 2011 | Turn 10 | Microsoft | Racing | 1–16 | Dead | **Stranded** | — | **Delisted in 2016** as car licences expired. Every 360 Forza game has been pulled the same way — a game removed from sale while its console was still current. |
@@ -86,6 +86,7 @@ repo.
 | Halo 4 | 2012 | 343 Industries | Microsoft | FPS | 1–16 | Dead (2021) | Ported | Xbox One, PC (2014–20, *MCC*) | |
 | Mark of the Ninja | 2012 | Klei | Microsoft | Stealth | 1 | No | Ported | Switch, PS4, PC (2013–18, *Remastered*) | |
 | Trials Evolution | 2012 | RedLynx | Microsoft | Racing / platformer | 1–4 | Dead | **Stranded** | — | Digital-only; delisted, and the Marketplace has since closed. |
+| Rayman Legends | 2013 | Ubisoft Montpellier | Ubisoft | Platformer | 1–5 | No | Sim-ship | Wii U, PS3, PC (2013, same day); PS4/XB1 (2014), Switch (2017) | Also catalogued under [Wii U](wii-u.md) and [PS3](ps3.md). |
 
 ## Contested
 
