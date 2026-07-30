@@ -8,9 +8,7 @@
 | **Library size** | ~680 HuCard titles, ~450 CD-ROM² titles. **Roughly 85% Japan-only.** |
 | **Backward compat** | None outward. |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | Western releases and marquee Japanese titles verified individually. The Japan-only CD library is by far the largest uncatalogued block here. |
-
-## ⚠ Rights context
+| **Coverage** | Western releases and marquee Japanese titles verified individually. The Japan-only CD library is the largest uncatalogued block here. | ## ⚠ Rights context
 
 Hudson Soft was the platform's driving force and was **absorbed into Konami in
 2012**. NEC's hardware business is gone. So the catalogue's rights now sit mostly
@@ -28,19 +26,16 @@ CD-ROM² catalogue — with no re-release of any kind.
 | **Debut games** | **29** |
 | — still `Stranded` | 9 |
 | — since `Ported` | 20 |
-| **Contested** | 1 |
-
-**Why the TurboGrafx strands games.** Two causes, and the second is the largest
-single localisation gap in this repo.
+| **Contested** | 1 | **Why the TurboGrafx strands games.** Two causes.
 
 1. **The CD add-ons fragmented the library.** CD-ROM², Super CD-ROM² and the
-   Arcade Card each required different hardware, and late Arcade Card titles ran on
-   a tiny installed base. `Sapphire` — an Arcade Card exclusive — had a print run
-   small enough that original discs trade in the thousands.
+ Arcade Card each required different hardware, and late Arcade Card titles ran on
+ a tiny installed base. `Sapphire` — an Arcade Card exclusive — had a print run
+ small enough that original discs trade in the thousands.
 2. **Japan won and the West lost.** The PC Engine was Japan's number-two console and
-   a commercial failure in North America, so its deepest catalogue — the
-   `Tengai Makyou` RPGs, the CD shmups, the visual novels — was never localised and
-   has no Western rights history to build a reissue on.
+ a commercial failure in North America, so its deepest catalogue — the
+ `Tengai Makyou` RPGs, the CD shmups, the visual novels — was never localised and
+ has no Western rights history to build a reissue on.
 
 ---
 
@@ -54,37 +49,33 @@ single localisation gap in this repo.
 | Dungeon Explorer | 1989 | Atlus | Hudson Soft | Action RPG | 1–5 | No | Ported | Wii Virtual Console, TurboGrafx-16 Mini | **Five-player co-op** via the TurboTap multitap — unusual for 1989 and the reason it is remembered. |
 | Keith Courage in Alpha Zones | 1989 | Alfa System | NEC | Action-platformer | 1 | No | Ported | TurboGrafx-16 Mini (2020) | The North American pack-in, and widely blamed for the platform's US launch reception. |
 | Military Madness | 1989 | Hudson Soft | NEC | Turn-based strategy | 1–2 | No | Ported | Wii Virtual Console, TurboGrafx-16 Mini | JP: *Nectaris*. |
-| Neutopia | 1989 | Hudson Soft | Hudson Soft | Action-adventure | 1 | No | Ported | Wii Virtual Console, TurboGrafx-16 Mini | An unusually direct Zelda homage. |
+| Neutopia | 1989 | Hudson Soft | Hudson Soft | Action-adventure | 1 | No | Ported | Wii Virtual Console, TurboGrafx-16 Mini | An direct Zelda homage. |
 | The Legendary Axe | 1989 | Victor Musical Industries | NEC | Action-platformer | 1 | No | Ported | TurboGrafx-16 Mini (2020) | |
 | Ys Book I & II | 1989 | Alfa System | NEC / Hudson | Compilation | 1 | No | Ported | Many later Ys collections and remasters | **CD-ROM².** A landmark release — the first console game with Redbook CD audio and full voice acting. The compilation debuted here; the two PC-8801 games inside it did not. |
 | Devil's Crush | 1990 | Compile | Naxat Soft | Pinball | 1 | No | Ported | Wii Virtual Console, TurboGrafx-16 Mini | The `Alien Crush` follow-up, and the better-regarded of the two. |
 | Splatterhouse | 1990 | Namco | Namco | Beat 'em up | 1 | No | Ported | Wii Virtual Console | The first home version of the 1988 cabinet, with the gore intact where the Genesis version was censored. |
-| 1941: Counter Attack | 1991 | Capcom / Hudson | NEC Avenue | Shoot 'em up | 1 | No | **Stranded** | — | **Super CD-ROM².** The home conversion has never been reissued; Capcom's collections use the arcade builds instead. |
+| 1941: Counter Attack | 1991 | Capcom / Hudson | NEC Avenue | Shoot 'em up | 1 | No | **Stranded** | | **Super CD-ROM².** The home conversion has never been reissued; Capcom's collections use the arcade builds instead. |
 | Bonk's Revenge | 1991 | Red Company | Hudson Soft | Platformer | 1 | No | Ported | Wii Virtual Console, TurboGrafx-16 Mini | |
-| Coryoon | 1991 | Naxat Soft | Naxat Soft | Shoot 'em up | 1 | No | **Stranded** | — | Japan-only. Naxat's assets passed through several holders, leaving no clear owner. |
-| Magical Chase | 1991 | Palsoft | Palsoft | Shoot 'em up | 1 | No | **Stranded** | — | A cute-em-up with a **North American print run in the low hundreds**. Original carts regularly exceed $2,000, making it one of the most expensive games in this repo. Palsoft is long gone. |
+| Coryoon | 1991 | Naxat Soft | Naxat Soft | Shoot 'em up | 1 | No | **Stranded** | | Japan-only. Naxat's assets passed through several holders, leaving no clear owner. |
+| Magical Chase | 1991 | Palsoft | Palsoft | Shoot 'em up | 1 | No | **Stranded** | | A cute-em-up with a **North American print run in the low hundreds**. Original carts regularly exceed $2,000, putting it among the most expensive commercially sold cartridges. Palsoft is long gone. |
 | Neutopia II | 1991 | Hudson Soft | Hudson Soft | Action-adventure | 1 | No | Ported | Wii Virtual Console | |
 | Air Zonk | 1992 | Red Company | Hudson Soft | Shoot 'em up | 1 | No | Ported | Wii Virtual Console, TurboGrafx-16 Mini | A cyberpunk Bonk spin-off. |
-| Cosmic Fantasy 2 | 1992 | Laser Soft | Working Designs | RPG | 1 | No | **Stranded** | — | **CD-ROM².** One of the few Japanese PC Engine RPGs that *was* localised, by Working Designs — which dissolved in 2005, leaving the translation orphaned. |
+| Cosmic Fantasy 2 | 1992 | Laser Soft | Working Designs | RPG | 1 | No | **Stranded** | | **CD-ROM².** One of the few Japanese PC Engine RPGs that *was* localised, by Working Designs — which dissolved in 2005, leaving the translation orphaned. |
 | Gate of Thunder | 1992 | Red Company | Hudson Soft | Shoot 'em up | 1 | No | Ported | Wii Virtual Console, TurboGrafx-16 Mini | **Super CD-ROM².** Bundled with the TurboDuo and often cited as the platform's best shmup. |
 | Soldier Blade | 1992 | Hudson Soft | Hudson Soft | Shoot 'em up | 1 | No | Ported | Wii Virtual Console, TurboGrafx-16 Mini | |
 | Star Parodier | 1992 | Hudson Soft | Hudson Soft | Shoot 'em up | 1 | No | Ported | Wii Virtual Console, PC Engine mini | **Super CD-ROM².** A self-parody of Hudson's own *Star Soldier*. |
-| Tengai Makyou II: Manjimaru | 1992 | Red Company | Hudson Soft | RPG | 1 | No | **Stranded** | — | **Super CD-ROM².** A 30-hour voiced RPG, one of the largest games of its generation, and **never localised**. The whole `Tengai Makyou` line is stranded — the deepest single hole in the platform's catalogue. |
+| Tengai Makyou II: Manjimaru | 1992 | Red Company | Hudson Soft | RPG | 1 | No | **Stranded** | | **Super CD-ROM².** A 30-hour voiced RPG, one of the largest games of its generation, and **never localised**. The whole `Tengai Makyou` line is stranded — the deepest single hole in the platform's catalogue. |
 | Bomberman '94 | 1993 | Hudson Soft | Hudson Soft | Action | 1–5 | No | Ported | Wii Virtual Console, PC Engine mini | Five-player via multitap. |
 | Castlevania: Rondo of Blood | 1993 | Konami | Konami | Action-platformer | 1 | No | Ported | PSP (2007, in *The Dracula X Chronicles*), *Castlevania Requiem* (PS4, 2018) | **Super CD-ROM².** Japan-only for 14 years; now among the best-served games on the platform because Konami owns it outright. |
 | Lords of Thunder | 1993 | Red Company | Hudson Soft | Shoot 'em up | 1 | No | Ported | Wii Virtual Console, TurboGrafx-16 Mini | **Super CD-ROM².** Its Redbook heavy-metal soundtrack is the draw and survived the reissues intact. |
-| Riot Zone | 1993 | Westone | Hudson Soft | Beat 'em up | 1–2 | No | **Stranded** | — | **CD-ROM².** A localisation of Westone's *Crest of Wolf*; Westone went bankrupt in 2014. |
-| Sylphia | 1993 | Compile | Tonkin House | Shoot 'em up | 1 | No | **Stranded** | — | **CD-ROM².** Compile went bankrupt in 1998 and its non-Puyo catalogue has never been reassembled. |
-| Dynastic Hero | 1994 | Westone | NEC | Action-adventure | 1 | No | **Stranded** | — | **Super CD-ROM².** A reskin of `Wonder Boy in Monster World` with insect characters, made to sidestep the Sega-associated branding. Two rights holders and a defunct developer. |
-| Sapphire | 1995 | Hudson Soft | Hudson Soft | Shoot 'em up | 1 | No | **Stranded** | — | **Arcade Card exclusive** — it needs both a Super CD-ROM² drive *and* the Arcade Card expansion, sold to a tiny installed base in 1995. Original discs trade in the thousands and it has never been reissued in any form. The most hardware-gated game in this repo. |
-
-## Contested
+| Riot Zone | 1993 | Westone | Hudson Soft | Beat 'em up | 1–2 | No | **Stranded** | | **CD-ROM².** A localisation of Westone's *Crest of Wolf*; Westone went bankrupt in 2014. |
+| Sylphia | 1993 | Compile | Tonkin House | Shoot 'em up | 1 | No | **Stranded** | | **CD-ROM².** Compile went bankrupt in 1998 and its non-Puyo catalogue has never been reassembled. |
+| Dynastic Hero | 1994 | Westone | NEC | Action-adventure | 1 | No | **Stranded** | | **Super CD-ROM².** A reskin of `Wonder Boy in Monster World` with insect characters, made to sidestep the Sega-associated branding. Two rights holders and a defunct developer. |
+| Sapphire | 1995 | Hudson Soft | Hudson Soft | Shoot 'em up | 1 | No | **Stranded** | | **Arcade Card exclusive** — it needs both a Super CD-ROM² drive *and* the Arcade Card expansion, sold to a tiny installed base in 1995. Original discs trade in the thousands and it has never been reissued in any form. The most hardware-gated release on the platform. | ## Contested
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| Splatterhouse | 1990 | **Include** (`Ported`) | Under the arcade rule the first *home* release is the debut, and the TurboGrafx build came before the Genesis one. | The Genesis `Splatterhouse 2` and `3` are separate games, and some sources treat the TG16 version as a straight conversion rather than a distinct product. |
-
-## Excluded
+| Splatterhouse | 1990 | **Include** (`Ported`) | Under the arcade rule the first *home* release is the debut, and the TurboGrafx build came before the Genesis one. | The Genesis `Splatterhouse 2` and `3` are separate games, and some sources treat the TG16 version as a straight conversion rather than a distinct product. | ## Excluded
 
 | Title | Year | Why excluded |
 |---|---|---|
@@ -94,31 +85,29 @@ single localisation gap in this repo.
 | Street Fighter II': Champion Edition | 1993 | The SNES version reached home first. |
 | Valis II / III | 1989–92 | PC-8801 and X68000 originals. |
 | Dracula X / Ginga Fukei Densetsu Sapphire | 1993–95 | Japanese titles of games already listed above — duplicate entries, not separate games. |
-| Any Virtual Console / TurboGrafx-16 Mini release | — | Re-releases by definition. |
-| *(games with an earlier arcade release)* | — | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on another home platform still disqualifies. |
-
-## Appendix — the tails
+| Any Virtual Console / TurboGrafx-16 Mini release | | Re-releases by definition. |
+| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on another home platform still disqualifies. | ## Appendix — the tails
 
 - **Japan-only CD-ROM² and Super CD-ROM² (~400 titles).** The largest uncatalogued
-  block on this platform and one of the largest in the repo. Includes the
-  `Tengai Makyou` RPGs, a deep shmup catalogue (`Sylphia`, `Spriggan`, `Rayxanber`),
-  and a very large visual-novel and dating-sim tail. Almost entirely stranded: no
-  localisation, no Western rights history, and Konami has shown no interest.
+ block on this platform and one of the largest in the repo. Includes the
+ `Tengai Makyou` RPGs, a deep shmup catalogue (`Sylphia`, `Spriggan`, `Rayxanber`),
+ and a very large visual-novel and dating-sim tail. Almost entirely stranded: no
+ localisation, no Western rights history, and Konami has shown no interest.
 - **SuperGrafx (5 titles).** `Ghouls 'n Ghosts`, `1941`, `Madō King Granzort`,
-  `Aldynes` and `Battle Ace` used enhanced hardware sold in tiny numbers.
-  `Aldynes` and `Battle Ace` are SuperGrafx-only and effectively unreissuable.
+ `Aldynes` and `Battle Ace` used enhanced hardware sold in tiny numbers.
+ `Aldynes` and `Battle Ace` are SuperGrafx-only and effectively unreissuable.
 - **Arcade Card titles (~20).** A late expansion for an already-niche CD add-on.
-  `Sapphire` is the famous case; the rest are mostly Japan-only fighting-game ports.
+ `Sapphire` is the famous case; the rest are mostly Japan-only fighting-game ports.
 - **HuCard licensed and sports titles (~150).** Standard for the era and stranded
-  for standard reasons.
+ for standard reasons.
 
 ## Coverage gaps
 
 - The Japan-only CD library dominates the platform and is characterised rather than
-  enumerated — this file covers the Western-released layer plus marquee imports.
+ enumerated — this file covers the Western-released layer plus marquee imports.
 - SuperGrafx and Arcade Card titles are noted in the appendix, not tabled.
 - Konami's reissue programme has been dormant since the 2020 mini consoles;
-  `Ported` is unlikely to grow much here.
+ `Ported` is unlikely to grow much here.
 
 ## Sources
 

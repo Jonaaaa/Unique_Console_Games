@@ -29,45 +29,43 @@ Disqualified:
 |---|---|
 | **Port** — same game, later platform | `Bayonetta` on Wii U (Xbox 360/PS3, 2009) |
 | **Remaster / HD edition** | `The Wind Waker HD` — the game is a 2002 GameCube release |
-| **Remake**, however substantial | `Metroid: Samus Returns` remakes *Metroid II* (1991); `Pokémon Omega Ruby` remakes *Ruby* (2002) |
-
-Not disqualified:
+| **Remake**, however substantial | `Metroid: Samus Returns` remakes *Metroid II* (1991); `Pokémon Omega Ruby` remakes *Ruby* (2002) | Not disqualified:
 
 - **Compilations.** A compilation is a **new product** and debuts on the platform where
-  that product first shipped. `Super Mario All-Stars` is an SNES debut; the NES games
-  inside it keep their own separate NES entries. Judge the compilation on its own
-  first-release date, not its contents'.
+ that product first shipped. `Super Mario All-Stars` is an SNES debut; the NES games
+ inside it keep their own separate NES entries. Judge the compilation on its own
+ first-release date, not its contents'.
 
-  This cuts both ways and both directions are already in use:
-  - A compilation is itself catalogued as a debut where it first shipped.
-  - A compilation is **also** a re-release vehicle for its contents — being folded
-    into `WipEout Omega Collection` is what makes `WipEout 2048` `Ported`.
+ This cuts both ways and both directions are already in use:
+ - A compilation is itself catalogued as a debut where it first shipped.
+ - A compilation is **also** a re-release vehicle for its contents — being folded
+ into `WipEout Omega Collection` is what makes `WipEout 2048` `Ported`.
 
-  Both statements are true at once and neither overrides the other.
+ Both statements are true at once and neither overrides the other.
 
 - **A prior arcade release.** Arcades are **out of scope** — a cabinet is not a
-  device anyone collects and plays at home, so an arcade original is invisible to
-  this catalogue. `Street Fighter II` counts as an SNES debut; `Pokkén Tournament`
-  counts as a Wii U debut. **But a prior release on another *home* platform still
-  disqualifies**: NES `Donkey Kong` is excluded because the Atari 2600 and
-  ColecoVision had it in 1982, not because of the 1981 cabinet.
+ device anyone collects and plays at home, so an arcade original is invisible to
+ this catalogue. `Street Fighter II` counts as an SNES debut; `Pokkén Tournament`
+ counts as a Wii U debut. **But a prior release on another *home* platform still
+ disqualifies**: NES `Donkey Kong` is excluded because the Atari 2600 and
+ ColecoVision had it in 1982, not because of the 1981 cabinet.
 - **Simultaneous multiplatform launches.** A same-day release counts as a debut on
-  **every** platform it launched on. `Breath of the Wild` appears in both the Wii U
-  and Switch catalogues. Mark it `Sim-ship` and list the co-launch platforms in
-  `Also On` — a collector needs to know either machine will do.
+ **every** platform it launched on. `Breath of the Wild` appears in both the Wii U
+ and Switch catalogues. Mark it `Sim-ship` and list the co-launch platforms in
+ `Also On` — a collector needs to know either machine will do.
 
-  **Never pick a "canonical" platform for a sim-ship.** It is tempting to table the
-  game once and write "catalogued under X" in the other platform's Excluded section.
-  Do not do this. There is no lead platform for a same-day release, and a collector
-  browsing the PS2 file needs to see `Killer7` there — not a pointer to the GameCube
-  file. Duplication across catalogues is correct and intended for these entries.
+ **Never pick a "canonical" platform for a sim-ship.** It is tempting to table the
+ game once and write "catalogued under X" in the other platform's Excluded section.
+ Do not do this. There is no lead platform for a same-day release, and a collector
+ browsing the PS2 file needs to see `Killer7` there — not a pointer to the GameCube
+ file. Duplication across catalogues is correct and intended for these entries.
 
-  This applies however many platforms are involved. `Mortal Kombat` (1993) launched
-  the same day on SNES, Genesis, Game Gear and Master System, so it belongs in all
-  four files.
+ This applies however many platforms are involved. `Mortal Kombat` (1993) launched
+ the same day on SNES, Genesis, Game Gear and Master System, so it belongs in all
+ four files.
 - **Sequels and spin-offs.** `Splatoon 2` is a new game. Splatoon's status is untouched.
 - **Later ports of any kind.** `Mario Kart 8` reaching Switch in 2017 does not
-  remove it — it debuted on Wii U and stays in the Wii U catalogue forever.
+ remove it — it debuted on Wii U and stays in the Wii U catalogue forever.
 - **Enhanced editions on the same platform.** `Soul Sacrifice Delta` (Vita).
 - **Staggered regional releases.** Use the earliest date worldwide as the debut.
 
@@ -81,9 +79,7 @@ This distinction does most of the filtering work:
 | `Breath of the Wild` | 3 Mar 2017 | Switch, 3 Mar 2017 | **Sim-ship** — in both catalogues |
 | `Assassin's Creed III` | 18 Nov 2012 | PS3/360, 30 Oct 2012 | **Excluded** — Wii U got a later port |
 | `Call of Duty: Black Ops II` | 18 Nov 2012 | PS3/360, 13 Nov 2012 | **Excluded** — later port |
-| `Mass Effect 3` | 18 Nov 2012 | PS3/360, Mar 2012 | **Excluded** — later port |
-
-A console launch line-up is full of the second kind. Treat "released in the launch
+| `Mass Effect 3` | 18 Nov 2012 | PS3/360, Mar 2012 | **Excluded** — later port | A console launch line-up is full of the second kind. Treat "released in the launch
 window" as a port unless the dates actually match.
 
 ## Status — the exclusivity attribute
@@ -95,9 +91,7 @@ descriptive; it never affects membership.
 |---|---|
 | **Stranded** | Never officially released anywhere else, in any form. |
 | **Ported** | Released elsewhere **later**. Fill `Also On` with platform + year. |
-| **Sim-ship** | Launched the same day on other platforms. Fill `Also On` with the co-launch platforms. The entry appears in each of those platforms' catalogues too. |
-
-**`Sim-ship` outranks `Ported`.** A game can do both — launch same-day on two consoles
+| **Sim-ship** | Launched the same day on other platforms. Fill `Also On` with the co-launch platforms. The entry appears in each of those platforms' catalogues too. | **`Sim-ship` outranks `Ported`.** A game can do both — launch same-day on two consoles
 and *then* reach a third years later. `Forza Horizon 5` sim-shipped on Xbox One and
 Series X/S in 2021 and reached PS5 in 2025. Keep the status as `Sim-ship`, because that
 is the fact about its *debut*, and list the later platforms in `Also On` alongside the
@@ -121,9 +115,7 @@ PC is not one of them, which has three consequences:
 |---|---|
 | Console debut, later PC port | Still `Stranded`. Mention the PC release in `Notes`, leave `Also On` as `—`. |
 | Console and PC **same day** | Counts as a console debut. Catalogue it on the console; PC does not make it a `Sim-ship`. |
-| **PC first**, console later | **Excluded** — the game already existed. `Cave Story`, `Unepic`, `Gurumin`, SNES `Doom`. |
-
-So a PC version never moves a game out of `Stranded`, but a PC version that came
+| **PC first**, console later | **Excluded** — the game already existed. `Cave Story`, `Unepic`, `Gurumin`, SNES `Doom`. | So a PC version never moves a game out of `Stranded`, but a PC version that came
 *first* keeps it out of the catalogue entirely. Record PC availability in the Notes
 so a reader knows the game is obtainable — just not on a second console.
 
@@ -140,9 +132,7 @@ Switch 2.
 | A **port or remaster** — new build, new SKU (`Gravity Rush Remastered`) | Vita playing a **PSP** game |
 | A **subscription re-release** that is a distinct store entry on a new platform (PS Plus Premium's PSP catalogue on PS4/PS5; NSO) | PS TV playing a **Vita** game |
 | A **compilation** the game is folded into (`WipEout Omega Collection`) | Wii U playing a **Wii** disc |
-| A **cross-buy twin** built for the other platform | Switch 2 playing a **Switch** cartridge |
-
-The dividing line: did someone *build and ship a version for that platform*, or is
+| A **cross-buy twin** built for the other platform | Switch 2 playing a **Switch** cartridge | The dividing line: did someone *build and ship a version for that platform*, or is
 the new hardware merely running the old one?
 
 ## Contested cases
@@ -152,12 +142,12 @@ Some titles do not resolve cleanly. Do **not** silently pick a side — give the
 recurring question is almost always *"is this a debut or a port?"*:
 
 - **Handheld sibling versions.** `Super Mario Maker` (Wii U) vs
-  `Super Mario Maker for Nintendo 3DS` — same game, gutted features, released later.
+ `Super Mario Maker for Nintendo 3DS` — same game, gutted features, released later.
 - **Shared-branding twins.** `Super Smash Bros. for Wii U` and `for Nintendo 3DS`
-  ship under one name but are separate builds; the 3DS version came first by weeks,
-  which matters under this rule.
+ ship under one name but are separate builds; the 3DS version came first by weeks,
+ which matters under this rule.
 - **Remake-or-sequel.** `Oreshika: Tainted Bloodlines`, `Castlevania: The Dracula X
-  Chronicles`, `Tactics Ogre: Let Us Cling Together`.
+ Chronicles`, `Tactics Ogre: Let Us Cling Together`.
 - **Partial compilations.** `Ultimate NES Remix` (3DS) vs `NES Remix 1 & 2`.
 - **Renamed enhanced re-releases.** `FAST Racing NEO` → `FAST RMX`.
 
@@ -208,9 +198,7 @@ One table per platform, identical columns everywhere so files stay diff-able.
 | `Online` | `Yes`, `No`, or `Dead (year)` where servers have shut down. |
 | `Status` | `Stranded`, `Ported`, or `Sim-ship`. |
 | `Also On` | `—` when stranded. Otherwise every platform with year: `Switch (2017), PC (2020)`. For `Sim-ship`, list the co-launch platforms and mark them, e.g. `Switch (2017, same day)`. |
-| `Notes` | One line. Prefer *why* it is stranded (hardware dependency, licensing, studio closure, server death) over review commentary. |
-
-Sort by Year, then Title. Keep everything in **one** table — status is a column,
+| `Notes` | One line. Prefer *why* it is stranded (hardware dependency, licensing, studio closure, server death) over review commentary. | Sort by Year, then Title. Keep everything in **one** table — status is a column,
 not a section. Splitting by status buries the point that these are all the same
 kind of thing.
 
@@ -219,46 +207,46 @@ kind of thing.
 `catalogs/<platform-slug>.md`:
 
 1. **Header** — platform, lifespan, store/online status, backward-compat note,
-   category spine used, date last verified, honest coverage statement.
+ category spine used, date last verified, honest coverage statement.
 2. **Summary** — total debut-exclusives, how many still stranded, and the
-   one-paragraph story of *why this platform strands what it strands*.
+ one-paragraph story of *why this platform strands what it strands*.
 3. **Debut-exclusive games** — the single main table.
 4. **Contested** — the argument on both sides.
 5. **Excluded** — titles commonly assumed to qualify but that fail the debut test,
-   with the reason recorded so they are not re-added.
+ with the reason recorded so they are not re-added.
 6. **Appendix** — long tails assessed in bulk rather than individually, clearly
-   labelled and kept out of the counts.
+ labelled and kept out of the counts.
 7. **Sources** — links, with the date checked.
 
 ## Research method
 
 1. Start from the platform's full release list (Wikipedia `List of <platform> games`)
-   — these do **not** mark exclusivity or debut, so they are only a spine.
+ — these do **not** mark exclusivity or debut, so they are only a spine.
 2. Use Wikipedia's `Category:<Platform>-only games` where it exists. It is a good
-   seed but it is **incomplete and noisy** — the Vita category contains ~20
-   franchise articles for anime series that are not games at all, and categories
-   miss titles that plainly qualify.
+ seed but it is **incomplete and noisy** — the Vita category contains ~20
+ franchise articles for anime series that are not games at all, and categories
+ miss titles that plainly qualify.
 3. Treat "never ported" listicles as *leads, not facts*: they conflate "not on
-   the successor console" with "exclusive". `ZombiU`, `Watch Dogs` and
-   `Sonic Lost World` all appear on Wii U "never ported to Switch" lists; all
-   three are multiplatform.
+ the successor console" with "exclusive". `ZombiU`, `Watch Dogs` and
+ `Sonic Lost World` all appear on Wii U "never ported to Switch" lists; all
+ three are multiplatform.
 4. For each candidate, verify the **debut** specifically — an earlier release on
-   another *home* console, PC or handheld is the most common disqualifier and the
-   easiest to miss. Arcade originals are out of scope and never disqualify.
+ another *home* console, PC or handheld is the most common disqualifier and the
+ easiest to miss. Arcade originals are out of scope and never disqualify.
 5. Re-verify `Stranded` entries on every pass. Status decays: `Xenoblade
-   Chronicles X` was stranded until March 2025, `The Wonderful 101` until 2020,
-   `Persona 3 Portable` until 2023.
+ Chronicles X` was stranded until March 2025, `The Wonderful 101` until 2020,
+ `Persona 3 Portable` until 2023.
 
 ## Maintenance
 
 - Put the verification date in the header and update it every pass.
 - When a stranded game gets ported, flip `Status` and fill `Also On`. Never delete.
 - Long-tail budget/eShop titles are the usual coverage gap. State in the header
-  what the catalogue does and does not claim to cover.
+ what the catalogue does and does not claim to cover.
 - When a tail is too large to verify title-by-title, group it by publisher in an
-  appendix, label the confidence, and keep it out of the counts. Look for a
-  categorical cause first — e.g. Nintendo denied RCMADIAX a Switch dev licence in
-  2018, which strands all 33 of its Wii U titles at once.
+ appendix, label the confidence, and keep it out of the counts. Look for a
+ categorical cause first — e.g. Nintendo denied RCMADIAX a Switch dev licence in
+ 2018, which strands all 33 of its Wii U titles at once.
 - Where a platform's status is inherently unstable, say so loudly. PSP `Stranded`
-  claims are undermined by the PS Plus Premium Classics catalogue, which rotates
-  monthly with no published list.
+ claims are undermined by the PS Plus Premium Classics catalogue, which rotates
+ monthly with no published list.

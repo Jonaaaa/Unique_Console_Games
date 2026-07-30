@@ -30,9 +30,7 @@ host platform's file, marked in the Notes column.
 | PSVR, PSVR2 | [ps4.md](catalogs/ps4.md), [ps5.md](catalogs/ps5.md) |
 | Kinect | [xbox-360.md](catalogs/xbox-360.md), [xbox-one.md](catalogs/xbox-one.md) |
 | Vectrex 3D Imager | [vectrex.md](catalogs/vectrex.md) |
-| Game Boy Player, Super Game Boy, Transfer Pak | Backward compatibility — not catalogued |
-
-## Hardware revisions — no separate files
+| Game Boy Player, Super Game Boy, Transfer Pak | Backward compatibility — not catalogued | ## Hardware revisions — no separate files
 
 These play identical libraries and have **no exclusive software**, so a catalogue for
 them would be empty: Game Boy Pocket / Light, GBA SP / Micro, DS Lite, DSi (DSiWare is
@@ -58,9 +56,7 @@ GBC has ~570 exclusive "black cartridge" titles.
 | Arcade hardware (MVS, Hyper Neo Geo 64, Naomi, Triforce, System 246) | Arcades are out of scope by rule — a cabinet is not a collectable home device. |
 | Cloud-only services (Stadia, Luna, GeForce Now) | No hardware library; games debut on other platforms. |
 | Intellivision Amico | Announced but never properly shipped; no library exists. |
-| Sega Nomad, PC Engine GT / TurboExpress, Genesis Nomad | Portable revisions playing the parent library — backward compatibility. |
-
-## Previously pending — now written
+| Sega Nomad, PC Engine GT / TurboExpress, Genesis Nomad | Portable revisions playing the parent library — backward compatibility. | ## Previously pending — now written
 
 All items formerly listed here have catalogues:
 
@@ -75,9 +71,7 @@ All items formerly listed here have catalogues:
 | Bandai Super Vision 8000, Casio PV-1000, Gakken TV Boy | [early-japanese-consoles.md](catalogs/early-japanese-consoles.md) |
 | VTech V.Smile (2004) | [vtech-vsmile.md](catalogs/vtech-vsmile.md) |
 | LeapFrog Leapster / Didj / LeapTV | [leapfrog.md](catalogs/leapfrog.md) |
-| SSD Company XaviXPORT (2004) | [xavix.md](catalogs/xavix.md) |
-
-**Three files cover more than one platform**, because each system involved has under
+| SSD Company XaviXPORT (2004) | [xavix.md](catalogs/xavix.md) | **Three files cover more than one platform**, because each system involved has under
 ~15 titles and an identical stranding cause — splitting them would repeat the same
 page. The decision is recorded in each file's Contested section:
 [early-japanese-consoles.md](catalogs/early-japanese-consoles.md) (3 systems),
