@@ -60,18 +60,33 @@ GBC has ~570 exclusive "black cartridge" titles.
 | Intellivision Amico | Announced but never properly shipped; no library exists. |
 | Sega Nomad, PC Engine GT / TurboExpress, Genesis Nomad | Portable revisions playing the parent library — backward compatibility. |
 
-## Pending — known gaps, not yet written
+## Previously pending — now written
 
-Stated explicitly so they are not mistaken for completeness:
+All items formerly listed here have catalogues:
 
-| System | Notes |
+| System | File |
 |---|---|
-| Amstrad GX4000 (1990) | ~27 titles, nearly all Amiga/CPC computer conversions — likely to be as thin as the Atari 5200 and CD32 for the same reason. |
-| Nuon (2000) | A DVD-player games platform; ~8 titles. |
-| Gizmondo (2005) | ~14 titles; the company collapsed in fraud proceedings. |
-| Xavix Port, LeapFrog, VTech, Didj | Children's TV-connected systems with real cartridge libraries. Same category question as [Sega Pico](catalogs/sega-pico.md), which **is** included — so consistency argues for adding them. |
-| Watara Supervision, Mega Duck, Game.com, Gamate | 1990s budget handhelds with small commercial libraries. |
-| Bandai Super Vision 8000, Epoch Cassette Vision, Casio PV-1000 | Early Japanese cartridge consoles. |
+| Amstrad GX4000 (1990) | [amstrad-gx4000.md](catalogs/amstrad-gx4000.md) |
+| Nuon (2000) | [nuon.md](catalogs/nuon.md) |
+| Gizmondo (2005) | [gizmondo.md](catalogs/gizmondo.md) |
+| Tiger Game.com (1997) | [game-com.md](catalogs/game-com.md) |
+| Watara Supervision (1992) | [watara-supervision.md](catalogs/watara-supervision.md) |
+| Epoch Cassette Vision / Super Cassette Vision | [epoch-cassette-vision.md](catalogs/epoch-cassette-vision.md) |
+| Bandai Super Vision 8000, Casio PV-1000, Gakken TV Boy | [early-japanese-consoles.md](catalogs/early-japanese-consoles.md) |
+| VTech V.Smile (2004) | [vtech-vsmile.md](catalogs/vtech-vsmile.md) |
+| LeapFrog Leapster / Didj / LeapTV | [leapfrog.md](catalogs/leapfrog.md) |
+| SSD Company XaviXPORT (2004) | [xavix.md](catalogs/xavix.md) |
+
+**Three files cover more than one platform**, because each system involved has under
+~15 titles and an identical stranding cause — splitting them would repeat the same
+page. The decision is recorded in each file's Contested section:
+[early-japanese-consoles.md](catalogs/early-japanese-consoles.md) (3 systems),
+[leapfrog.md](catalogs/leapfrog.md) (3 systems),
+[epoch-cassette-vision.md](catalogs/epoch-cassette-vision.md) (2 systems).
+
+**Remaining known gaps:** Mega Duck / Cougar Boy and Bit Corporation Gamate — two more
+early-90s budget handhelds in the same family as the Watara Supervision, with the same
+lost-attribution problem. Documented here rather than silently omitted.
 
 ## How to keep this honest
 
