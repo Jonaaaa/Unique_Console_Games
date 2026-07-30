@@ -28,7 +28,7 @@ are disqualified on prior-home-release grounds.
 
 | | Count |
 |---|---|
-| **Debut games** | **21** |
+| **Debut games** | **22** |
 | — still `Stranded` | 7 |
 | — since `Ported` | 14 |
 | **Contested** | 1 |
@@ -56,6 +56,7 @@ cover most of what Atari owns. So `Stranded` here isolates two specific groups:
 | Missile Command | 1981 | Atari | Atari | Shoot 'em up | 1–2 | No | Ported | *Atari 50*, *Missile Command: Recharged* (2020) | First home version of the 1980 cabinet. |
 | Warlords | 1981 | Atari | Atari | Action | 1–4 | No | Ported | *Atari 50*, *Warlords: Reckoning* (2024) | Four-player simultaneous — rare for the era and the reason it was revived. |
 | Custer's Revenge | 1982 | Mystique | Mystique | Adult | 1 | No | **Stranded** | — | Published without Atari's approval and protested on release. Included because it is a genuine 2600 debut; it has no legitimate route to reissue and will never have one. |
+| Donkey Kong | 1982 | Coleco | Coleco | Platformer | 1 | No | Sim-ship | Intellivision, ColecoVision (1982, same window) | Licensed from Nintendo by Coleco and shipped across three consoles at once, with no lead platform. Also catalogued under [ColecoVision](colecovision.md) and [Intellivision](intellivision.md). |
 | E.T. the Extra-Terrestrial | 1982 | Atari | Atari | Adventure | 1 | No | **Stranded** | — | Rushed out in five weeks against a Universal film licence. Its unsold stock was buried in a New Mexico landfill in 1983 and exhumed in 2014. **Permanently unreissuable** — the film licence makes it impossible and Atari has no incentive to try. |
 | Haunted House | 1982 | Atari | Atari | Survival horror | 1 | No | Ported | *Atari 50*, Atari Flashback | Arguably the first survival-horror game: limited vision, no weapons, fleeing rather than fighting. |
 | Pitfall! | 1982 | Activision | Activision | Platformer | 1 | No | Ported | *Activision Anthology*, mobile | Sold ~4M. Activision was founded by ex-Atari programmers **specifically to get credited**, and won the lawsuit that legalised third-party publishing. |
@@ -85,7 +86,6 @@ cover most of what Atari owns. So `Stranded` here isolates two specific groups:
 | Pong (2600 version) | 1977 | The arcade cabinet is out of scope, but Atari's own dedicated *Home Pong* console (1975) predates the 2600 version. |
 | Video Olympics | 1977 | A collection of Pong variants, already released on dedicated hardware. |
 | Pac-Man, Ms. Pac-Man, Defender | 1982 | Qualify as first home releases and would be `Stranded` — the Namco and Williams/WB licences keep them out of Atari's collections. Listed here only because their absence from *Atari 50* causes confusion. |
-| Donkey Kong, Frogger, Q*bert | 1982–83 | Simultaneous or near-simultaneous home releases across 2600, Intellivision and ColecoVision — no clean debut platform. |
 | Any *Atari 50* / Flashback / *Activision Anthology* release | — | Re-releases by definition. |
 | *(games with an earlier arcade release)* | — | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on the Magnavox Odyssey, Channel F or a home computer still disqualifies. |
 

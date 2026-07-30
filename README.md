@@ -9,58 +9,60 @@ debut is permanent.
 
 | Platform | Lifespan | Debut games | Stranded | Ported |
 |---|---|---|---|---|
-| [Atari 2600](catalogs/atari-2600.md) | Sep 1977 – 1992 | **21** | 7 | 14 |
-| [Mattel Intellivision](catalogs/intellivision.md) | 1979 – 1990 | **13** | 6 | 7 |
-| [ColecoVision](catalogs/colecovision.md) | Aug 1982 – 1985 | **9** | 7 | 2 |
+| [Atari 2600](catalogs/atari-2600.md) | Sep 1977 – 1992 | **22** | 7 | 14 +1 sim |
+| [Mattel Intellivision](catalogs/intellivision.md) | 1979 – 1990 | **14** | 6 | 7 +1 sim |
 | [Atari 5200](catalogs/atari-5200.md) | Nov 1982 – 1984 | **7** | 5 | 2 |
-| [Nintendo Entertainment System / Famicom](catalogs/nes.md) | Jul 1983 (JP) – 1995 (NA) / 2003 (JP) | **60** | 26 | 34 |
+| [ColecoVision](catalogs/colecovision.md) | Aug 1982 – 1985 | **10** | 7 | 2 +1 sim |
+| [Nintendo Entertainment System / Famicom](catalogs/nes.md) | Jul 1983 (JP) – 1995 (NA) / 2003 (JP) | **61** | 26 | 34 +1 sim |
 | [Sega SG-1000](catalogs/sg-1000.md) | Jul 1983 – 1985 | **10** | 9 | 1 |
 | [Atari 7800](catalogs/atari-7800.md) | Designed 1984, shelved, released May 1986 – 1992 | **11** | 7 | 4 |
 | [Sega Master System](catalogs/master-system.md) | Oct 1985 – 1996 int'l, but **manufactured in Brazil by Tectoy into the 2020s** | **30** | 22 | 8 |
 | [TurboGrafx-16 / PC Engine](catalogs/turbografx-16.md) | Oct 1987 – 1994 int'l / 1999 JP | **28** | 9 | 19 |
-| [Sega Genesis / Mega Drive](catalogs/genesis.md) | Oct 1988 – 1997 (Brazil: into the 2020s via Tectoy) | **44** | 13 | 31 |
-| [Game Boy](catalogs/game-boy.md) | Apr 1989 (JP) – 2003 | **33** | 11 | 22 |
+| [Sega Genesis / Mega Drive](catalogs/genesis.md) | Oct 1988 – 1997 (Brazil: into the 2020s via Tectoy) | **46** | 13 | 32 +1 sim |
 | [Atari Lynx](catalogs/atari-lynx.md) | Sep 1989 – 1995 | **15** | 10 | 5 |
-| [Super Nintendo / Super Famicom](catalogs/snes.md) | Nov 1990 (JP) – 1999 (NA) / 2003 (JP) | **56** | 16 | 39 +1 sim |
-| [Sega Game Gear](catalogs/game-gear.md) | Oct 1990 – 1997 | **30** | 19 | 11 |
+| [Game Boy](catalogs/game-boy.md) | Apr 1989 (JP) – 2003 | **34** | 11 | 22 +1 sim |
+| [Sega Game Gear](catalogs/game-gear.md) | Oct 1990 – 1997 | **31** | 19 | 11 +1 sim |
 | [SNK Neo Geo](catalogs/neo-geo.md) | Apr 1990 – 2004 (final AES release) | **23** | 5 | 18 |
+| [Super Nintendo / Super Famicom](catalogs/snes.md) | Nov 1990 (JP) – 1999 (NA) / 2003 (JP) | **56** | 16 | 39 +1 sim |
 | [Philips CD-i](catalogs/cd-i.md) | Oct 1991 – 1998 | **9** | 8 | 1 |
 | [3DO Interactive Multiplayer](catalogs/3do.md) | Oct 1993 – 1996 | **16** | 10 | 6 |
+| [Commodore Amiga CD32](catalogs/amiga-cd32.md) | Sep 1993 – 1994 | **4** | 4 | 0 |
 | [Atari Jaguar](catalogs/atari-jaguar.md) | Nov 1993 – 1996 | **14** | 11 | 3 |
 | [Sega Pico](catalogs/sega-pico.md) | Jun 1993 – 2005 (Pico) / 2005–2013 (Beena) | **8** | 8 | 0 |
-| [Commodore Amiga CD32](catalogs/amiga-cd32.md) | Sep 1993 – 1994 | **4** | 4 | 0 |
+| [NEC PC-FX](catalogs/pc-fx.md) | Dec 1994 – 1998 | **9** | 9 | 0 |
 | [Sony PlayStation](catalogs/ps1.md) | Dec 1994 – Mar 2006 | **52** | 21 | 31 |
 | [Sega Saturn](catalogs/saturn.md) | Nov 1994 – 2000 (Japan) | **34** | 21 | 13 |
-| [NEC PC-FX](catalogs/pc-fx.md) | Dec 1994 – 1998 | **9** | 9 | 0 |
 | [Nintendo Virtual Boy](catalogs/virtual-boy.md) | Jul 1995 (JP) – Mar 1996 | **24** | 10 | 14 |
 | [Nintendo 64](catalogs/n64.md) | Jun 1996 (JP) – 2002 | **61** | 23 | 38 |
 | [Sega Dreamcast](catalogs/dreamcast.md) | Nov 1998 – Mar 2001 (discontinued) | **37** | 17 | 20 |
 | [Game Boy Color](catalogs/game-boy-color.md) | Oct 1998 – 2003 | **17** | 11 | 6 |
 | [SNK Neo Geo Pocket / Color](catalogs/neo-geo-pocket-color.md) | Oct 1998 – 2001 | **17** | 6 | 11 |
 | [Bandai WonderSwan](catalogs/wonderswan.md) | Mar 1999 – 2003 | **15** | 12 | 3 |
-| [Sony PlayStation 2](catalogs/ps2.md) | Mar 2000 – Jan 2013 | **60** | 28 | 32 |
+| [Sony PlayStation 2](catalogs/ps2.md) | Mar 2000 – Jan 2013 | **63** | 28 | 32 +3 sim |
 | [Nintendo GameCube](catalogs/gamecube.md) | Sep 2001 (JP) – 2007 | **49** | 23 | 23 +3 sim |
 | [Game Boy Advance](catalogs/gba.md) | Mar 2001 (JP) – 2010 | **40** | 18 | 22 |
-| [Microsoft Xbox](catalogs/xbox.md) | Nov 2001 – 2009 | **32** | 21 | 10 +1 sim |
+| [Microsoft Xbox](catalogs/xbox.md) | Nov 2001 – 2009 | **34** | 21 | 10 +3 sim |
 | [Nokia N-Gage](catalogs/n-gage.md) | Oct 2003 – 2005 (hardware) | **8** | 8 | 0 |
-| [PlayStation Portable](catalogs/psp.md) | Dec 2004 (JP) – 2014 (production ended) | **65** | 35 | 28 +2 sim |
 | [Nintendo DS](catalogs/nintendo-ds.md) | Nov 2004 – 2014 | **49** | 35 | 14 |
-| [Microsoft Xbox 360](catalogs/xbox-360.md) | Nov 2005 – 2016 | **43** | 22 | 20 +1 sim |
-| [Sony PlayStation 3](catalogs/ps3.md) | Nov 2006 – 2017 | **50** | 31 | 17 +2 sim |
+| [PlayStation Portable](catalogs/psp.md) | Dec 2004 (JP) – 2014 (production ended) | **65** | 35 | 28 +2 sim |
+| [Microsoft Xbox 360](catalogs/xbox-360.md) | Nov 2005 – 2016 | **44** | 22 | 20 +2 sim |
+| [Sony PlayStation 3](catalogs/ps3.md) | Nov 2006 – 2017 | **55** | 31 | 17 +7 sim |
 | [Nintendo Wii](catalogs/wii.md) | Nov 2006 – 2013 | **48** | 34 | 14 |
 | [Nintendo 3DS](catalogs/nintendo-3ds.md) | Feb 2011 (JP) – Sep 2020 (production ended) | **143** | 122 | 14 +7 sim |
 | [PlayStation Vita](catalogs/ps-vita.md) | Dec 2011 (JP) – Mar 2019 (production ended) | **58** | 37 | 14 +7 sim |
 | [Nintendo Wii U](catalogs/wii-u.md) | Nov 2012 – Jan 2017 (13.56M units sold) | **78** | 42 | 29 +7 sim |
-| [Microsoft Xbox One](catalogs/xbox-one.md) | Nov 2013 – 2020 | **28** | 20 | 7 +1 sim |
+| [Sony PlayStation 4](catalogs/ps4.md) | Nov 2013 – 2021 (production wound down) | **27** | 20 | 3 +4 sim |
+| [Microsoft Xbox One](catalogs/xbox-one.md) | Nov 2013 – 2020 | **29** | 20 | 7 +2 sim |
 | [Nintendo Switch](catalogs/switch.md) | Mar 2017 – present (superseded by Switch 2, Jun 2025) | **45** | 39 | 5 +1 sim |
+| [Sony PlayStation 5](catalogs/ps5.md) | Nov 2020 – present | **17** | 12 | 0 +5 sim |
 | [Microsoft Xbox Series X|S](catalogs/xbox-series.md) | Nov 2020 – present | **10** | 5 | 4 +1 sim |
 | [Nintendo Switch 2](catalogs/switch-2.md) | Jun 2025 – present | **8** | 6 | 0 +2 sim |
 
-**All 46 console and handheld platforms catalogued** — every TV-connected
+**All 48 console and handheld platforms catalogued** — every TV-connected
 and portable games system with a commercial software library, from the Atari 2600
 (1977) to the Switch 2 (2025).
 
-**1521 debut games. 869 still stranded.**
+**1,585 debut games. 901 still stranded.**
 
 
 **Hardware revisions are not platforms.** Game Boy Pocket/Light, GBA SP/Micro,

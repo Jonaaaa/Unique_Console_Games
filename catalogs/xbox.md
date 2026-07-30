@@ -25,10 +25,10 @@ is `Ported` as normal.
 
 | | Count |
 |---|---|
-| **Debut games** | **32** |
+| **Debut games** | **34** |
 | — still `Stranded` | 21 |
 | — since `Ported` | 10 |
-| — `Sim-ship` | 1 |
+| — `Sim-ship` | 3 |
 | **Contested** | 1 |
 
 **Why the Xbox strands games.** Three causes, and the first is unique to Microsoft.
@@ -66,6 +66,7 @@ is `Ported` as normal.
 | RalliSport Challenge | 2002 | Digital Illusions | Microsoft | Racing | 1–4 | Dead | **Stranded** | — | Licensed rally cars and teams. |
 | Steel Battalion | 2002 | Capcom | Capcom | Mech simulator | 1 | No | **Stranded** | — | Shipped with a **two-piece controller: 40+ buttons, two joysticks and three foot pedals**, including an eject lever that deletes your save if you fail to use it. Structurally unreleasable. |
 | Toejam & Earl III: Mission to Earth | 2002 | Humanature | Sega | Action | 1–2 | No | **Stranded** | — | The only Toejam & Earl game absent from Sega's collections. |
+| Beyond Good & Evil | 2003 | Ubisoft Montpellier | Ubisoft | Action-adventure | 1 | No | Sim-ship | GameCube, PS2, PC (2003, same day), HD versions (2011) | Also catalogued under [GameCube](gamecube.md) and [PS2](ps2.md). |
 | Brute Force | 2003 | Digital Anvil | Microsoft | Squad shooter | 1–4 | Dead | **Stranded** | — | Digital Anvil was absorbed and dissolved. |
 | Crimson Skies: High Road to Revenge | 2003 | FASA Studio | Microsoft | Flight combat | 1–16 | Dead | **Stranded** | — | FASA Studio was closed in 2007. Widely cited as the best Xbox arcade flight game. |
 | Dead or Alive Xtreme Beach Volleyball | 2003 | Team Ninja | Tecmo | Sports | 1–2 | No | **Stranded** | — | The series continued on PS4 and PC with new entries; the original has never been reissued. |
@@ -78,6 +79,7 @@ is `Ported` as normal.
 | Halo 2 | 2004 | Bungie | Microsoft | FPS | 1–16 | Dead (2010) | Ported | PC (2007), Xbox One/PC (2014–20, *MCC*) | Its Xbox Live servers closed in 2010 — the first major console online shutdown. |
 | Ninja Gaiden | 2004 | Team Ninja | Tecmo | Action | 1 | No | Ported | PS3 (2007, *Sigma*), multiplatform (2024, *Master Collection*) | |
 | Phantom Dust | 2004 | Microsoft Game Studios | Microsoft | Action / card battler | 1–4 | Dead | Ported | Xbox One, PC (2017, *HD*) | A cult card-combat game; the HD re-release was given away free. |
+| Star Wars: Battlefront | 2004 | Pandemic | LucasArts | Shooter | 1–16 | Dead | Sim-ship | PS2, PC (2004, same day) | Also catalogued under [PS2](ps2.md). |
 | Steel Battalion: Line of Contact | 2004 | Capcom | Capcom | Mech simulator | 1–20 | **Dead (2010)** | **Stranded** | — | Online-only, needs the 40-button controller, and the servers are gone. Arguably the least playable entry in this repo. |
 | Sudeki | 2004 | Climax | Microsoft | Action RPG | 1 | No | **Stranded** | — | A PC version exists (2005) but PC is not a catalogued platform, so no console alternative. |
 | Jade Empire | 2005 | BioWare | Microsoft | Action RPG | 1 | No | Ported | PC (2007), mobile, Switch (2021, *Special Edition*) | |
@@ -99,7 +101,6 @@ is `Ported` as normal.
 | Counter-Strike (Xbox) | 2003 | PC original (2000). |
 | Doom 3, Half-Life 2, Far Cry Instincts | 2004–05 | PC originals. |
 | Conker: Live & Reloaded | 2005 | Remake of the 2001 N64 game. |
-| Star Wars: Battlefront, KOTOR II | 2004–05 | Simultaneous multiplatform. |
 | Shenmue II, Fatal Frame (Xbox) | 2002 | Dreamcast and PS2 originals. |
 | Sega GT, Crazy Taxi 3, Jet Set Radio (Xbox) | 2001–03 | Dreamcast-lineage ports. |
 | Any Xbox BC on 360 / One / Series | — | Backward compatibility, not a re-release. |

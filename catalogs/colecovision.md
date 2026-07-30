@@ -25,7 +25,7 @@ licensing shell.
 
 | | Count |
 |---|---|
-| **Debut games** | **9** |
+| **Debut games** | **10** |
 | — still `Stranded` | 7 |
 | — since `Ported` | 2 |
 | **Contested** | 1 |
@@ -42,6 +42,7 @@ platform famous belong to Nintendo, Sega and Universal — none of whom would re
 | Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Notes |
 |---|---|---|---|---|---|---|---|---|---|
 | Cosmic Avenger | 1982 | Universal | Coleco | Shoot 'em up | 1 | No | Ported | ColecoVision Flashback (2014) | First home release of the Universal cabinet. |
+| Donkey Kong | 1982 | Coleco | Coleco | Platformer | 1 | No | Sim-ship | Atari 2600, Intellivision (1982, same window) | The ColecoVision pack-in and the best of the three 1982 conversions. Also catalogued under [Atari 2600](atari-2600.md) and [Intellivision](intellivision.md). |
 | Smurf: Rescue in Gargamel's Castle | 1982 | Coleco | Coleco | Platformer | 1 | No | **Stranded** | — | A launch title carrying the Peyo Smurfs licence — still actively managed today, which is exactly why a 1982 cartridge cannot be revived. |
 | Venture | 1982 | Exidy | Coleco | Action | 1 | No | Ported | ColecoVision Flashback (2014) | First home release of the Exidy cabinet. |
 | War Room | 1983 | Coleco | Coleco | Strategy | 1–2 | No | **Stranded** | — | A Cold War nuclear-strategy game released the year of *WarGames*. Coleco original; never reissued. |
@@ -61,7 +62,6 @@ platform famous belong to Nintendo, Sega and Universal — none of whom would re
 
 | Title | Year | Why excluded |
 |---|---|---|
-| Donkey Kong, Donkey Kong Junior | 1982–83 | Simultaneous home releases across ColecoVision, 2600 and Intellivision. |
 | Zaxxon, Turbo, Subroc | 1982–83 | Sega arcade licences with contemporaneous home versions elsewhere. |
 | Mr. Do!, Ladybug, Carnival | 1982–83 | Universal and Sega cabinets with 2600 or Intellivision versions in the same window. |
 | Frogger, Q*bert, Burgertime, Time Pilot | 1983 | Multi-platform home conversions with no clean debut. |

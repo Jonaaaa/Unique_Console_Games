@@ -22,7 +22,7 @@ unusually thorough with this library, so **the `Ported` share is high**.
 
 | | Count |
 |---|---|
-| **Debut games** | **33** |
+| **Debut games** | **34** |
 | — still `Stranded` | 11 |
 | — since `Ported` | 22 |
 | **Contested** | 2 |
@@ -53,6 +53,7 @@ on a Soviet Electronika 60 in 1984, so the Game Boy pack-in is a port.
 | Balloon Kid | 1990 | Nintendo R&D1 | Nintendo | Platformer | 1 | No | Ported | 3DS Virtual Console, NSO | A sequel to NES *Balloon Fight*; never released in Japan on GB. |
 | Batman: The Video Game | 1990 | Sunsoft | Sunsoft | Action-platformer | 1 | No | **Stranded** | — | DC licence, as with its NES namesake. |
 | Days of Thunder | 1990 | Argonaut | Mindscape | Racing | 1 | No | **Stranded** | — | Film licence. |
+| Dr. Mario | 1990 | Nintendo R&D1 | Nintendo | Puzzle | 1–2 | No | Sim-ship | NES (1990, same day); 3DS Virtual Console, NSO | Also catalogued under [NES](nes.md). |
 | Gargoyle's Quest | 1990 | Capcom | Capcom | Action RPG / adventure | 1 | No | Ported | 3DS Virtual Console | A *Ghosts 'n Goblins* spin-off that plays nothing like it. |
 | Rolan's Curse | 1990 | Vic Tokai | Vic Tokai | Action RPG | 1–2 | No | **Stranded** | — | Vic Tokai left game publishing entirely; its catalogue has been dormant for two decades. |
 | The Real Ghostbusters | 1990 | Activision | Activision | Action | 1 | No | **Stranded** | — | Film licence. |
@@ -95,7 +96,6 @@ on a Soviet Electronika 60 in 1984, so the Game Boy pack-in is a port.
 | Tetris | 1989 | The game debuted on an Electronika 60 in 1984 and on PC before that. The Game Boy pack-in — the best-selling Game Boy game ever at 35M — is a port. |
 | Super Mario Bros. Deluxe | 1999 | Enhanced port of the 1985 NES game. |
 | Donkey Kong Land series | 1995–97 | Original games, and they **qualify** — listed here only because they are often mistaken for ports of the SNES *Country* trilogy. |
-| Dr. Mario | 1990 | Simultaneous NES + Game Boy release. |
 | Final Fantasy Legend I–III | 1989–91 | Qualify — these are the *SaGa* games, not ports of *Final Fantasy*. Listed here because the naming misleads. |
 | Any 3DS Virtual Console / NSO / collection release | — | Re-releases by definition. |
 | *(games with an earlier arcade release)* | — | **No longer excluded.** Arcades are out of scope — a cabinet is not a collectable home device — so the first *home* release counts as the debut. A prior release on another **home** console still disqualifies. |

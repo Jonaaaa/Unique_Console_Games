@@ -30,7 +30,7 @@ ceiling — more entries will move over time, never back.
 
 | | Count |
 |---|---|
-| **Debut games** | **60** |
+| **Debut games** | **61** |
 | — still `Stranded` | 26 |
 | — since `Ported` | 34 |
 | **Contested** | 3 |
@@ -88,6 +88,7 @@ Intellivision. Arcade originals are out of scope and never disqualify.
 | Willow | 1989 | Capcom | Capcom | Action RPG | 1 | No | **Stranded** | — | Lucasfilm film licence; never re-released in any form. |
 | Chip 'n Dale Rescue Rangers | 1990 | Capcom | Capcom | Platformer | 1–2 | No | Ported | *The Disney Afternoon Collection* (2017) | |
 | Crystalis | 1990 | SNK | SNK | Action RPG | 1 | No | Ported | NSO, Virtual Console | The GBC version is a separate reworking. |
+| Dr. Mario | 1990 | Nintendo R&D1 | Nintendo | Puzzle | 1–2 | No | Sim-ship | Game Boy (1990, same day); NSO, Virtual Console, many later versions | Launched on NES and Game Boy simultaneously. Also catalogued under [Game Boy](game-boy.md). |
 | Fire Emblem: Shadow Dragon and the Blade of Light | 1990 | Intelligent Systems | Nintendo | Tactical RPG | 1 | No | Ported | Switch (2020, limited-time release) | The series' origin; its first official English release came 30 years later and was delisted after six months. |
 | Gremlins 2: The New Batch | 1990 | Sunsoft | Sunsoft | Action | 1 | No | **Stranded** | — | Warner film licence. |
 | Kid Dracula | 1990 | Konami | Konami | Platformer | 1 | No | Ported | *Castlevania Anniversary Collection* (2019) | Japan-only originally. |

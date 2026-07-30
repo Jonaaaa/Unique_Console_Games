@@ -26,7 +26,7 @@ state and `Ported` is the exception.
 
 | | Count |
 |---|---|
-| **Debut games** | **60** |
+| **Debut games** | **63** |
 | — still `Stranded` | 28 |
 | — since `Ported` | 32 |
 | **Contested** | 2 |
@@ -80,6 +80,7 @@ Three more causes:
 | Wild Arms 3 | 2002 | Media.Vision | Sony | RPG | 1 | No | **Stranded** | — | Media.Vision moved on and the series ended in 2006; none of the PS2 entries have been reissued. |
 | Xenosaga Episode I | 2002 | Monolith Soft | Namco | RPG | 1 | No | **Stranded** | — | Tetsuya Takahashi's follow-up to `Xenogears`. All three Xenosaga games are stranded, so his pre-Xenoblade work is entirely unavailable — the most conspicuous gap in any developer's catalogue in this repo. |
 | Amplitude | 2003 | Harmonix | Sony | Rhythm | 1–4 | No | **Stranded** | — | The 2016 PS4 *Amplitude* is a new game with original music, not a port. |
+| Beyond Good & Evil | 2003 | Ubisoft Montpellier | Ubisoft | Action-adventure | 1 | No | Sim-ship | GameCube, Xbox, PC (2003, same day), HD versions (2011) | Also catalogued under [GameCube](gamecube.md) and [Xbox](xbox.md). |
 | Def Jam: Vendetta | 2003 | AKI / EA | EA | Fighting | 1–4 | No | **Stranded** | — | **The hardest licensing knot in this repo.** Combines individual rapper likeness rights, individual music rights, and AKI's wrestling engine. `Fight for NY` (2004) is equally locked. |
 | Drakengard | 2003 | Cavia | Square Enix | Action RPG | 1 | No | **Stranded** | — | Yoko Taro's debut and the origin of the NieR timeline. Cavia dissolved in 2010; `NieR` was remastered and this was not. |
 | Manhunt | 2003 | Rockstar North | Rockstar | Stealth action | 1 | No | Ported | Xbox, PC (2004–07) | Banned outright in several countries. |
@@ -97,9 +98,11 @@ Three more causes:
 | Metal Gear Solid 3: Snake Eater | 2004 | KCEJ | Konami | Stealth action | 1 | No | Ported | *HD Collection*, *Master Collection*; multiplatform (2024, *Delta* remake) | |
 | Michigan: Report from Hell | 2004 | Grasshopper Manufacture | Spike | Survival horror | 1 | No | **Stranded** | — | Suda51; PAL and Japan only. Played entirely through a TV camera viewfinder. |
 | Rule of Rose | 2004 | Punchline | Sony / Atlus | Survival horror | 1 | No | **Stranded** | — | Tiny Western print run, banned or refused classification in several territories, and Punchline is defunct. One of the most expensive PS2 discs. |
+| Star Wars: Battlefront | 2004 | Pandemic | LucasArts | Shooter | 1–16 | Dead | Sim-ship | Xbox, PC (2004, same day); PS4 (2015, *Classic*) | Also catalogued under [Xbox](xbox.md). |
 | God of War | 2005 | SCE Santa Monica | Sony | Action | 1 | No | Ported | PS3 (2009, *Collection*), PS Plus Premium | |
 | Guitar Hero | 2005 | Harmonix | RedOctane | Rhythm | 1–2 | No | **Stranded** | — | Requires the guitar controller **and** carries a fully licensed tracklist. Two independent walls. |
 | Haunting Ground | 2005 | Capcom | Capcom | Survival horror | 1 | No | **Stranded** | — | PAL: *Demento*. Capcom has reissued nearly every other horror game it owns; this one has never been touched, and discs command high prices. |
+| Killer7 | 2005 | Grasshopper Manufacture | Capcom | Action-adventure | 1 | No | Sim-ship | GameCube (2005, same day), PC (2018) | Also catalogued under [GameCube](gamecube.md). |
 | Shadow of Rome | 2005 | Capcom | Capcom | Action / stealth | 1 | No | **Stranded** | — | A one-off Capcom historical action game with no sequel and no collection to join. |
 | Shadow of the Colossus | 2005 | Team Ico | Sony | Action-adventure | 1 | No | Ported | PS3 (2011, *HD*), PS4 (2018 remake) | |
 | Steambot Chronicles | 2005 | Irem | Atlus | Action RPG | 1 | No | **Stranded** | — | Irem exited console development in 2011. |
@@ -129,8 +132,6 @@ Three more causes:
 | Kingdom Hearts Final Mix / Re:Chain of Memories | 2002–07 | Same-platform re-releases or remakes of GBA games. |
 | Metal Gear Solid 2: Substance / 3: Subsistence | 2002–05 | Same-platform expanded re-releases. |
 | Resident Evil 4 (PS2) | 2005 | Port of the 2005 GameCube game. |
-| Killer7 | 2005 | Simultaneous GameCube + PS2 — catalogued under [GameCube](gamecube.md). |
-| Beyond Good & Evil | 2003 | Simultaneous multiplatform — catalogued under [GameCube](gamecube.md). |
 | Viewtiful Joe (PS2) | 2004 | Port of the 2003 GameCube game. |
 | Tales of Symphonia (PS2) | 2004 | Port of the 2003 GameCube game. |
 | Rez | 2002 | Dreamcast original (2001). |

@@ -14,10 +14,10 @@
 
 | | Count |
 |---|---|
-| **Debut games** | **43** |
+| **Debut games** | **44** |
 | — still `Stranded` | 22 |
 | — since `Ported` | 20 |
-| — `Sim-ship` | 1 |
+| — `Sim-ship` | 2 |
 | **Contested** | 1 |
 
 **Why the Xbox 360 strands games.** Four causes, and two of them are new to this
@@ -76,6 +76,7 @@ repo.
 | Kinect Adventures! | 2010 | Good Science Studio | Microsoft | Party | 1–4 | Dead | **Stranded** | — | **24M copies** — bundled with every Kinect. Requires a depth camera Microsoft discontinued in 2017. By sales, one of the largest permanently unportable games ever made. |
 | Kinect Sports | 2010 | Rare | Microsoft | Sports | 1–4 | Dead | **Stranded** | — | Rare's Kinect era. Excluded from *Rare Replay* for the obvious reason. |
 | Nier | 2010 | Cavia | Square Enix | Action RPG | 1 | No | Sim-ship | PS3 (2010, same day) | Also catalogued under [PS3](ps3.md). |
+| Red Dead Redemption | 2010 | Rockstar San Diego | Rockstar | Open-world action | 1–16 | Dead | Sim-ship | PS3 (2010, same day); Switch, PS4 (2023) | Also catalogued under [PS3](ps3.md). |
 | Bastion | 2011 | Supergiant | Warner Bros. | Action RPG | 1 | No | Ported | PS4, Switch, PC, iOS (2011–18) | Supergiant's debut, an XBLA timed exclusive. |
 | Forza Motorsport 4 | 2011 | Turn 10 | Microsoft | Racing | 1–16 | Dead | **Stranded** | — | **Delisted in 2016** as car licences expired. Every 360 Forza game has been pulled the same way — a game removed from sale while its console was still current. |
 | Otomedius Excellent | 2011 | Konami | Konami | Shoot 'em up | 1–2 | Dead | **Stranded** | — | A Gradius spin-off; Konami has never revisited it. |
@@ -104,7 +105,6 @@ repo.
 | Castlevania: SotN, Rez HD, Sonic Adventure (XBLA) | 2007–10 | PS1 and Dreamcast originals. |
 | Minecraft: Xbox 360 Edition | 2012 | Port of the 2011 PC game. |
 | Gears of War 2 / 3 / Judgment | 2008–13 | Qualify and are `Stranded` — sequels never re-released on another console. |
-| Skate 3, Red Dead Redemption | 2010 | Simultaneous multiplatform. |
 | Any Xbox 360 BC on One / Series | — | Backward compatibility, not a re-release. |
 | *(games with a later PC port)* | — | **Not `Ported`.** PC is not a catalogued platform — the game stays `Stranded` with the PC release noted. |
 | *(games with an earlier arcade release)* | — | **Not excluded.** Arcades are out of scope; the first *home* release counts. |

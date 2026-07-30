@@ -25,7 +25,7 @@ licensing-as-tombstone — the same trap that later caught `Def Jam: Vendetta` a
 
 | | Count |
 |---|---|
-| **Debut games** | **13** |
+| **Debut games** | **14** |
 | — still `Stranded` | 6 |
 | — since `Ported` | 7 |
 | **Contested** | 1 |
@@ -56,6 +56,7 @@ the split here is unusually clean — Mattel's own games survived, licensed ones
 | B-17 Bomber | 1982 | APh Technological | Mattel | Flight simulation | 1 | No | Ported | *Intellivision Lives!*, Flashback | **Intellivoice.** |
 | Beauty & the Beast | 1982 | Mattel | Mattel | Platformer | 1 | No | Ported | *Intellivision Lives!*, Flashback | Unrelated to the fairy tale of the same name — a King Kong-style climbing game. |
 | Bomb Squad | 1982 | APh Technological | Mattel | Puzzle | 1 | No | **Stranded** | — | **Intellivoice.** A bomb-defusal game that talks you through the procedure; skipped by the reissue collections. |
+| Donkey Kong | 1982 | Coleco | Coleco | Platformer | 1 | No | Sim-ship | Atari 2600, ColecoVision (1982, same window) | Also catalogued under [Atari 2600](atari-2600.md) and [ColecoVision](colecovision.md). |
 | Night Stalker | 1982 | Steve Montero | Mattel | Action | 1 | No | Ported | *Intellivision Lives!*, Flashback, Evercade | |
 | Shark! Shark! | 1982 | Don Daglow | Mattel | Action | 1–2 | No | Ported | *Intellivision Lives!*, Flashback, Evercade | |
 | TRON: Deadly Discs | 1982 | Mattel | Mattel | Action | 1 | No | **Stranded** | — | The best-regarded TRON game of its era, and locked behind a **Disney** licence. Renamed in later Mattel collections to remove the branding, so the game as shipped has never been reissued. |
@@ -70,7 +71,6 @@ the split here is unusually clean — Mattel's own games survived, licensed ones
 
 | Title | Year | Why excluded |
 |---|---|---|
-| Donkey Kong, Donkey Kong Junior | 1982–83 | Simultaneous home releases across Intellivision, 2600 and ColecoVision. |
 | Burgertime, Q*bert, Frogger, Lock 'n' Chase | 1982–83 | Arcade conversions with contemporaneous home versions elsewhere. |
 | Popeye, Masters of the Universe | 1983 | Licensed conversions with versions on other platforms in the same window. |
 | Pitfall!, River Raid, Demon Attack | 1983 | Activision and Imagic titles that debuted on the Atari 2600. |

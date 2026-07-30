@@ -21,9 +21,9 @@ Origins*, and per-series collections. **Most of the Genesis canon reads as
 
 | | Count |
 |---|---|
-| **Debut games** | **44** |
+| **Debut games** | **46** |
 | — still `Stranded` | 13 |
-| — since `Ported` | 31 |
+| — since `Ported` | 32 |
 | **Contested** | 1 |
 
 **Why the Genesis strands games.** Almost entirely **dead licences**, as on NES and
@@ -66,6 +66,7 @@ likeness rights alongside everything else.
 | Ground Zero: Texas | 1993 | Digital Pictures | Sega | Interactive movie | 1 | No | **Stranded** | — | **Sega CD.** Same likeness-rights problem. |
 | Gunstar Heroes | 1993 | Treasure | Sega | Run and gun | 1–2 | No | Ported | Sega collections, Mega Drive Mini, Switch Online, Steam | Treasure's debut. |
 | Jurassic Park | 1993 | BlueSky | Sega | Action | 1 | No | **Stranded** | — | Universal film licence. |
+| Mortal Kombat | 1993 | Probe / Sculptured | Acclaim | Fighting | 1–2 | No | Sim-ship | SNES, Game Gear, Master System (1993, same day) | "Mortal Monday" — a coordinated same-day launch across four platforms. Unlike the SNES build, the Genesis version kept the blood via a code. |
 | Phantasy Star IV | 1993 | Sega | Sega | RPG | 1 | No | Ported | Sega collections, Switch Online | |
 | Ranger-X | 1993 | Gau Entertainment | Sega | Run and gun | 1 | No | **Stranded** | — | Technically extraordinary — a mech and a solar-powered motorbike acting as one unit. Absent from every Sega collection. |
 | Rocket Knight Adventures | 1993 | Konami | Konami | Action-platformer | 1 | No | Ported | Switch, PS4/PS5, Xbox, PC (2024, *Re-Sparked!*) | Was stranded for 31 years; Konami collected it with both *Sparkster* games in 2024. |
@@ -77,6 +78,7 @@ likeness rights alongside everything else.
 | Contra: Hard Corps | 1994 | Konami | Konami | Run and gun | 1–2 | No | Ported | *Contra Anniversary Collection* (2019) | |
 | Crusader of Centy | 1994 | Nextech | Sega / Atlus | Action RPG | 1 | No | **Stranded** | — | A Zelda-like with an animal-companion system; tiny Western print run and never reissued. |
 | Dynamite Headdy | 1994 | Treasure | Sega | Platformer | 1 | No | Ported | Sega collections, Switch Online | |
+| Earthworm Jim | 1994 | Shiny | Playmates | Platformer | 1 | No | Ported | SNES (1995), Saturn, PS1, PC, and many later collections | Debuted on Genesis; the SNES version followed a year later. |
 | Pulseman | 1994 | Game Freak | Sega | Platformer | 1 | No | Ported | Wii Virtual Console, 3DS Virtual Console | Game Freak's pre-Pokémon work; Japan-only originally. |
 | Sonic & Knuckles | 1994 | Sonic Team / STI | Sega | Platformer | 1–2 | No | Ported | *Sonic Origins*, Sega collections | Its lock-on cartridge physically combined with *Sonic 3* — a hardware trick no re-release reproduces. |
 | Sonic the Hedgehog 3 | 1994 | Sonic Team / STI | Sega | Platformer | 1–2 | No | Ported | *Sonic Origins* (2022), Sega collections | ⚠ [Contested](#contested) — its soundtrack's disputed authorship forced *Origins* to replace several tracks. |
@@ -101,8 +103,6 @@ likeness rights alongside everything else.
 |---|---|---|
 | Snatcher | 1994 | **Sega CD** port of the 1988 PC-8801 game. |
 | Popful Mail | 1994 | Sega CD port of a 1991 PC-8801 game. |
-| Mortal Kombat | 1993 | Same-day multiplatform "Mortal Monday" launch — catalogued under [SNES](snes.md). |
-| Earthworm Jim | 1994 | Genesis and SNES releases were close enough to be treated as one launch; the sequel is catalogued under [SNES](snes.md). |
 | Sonic 3D Blast | 1996 | Qualifies and is `Ported`; listed here because the Saturn version confuses its lineage. |
 | Sonic Jam, Sonic Mega Collection, Sega Classics | 1997–2002 | Compilations. |
 | Virtua Racing (32X) | 1994 | The Genesis cartridge version shipped first. |

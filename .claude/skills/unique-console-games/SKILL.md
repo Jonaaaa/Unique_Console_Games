@@ -44,6 +44,16 @@ Not disqualified:
   **every** platform it launched on. `Breath of the Wild` appears in both the Wii U
   and Switch catalogues. Mark it `Sim-ship` and list the co-launch platforms in
   `Also On` — a collector needs to know either machine will do.
+
+  **Never pick a "canonical" platform for a sim-ship.** It is tempting to table the
+  game once and write "catalogued under X" in the other platform's Excluded section.
+  Do not do this. There is no lead platform for a same-day release, and a collector
+  browsing the PS2 file needs to see `Killer7` there — not a pointer to the GameCube
+  file. Duplication across catalogues is correct and intended for these entries.
+
+  This applies however many platforms are involved. `Mortal Kombat` (1993) launched
+  the same day on SNES, Genesis, Game Gear and Master System, so it belongs in all
+  four files.
 - **Sequels and spin-offs.** `Splatoon 2` is a new game. Splatoon's status is untouched.
 - **Later ports of any kind.** `Mario Kart 8` reaching Switch in 2017 does not
   remove it — it debuted on Wii U and stays in the Wii U catalogue forever.

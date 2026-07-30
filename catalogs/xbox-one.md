@@ -32,10 +32,10 @@ other retired platform's.
 
 | | Count |
 |---|---|
-| **Debut games** | **28** |
+| **Debut games** | **29** |
 | — still `Stranded` | 20 |
 | — since `Ported` | 7 |
-| — `Sim-ship` | 1 |
+| — `Sim-ship` | 2 |
 | **Contested** | 1 |
 
 **Why the Xbox One strands games.** Chiefly **because PC was the escape hatch**, and
@@ -80,6 +80,7 @@ this repo does not count it. Beyond that:
 | Grounded | 2020 | Obsidian | Microsoft | Survival | 1–4 | Yes | Ported | PS5, Switch (2024), PC | Part of the 2024 multiplatform wave. |
 | Ori and the Will of the Wisps | 2020 | Moon Studios | Microsoft | Platformer | 1 | No | Ported | Switch (2020), PC | |
 | Tell Me Why | 2020 | Dontnod | Microsoft | Adventure | 1 | No | **Stranded** | — | PC version day-one; delisted from sale in 2024 and made temporarily free. |
+| Forza Horizon 5 | 2021 | Playground Games | Microsoft | Racing | 1–12 | Yes | Sim-ship | Xbox Series X\|S (2021, same day); PS5 (2025), PC | Also catalogued under [Xbox Series X\|S](xbox-series.md). |
 | Halo Infinite | 2021 | 343 Industries | Microsoft | FPS | 1–24 | Yes | Sim-ship | Xbox Series X\|S, PC (2021, same day) | Cross-gen launch; also catalogued under [Xbox Series X\|S](xbox-series.md). |
 | Pentiment | 2022 | Obsidian | Microsoft | Adventure | 1 | No | Ported | PS5, Switch (2024), PC | |
 
@@ -100,7 +101,6 @@ this repo does not count it. Beyond that:
 | Age of Empires: Definitive Edition line | 2018–21 | Remasters of PC originals. |
 | Hellblade: Senua's Sacrifice | 2018 | PS4 and PC original (2017). |
 | Minecraft Dungeons, Flight Simulator | 2020 | Simultaneous multiplatform / PC-first. |
-| Forza Horizon 5 | 2021 | Simultaneous Xbox One + Series X\|S — catalogued under [Xbox Series X\|S](xbox-series.md). |
 | Any Xbox / 360 BC titles | — | Backward compatibility, not a re-release. |
 | *(games with a later or day-one PC port)* | — | **Not `Ported`.** PC is not a catalogued platform — the game stays `Stranded` with the PC release noted. |
 

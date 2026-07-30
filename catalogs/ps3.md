@@ -14,10 +14,10 @@
 
 | | Count |
 |---|---|
-| **Debut games** | **50** |
+| **Debut games** | **55** |
 | — still `Stranded` | 31 |
 | — since `Ported` | 17 |
-| — `Sim-ship` | 2 |
+| — `Sim-ship` | 7 |
 | **Contested** | 2 |
 
 **Why the PS3 strands games.** The PS3 is the first platform in this repo where the
@@ -75,6 +75,7 @@ not "someone emulated it".
 | Heavy Rain | 2010 | Quantic Dream | Sony | Interactive drama | 1 | No | Ported | PS4 (2016), PC (2019) | |
 | MLB 10: The Show | 2010 | SCE San Diego | Sony | Sports | 1–4 | Dead | **Stranded** | — | Representative of the entire `MLB The Show` PS3 line — MLB, MLBPA and individual player licences, all expired annually by design. |
 | NieR | 2010 | Cavia | Square Enix | Action RPG | 1 | No | Sim-ship | Xbox 360 (2010, same day) | Cavia dissolved; `NieR Replicant ver.1.22` (2021) is a remake, not a port of this build. |
+| Red Dead Redemption | 2010 | Rockstar San Diego | Rockstar | Open-world action | 1–16 | Dead | Sim-ship | Xbox 360 (2010, same day); Switch, PS4 (2023) | Also catalogued under [Xbox 360](xbox-360.md). |
 | Catherine | 2011 | Atlus | Atlus | Puzzle / adventure | 1–2 | Dead | Ported | PC, PS4, Switch, Vita (2019, *Full Body*) | |
 | El Shaddai: Ascension of the Metatron | 2011 | Ignition Tokyo | Ignition | Action | 1 | No | **Stranded** | — | No console release. PC version exists (PC (2021)) but PC is not a catalogued platform. |
 | inFamous 2 | 2011 | Sucker Punch | Sony | Open-world action | 1 | No | **Stranded** | — | Sucker Punch moved to *Ghost of Tsushima*; neither inFamous game has been remastered. |
@@ -84,6 +85,8 @@ not "someone emulated it".
 | Uncharted 3: Drake's Deception | 2011 | Naughty Dog | Sony | Action-adventure | 1–10 | Dead | Ported | PS4 (2015, *Nathan Drake Collection*) | |
 | Asura's Wrath | 2012 | CyberConnect2 | Capcom | Action | 1 | No | **Stranded** | — | Structured as an anime series with quick-time set pieces; Capcom has never reissued it. |
 | Journey | 2012 | Thatgamecompany | Sony | Ambient adventure | 1–2 | Yes | Ported | PS4 (2015), PC (2019), iOS | |
+| PlayStation All-Stars Battle Royale | 2012 | SuperBot / Bluepoint | Sony | Fighting | 1–4 | Dead (2018) | Sim-ship | PS Vita (2012, same day) | Also catalogued under [PS Vita](ps-vita.md). |
+| Sound Shapes | 2012 | Queasy Games | Sony | Music platformer | 1–2 | Dead | Sim-ship | PS Vita (2012, same day), PS4 (2013) | Cross-buy across all three PlayStation platforms. Also catalogued under [PS Vita](ps-vita.md). |
 | Starhawk | 2012 | LightBox | Sony | Vehicular shooter | 1–32 | **Dead (2018)** | **Stranded** | — | Online-focused successor to `Warhawk`; LightBox closed in 2013. |
 | The Unfinished Swan | 2012 | Giant Sparrow | Sony | Puzzle-adventure | 1 | No | Ported | PS4, Vita (2014), PC, iOS (2020) | |
 | Tokyo Jungle | 2012 | Crispy's / Japan Studio | Sony | Survival | 1–2 | No | **Stranded** | — | Play as animals surviving a depopulated Tokyo. Japan Studio dissolved in 2021. |
@@ -91,11 +94,13 @@ not "someone emulated it".
 | Wonderbook: Book of Spells | 2012 | SCE London | Sony | Augmented reality | 1 | No | **Stranded** | — | **The most unreproducible entry in this repo.** Requires the PlayStation Move controller, the PlayStation Eye camera, *and* a physical printed book the camera reads — plus a J.K. Rowling writing credit. Sony London closed in 2019. |
 | Yakuza 5 | 2012 | Sega | Sega | Action-adventure | 1 | No | Ported | PS4 (2015), PC, Xbox (2021, *Remastered*) | |
 | Beyond: Two Souls | 2013 | Quantic Dream | Sony | Interactive drama | 1–2 | No | Ported | PS4 (2015), PC (2019) | |
+| Dragon's Crown | 2013 | Vanillaware | Atlus | Beat 'em up / RPG | 1–4 | Dead | Sim-ship | PS Vita (2013, same day), PS4 (2018, *Pro*) | Also catalogued under [PS Vita](ps-vita.md). |
 | Gran Turismo 6 | 2013 | Polyphony Digital | Sony | Racing | 1–16 | **Dead (2018)** | **Stranded** | — | Released weeks after the PS4 launched, then abandoned. |
 | Puppeteer | 2013 | SCE Japan Studio | Sony | Platformer | 1–2 | No | **Stranded** | — | A theatre-stage platformer with sets that physically change mid-level. Critically praised, commercially ignored, and Japan Studio no longer exists. The clearest "deserves a port and will never get one" entry on the platform. |
 | Rain | 2013 | Acquire / Japan Studio | Sony | Puzzle-adventure | 1 | No | **Stranded** | — | A small Japan Studio digital release; the studio was dissolved in 2021. |
 | Sly Cooper: Thieves in Time | 2013 | Sanzaru Games | Sony | Platformer | 1 | No | Sim-ship | Vita (2013, same day) | Cross-buy. The series has been dormant since. |
 | The Last of Us | 2013 | Naughty Dog | Sony | Action-adventure | 1–8 | Dead (2019) | Ported | PS4 (2014, *Remastered*), PS5 (2022, *Part I*), PC | |
+| The Legend of Heroes: Trails of Cold Steel | 2013 | Nihon Falcom | Falcom / XSEED | JRPG | 1 | No | Sim-ship | PS Vita (2013, same day), PC (2017), PS4 (2019), Switch (2022) | Also catalogued under [PS Vita](ps-vita.md). |
 
 ## Contested
 
@@ -115,10 +120,6 @@ not "someone emulated it".
 | Deadly Premonition | 2010 | Xbox 360 original (2010); PS3 followed as *Director's Cut*. |
 | Bayonetta (PS3) | 2010 | Simultaneous-ish multiplatform, Xbox 360 lead. |
 | Demon's Souls (2020) | 2020 | A PS5 remake, not a PS3 game. |
-| PlayStation All-Stars Battle Royale | 2012 | Simultaneous PS3 + Vita — catalogued under [PS Vita](ps-vita.md). |
-| Sound Shapes | 2012 | Simultaneous PS3 + Vita — catalogued under [PS Vita](ps-vita.md). |
-| Dragon's Crown | 2013 | Simultaneous PS3 + Vita — catalogued under [PS Vita](ps-vita.md). |
-| The Legend of Heroes: Trails of Cold Steel | 2013 | Simultaneous PS3 + Vita — catalogued under [PS Vita](ps-vita.md). |
 | Any PS2 Classics / PS Plus release | — | Re-releases by definition. |
 | *(games with an earlier arcade release)* | — | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on another home platform still disqualifies. |
 
