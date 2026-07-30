@@ -25,14 +25,14 @@ debut is permanent.
 | [Sega SG-1000](catalogs/sg-1000.md) | Jul 1983 – 1985 | **10** | 9 | 1 |
 | [Atari 7800](catalogs/atari-7800.md) | Designed 1984, shelved, released May 1986 – 1992 | **11** | 7 | 4 |
 | [Sega Master System](catalogs/master-system.md) | Oct 1985 – 1996 int'l, but **manufactured in Brazil by Tectoy into the 2020s** | **30** | 22 | 8 |
-| [TurboGrafx-16 / PC Engine](catalogs/turbografx-16.md) | Oct 1987 – 1994 int'l / 1999 JP | **28** | 9 | 19 |
-| [Sega Genesis / Mega Drive](catalogs/genesis.md) | Oct 1988 – 1997 (Brazil: into the 2020s via Tectoy) | **46** | 13 | 32 +1 sim |
+| [TurboGrafx-16 / PC Engine](catalogs/turbografx-16.md) | Oct 1987 – 1994 int'l / 1999 JP | **29** | 9 | 20 |
+| [Sega Genesis / Mega Drive](catalogs/genesis.md) | Oct 1988 – 1997 (Brazil: into the 2020s via Tectoy) | **47** | 14 | 32 +1 sim |
 | [Atari Lynx](catalogs/atari-lynx.md) | Sep 1989 – 1995 | **15** | 10 | 5 |
 | [Game Boy](catalogs/game-boy.md) | Apr 1989 (JP) – 2003 | **34** | 11 | 22 +1 sim |
 | [Amstrad GX4000](catalogs/amstrad-gx4000.md) | Sep 1990 – 1991 | **3** | 3 | 0 |
 | [Sega Game Gear](catalogs/game-gear.md) | Oct 1990 – 1997 | **31** | 19 | 11 +1 sim |
 | [SNK Neo Geo](catalogs/neo-geo.md) | Apr 1990 – 2004 (final AES release) | **23** | 5 | 18 |
-| [Super Nintendo / Super Famicom](catalogs/snes.md) | Nov 1990 (JP) – 1999 (NA) / 2003 (JP) | **56** | 16 | 39 +1 sim |
+| [Super Nintendo / Super Famicom](catalogs/snes.md) | Nov 1990 (JP) – 1999 (NA) / 2003 (JP) | **57** | 16 | 40 +1 sim |
 | [Philips CD-i](catalogs/cd-i.md) | Oct 1991 – 1998 | **9** | 8 | 1 |
 | [Watara Supervision](catalogs/watara-supervision.md) | 1992 – 1996 | **4** | 4 | 0 |
 | [3DO Interactive Multiplayer](catalogs/3do.md) | Oct 1993 – 1996 | **16** | 10 | 6 |
@@ -42,10 +42,10 @@ debut is permanent.
 | [Bandai Playdia](catalogs/bandai-playdia.md) | Sep 1994 – 1996 | **5** | 5 | 0 |
 | [NEC PC-FX](catalogs/pc-fx.md) | Dec 1994 – 1998 | **9** | 9 | 0 |
 | [Sony PlayStation](catalogs/ps1.md) | Dec 1994 – Mar 2006 | **52** | 21 | 31 |
-| [Sega Saturn](catalogs/saturn.md) | Nov 1994 – 2000 (Japan) | **34** | 21 | 13 |
+| [Sega Saturn](catalogs/saturn.md) | Nov 1994 – 2000 (Japan) | **36** | 23 | 13 |
 | [Casio Loopy](catalogs/casio-loopy.md) | Oct 1995 – 1998 | **5** | 5 | 0 |
 | [Nintendo Virtual Boy](catalogs/virtual-boy.md) | Jul 1995 (JP) – Mar 1996 | **24** | 10 | 14 |
-| [Apple Bandai Pippin](catalogs/apple-pippin.md) | Mar 1996 – 1997 | **4** | 4 | 0 |
+| [Apple Bandai Pippin](catalogs/apple-pippin.md) | Mar 1996 – 1997 | **5** | 5 | 0 |
 | [Nintendo 64](catalogs/n64.md) | Jun 1996 (JP) – 2002 | **61** | 23 | 38 |
 | [Tiger Game.com](catalogs/game-com.md) | Sep 1997 – 2000 | **4** | 4 | 0 |
 | [Sega Dreamcast](catalogs/dreamcast.md) | Nov 1998 – Mar 2001 (discontinued) | **37** | 17 | 20 |
@@ -54,36 +54,36 @@ debut is permanent.
 | [Bandai WonderSwan](catalogs/wonderswan.md) | Mar 1999 – 2003 | **15** | 12 | 3 |
 | [VM Labs Nuon](catalogs/nuon.md) | 2000 – 2002 | **5** | 4 | 1 |
 | [Sony PlayStation 2](catalogs/ps2.md) | Mar 2000 – Jan 2013 | **63** | 28 | 32 +3 sim |
-| [Nintendo GameCube](catalogs/gamecube.md) | Sep 2001 (JP) – 2007 | **49** | 23 | 23 +3 sim |
-| [Game Boy Advance](catalogs/gba.md) | Mar 2001 (JP) – 2010 | **40** | 18 | 22 |
+| [Nintendo GameCube](catalogs/gamecube.md) | Sep 2001 (JP) – 2007 | **51** | 24 | 24 +3 sim |
+| [Game Boy Advance](catalogs/gba.md) | Mar 2001 (JP) – 2010 | **41** | 19 | 22 |
 | [Microsoft Xbox](catalogs/xbox.md) | Nov 2001 – 2009 | **34** | 21 | 10 +3 sim |
 | [LeapFrog Leapster / Didj / LeapTV](catalogs/leapfrog.md) | 2003 – 2016 | **6** | 6 | 0 |
 | [Nokia N-Gage](catalogs/n-gage.md) | Oct 2003 – 2005 (hardware) | **8** | 8 | 0 |
 | [Nintendo DS](catalogs/nintendo-ds.md) | Nov 2004 – 2014 | **49** | 35 | 14 |
-| [PlayStation Portable](catalogs/psp.md) | Dec 2004 (JP) – 2014 (production ended) | **65** | 35 | 28 +2 sim |
+| [PlayStation Portable](catalogs/psp.md) | Dec 2004 (JP) – 2014 (production ended) | **66** | 36 | 28 +2 sim |
 | [VTech V.Smile](catalogs/vtech-vsmile.md) | 2004 – 2011 | **5** | 5 | 0 |
 | [SSD Company XaviXPORT](catalogs/xavix.md) | 2004 – 2010 | **5** | 5 | 0 |
 | [Tiger Telematics Gizmondo](catalogs/gizmondo.md) | Mar 2005 – Feb 2006 | **5** | 5 | 0 |
 | [Microsoft Xbox 360](catalogs/xbox-360.md) | Nov 2005 – 2016 | **44** | 22 | 20 +2 sim |
-| [Sony PlayStation 3](catalogs/ps3.md) | Nov 2006 – 2017 | **55** | 31 | 17 +7 sim |
-| [Nintendo Wii](catalogs/wii.md) | Nov 2006 – 2013 | **48** | 34 | 14 |
-| [Nintendo 3DS](catalogs/nintendo-3ds.md) | Feb 2011 (JP) – Sep 2020 (production ended) | **143** | 122 | 14 +7 sim |
+| [Sony PlayStation 3](catalogs/ps3.md) | Nov 2006 – 2017 | **57** | 31 | 19 +7 sim |
+| [Nintendo Wii](catalogs/wii.md) | Nov 2006 – 2013 | **51** | 37 | 14 |
+| [Nintendo 3DS](catalogs/nintendo-3ds.md) | Feb 2011 (JP) – Sep 2020 (production ended) | **145** | 124 | 14 +7 sim |
 | [PlayStation Vita](catalogs/ps-vita.md) | Dec 2011 (JP) – Mar 2019 (production ended) | **58** | 37 | 14 +7 sim |
-| [Nintendo Wii U](catalogs/wii-u.md) | Nov 2012 – Jan 2017 (13.56M units sold) | **78** | 42 | 29 +7 sim |
-| [Sony PlayStation 4](catalogs/ps4.md) | Nov 2013 – 2021 (production wound down) | **27** | 20 | 3 +4 sim |
-| [Microsoft Xbox One](catalogs/xbox-one.md) | Nov 2013 – 2020 | **29** | 20 | 7 +2 sim |
-| [Nintendo Switch](catalogs/switch.md) | Mar 2017 – present (superseded by Switch 2, Jun 2025) | **45** | 39 | 5 +1 sim |
+| [Nintendo Wii U](catalogs/wii-u.md) | Nov 2012 – Jan 2017 (13.56M units sold) | **79** | 43 | 29 +7 sim |
+| [Sony PlayStation 4](catalogs/ps4.md) | Nov 2013 – 2021 (production wound down) | **28** | 21 | 3 +4 sim |
+| [Microsoft Xbox One](catalogs/xbox-one.md) | Nov 2013 – 2020 | **31** | 21 | 8 +2 sim |
+| [Nintendo Switch](catalogs/switch.md) | Mar 2017 – present (superseded by Switch 2, Jun 2025) | **47** | 41 | 5 +1 sim |
 | [Sony PlayStation 5](catalogs/ps5.md) | Nov 2020 – present | **17** | 12 | 0 +5 sim |
 | [Microsoft Xbox Series X|S](catalogs/xbox-series.md) | Nov 2020 – present | **10** | 5 | 4 +1 sim |
 | [Panic Playdate](catalogs/playdate.md) | Apr 2022 – present | **6** | 5 | 1 |
-| [Nintendo Switch 2](catalogs/switch-2.md) | Jun 2025 – present | **8** | 6 | 0 +2 sim |
+| [Nintendo Switch 2](catalogs/switch-2.md) | Jun 2025 – present | **9** | 6 | 0 +3 sim |
 
 **All 68 console and handheld platforms catalogued** — every TV-connected
 and portable games system with a commercial software library, from the Magnavox Odyssey
 (1972) to the Switch 2 (2025). See [ROSTER.md](ROSTER.md) for what is included,
 excluded and folded in, and why.
 
-**1,685 debut games. 999 still stranded.**
+**1,709 debut games. 1016 still stranded.**
 
 
 **Hardware revisions are not platforms.** Game Boy Pocket/Light, GBA SP/Micro,
@@ -120,9 +120,14 @@ the catalogues surface:
 A game qualifies on **one** test: **did it debut here?** The platform must be the
 game's first release anywhere, and the only platform it launched on.
 
-Disqualified: ports, HD remasters, remakes, compilations, and any prior release on
+Disqualified: ports, HD remasters, remakes, and any prior release on
 another **home** platform. **Arcades are out of scope** — a cabinet is not a
 collectable device, so `Street Fighter II` counts as an SNES debut.
+
+**Compilations count.** A compilation is a new product and debuts where that product
+first shipped — `Super Mario All-Stars` is an SNES debut, while the NES games inside it
+keep their own NES entries. A compilation is also a re-release vehicle for its contents,
+so both facts hold at once.
 
 Not disqualified: **same-day multiplatform launches** (recorded as `Sim-ship`, and
 listed in each platform's catalogue) or **later ports**. `Mario Kart 8` reaching Switch in 2017 does not

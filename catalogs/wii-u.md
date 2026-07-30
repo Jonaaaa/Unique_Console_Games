@@ -14,8 +14,8 @@
 
 | | Count |
 |---|---|
-| **Debut games** | **78** |
-| — still `Stranded` | 42 |
+| **Debut games** | **79** |
+| — still `Stranded` | 43 |
 | — since `Ported` | 29 |
 | — `Sim-ship` | 7 |
 | **Contested** | 2 |
@@ -88,6 +88,7 @@ Every game that debuted on this platform and launched nowhere else. `Status` rec
 | Taiko no Tatsujin: Tokumori! | 2014 | Bandai Namco Studios | Bandai Namco | Rhythm | 1–4 | No | Stranded | — | Japan-only. TaTaCon peripheral + licensed tracklist. |
 | The Letter | 2014 | TreeFall Studios | TreeFall Studios | Adventure / horror | 1 | No | Ported | PS4, PC (2022, *Classic Edition*) | Built in ~2 months; a notorious eShop low point. Escaped the Wii U eight years later. |
 | Affordable Space Adventures | 2015 | KnapNok Games / Nifflas | Nintendo | Puzzle / stealth | 1–3 (asym.) | No | Stranded | — | The GamePad is the ship's engineering console — throttle, scanner and power management. Its developers have described it as unportable. |
+| amiibo tap: Nintendo's Greatest Bits | 2015 | Nintendo | Nintendo | Compilation | 1 | Dead (2024) | **Stranded** | — | A free download that unlocked short excerpts of NES and SNES games by scanning amiibo — playable slices rather than full games, which is unusual enough to be its own product. Requires amiibo and a dead eShop. |
 | Animal Crossing: amiibo Festival | 2015 | Nd Cube | Nintendo | Board game | 1–4 | No | Stranded | — | Cannot be played without amiibo figures. |
 | Art Academy: Home Studio | 2015 | Headstrong Games | Nintendo | Art / edutainment | 1 | Dead (2024) | Stranded | — | PAL: *Art Academy: Atelier*. Stylus-driven; sharing features died with the servers. |
 | Cube Life: Island Survival | 2015 | Cypronia | Cypronia | Survival sandbox | 1 | No | Ported | PC (2018), Switch (2020), PS4 (2021) — as *HD* | Voxel survival sandbox; one of the few eShop titles to sell well enough to justify a port. |
@@ -152,7 +153,6 @@ conflate *not on Switch* with *exclusive*. Recorded so they are not re-added.
 | Watch Dogs | 2014 | Multiplatform. |
 | Deus Ex: Human Revolution — Director's Cut | 2013 | Re-release of a 2011 multiplatform game. |
 | Sonic & All-Stars Racing Transformed | 2012 | Multiplatform. |
-| amiibo tap: Nintendo's Greatest Bits | 2015 | Compilation of Virtual Console demos. |
 | Wii U Panorama View | 2013 | Video application, not a game. |
 | Wii Karaoke U | 2013 | Subscription service application, not a game. |
 | Minecraft: Wii U Edition | 2015 | Port of the 2011 PC game. Frequently miscounted as an exclusive because the Wii U SKU never moved. |

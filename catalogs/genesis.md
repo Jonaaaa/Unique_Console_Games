@@ -21,8 +21,8 @@ Origins*, and per-series collections. **Most of the Genesis canon reads as
 
 | | Count |
 |---|---|
-| **Debut games** | **46** |
-| — still `Stranded` | 13 |
+| **Debut games** | **47** |
+| — still `Stranded` | 14 |
 | — since `Ported` | 32 |
 | **Contested** | 1 |
 
@@ -88,6 +88,7 @@ likeness rights alongside everything else.
 | Knuckles' Chaotix | 1995 | Sonic Team | Sega | Platformer | 1–2 | No | **Stranded** | — | **32X.** A mainline Sonic-family game excluded from every Sonic collection, because reissuing it means emulating the 32X. |
 | Kolibri | 1995 | Novotrade | Sega | Shoot 'em up | 1 | No | **Stranded** | — | **32X.** From the *Ecco* team. |
 | Ristar | 1995 | Sega | Sega | Platformer | 1 | No | Ported | Sega collections, Mega Drive Mini, Switch Online | |
+| Sonic Compilation | 1995 | Sega | Sega | Compilation | 1–2 | No | **Stranded** | — | PAL/Brazil-only. Bundles the first two Sonic games and *Dr. Robotnik's Mean Bean Machine* on one cartridge; the compilation SKU has never been reissued. |
 | Vectorman | 1995 | BlueSky | Sega | Run and gun | 1 | No | Ported | Sega collections, Switch Online | |
 | X-Men 2: Clone Wars | 1995 | Headgames | Sega | Action-platformer | 1 | No | **Stranded** | — | Marvel licence. |
 
@@ -104,7 +105,6 @@ likeness rights alongside everything else.
 | Snatcher | 1994 | **Sega CD** port of the 1988 PC-8801 game. |
 | Popful Mail | 1994 | Sega CD port of a 1991 PC-8801 game. |
 | Sonic 3D Blast | 1996 | Qualifies and is `Ported`; listed here because the Saturn version confuses its lineage. |
-| Sonic Jam, Sonic Mega Collection, Sega Classics | 1997–2002 | Compilations. |
 | Virtua Racing (32X) | 1994 | The Genesis cartridge version shipped first. |
 | Any Sega Genesis Classics / Mega Drive Mini / Switch Online release | — | Re-releases by definition. |
 | *(games with an earlier arcade release)* | — | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on another home platform still disqualifies. |

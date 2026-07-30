@@ -15,8 +15,8 @@
 
 | | Count |
 |---|---|
-| **Debut games** | **143** |
-| — still `Stranded` | 122 |
+| **Debut games** | **145** |
+| — still `Stranded` | 124 |
 | — since `Ported` | 14 |
 | — `Sim-ship` | 7 |
 | **Contested** | 1 |
@@ -132,6 +132,7 @@ it stands today; it does not affect membership.
 | Story of Seasons | 2014 | Marvelous | XSEED | Farming sim | 1–4 | Dead (2024) | Stranded | — | The first game under the renamed brand. |
 | Super Smash Bros. for Nintendo 3DS | 2014 | Sora Ltd. / Bandai Namco | Nintendo | Fighting | 1–4 | Dead (2024) | Stranded | — | ⚠ [Contested](#contested) — released weeks *before* the Wii U version under the same product line. |
 | Theatrhythm Final Fantasy: Curtain Call | 2014 | indieszero | Square Enix | Rhythm | 1–4 | Dead (2024) | Stranded | — | *Final Bar Line* rebuilt the concept on Switch from scratch rather than porting this, and its 221-track list would need re-clearing. |
+| Ultimate NES Remix | 2014 | indieszero | Nintendo | Compilation | 1 | Dead (2024) | **Stranded** | — | A selection drawn from the Wii U *NES Remix* games with new speedrun modes. Both source games are stranded on [Wii U](wii-u.md), so the whole NES Remix line is unavailable. |
 | Yo-kai Watch 2 | 2014 | Level-5 | Level-5 / Nintendo | RPG | 1–4 | Dead (2024) | Stranded | — | Only the first Yo-kai Watch reached Switch. |
 | Yoshi's New Island | 2014 | Arzest | Nintendo | Platformer | 1 | No | Stranded | — | The weakest-received Yoshi game; Nintendo has left it alone. |
 | 7th Dragon III Code: VFD | 2015 | Sega | Sega | JRPG | 1 | No | Stranded | — | The only 7th Dragon game ever localised, and stuck here. |
@@ -152,6 +153,7 @@ it stands today; it does not affect membership.
 | Return to PopoloCrois: A Story of Seasons Fairytale | 2015 | Epics | XSEED | RPG | 1 | No | Stranded | — | Combines the PopoloCrois manga licence with the Story of Seasons brand — two separate rights holders to satisfy. |
 | Rhythm Heaven Megamix | 2015 | Nintendo SPD | Nintendo | Rhythm | 1 | Dead (2024) | Stranded | — | The series has been dormant since. |
 | Rodea the Sky Soldier | 2015 | Prope | Kadokawa / NIS America | Action | 1 | No | Sim-ship | Wii U (2015, same day) | |
+| Sega 3D Classics Collection | 2015 | M2 | Sega | Compilation | 1–2 | No | **Stranded** | — | M2's stereoscopic 3D conversions of Sega arcade and Genesis games. The 3D rendering was built for this hardware and has never been reproduced. |
 | Stella Glow | 2015 | Imageepoch | Sega / Atlus | Tactical RPG | 1 | No | Stranded | — | Imageepoch's final game before bankruptcy. |
 | Stretchmo | 2015 | Intelligent Systems | Nintendo | Puzzle | 1 | Dead (2024) | Stranded | — | PAL: *Fullblox*. Free-to-start. |
 | Style Savvy: Fashion Forward | 2015 | Syn Sophia | Nintendo | Fashion sim | 1 | Dead (2024) | Stranded | — | PAL: *Nintendo Presents: New Style Boutique 2*. The whole series is stranded; its licensing-adjacent fashion content complicates re-release. |
@@ -225,8 +227,6 @@ despite not being debuts.
 | Poochy & Yoshi's Woolly World | 2017 | Port of the 2015 Wii U game. |
 | Captain Toad: Treasure Tracker | 2018 | Port of the 2014 Wii U game. |
 | Hyrule Warriors Legends | 2016 | Enhanced port of the 2014 Wii U game. |
-| Ultimate NES Remix | 2014 | Compilation drawn from the Wii U *NES Remix* games. |
-| Bit.Trip Saga / Sega 3D Reprint Archives / 3D Classics | 2011–15 | Compilations of previously released games. |
 | Ace Combat: Assault Horizon Legacy | 2011 | Remake of *Ace Combat 2* (PS1, 1997). |
 | Dragon Quest VII / VIII (3DS) | 2013–15 | Remakes/ports of PS1 and PS2 games. |
 | Any Nintendo DS card or DSiWare title played on 3DS | — | Backward compatibility. |

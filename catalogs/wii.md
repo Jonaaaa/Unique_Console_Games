@@ -15,8 +15,8 @@
 
 | | Count |
 |---|---|
-| **Debut games** | **48** |
-| — still `Stranded` | 34 |
+| **Debut games** | **51** |
+| — still `Stranded` | 37 |
 | — since `Ported` | 14 |
 | **Contested** | 1 |
 
@@ -71,6 +71,7 @@ migrated.
 | Excitebots: Trick Racing | 2009 | Monster Games | Nintendo | Racing | 1–2 | Dead (2014) | **Stranded** | — | North America only, in tiny numbers. |
 | Little King's Story | 2009 | Cing / Town Factory | Marvelous / XSEED | Strategy | 1 | No | Ported | PSP (2012), PC, Switch (2019–20) | |
 | MadWorld | 2009 | PlatinumGames | Sega | Beat 'em up | 1 | No | **Stranded** | — | PlatinumGames' monochrome ultraviolence; the only one of its four early games never reissued. |
+| Metroid Prime Trilogy | 2009 | Retro Studios | Nintendo | Compilation | 1–4 | No | **Stranded** | — | Prime 1 and 2 rebuilt with Wii pointer controls plus Prime 3. *Metroid Prime Remastered* (Switch, 2023) covered only the first game, so this package — and the Wii control scheme for Prime 1 and 2 — remains Wii-only. |
 | Muramasa: The Demon Blade | 2009 | Vanillaware | Marvelous / XSEED | Action RPG | 1 | No | Ported | Vita (2013, *Rebirth*) | |
 | New Super Mario Bros. Wii | 2009 | Nintendo EAD | Nintendo | Platformer | 1–4 | No | **Stranded** | — | 30.32M. The only mainline New Super Mario Bros. game never re-released. |
 | Punch-Out!! | 2009 | Next Level Games | Nintendo | Sports | 1–2 | No | **Stranded** | — | The series' last entry, 15 years on. |
@@ -80,6 +81,7 @@ migrated.
 | Kirby's Epic Yarn | 2010 | Good-Feel / HAL | Nintendo | Platformer | 1–2 | No | Ported | 3DS (2019, *Extra Epic Yarn*) | |
 | Metroid: Other M | 2010 | Team Ninja / Nintendo SPD | Nintendo | Action-adventure | 1 | No | **Stranded** | — | Controlled by holding the remote NES-style and pointing at the screen to shoot — a scheme with no modern analogue. |
 | Sonic Colors | 2010 | Sonic Team | Sega | Platformer | 1 | No | Ported | Multiplatform (2021, *Ultimate*) | |
+| Super Mario All-Stars: 25th Anniversary Edition | 2010 | Nintendo | Nintendo | Compilation | 1–2 | No | **Stranded** | — | A limited-run reissue of the SNES compilation with a soundtrack CD and booklet, sold for a few months only. The disc itself has never been reissued. |
 | Super Mario Galaxy 2 | 2010 | Nintendo EAD | Nintendo | Platformer | 1–2 | No | Ported | Switch (2025, *Galaxy 1+2*) | Was stranded for 15 years — omitted from *3D All-Stars* in 2020. |
 | Tatsunoko vs. Capcom: Ultimate All-Shooters | 2010 | Eighting | Capcom | Fighting | 1–2 | Dead (2014) | **Stranded** | — | A Capcom crossover with Tatsunoko's anime roster. The anime licence expired and cannot realistically be renewed. |
 | Trauma Team | 2010 | Atlus | Atlus | Simulation | 1–2 | No | **Stranded** | — | The last Trauma Center game; six specialisms, all motion-controlled. |
@@ -90,6 +92,7 @@ migrated.
 | Rhythm Heaven Fever | 2011 | Nintendo SPD | Nintendo | Rhythm | 1–2 | No | **Stranded** | — | PAL: *Beat the Beat: Rhythm Paradise*. |
 | The Last Story | 2011 | Mistwalker / AQ Interactive | Nintendo | RPG | 1–6 | Dead (2014) | **Stranded** | — | Hironobu Sakaguchi's post-Final Fantasy RPG. One of the Operation Rainfall three; the only one still stranded. |
 | The Legend of Zelda: Skyward Sword | 2011 | Nintendo EAD | Nintendo | Action-adventure | 1 | No | Ported | Switch (2021, *HD*) | Built for 1:1 MotionPlus swordplay; the HD version added a button-only scheme. |
+| Kirby's Dream Collection | 2012 | HAL Laboratory | Nintendo | Compilation | 1–4 | No | **Stranded** | — | Six Kirby games plus new challenge stages and a history booklet, released for the series' 20th anniversary in limited quantities. The new content exists nowhere else. |
 | Mario Party 9 | 2012 | Nd Cube | Nintendo | Party | 1–4 | No | **Stranded** | — | Its car-based board design has never been revisited, and the motion minigames rule out a straight port. |
 
 ## Contested
@@ -102,15 +105,12 @@ migrated.
 
 | Title | Year | Why excluded |
 |---|---|---|
-| Metroid Prime Trilogy | 2009 | Compilation, and the Prime 1/2 entries are GameCube games. |
 | New Play Control! series | 2008–09 | Wii re-releases of GameCube games (`Pikmin`, `Donkey Kong Jungle Beat`, `Mario Power Tennis`). |
 | Okami | 2008 | Port of the 2006 PS2 game. |
 | Trauma Center: Second Opinion | 2006 | Enhanced remake of the 2005 DS game. |
 | Klonoa | 2008 | Remake of the 1997 PS1 game. |
 | Resident Evil 4: Wii Edition | 2007 | Port of the 2005 GameCube game. |
-| Kirby's Dream Collection | 2012 | Compilation. |
 | Cave Story (WiiWare) | 2010 | PC original (2004). |
-| Super Mario All-Stars 25th Anniversary | 2010 | Compilation re-release. |
 | Any Virtual Console release | — | Re-releases by definition. |
 | *(games with an earlier arcade release)* | — | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on another home platform still disqualifies. |
 

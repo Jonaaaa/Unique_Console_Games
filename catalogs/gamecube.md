@@ -25,9 +25,9 @@ any `Stranded` claim for a Nintendo-published title here.
 
 | | Count |
 |---|---|
-| **Debut games** | **49** |
-| — still `Stranded` | 23 |
-| — since `Ported` | 23 |
+| **Debut games** | **51** |
+| — still `Stranded` | 24 |
+| — since `Ported` | 24 |
 | — `Sim-ship` | 3 |
 | **Contested** | 2 |
 
@@ -64,6 +64,7 @@ What is left splits three ways:
 | Eternal Darkness: Sanity's Requiem | 2002 | Silicon Knights | Nintendo | Survival horror | 1 | No | **Stranded** | — | Nintendo owns it outright, yet it has never been reissued. Its "sanity effects" patent expired in 2021; Silicon Knights collapsed after losing a countersuit to Epic in 2012. |
 | Metroid Prime | 2002 | Retro Studios | Nintendo | Action-adventure | 1 | No | Ported | Wii (2009), Switch (2023, *Remastered*) | |
 | Resident Evil Zero | 2002 | Capcom | Capcom | Survival horror | 1 | No | Ported | Wii, PS3/PS4, Xbox 360/One, PC, Switch (2016, *HD Remaster*) | |
+| Sonic Mega Collection | 2002 | Sonic Team | Sega | Compilation | 1–2 | No | Ported | PS2, Xbox, PC (2004, *Plus*) | |
 | Star Fox Adventures | 2002 | Rare | Nintendo | Action-adventure | 1 | No | **Stranded** | — | Rare's last Nintendo game, released weeks before Microsoft bought the studio. Nintendo owns Star Fox; Microsoft owns Rare. Neither can reissue it alone. |
 | Super Mario Sunshine | 2002 | Nintendo EAD | Nintendo | Platformer | 1 | No | Ported | Switch (2020, *3D All-Stars*), Switch 2 (announced) | |
 | The Legend of Zelda: The Wind Waker | 2002 | Nintendo EAD | Nintendo | Action-adventure | 1 | No | Ported | Wii U (2013, *HD*), Switch 2 (2025, Nintendo Classics) | The Switch 2 release is the **GameCube original**, not the Wii U remaster — which remains stranded on Wii U. |
@@ -83,6 +84,7 @@ What is left splits three ways:
 | Soulcalibur II | 2003 | Project Soul | Namco | Fighting | 1–2 | No | Sim-ship | PS2, Xbox (2003, same day); Switch 2 (2025, Nintendo Classics) | The GameCube build's exclusive Link guest character is why the Switch 2 reissue matters. |
 | Star Wars Rogue Squadron III: Rebel Strike | 2003 | Factor 5 | LucasArts | Action | 1–2 | No | **Stranded** | — | Factor 5 folded in 2009, and Disney's Star Wars reissue programme has skipped the Rogue Squadron trilogy entirely. |
 | Tales of Symphonia | 2003 | Namco Tales Studio | Namco | Action RPG | 1–4 | No | Ported | PS2 (2004), PS3, PC, Switch (2016–23) | |
+| The Legend of Zelda: Collector's Edition | 2003 | Nintendo | Nintendo | Compilation | 1 | No | **Stranded** | — | A promotional disc given away with hardware bundles and through Nintendo's loyalty programme, never sold at retail. Contains four Zelda games plus a *Wind Waker* demo, and has never been reissued in any form. |
 | Viewtiful Joe | 2003 | Clover Studio | Capcom | Action | 1 | No | Ported | PS2 (2004) | Part of the Capcom Five; the PS2 version arrived a year later. |
 | Wario World | 2003 | Treasure | Nintendo | Platformer | 1 | No | Ported | Switch 2 (2025, Nintendo Classics) | |
 | Custom Robo | 2004 | Noise | Nintendo | Fighting | 1–4 | No | **Stranded** | — | The series ended with this and its DS follow-up; Nintendo has not touched the IP since 2007. |
@@ -120,7 +122,6 @@ What is left splits three ways:
 | Doshin the Giant | 2002 | Port of the 1999 Nintendo 64DD game. |
 | Twilight Princess (GameCube) | 2006 | The Wii version released first (19 Nov 2006 vs 12 Dec). The GameCube build is the later release of the pair. |
 | Ikaruga | 2002 | Arcade first (2001); also Dreamcast in Japan. |
-| Timesplitters 2, Sonic Mega Collection, Zelda Collector's Edition | 2002–03 | Multiplatform or compilations. |
 | Any Wii disc played on GameCube hardware | — | Not possible; the reverse is backward compatibility. |
 | *(games with an earlier arcade release)* | — | **No longer excluded.** Arcades are out of scope — a cabinet is not a collectable home device — so the first *home* release counts as the debut. A prior release on another **home** console still disqualifies. |
 

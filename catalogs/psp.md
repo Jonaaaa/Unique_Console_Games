@@ -32,8 +32,8 @@ Consequences for this file:
 
 | | Count |
 |---|---|
-| **Debut games** | **65** |
-| — still `Stranded` | 35 |
+| **Debut games** | **66** |
+| — still `Stranded` | 36 |
 | — since `Ported` | 28 |
 | — `Sim-ship` | 2 |
 | **Contested** | 0 |
@@ -117,6 +117,7 @@ Every game that debuted on this platform and launched nowhere else. `Status` rec
 | Valkyria Chronicles II | 2010 | Sega | Sega | Tactical RPG | 1–2 | Dead | Stranded | — | The only numbered Valkyria game never re-released; *Valkyria Chronicles III* (2011, Japan-only) is likewise stranded and never officially localised. |
 | Z.H.P.: Unlosing Ranger vs. Darkdeath Evilman | 2010 | Nippon Ichi | NIS America | Roguelike | 1 | No | Stranded | — | A Nippon Ichi roguelike that never joined the Disgaea reissue programme. |
 | Dissidia 012 Final Fantasy | 2011 | Square Enix | Square Enix | Fighting | 1–2 | Dead | Stranded | — | *Dissidia NT* (2018) is a separate arcade-derived game, not a port of either PSP title. |
+| Final Fantasy IV: The Complete Collection | 2011 | Matrix Software | Square Enix | Compilation | 1 | Dead | **Stranded** | — | *FFIV*, its *The After Years* sequel, and **Interlude** — a new chapter written for this release and available nowhere else. The compilation has never been reissued. |
 | Grand Knights History | 2011 | Vanillaware | Marvelous | Tactical RPG | 1–4 | Dead | Stranded | — | Japan-only. The only Vanillaware game never localised or re-released — a planned English release was cancelled. |
 | Gungnir | 2011 | Sting | Atlus | Tactical RPG | 1 | No | Stranded | — | Sting's Dept. Heaven series is largely stranded — only `Riviera` and `Yggdra Union` ever escaped. |
 | Patapon 3 | 2011 | Japan Studio | SCE | Rhythm / strategy | 1–4 | Dead | Ported | PS4, PS5 (18 Feb 2025) | Was stranded until Feb 2025. |
@@ -137,7 +138,6 @@ None outstanding. Under the debut rule every former dispute resolved:
 |---|---|---|
 | Ape Escape: On the Loose | 2005 | Remake of the 1999 PS1 game. |
 | Star Ocean: First Departure / Second Evolution | 2007–08 | Remakes of SNES/PS1 games. |
-| Final Fantasy IV: The Complete Collection | 2011 | Compilation of previously released games. |
 | Gurumin: A Monstrous Adventure | 2006 | PC first (Japan, 2004). |
 | Ys: The Oath in Felghana | 2010 | PC first (Japan, 2005). |
 | The Legend of Heroes: Trails in the Sky | 2006 | PC first (Japan, 2004). |

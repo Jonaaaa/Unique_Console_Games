@@ -29,8 +29,8 @@ answer for a collector, but it is not the same kind of fact.
 
 | | Count |
 |---|---|
-| **Debut games** | **45** |
-| — still `Stranded` | 39 |
+| **Debut games** | **47** |
+| — still `Stranded` | 41 |
 | — since `Ported` | 5 |
 | — `Sim-ship` | 1 |
 | **Contested** | 1 |
@@ -77,6 +77,7 @@ Two narrower causes do real work, though:
 | Animal Crossing: New Horizons | 2020 | Nintendo EPD | Nintendo | Life sim | 1–8 | Yes | **Stranded** | — | **47.86M — the best-selling game in this repo that is still stranded.** |
 | Hyrule Warriors: Age of Calamity | 2020 | Omega Force | Nintendo | Musou | 1–2 | No | **Stranded** | — | Unlike the Wii U *Hyrule Warriors*, this one has not moved. |
 | Paper Mario: The Origami King | 2020 | Intelligent Systems | Nintendo | Adventure | 1 | No | **Stranded** | — | Intelligent Systems is a Nintendo subsidiary — there is no third party who could port it. |
+| Super Mario 3D All-Stars | 2020 | Nintendo EPD | Nintendo | Compilation | 1 | No | **Stranded** | — | **Deliberately delisted.** Nintendo sold it for six months only and withdrew it in March 2021, so a compilation of three Mario games became unobtainable by design — the only entry in this repo made unavailable on purpose while the console was current. |
 | Bravely Default II | 2021 | Claytechworks | Square Enix / Nintendo | RPG | 1 | No | **Stranded** | — | No console release. PC version exists (PC (2021)) but PC is not a catalogued platform. |
 | Metroid Dread | 2021 | MercurySteam / Nintendo EPD | Nintendo | Action-adventure | 1 | No | **Stranded** | — | MercurySteam worked for hire; Nintendo owns Metroid and has never placed it on other hardware. |
 | Monster Hunter Rise | 2021 | Capcom | Capcom | Hunting action | 1–4 | Yes | Ported | PC (2022), PS4/PS5, Xbox (2023) | A timed Switch exclusive; Capcom moved it as soon as the deal expired. |
@@ -96,6 +97,7 @@ Two narrower causes do real work, though:
 | Emio – The Smiling Man: Famicom Detective Club | 2024 | Nintendo / Mages | Nintendo | Visual novel | 1 | No | **Stranded** | — | A sequel to a 1988 Famicom Disk System series, 36 years later. |
 | Endless Ocean Luminous | 2024 | Arika | Nintendo | Diving sim | 1–30 | Yes | **Stranded** | — | A new entry rather than a port of the Wii games, which remain stranded. |
 | Mario & Luigi: Brothership | 2024 | Acquire | Nintendo | RPG | 1 | No | **Stranded** | — | The first Mario & Luigi game since AlphaDream's bankruptcy. |
+| Nintendo World Championships: NES Edition | 2024 | Nintendo | Nintendo | Compilation | 1–8 | Yes | **Stranded** | — | 150 speedrun challenges built from 13 NES games — original content, not a re-release of the [1990 competition cart](nes.md). |
 | Princess Peach: Showtime! | 2024 | Good-Feel | Nintendo | Action-adventure | 1 | No | **Stranded** | — | Good-Feel developed it; Nintendo owns the character and the publishing rights. |
 | Super Mario Party Jamboree | 2024 | Nd Cube | Nintendo | Party | 1–4 | Yes | Ported | Switch 2 (2025, *Switch 2 Edition*) | |
 | The Legend of Zelda: Echoes of Wisdom | 2024 | Grezzo | Nintendo | Action-adventure | 1 | No | **Stranded** | — | The first mainline Zelda with Zelda as the playable character. |
@@ -113,7 +115,6 @@ Two narrower causes do real work, though:
 | Mario Kart 8 Deluxe | 2017 | Enhanced port of the 2014 Wii U game. |
 | Pokémon: Let's Go, Pikachu! / Eevee! | 2018 | Remakes of *Pokémon Yellow* (1998). |
 | Link's Awakening | 2019 | Remake of the 1993 Game Boy game. |
-| Super Mario 3D All-Stars / Galaxy 1+2 | 2020–25 | Compilations of Wii and GameCube games. |
 | Brilliant Diamond / Shining Pearl | 2021 | Remakes of the 2006 DS games. |
 | Metroid Prime Remastered | 2023 | Remaster of the 2002 GameCube game. |
 | Super Mario RPG, Paper Mario: TTYD, Luigi's Mansion 2 HD | 2023–24 | Remakes/ports of SNES, GameCube and 3DS games. |

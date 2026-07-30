@@ -25,9 +25,9 @@ CD-ROM² catalogue — with no re-release of any kind.
 
 | | Count |
 |---|---|
-| **Debut games** | **28** |
+| **Debut games** | **29** |
 | — still `Stranded` | 9 |
-| — since `Ported` | 19 |
+| — since `Ported` | 20 |
 | **Contested** | 1 |
 
 **Why the TurboGrafx strands games.** Two causes, and the second is the largest
@@ -56,6 +56,7 @@ single localisation gap in this repo.
 | Military Madness | 1989 | Hudson Soft | NEC | Turn-based strategy | 1–2 | No | Ported | Wii Virtual Console, TurboGrafx-16 Mini | JP: *Nectaris*. |
 | Neutopia | 1989 | Hudson Soft | Hudson Soft | Action-adventure | 1 | No | Ported | Wii Virtual Console, TurboGrafx-16 Mini | An unusually direct Zelda homage. |
 | The Legendary Axe | 1989 | Victor Musical Industries | NEC | Action-platformer | 1 | No | Ported | TurboGrafx-16 Mini (2020) | |
+| Ys Book I & II | 1989 | Alfa System | NEC / Hudson | Compilation | 1 | No | Ported | Many later Ys collections and remasters | **CD-ROM².** A landmark release — the first console game with Redbook CD audio and full voice acting. The compilation debuted here; the two PC-8801 games inside it did not. |
 | Devil's Crush | 1990 | Compile | Naxat Soft | Pinball | 1 | No | Ported | Wii Virtual Console, TurboGrafx-16 Mini | The `Alien Crush` follow-up, and the better-regarded of the two. |
 | Splatterhouse | 1990 | Namco | Namco | Beat 'em up | 1 | No | Ported | Wii Virtual Console | The first home version of the 1988 cabinet, with the gore intact where the Genesis version was censored. |
 | 1941: Counter Attack | 1991 | Capcom / Hudson | NEC Avenue | Shoot 'em up | 1 | No | **Stranded** | — | **Super CD-ROM².** The home conversion has never been reissued; Capcom's collections use the arcade builds instead. |
@@ -87,7 +88,6 @@ single localisation gap in this repo.
 
 | Title | Year | Why excluded |
 |---|---|---|
-| Ys Book I & II | 1989 | **CD-ROM².** A compilation of two PC-8801 games (1987–88) — a landmark CD release, but not a debut. |
 | Snatcher | 1992 | CD-ROM² port of the 1988 PC-8801 game. |
 | Gradius / Gradius II | 1991–92 | Arcade-derived, with earlier home versions on NES and other platforms. |
 | R-Type | 1988 | Split across two HuCards, but earlier home conversions existed. |

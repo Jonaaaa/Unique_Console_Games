@@ -30,9 +30,20 @@ Disqualified:
 | **Port** — same game, later platform | `Bayonetta` on Wii U (Xbox 360/PS3, 2009) |
 | **Remaster / HD edition** | `The Wind Waker HD` — the game is a 2002 GameCube release |
 | **Remake**, however substantial | `Metroid: Samus Returns` remakes *Metroid II* (1991); `Pokémon Omega Ruby` remakes *Ruby* (2002) |
-| **Compilation** of previously released games | Virtual Console, NSO, `amiibo tap` |
 
 Not disqualified:
+
+- **Compilations.** A compilation is a **new product** and debuts on the platform where
+  that product first shipped. `Super Mario All-Stars` is an SNES debut; the NES games
+  inside it keep their own separate NES entries. Judge the compilation on its own
+  first-release date, not its contents'.
+
+  This cuts both ways and both directions are already in use:
+  - A compilation is itself catalogued as a debut where it first shipped.
+  - A compilation is **also** a re-release vehicle for its contents — being folded
+    into `WipEout Omega Collection` is what makes `WipEout 2048` `Ported`.
+
+  Both statements are true at once and neither overrides the other.
 
 - **A prior arcade release.** Arcades are **out of scope** — a cabinet is not a
   device anyone collects and plays at home, so an arcade original is invisible to

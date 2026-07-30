@@ -32,9 +32,9 @@ other retired platform's.
 
 | | Count |
 |---|---|
-| **Debut games** | **29** |
-| — still `Stranded` | 20 |
-| — since `Ported` | 7 |
+| **Debut games** | **31** |
+| — still `Stranded` | 21 |
+| — since `Ported` | 8 |
 | — `Sim-ship` | 2 |
 | **Contested** | 1 |
 
@@ -60,10 +60,12 @@ this repo does not count it. Beyond that:
 | Ryse: Son of Rome | 2013 | Crytek | Microsoft | Action | 1–2 | Dead | **Stranded** | — | Launch title. A PC version shipped in 2014; no other console. |
 | Fantasia: Music Evolved | 2014 | Harmonix | Disney | Rhythm | 1–2 | No | **Stranded** | — | Kinect **plus** a Disney licence **plus** licensed music — three independent walls, the most over-locked entry on the platform. |
 | Forza Horizon 2 | 2014 | Playground Games | Microsoft | Racing | 1–12 | Dead | **Stranded** | — | Delisted in 2018. |
+| Halo: The Master Chief Collection | 2014 | 343 Industries | Microsoft | Compilation | 1–24 | Yes | Ported | PC (2019–20) | Its `Halo 2: Anniversary` remaster is exclusive to this package. |
 | Kinect Sports Rivals | 2014 | Rare | Microsoft | Sports | 1–2 | Dead | **Stranded** | — | Rare's last Kinect game before *Sea of Thieves*. Needs hardware discontinued in 2017. |
 | Sunset Overdrive | 2014 | Insomniac | Microsoft | Action | 1–8 | Dead | **Stranded** | — | Insomniac was later bought by **Sony**, which makes a re-release of a Microsoft-published game structurally awkward. PC version 2018. |
 | Halo 5: Guardians | 2015 | 343 Industries | Microsoft | FPS | 1–24 | Yes | **Stranded** | — | **The only mainline Halo never released on PC and never added to *The Master Chief Collection*.** Microsoft has repeatedly declined to explain why. |
 | Ori and the Blind Forest | 2015 | Moon Studios | Microsoft | Platformer | 1 | No | Ported | Switch (2019), PC | One of the first Microsoft titles to reach a Nintendo platform. |
+| Rare Replay | 2015 | Rare | Microsoft | Compilation | 1–4 | Dead | **Stranded** | — | 30 Rare games spanning NES to Xbox 360, plus new documentary content and Snapshot challenges. The retrospective material exists nowhere else, and the package has never left Xbox. |
 | Rise of the Tomb Raider | 2015 | Crystal Dynamics | Microsoft | Action-adventure | 1 | No | Ported | PS4 (2016), PC, Switch | A timed exclusive; moved as soon as the deal expired. |
 | Forza Horizon 3 | 2016 | Playground Games | Microsoft | Racing | 1–12 | Dead | **Stranded** | — | **Delisted in 2020**, four years after release — the fastest licence-driven removal in this repo. |
 | Gears of War 4 | 2016 | The Coalition | Microsoft | Third-person shooter | 1–10 | Yes | **Stranded** | — | PC version day-one; never on another console. |
@@ -94,8 +96,6 @@ this repo does not count it. Beyond that:
 
 | Title | Year | Why excluded |
 |---|---|---|
-| Rare Replay | 2015 | Compilation of NES/N64/Xbox/360 games. |
-| Halo: The Master Chief Collection | 2014 | Compilation of remasters. |
 | Gears of War: Ultimate Edition | 2015 | Remaster of the 2006 Xbox 360 game. |
 | Phantom Dust HD, Voodoo Vince Remastered | 2017 | Remasters of original Xbox games. |
 | Age of Empires: Definitive Edition line | 2018–21 | Remasters of PC originals. |

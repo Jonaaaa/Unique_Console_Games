@@ -14,8 +14,8 @@
 
 | | Count |
 |---|---|
-| **Debut games** | **34** |
-| — still `Stranded` | 21 |
+| **Debut games** | **36** |
+| — still `Stranded` | 23 |
 | — since `Ported` | 13 |
 | **Contested** | 1 |
 
@@ -61,6 +61,7 @@ On top of that:
 | NiGHTS into Dreams | 1996 | Sonic Team | Sega | Action | 1–2 | No | Ported | PS2 (2008), PS3, Xbox 360, PC (2012) | Shipped with the 3D Control Pad — the Saturn's analogue controller. |
 | Panzer Dragoon II Zwei | 1996 | Team Andromeda | Sega | Rail shooter | 1 | No | **Stranded** | — | A remake was announced in 2020 and has not materialised. |
 | Sakura Wars | 1996 | Sega / Red Company | Sega | Strategy / visual novel | 1 | No | Ported | Dreamcast, PSP (2008), PS2 | |
+| Sega Ages | 1996 | Sega | Sega | Compilation | 1–2 | No | **Stranded** | — | Sega's first retro-compilation brand, launched on hardware its own reissue programme now skips. |
 | Shining the Holy Ark | 1996 | Camelot | Sega | RPG | 1 | No | **Stranded** | — | Camelot before Golden Sun and Mario Golf. |
 | Three Dirty Dwarves | 1996 | Appaloosa | Sega | Beat 'em up | 1–3 | No | **Stranded** | — | Appaloosa's beat 'em up, absent from Sega collections that skip the Saturn almost entirely. |
 | Bulk Slash | 1997 | CAProduction | Hudson Soft | Mech action | 1 | No | **Stranded** | — | Japan-only. Full voice navigation from a co-pilot, and one of the few Saturn games with true free-roaming 3D. |
@@ -69,6 +70,7 @@ On top of that:
 | Last Bronx | 1997 | Sega AM3 | Sega | Fighting | 1–2 | No | **Stranded** | — | An AM3 fighter whose Saturn build has never been reissued, despite the arcade original being preserved. |
 | Princess Crown | 1997 | Atlus | Atlus | Action RPG | 1 | No | Ported | PSP (2005, Japan only) | The direct ancestor of *Odin Sphere* — the team became Vanillaware. Never localised. |
 | Silhouette Mirage | 1997 | Treasure | ESP | Action-platformer | 1 | No | Ported | PS1 (1998) | |
+| Sonic Jam | 1997 | Sonic Team | Sega | Compilation | 1–2 | No | **Stranded** | — | The four Genesis Sonic games plus **Sonic World**, an original 3D hub area that was the first playable 3D Sonic and exists nowhere else. Sega's later collections reissued the Genesis games but never Sonic World. |
 | Sonic R | 1997 | Traveller's Tales | Sega | Racing | 1–2 | No | Ported | PC (1998), *Sonic Gems Collection* (2005) | |
 | Baroque | 1998 | Sting | Sting | Roguelike | 1 | No | Ported | PS1 (2000), Wii, PS2 (2007–08) | |
 | Burning Rangers | 1998 | Sonic Team | Sega | Action | 1 | No | **Stranded** | — | Sonic Team's last Saturn game — a firefighting action game with fully voiced mission guidance. Never reissued in any form. |
@@ -87,8 +89,6 @@ On top of that:
 
 | Title | Year | Why excluded |
 |---|---|---|
-| Sonic Jam | 1997 | Compilation of Genesis games. |
-| Sega Ages / Sega Memorial Selection | 1996–98 | Compilations. |
 | D | 1995 | 3DO original (1995). |
 | Policenauts | 1996 | 3DO original (1994). |
 | Snatcher | 1996 | PC-8801 original (1988). |

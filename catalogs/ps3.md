@@ -14,9 +14,9 @@
 
 | | Count |
 |---|---|
-| **Debut games** | **55** |
+| **Debut games** | **57** |
 | — still `Stranded` | 31 |
-| — since `Ported` | 17 |
+| — since `Ported` | 19 |
 | — `Sim-ship` | 7 |
 | **Contested** | 2 |
 
@@ -65,6 +65,7 @@ not "someone emulated it".
 | 3D Dot Game Heroes | 2009 | Silicon Studio | From Software / Atlus | Action-adventure | 1 | No | **Stranded** | — | A voxel Zelda homage; its parody-adjacent design makes reissue awkward. |
 | Demon's Souls | 2009 | FromSoftware | Sony / Atlus | Action RPG | 1–4 | Dead (2018) | Ported | PS5 (2020 remake) | The remake is a rebuild by Bluepoint — the original PS3 version has never been re-released. |
 | Flower | 2009 | Thatgamecompany | Sony | Ambient | 1 | No | Ported | PS4, Vita, PC, iOS (2013–19) | |
+| God of War Collection | 2009 | Bluepoint Games | Sony | Compilation | 1 | No | Ported | Vita (2014) | |
 | inFamous | 2009 | Sucker Punch | Sony | Open-world action | 1 | No | **Stranded** | — | Neither `inFamous` nor `inFamous 2` has ever been remastered — unusual for a Sony first-party series of this profile. |
 | Killzone 2 | 2009 | Guerrilla Games | Sony | FPS | 1–32 | Dead (2018) | **Stranded** | — | Guerrilla moved to *Horizon* and the series was abandoned. |
 | Ratchet & Clank Future: A Crack in Time | 2009 | Insomniac | Sony | Platformer | 1 | No | **Stranded** | — | The PS3 Future trilogy is the only part of the Ratchet series never collected or remastered. |
@@ -81,6 +82,7 @@ not "someone emulated it".
 | inFamous 2 | 2011 | Sucker Punch | Sony | Open-world action | 1 | No | **Stranded** | — | Sucker Punch moved to *Ghost of Tsushima*; neither inFamous game has been remastered. |
 | Killzone 3 | 2011 | Guerrilla Games | Sony | FPS | 1–24 | Dead (2018) | **Stranded** | — | Guerrilla moved to *Horizon* and abandoned the series. Its stereoscopic 3D and Move support add further barriers. |
 | LittleBigPlanet 2 | 2011 | Media Molecule | Sony | Platformer / creation | 1–4 | **Dead (2021)** | **Stranded** | — | Same server shutdown as the first. |
+| Metal Gear Solid HD Collection | 2011 | Bluepoint Games | Konami | Compilation | 1 | Dead | Ported | Xbox 360 (2011), Vita (2012) | |
 | Ni no Kuni: Wrath of the White Witch | 2011 | Level-5 / Studio Ghibli | Namco Bandai | RPG | 1 | No | Ported | PS4, Switch, PC (2019, *Remastered*) | Ghibli's involvement did not prevent the remaster, which is unusual for a Ghibli licence. |
 | Uncharted 3: Drake's Deception | 2011 | Naughty Dog | Sony | Action-adventure | 1–10 | Dead | Ported | PS4 (2015, *Nathan Drake Collection*) | |
 | Asura's Wrath | 2012 | CyberConnect2 | Capcom | Action | 1 | No | **Stranded** | — | Structured as an anime series with quick-time set pieces; Capcom has never reissued it. |
@@ -114,8 +116,6 @@ not "someone emulated it".
 | Title | Year | Why excluded |
 |---|---|---|
 | Ico / Shadow of the Colossus HD | 2011 | Remasters of PS2 games. |
-| God of War Collection, Jak/Ratchet/Sly HD Collections | 2009–12 | Compilations of PS2 games. |
-| Metal Gear Solid HD Collection | 2011 | Compilation of PS2 games. |
 | Tales of Vesperia | 2009 | Xbox 360 original (2008). |
 | Deadly Premonition | 2010 | Xbox 360 original (2010); PS3 followed as *Director's Cut*. |
 | Bayonetta (PS3) | 2010 | Simultaneous-ish multiplatform, Xbox 360 lead. |

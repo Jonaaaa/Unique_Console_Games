@@ -29,9 +29,9 @@ What is left is a genuinely small set of Switch 2-only first-party titles.
 
 | | Count |
 |---|---|
-| **Debut games** | **8** |
+| **Debut games** | **9** |
 | — still `Stranded` | 6 |
-| — `Sim-ship` | 2 |
+| — `Sim-ship` | 3 |
 | **Contested** | 1 |
 
 **Why the Switch 2 strands games.** Same as the Switch: **policy**. Nintendo does
@@ -56,6 +56,7 @@ repo whose stranding cause exists from day one on current hardware.
 | Metroid Prime 4: Beyond | 2025 | Retro Studios | Nintendo | Action-adventure | 1 | No | Sim-ship | Switch (2025, same day) | Announced in 2017, restarted from scratch in 2019. Also catalogued under [Switch](switch.md). |
 | Nintendo Switch 2 Welcome Tour | 2025 | Nintendo EPD | Nintendo | Tech demo | 1–4 | No | **Stranded** | — | A paid pack-in-style tour of the hardware itself — it demonstrates the console's own features, so it cannot exist anywhere else by definition. Charging for it was widely criticised. |
 | Pokémon Legends: Z-A | 2025 | Game Freak | Nintendo | RPG | 1–4 | Yes | Sim-ship | Switch (2025, same day) | Also catalogued under [Switch](switch.md). |
+| Super Mario Galaxy 1+2 | 2025 | Nintendo EPD | Nintendo | Compilation | 1–2 | No | Sim-ship | Switch (2025, same day) | Also catalogued under [Switch](switch.md). Brought `Galaxy 2` off Wii after 15 years. |
 
 ## Contested
 
@@ -68,7 +69,6 @@ repo whose stranding cause exists from day one on current hardware.
 | Title | Year | Why excluded |
 |---|---|---|
 | Switch 2 Edition upgrades | 2025– | `Tears of the Kingdom`, `Kirby and the Forgotten Land`, `Super Mario Party Jamboree` and similar debuted on Switch. Catalogued under [Switch](switch.md) as `Ported`. |
-| Super Mario Galaxy 1+2 | 2025 | Compilation of two Wii games. |
 | Star Fox (2026) | 2026 | A reimagining of *Star Fox 64* (1997) — a remake, so not a debut. |
 | Cyberpunk 2077: Ultimate Edition | 2025 | Port of the 2020 PC/console game. |
 | Elden Ring: Tarnished Edition | 2025 | Port of the 2022 game. |

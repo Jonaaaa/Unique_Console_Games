@@ -23,8 +23,8 @@ programme when Steve Jobs returned in 1997 and has never acknowledged it since.
 
 | | Count |
 |---|---|
-| **Debut games** | **4** |
-| — still `Stranded` | 4 |
+| **Debut games** | **5** |
+| — still `Stranded` | 5 |
 | — since `Ported` | 0 |
 | **Contested** | 1 |
 
@@ -38,9 +38,10 @@ CD-ROM software that fails the debut test anyway. `Ported` count of **zero**.
 
 | Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Notes |
 |---|---|---|---|---|---|---|---|---|---|
+| Dragon Ball Z: Shin Saiyajin Zetsumetsu Keikaku Chikyū-hen | 1996 | Bandai | Bandai | Interactive video | 1 | No | **Stranded** | — | A Pippin reworking of the Playdia release, and equally locked by the Dragon Ball licence. |
 | Gundam Tactics: Mobility Fleet 0079 | 1996 | Bandai | Bandai | Strategy | 1 | No | **Stranded** | — | A Pippin-original Gundam strategy game — one of the few titles built for the platform rather than converted to it. |
 | Racing Days | 1996 | Bandai | Bandai | Racing | 1 | No | **Stranded** | — | A Bandai-published Pippin original; Apple shut the programme down in 1997 and has never acknowledged the platform since. |
-| Dragon Ball Z: Shin Saiyajin Zetsumetsu Keikaku Chikyū-hen | 1996 | Bandai | Bandai | Interactive video | 1 | No | **Stranded** | — | A Pippin reworking of the Playdia release, and equally locked by the Dragon Ball licence. |
+| Super Marathon | 1996 | Bungie | Bungie | Compilation | 1–8 | No | **Stranded** | — | *Marathon* and *Marathon 2* rebuilt for the Pippin — **Bungie's only console release before Halo**, five years before Xbox. The compilation is a Pippin debut; the Mac originals are not. |
 | Ultraman Hyper Encyclopedia | 1996 | Bandai | Bandai | Reference | 1 | No | **Stranded** | — | Characteristic of the platform: licensed reference software rather than a game. |
 
 ## Contested
@@ -53,7 +54,6 @@ CD-ROM software that fails the debut test anyway. `Ported` count of **zero**.
 
 | Title | Year | Why excluded |
 |---|---|---|
-| Super Marathon | 1996 | A compilation of Bungie's Mac originals (1994–95). Notable as Bungie's only console release before Halo, but not a debut. |
 | Mac CD-ROM conversions (~50 titles) | 1996–97 | Macintosh software originals — excluded on the same principle as PC-first titles. |
 | Pippin @WORLD network software | 1996–97 | Bandai's dial-up service client, not a game. |
 

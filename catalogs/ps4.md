@@ -25,8 +25,8 @@ Those are `Sim-ship` entries appearing in **both** files, not PS4-only debuts.
 
 | | Count |
 |---|---|
-| **Debut games** | **27** |
-| — still `Stranded` | 20 |
+| **Debut games** | **28** |
+| — still `Stranded` | 21 |
 | — since `Ported` | 3 |
 | — `Sim-ship` | 4 |
 | **Contested** | 1 |
@@ -53,6 +53,7 @@ Two narrower causes do real work:
 | Resogun | 2013 | Housemarque | Sony | Shoot 'em up | 1–2 | Dead | **Stranded** | — | The best-received PS4 launch title. Housemarque was acquired by Sony in 2021; the game has never left the platform. |
 | Bloodborne | 2015 | FromSoftware | Sony | Action RPG | 1–4 | Yes | **Stranded** | — | **The most-requested port in modern gaming.** Sony owns the IP and FromSoftware still exists; it has never been remastered, brought to PC, or given a PS5 patch beyond BC. The clearest "no obstacle, just no decision" entry on the platform. |
 | The Order: 1886 | 2015 | Ready at Dawn | Sony | Action-adventure | 1 | No | **Stranded** | — | Ready at Dawn moved to VR and was later shut down by Meta. A single-player game with no rights obstacle and no reissue. |
+| Uncharted: The Nathan Drake Collection | 2015 | Bluepoint Games | Sony | Compilation | 1 | No | **Stranded** | — | The three PS3 Uncharted games rebuilt for PS4. Notably omits `Golden Abyss`, which remains stranded on [PS Vita](ps-vita.md). |
 | Until Dawn | 2015 | Supermassive | Sony | Interactive horror | 1 | No | Ported | PS5, PC (2024 remake) | The remake is a rebuild rather than a port of this build. |
 | Dragon Quest Builders | 2016 | Square Enix | Square Enix | Sandbox | 1 | No | Sim-ship | PS Vita (2016, same day); Switch (2018) | Also catalogued under [PS Vita](ps-vita.md). |
 | Ratchet & Clank | 2016 | Insomniac | Sony | Platformer | 1 | No | **Stranded** | — | A reimagining of the 2002 PS2 game rather than a remaster, so it counts as its own debut. Never ported. |
@@ -92,7 +93,6 @@ Two narrower causes do real work:
 | Shadow of the Colossus (2018) | 2018 | Remake of the 2005 PS2 game. |
 | Demon's Souls (2020) | 2020 | A PS5 remake of the 2009 PS3 game — see [PS5](ps5.md). |
 | Persona 5 | 2016 | Simultaneous PS3 + PS4 in Japan; the PS3 build is the older platform. |
-| Nathan Drake Collection, Uncharted: Lost Legacy | 2015–17 | A compilation and a standalone expansion of `Uncharted 4`. |
 | Horizon Forbidden West, Ghost of Tsushima Director's Cut | 2021–22 | Cross-gen releases where PS5 is the lead platform — see [PS5](ps5.md). |
 | Bloodborne: The Old Hunters | 2015 | Same-platform expansion. |
 | *(games with a later or day-one PC port)* | — | **Not `Ported`.** PC is not a catalogued platform — the game stays `Stranded` with the PC release noted. |

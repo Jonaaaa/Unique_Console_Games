@@ -20,9 +20,9 @@ Japan-only remainder. NSO's SNES library rotates and grows, so `Ported` is a flo
 
 | | Count |
 |---|---|
-| **Debut games** | **56** |
+| **Debut games** | **57** |
 | — still `Stranded` | 16 |
-| — since `Ported` | 39 |
+| — since `Ported` | 40 |
 | **Contested** | 3 |
 
 **Why the SNES strands games.** Same cause as the NES — **dead licences** — with
@@ -62,6 +62,7 @@ A third, rarer cause appears here for the first time in the repo: **litigation**
 | Mortal Kombat | 1993 | Sculptured Software | Acclaim | Fighting | 1–2 | No | Sim-ship | Genesis, Game Gear, Master System (1993, same day) | "Mortal Monday" — a coordinated same-day multiplatform launch. The SNES version famously censored the blood. |
 | Secret of Mana | 1993 | Square | Square | Action RPG | 1–3 | No | Ported | Virtual Console, *Collection of Mana*, PS4/Vita/PC (2018 remake) | |
 | Star Fox | 1993 | Nintendo EAD / Argonaut | Nintendo | Rail shooter | 1 | No | Ported | SNES Classic (2017) | The Super FX chip made it unemulatable on Virtual Console for years. |
+| Super Mario All-Stars | 1993 | Nintendo EAD | Nintendo | Compilation | 1–2 | No | Ported | Wii (2010, *25th Anniversary*), NSO | Remastered 16-bit versions of the four NES Mario platformers plus *The Lost Levels*, which had never left Japan. The compilation is an SNES debut; its constituent games keep their own [NES](nes.md) entries. |
 | Zombies Ate My Neighbors | 1993 | LucasArts | Konami | Run and gun | 1–2 | No | Ported | Switch, PS4, Xbox, PC (2021, with *Ghoul Patrol*) | Escaped because Disney/LucasArts and Konami re-cleared it in 2021. |
 | Beavis and Butt-Head | 1994 | Realtime Associates | Viacom | Platformer | 1 | No | **Stranded** | — | MTV licence. |
 | Demon's Crest | 1994 | Capcom | Capcom | Action-platformer | 1 | No | Ported | NSO, Virtual Console | |
@@ -110,7 +111,6 @@ A third, rarer cause appears here for the first time in the repo: **litigation**
 
 | Title | Year | Why excluded |
 |---|---|---|
-| Super Mario All-Stars | 1993 | Compilation of previously released NES games. |
 | Donkey Kong Country 2 / 3 | 1995–96 | Qualify and are `Ported`; listed here only because they are often confused with the Rare Replay lineage. |
 | Aladdin (Capcom) | 1993 | Sim-ship-adjacent with the separate Genesis game; the Capcom SNES build is distinct but shipped alongside. Treated as excluded pending verification. |
 | Star Ocean | 1996 | Qualifies and is `Ported` (PSP, PSP→PS4 remakes). |
