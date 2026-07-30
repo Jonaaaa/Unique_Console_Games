@@ -147,6 +147,18 @@ recurring question is almost always *"is this a debut or a port?"*:
 Default to the stricter reading — assume it is a **port** and exclude it — then
 record the counter-argument, so the catalogue never overclaims.
 
+### Shelved games belong to the hardware they were built for
+
+A game completed for platform X but first *released* years later on platform Y belongs
+to **X** — the hardware it was written for — with the later release recorded as
+`Ported`. `Star Fox 2` was finished for the SNES in 1995 and first sold on the SNES
+Classic in 2017; it is an SNES debut that is now `Ported`. The Virtual Boy's
+`Zero Racers` and `D-Hopper` follow the same rule.
+
+The alternative — treating the delivery vehicle as the debut platform — would put a
+1995 SNES cartridge's debut on 2017 hardware, which is not useful to anyone trying to
+collect it. Before release, such a game is `Stranded`; after, it is `Ported`.
+
 ### Remakes are not debuts
 
 A ground-up remake is tempting to treat as a new game — new engine, new art, often

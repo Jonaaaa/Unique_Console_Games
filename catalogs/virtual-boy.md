@@ -74,14 +74,14 @@ What remains stranded is now stranded for the ordinary reasons: **licences**
 | Virtual Lab | 1995 | J-Wing | J-Wing | Puzzle | 1 | No | **Stranded** | — | Japan-only with a very small print run; among the most expensive Virtual Boy carts and **pointedly absent from the 2026 service**. |
 | SD Gundam Dimension War | 1995 | Locomotive | Bandai | Tactical RPG | 1 | No | **Stranded** | — | **The rarest Virtual Boy game.** Japan-only, tiny print run, and it needs the Bandai Gundam licence — which is why it was skipped alongside `Virtual Lab`. |
 | Bound High! | — | Japan System Supply | Nintendo | Action | 1 | No | **Stranded** | — | Finished but **never commercially released** — the platform died first. It leaked via a prototype and has no official release of any kind. |
-| Zero Racers | — | Nintendo EAD | Nintendo | Racing | 1 | No | **Stranded** | — | ⚠ [Contested](#contested) — a completed F-Zero game cancelled in 1996, announced for the 2026 service. If it ships, its **first release** is on Switch 2, not Virtual Boy. |
-| D-Hopper | — | Unknown | Nintendo | Unknown | 1 | No | **Stranded** | — | ⚠ [Contested](#contested) — likewise unreleased in 1995 and slated for the 2026 service. |
+| Zero Racers | — | Nintendo EAD | Nintendo | Racing | 1 | No | **Stranded** | — | ⚠ [Contested](#contested) — a completed F-Zero game cancelled in 1996, announced for the 2026 service. Built for Virtual Boy, so it is catalogued here; it becomes `Ported` when the service ships it. |
+| D-Hopper | — | Unknown | Nintendo | Unknown | 1 | No | **Stranded** | — | ⚠ [Contested](#contested) — likewise unreleased in 1995 and slated for the 2026 service; same reasoning as `Zero Racers`. |
 
 ## Contested
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| Zero Racers / D-Hopper | 1996 (unreleased) | **Include, provisionally `Stranded`** | Both were finished or near-finished Virtual Boy software, built for this hardware and for nothing else. Listing them here reflects what they *are*. | Neither was ever commercially released, so strictly they have no debut yet — and if the 2026 NSO service ships them, their first release is on **Switch 2**, which would make Switch 2 their debut platform. This is the same shape as `Star Fox 2` on SNES, and I resolved that one the other way. Flagged rather than silently reconciled. |
+| Zero Racers / D-Hopper | 1996 (unreleased) | **Include** (`Stranded` until released) | Both were finished Virtual Boy software, built for this hardware and nothing else. Under the repo's **shelved-games rule** the debut platform is the hardware a game was built for, not the vehicle that eventually delivers it — so these are Virtual Boy entries, exactly as `Star Fox 2` is an SNES entry. | Neither has been commercially released, so strictly neither has a debut date yet. When the 2026 service ships them they become `Ported`, not Switch 2 debuts. |
 | Bound High! | 1996 (unreleased) | **Include** (`Stranded`) | A completed, reviewed, catalogued game that only ever existed as Virtual Boy software. | It never shipped, so it has no release date and no purchasable form — arguably out of scope for a collecting guide entirely. |
 
 ## Excluded

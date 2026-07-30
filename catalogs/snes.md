@@ -103,7 +103,7 @@ A third, rarer cause appears here for the first time in the repo: **litigation**
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| Star Fox 2 | 2017 | **Include** | Completed for the SNES in 1995 and released as an SNES game; the SNES Classic is a delivery vehicle, not a different platform for its purposes. | Its actual first release was 2017 on a plug-and-play device, which by the letter of the rule makes the SNES Classic — not the SNES — its debut platform. |
+| Star Fox 2 | 2017 | **Include** (`Ported`) | Completed for the SNES in 1995. Under the repo's **shelved-games rule** the debut platform is the hardware a game was built for, so this is an SNES entry whose 2017 SNES Classic release makes it `Ported`. The Virtual Boy's `Zero Racers` is treated identically. | Its actual first sale was 2017 on a plug-and-play device, so a literal reading would make that its debut platform. |
 | Earthworm Jim 2 | 1995 | **Include** | The SNES and Genesis versions were separate builds and the SNES release was not preceded by the Genesis one. | Released across SNES/Genesis/Saturn/PS1 in close succession — arguably a sim-ship, which would put it in several catalogues rather than this one. |
 
 ## Excluded

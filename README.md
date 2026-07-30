@@ -9,10 +9,16 @@ debut is permanent.
 
 | Platform | Lifespan | Debut games | Stranded | Ported |
 |---|---|---|---|---|
+| [Magnavox Odyssey](catalogs/magnavox-odyssey.md) | Sep 1972 – 1975 | **1** | 1 | 0 |
+| [Fairchild Channel F](catalogs/fairchild-channel-f.md) | Nov 1976 – 1983 | **6** | 6 | 0 |
 | [Atari 2600](catalogs/atari-2600.md) | Sep 1977 – 1992 | **22** | 7 | 14 +1 sim |
+| [RCA Studio II](catalogs/rca-studio-ii.md) | Jan 1977 – 1979 | **4** | 4 | 0 |
+| [Bally Astrocade](catalogs/bally-astrocade.md) | 1978 – 1983 | **5** | 5 | 0 |
+| [Magnavox Odyssey²](catalogs/magnavox-odyssey-2.md) | 1978 – 1984 | **7** | 7 | 0 |
 | [Mattel Intellivision](catalogs/intellivision.md) | 1979 – 1990 | **14** | 6 | 7 +1 sim |
 | [Atari 5200](catalogs/atari-5200.md) | Nov 1982 – 1984 | **7** | 5 | 2 |
 | [ColecoVision](catalogs/colecovision.md) | Aug 1982 – 1985 | **10** | 7 | 2 +1 sim |
+| [GCE Vectrex](catalogs/vectrex.md) | Nov 1982 – early 1984 | **8** | 8 | 0 |
 | [Nintendo Entertainment System / Famicom](catalogs/nes.md) | Jul 1983 (JP) – 1995 (NA) / 2003 (JP) | **61** | 26 | 34 +1 sim |
 | [Sega SG-1000](catalogs/sg-1000.md) | Jul 1983 – 1985 | **10** | 9 | 1 |
 | [Atari 7800](catalogs/atari-7800.md) | Designed 1984, shelved, released May 1986 – 1992 | **11** | 7 | 4 |
@@ -29,10 +35,13 @@ debut is permanent.
 | [Commodore Amiga CD32](catalogs/amiga-cd32.md) | Sep 1993 – 1994 | **4** | 4 | 0 |
 | [Atari Jaguar](catalogs/atari-jaguar.md) | Nov 1993 – 1996 | **14** | 11 | 3 |
 | [Sega Pico](catalogs/sega-pico.md) | Jun 1993 – 2005 (Pico) / 2005–2013 (Beena) | **8** | 8 | 0 |
+| [Bandai Playdia](catalogs/bandai-playdia.md) | Sep 1994 – 1996 | **5** | 5 | 0 |
 | [NEC PC-FX](catalogs/pc-fx.md) | Dec 1994 – 1998 | **9** | 9 | 0 |
 | [Sony PlayStation](catalogs/ps1.md) | Dec 1994 – Mar 2006 | **52** | 21 | 31 |
 | [Sega Saturn](catalogs/saturn.md) | Nov 1994 – 2000 (Japan) | **34** | 21 | 13 |
+| [Casio Loopy](catalogs/casio-loopy.md) | Oct 1995 – 1998 | **5** | 5 | 0 |
 | [Nintendo Virtual Boy](catalogs/virtual-boy.md) | Jul 1995 (JP) – Mar 1996 | **24** | 10 | 14 |
+| [Apple Bandai Pippin](catalogs/apple-pippin.md) | Mar 1996 – 1997 | **4** | 4 | 0 |
 | [Nintendo 64](catalogs/n64.md) | Jun 1996 (JP) – 2002 | **61** | 23 | 38 |
 | [Sega Dreamcast](catalogs/dreamcast.md) | Nov 1998 – Mar 2001 (discontinued) | **37** | 17 | 20 |
 | [Game Boy Color](catalogs/game-boy-color.md) | Oct 1998 – 2003 | **17** | 11 | 6 |
@@ -56,13 +65,15 @@ debut is permanent.
 | [Nintendo Switch](catalogs/switch.md) | Mar 2017 – present (superseded by Switch 2, Jun 2025) | **45** | 39 | 5 +1 sim |
 | [Sony PlayStation 5](catalogs/ps5.md) | Nov 2020 – present | **17** | 12 | 0 +5 sim |
 | [Microsoft Xbox Series X|S](catalogs/xbox-series.md) | Nov 2020 – present | **10** | 5 | 4 +1 sim |
+| [Panic Playdate](catalogs/playdate.md) | Apr 2022 – present | **6** | 5 | 1 |
 | [Nintendo Switch 2](catalogs/switch-2.md) | Jun 2025 – present | **8** | 6 | 0 +2 sim |
 
-**All 48 console and handheld platforms catalogued** — every TV-connected
-and portable games system with a commercial software library, from the Atari 2600
-(1977) to the Switch 2 (2025).
+**All 58 console and handheld platforms catalogued** — every TV-connected
+and portable games system with a commercial software library, from the Magnavox Odyssey
+(1972) to the Switch 2 (2025). See [ROSTER.md](ROSTER.md) for what is included,
+excluded and folded in, and why.
 
-**1,585 debut games. 901 still stranded.**
+**1,636 debut games. 951 still stranded.**
 
 
 **Hardware revisions are not platforms.** Game Boy Pocket/Light, GBA SP/Micro,
