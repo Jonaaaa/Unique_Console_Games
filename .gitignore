@@ -11,5 +11,3 @@ tmp/
 .idea/
 .vscode/
 
-# Local tooling state
-.claude/
