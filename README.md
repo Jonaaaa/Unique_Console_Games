@@ -190,7 +190,10 @@ long as you credit this repo, share your version on the same terms, and do not
 use it commercially. The full text is in [`LICENSE`](LICENSE); the plain-English
 summary is on [Creative Commons' site](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 The same terms cover `tools/validate.py`, which is too small to be worth a
-second licence.
+second licence. The SPDX identifier is `CC-BY-NC-SA-4.0`. GitHub's sidebar
+shows this as "Other" rather than by name, because its detector only knows the
+licences listed on choosealicense.com, and non-commercial ones are not among
+them. That is a limitation of the detector, not a problem with the licence.
 
 Two things worth saying plainly. Individual facts, such as a release year or a
 publisher, are not copyrightable and nobody needs permission to state them; what
