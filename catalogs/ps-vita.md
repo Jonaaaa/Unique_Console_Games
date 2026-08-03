@@ -39,67 +39,67 @@ litigation** (`TxK`). Where a Vita game had commercial value, it usually escaped
 
 Every game that debuted on this platform and launched nowhere else. `Status` records where it stands today; it does not affect membership.
 
-| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Notes |
-|---|---|---|---|---|---|---|---|---|---|
-| Army Corps of Hell | 2011 | Entersphere | Square Enix | Action / strategy | 1–4 | Dead | Stranded | | Launch title. |
-| Little Deviants | 2011 | Bigbig Studios | SCE | Minigame collection | 1–2 | No | Stranded | | Launch title built to demo the rear touch pad. Bigbig was closed by Sony in 2012. |
-| Shinobido 2: Revenge of Zen | 2011 | Acquire | Namco Bandai | Stealth action | 1 | Dead | Stranded | | Launch title. Series ended here. |
-| Touch My Katamari | 2011 | Namco Bandai | Namco Bandai | Puzzle / action | 1 | No | Stranded | | Launch title. The only Katamari game not re-released, *Reroll* and *Damacy Rolling Live* both revive PS2-era entries instead. |
-| Uncharted: Golden Abyss | 2011 | Bend Studio | SCE | Action-adventure | 1 | No | Stranded | | Launch title and the Vita's showcase. Absent from *The Nathan Drake Collection*, which remastered only the three PS3 games, the most conspicuous omission in the catalogue. |
-| Assassin's Creed III: Liberation | 2012 | Ubisoft Sofia | Ubisoft | Action-adventure | 1 | No | Ported | PS3, Xbox 360, PC (2014, *Liberation HD*), Switch (2019) | |
-| Call of Duty: Black Ops: Declassified | 2012 | Nihilistic Software | Activision | FPS | 1–8 | Dead | Stranded | | The only Call of Duty never re-released in any form. Nihilistic renamed itself and then closed. |
-| Chronovolt | 2012 | Playbox / Team Junkfish | Zen Studios | Puzzle | 1 | No | Stranded | | A launch-window puzzle game from a studio that has since focused entirely on pinball. |
-| DJMax Technika Tune | 2012 | Pentavision | Neowiz | Rhythm | 1 | Dead | Stranded | | Licensed tracklist; the Technika arcade line it adapts is separate. |
-| Dynasty Warriors Next | 2012 | Omega Force | Tecmo Koei | Musou | 1–4 | Dead | Stranded | | Built around touch and gyro for duels; never folded into a later collection. |
-| Escape Plan | 2012 | Fun Bits Interactive | SCE | Puzzle | 1 | No | Ported | PS4 (2013) | Launch title. |
-| Gravity Rush | 2012 | SCE Japan Studio | SCE | Action-adventure | 1 | No | Ported | PS4 (2015, *Remastered*) | The Vita's strongest new IP, and the clearest case of commercial value driving a port. |
-| Let's Fish! Hooked On | 2012 | SIMS | SCE | Fishing | 1–4 | Dead | Stranded | | PAL/JP. |
-| LittleBigPlanet PS Vita | 2012 | Tarsier / Double Eleven | SCE | Platformer / creation | 1–4 | Dead (2021) | Stranded | | Considered among the best in the series. Servers closed with the wider LBP shutdown, taking user levels with it. |
-| Lumines: Electronic Symphony | 2012 | Q Entertainment | Ubisoft | Puzzle | 1 | Dead | Stranded | | *Lumines Remastered* (2018) is built from the original PSP game, not this one. Licensed electronic tracklist blocks a re-release. |
-| ModNation Racers: Road Trip | 2012 | San Diego Studio | SCE | Kart racer | 1–4 | Dead | Stranded | | Launch title. |
-| PlayStation All-Stars Battle Royale | 2012 | SuperBot / Bluepoint | SCE | Fighting | 1–4 | Dead (2018) | Sim-ship | PS3 (2012, same day) | SuperBot was dropped by Sony months after release. |
-| Reality Fighters | 2012 | Novarama | SCE | Fighting | 1–2 | Dead | Stranded | | Uses the Vita's cameras to map the player's face onto a fighter and fight in AR. |
-| Resistance: Burning Skies | 2012 | Nihilistic Software | SCE | FPS | 1–8 | Dead | Stranded | | The final Resistance game. |
-| Ridge Racer | 2012 | Cellius | Namco Bandai | Racing | 1–8 | Dead | Stranded | | Shipped thin on content; the series went dormant afterwards. |
-| Silent Hill: Book of Memories | 2012 | WayForward | Konami | Dungeon crawler | 1–4 | Dead | Stranded | | The only isometric co-op Silent Hill, and the only entry excluded from every Konami collection. |
-| Smart As.. | 2012 | XDev / Climax | SCE | Puzzle / brain training | 1–4 | Dead | Stranded | | Brain-training built on touch and rear-pad input; Sony's XDev group was restructured and the concept dropped. |
-| Sound Shapes | 2012 | Queasy Games | SCE | Music platformer | 1–2 | Dead | Sim-ship | PS3 (2012, same day), PS4 (2013) | Cross-buy across all three PlayStation platforms. |
-| Super Monkey Ball: Banana Splitz | 2012 | Sega | Sega | Platformer | 1–4 | No | Stranded | | *Banana Mania* remakes the GameCube games instead. |
-| Uncharted: Fight for Fortune | 2012 | One Loop Games / Bend | SCE | Digital card game | 1–2 | Dead | Stranded | | Spin-off requiring *Golden Abyss* save data for full unlocks. |
-| Unit 13 | 2012 | Zipper Interactive | SCE | Tactical shooter | 1–2 | Dead | Stranded | | Zipper was closed by Sony weeks after release, permanently orphaning it. |
-| Wipeout 2048 | 2012 | SCE Studio Liverpool | SCE | Racing | 1–8 | Dead | Ported | PS4 (2017, in *WipEout Omega Collection*) | Studio Liverpool's final game; closed months after release. Escaped via the compilation. |
-| Ys: Memories of Celceta | 2012 | Nihon Falcom | Falcom / XSEED | Action RPG | 1 | No | Ported | PC (2018), PS4 (2020) | |
-| Zero Escape: Virtue's Last Reward | 2012 | Chunsoft | Aksys / Rising Star | Visual novel | 1 | No | Sim-ship | 3DS (2012, same day), PC, PS4 (2017) | |
-| Akiba's Trip: Undead & Undressed | 2013 | Acquire | Acquire / XSEED | Action RPG | 1 | No | Ported | PS3, PS4 (2014), PC (2015), Switch (2021) | |
-| Demon Gaze | 2013 | Kadokawa Games / Experience | NIS America | Dungeon crawler | 1 | No | **Stranded** | | No console release. PC version exists (PC (2017)) but PC is not a catalogued platform. |
-| Dragon's Crown | 2013 | Vanillaware | Atlus | Beat 'em up / RPG | 1–4 | Dead | Sim-ship | PS3 (2013, same day), PS4 (2018, *Pro*) | |
-| Hyperdimension Neptunia: Producing Perfection | 2013 | Idea Factory | Idea Factory | Idol sim | 1 | No | Stranded | | Nearly every other Neptunia game reached Switch or PC; this one did not. |
-| Invizimals: The Alliance | 2013 | Novarama | SCE | AR collectathon | 1–2 | Dead | Stranded | | Camera-based AR monster capture; the whole series is stranded on PSP/Vita. |
-| Killzone: Mercenary | 2013 | Guerrilla Cambridge | SCE | FPS | 1–8 | Dead (2018) | Stranded | | Widely rated the best-looking Vita game. Guerrilla Cambridge was closed in 2017; the Killzone series has been dormant since. |
-| Sly Cooper: Thieves in Time | 2013 | Sanzaru Games | Sony | Platformer | 1 | No | Sim-ship | PS3 (2013, same day) | Also catalogued under [PS3](ps3.md). Cross-buy; the series has been dormant since. |
-| Soul Sacrifice | 2013 | SCE Japan Studio / Marvelous | SCE | Action RPG | 1–4 | Dead | Stranded | | *Soul Sacrifice Delta* (2014) is a same-platform expanded re-release, so both remain Vita-only. |
-| Tearaway | 2013 | Media Molecule | SCE | Platformer | 1 | No | Ported | PS4 (2015, *Unfolded*) | ⚠ [Contested](#contested), *Unfolded* rebuilds the game around a DualShock 4 because the original's controls were rear-pad-specific. |
-| The Legend of Heroes: Trails of Cold Steel | 2013 | Nihon Falcom | Falcom / XSEED | JRPG | 1 | No | Sim-ship | PS3 (2013, same day), PC (2017), PS4 (2019), Switch (2022) | |
-| Toukiden: The Age of Demons | 2013 | Omega Force | Tecmo Koei | Hunting action | 1–4 | Dead | Ported | PS4 (2015, as *Toukiden Kiwami*) | |
-| Valhalla Knights 3 | 2013 | K2 | Marvelous | Action RPG | 1–4 | Dead | Stranded | | K2's series ended here, and the earlier entries were PSP-only, so the whole line is stranded across two dead handhelds. |
-| Corpse Party: Blood Drive | 2014 | Team GrisGris / 5pb. | XSEED | Horror adventure | 1 | No | Ported | PC (2019), Switch (2019) | |
-| Destiny of Spirits | 2014 | Q Entertainment | SCE | Strategy RPG | 1 | **Dead (2015)** | Stranded | | Free-to-play and online-only. Servers closed 30 Mar 2015, ~13 months after launch. **Unplayable even on working hardware**, fully lost. |
-| Ecolibrium | 2014 | SCE Studio Liverpool team | SCE | Ecosystem sim | 1 | Dead | Stranded | | Free-to-play. Sony's last Liverpool-adjacent project before the studio's closure. |
-| Freedom Wars | 2014 | SCE Japan Studio / Dimps / Shift | SCE | Action RPG | 1–8 | Dead | Ported | PS4, PS5, Switch, PC (2025, *Remastered*) | Was stranded until 10 Jan 2025. |
-| Murasaki Baby | 2014 | Ovosonico | SCE | Puzzle / horror | 1 | No | Stranded | | Controlled entirely by dragging a balloon string on the front screen and manipulating the world via the rear pad. |
-| Oreshika: Tainted Bloodlines | 2014 | Alfa System | SCE | RPG | 1 | Dead | Stranded | | Generational-breeding RPG; the PS1 predecessor never left Japan either. |
-| Phantasy Star Nova | 2014 | Tri-Ace | Sega | Action RPG | 1–4 | Dead | Stranded | | Japan-only. |
-| PlayStation Vita Pets | 2014 | Spiral House | SCE | Virtual pet | 1 | Dead | Stranded | | Uses the camera and microphone for interaction; Sony has never revisited the virtual-pet concept. |
-| Sword Art Online: Hollow Fragment | 2014 | Aquria | Bandai Namco | Action RPG | 1–2 | Dead | Ported | PS4 (2015), PC (2017) | |
-| TxK | 2014 | Llamasoft | Llamasoft | Tube shooter | 1 | No | Stranded | | **Stranded by litigation, not hardware.** PC, PS4 and Android versions were finished or planned when Atari claimed it infringed *Tempest 2000*. Jeff Minter was blocked from shipping them. The dispute later settled and the design was reworked into *Tempest 4000* (2018): a different game under Atari's licence, so TxK itself remains Vita-only. |
-| Digimon Story: Cyber Sleuth | 2015 | Media.Vision | Bandai Namco | JRPG | 1 | No | Ported | PS4 (2016), Switch, PC (2019) | Japanese Vita debut; the West got the PS4 version alongside. |
-| Looney Tunes Galactic Sports | 2015 | Virtual Toys | Sony | Sports | 1–4 | Dead | Stranded | | PAL-only; licensed. |
-| MonsterBag | 2015 | IguanaBee | Sony Santa Monica | Puzzle | 1 | No | Stranded | | A small IguanaBee puzzle game that Sony published and then left behind. |
-| The Muppets Movie Adventures | 2015 | Virtual Toys | Sony | Platformer | 1 | No | Stranded | | PAL-only. Disney licence makes a re-release unlikely. |
-| Tokyo Xanadu | 2015 | Nihon Falcom | Falcom / Aksys | Action RPG | 1 | No | Ported | PS4, PC (2017, as *eX+*) | |
-| Dragon Quest Builders | 2016 | Square Enix | Square Enix | Sandbox | 1 | No | Sim-ship | PS4 (2016, same day), Switch (2018) | |
-| Severed | 2016 | DrinkBox Studios | DrinkBox | Dungeon crawler | 1 | No | Ported | Wii U, 3DS, PS4, Xbox One, Switch, PC (2016–17) | Vita-first by a few months. |
-| Zero Time Dilemma | 2016 | Chime | Aksys / Spike Chunsoft | Visual novel | 1 | No | Sim-ship | 3DS, PC (2016, same day), PS4 (2017) | |
+| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Army Corps of Hell | 2011 | Entersphere | Square Enix | Action / strategy | 1–4 | Dead | Stranded | | | Launch title. |
+| Little Deviants | 2011 | Bigbig Studios | SCE | Minigame collection | 1–2 | No | Stranded | | | Launch title built to demo the rear touch pad. Bigbig was closed by Sony in 2012. |
+| Shinobido 2: Revenge of Zen | 2011 | Acquire | Namco Bandai | Stealth action | 1 | Dead | Stranded | | | Launch title. Series ended here. |
+| Touch My Katamari | 2011 | Namco Bandai | Namco Bandai | Puzzle / action | 1 | No | Stranded | | | Launch title. The only Katamari game not re-released, *Reroll* and *Damacy Rolling Live* both revive PS2-era entries instead. |
+| Uncharted: Golden Abyss | 2011 | Bend Studio | SCE | Action-adventure | 1 | No | Stranded | | | Launch title and the Vita's showcase. Absent from *The Nathan Drake Collection*, which remastered only the three PS3 games, the most conspicuous omission in the catalogue. |
+| Assassin's Creed III: Liberation | 2012 | Ubisoft Sofia | Ubisoft | Action-adventure | 1 | No | Ported | PS3, Xbox 360, PC (2014, *Liberation HD*), Switch (2019) | | |
+| Call of Duty: Black Ops: Declassified | 2012 | Nihilistic Software | Activision | FPS | 1–8 | Dead | Stranded | | | The only Call of Duty never re-released in any form. Nihilistic renamed itself and then closed. |
+| Chronovolt | 2012 | Playbox / Team Junkfish | Zen Studios | Puzzle | 1 | No | Stranded | | | A launch-window puzzle game from a studio that has since focused entirely on pinball. |
+| DJMax Technika Tune | 2012 | Pentavision | Neowiz | Rhythm | 1 | Dead | Stranded | | | Licensed tracklist; the Technika arcade line it adapts is separate. |
+| Dynasty Warriors Next | 2012 | Omega Force | Tecmo Koei | Musou | 1–4 | Dead | Stranded | | | Built around touch and gyro for duels; never folded into a later collection. |
+| Escape Plan | 2012 | Fun Bits Interactive | SCE | Puzzle | 1 | No | Ported | PS4 (2013) | | Launch title. |
+| Gravity Rush | 2012 | SCE Japan Studio | SCE | Action-adventure | 1 | No | Ported | PS4 (2015, *Remastered*) | | The Vita's strongest new IP, and the clearest case of commercial value driving a port. |
+| Let's Fish! Hooked On | 2012 | SIMS | SCE | Fishing | 1–4 | Dead | Stranded | | | PAL/JP. |
+| LittleBigPlanet PS Vita | 2012 | Tarsier / Double Eleven | SCE | Platformer / creation | 1–4 | Dead (2021) | Stranded | | | Considered among the best in the series. Servers closed with the wider LBP shutdown, taking user levels with it. |
+| Lumines: Electronic Symphony | 2012 | Q Entertainment | Ubisoft | Puzzle | 1 | Dead | Stranded | | | *Lumines Remastered* (2018) is built from the original PSP game, not this one. Licensed electronic tracklist blocks a re-release. |
+| ModNation Racers: Road Trip | 2012 | San Diego Studio | SCE | Kart racer | 1–4 | Dead | Stranded | | | Launch title. |
+| PlayStation All-Stars Battle Royale | 2012 | SuperBot / Bluepoint | SCE | Fighting | 1–4 | Dead (2018) | Sim-ship | PS3 (2012, same day) | | SuperBot was dropped by Sony months after release. |
+| Reality Fighters | 2012 | Novarama | SCE | Fighting | 1–2 | Dead | Stranded | | | Uses the Vita's cameras to map the player's face onto a fighter and fight in AR. |
+| Resistance: Burning Skies | 2012 | Nihilistic Software | SCE | FPS | 1–8 | Dead | Stranded | | | The final Resistance game. |
+| Ridge Racer | 2012 | Cellius | Namco Bandai | Racing | 1–8 | Dead | Stranded | | | Shipped thin on content; the series went dormant afterwards. |
+| Silent Hill: Book of Memories | 2012 | WayForward | Konami | Dungeon crawler | 1–4 | Dead | Stranded | | | The only isometric co-op Silent Hill, and the only entry excluded from every Konami collection. |
+| Smart As.. | 2012 | XDev / Climax | SCE | Puzzle / brain training | 1–4 | Dead | Stranded | | | Brain-training built on touch and rear-pad input; Sony's XDev group was restructured and the concept dropped. |
+| Sound Shapes | 2012 | Queasy Games | SCE | Music platformer | 1–2 | Dead | Sim-ship | PS3 (2012, same day), PS4 (2013) | | Cross-buy across all three PlayStation platforms. |
+| Super Monkey Ball: Banana Splitz | 2012 | Sega | Sega | Platformer | 1–4 | No | Stranded | | | *Banana Mania* remakes the GameCube games instead. |
+| Uncharted: Fight for Fortune | 2012 | One Loop Games / Bend | SCE | Digital card game | 1–2 | Dead | Stranded | | | Spin-off requiring *Golden Abyss* save data for full unlocks. |
+| Unit 13 | 2012 | Zipper Interactive | SCE | Tactical shooter | 1–2 | Dead | Stranded | | | Zipper was closed by Sony weeks after release, permanently orphaning it. |
+| Wipeout 2048 | 2012 | SCE Studio Liverpool | SCE | Racing | 1–8 | Dead | Ported | PS4 (2017, in *WipEout Omega Collection*) | | Studio Liverpool's final game; closed months after release. Escaped via the compilation. |
+| Ys: Memories of Celceta | 2012 | Nihon Falcom | Falcom / XSEED | Action RPG | 1 | No | Ported | PC (2018), PS4 (2020) | | |
+| Zero Escape: Virtue's Last Reward | 2012 | Chunsoft | Aksys / Rising Star | Visual novel | 1 | No | Sim-ship | 3DS (2012, same day), PC, PS4 (2017) | | |
+| Akiba's Trip: Undead & Undressed | 2013 | Acquire | Acquire / XSEED | Action RPG | 1 | No | Ported | PS3, PS4 (2014), PC (2015), Switch (2021) | | |
+| Demon Gaze | 2013 | Kadokawa Games / Experience | NIS America | Dungeon crawler | 1 | No | **Stranded** | | | No console release. PC version exists (PC (2017)) but PC is not a catalogued platform. |
+| Dragon's Crown | 2013 | Vanillaware | Atlus | Beat 'em up / RPG | 1–4 | Dead | Sim-ship | PS3 (2013, same day), PS4 (2018, *Pro*) | | |
+| Hyperdimension Neptunia: Producing Perfection | 2013 | Idea Factory | Idea Factory | Idol sim | 1 | No | Stranded | | | Nearly every other Neptunia game reached Switch or PC; this one did not. |
+| Invizimals: The Alliance | 2013 | Novarama | SCE | AR collectathon | 1–2 | Dead | Stranded | | | Camera-based AR monster capture; the whole series is stranded on PSP/Vita. |
+| Killzone: Mercenary | 2013 | Guerrilla Cambridge | SCE | FPS | 1–8 | Dead (2018) | Stranded | | | Widely rated the best-looking Vita game. Guerrilla Cambridge was closed in 2017; the Killzone series has been dormant since. |
+| Sly Cooper: Thieves in Time | 2013 | Sanzaru Games | Sony | Platformer | 1 | No | Sim-ship | PS3 (2013, same day) | | Also catalogued under [PS3](ps3.md). Cross-buy; the series has been dormant since. |
+| Soul Sacrifice | 2013 | SCE Japan Studio / Marvelous | SCE | Action RPG | 1–4 | Dead | Stranded | | | *Soul Sacrifice Delta* (2014) is a same-platform expanded re-release, so both remain Vita-only. |
+| Tearaway | 2013 | Media Molecule | SCE | Platformer | 1 | No | Ported | PS4 (2015, *Unfolded*) | | ⚠ [Contested](#contested), *Unfolded* rebuilds the game around a DualShock 4 because the original's controls were rear-pad-specific. |
+| The Legend of Heroes: Trails of Cold Steel | 2013 | Nihon Falcom | Falcom / XSEED | JRPG | 1 | No | Sim-ship | PS3 (2013, same day), PC (2017), PS4 (2019), Switch (2022) | | |
+| Toukiden: The Age of Demons | 2013 | Omega Force | Tecmo Koei | Hunting action | 1–4 | Dead | Ported | PS4 (2015, as *Toukiden Kiwami*) | | |
+| Valhalla Knights 3 | 2013 | K2 | Marvelous | Action RPG | 1–4 | Dead | Stranded | | | K2's series ended here, and the earlier entries were PSP-only, so the whole line is stranded across two dead handhelds. |
+| Corpse Party: Blood Drive | 2014 | Team GrisGris / 5pb. | XSEED | Horror adventure | 1 | No | Ported | PC (2019), Switch (2019) | | |
+| Destiny of Spirits | 2014 | Q Entertainment | SCE | Strategy RPG | 1 | **Dead (2015)** | Stranded | | | Free-to-play and online-only. Servers closed 30 Mar 2015, ~13 months after launch. **Unplayable even on working hardware**, fully lost. |
+| Ecolibrium | 2014 | SCE Studio Liverpool team | SCE | Ecosystem sim | 1 | Dead | Stranded | | | Free-to-play. Sony's last Liverpool-adjacent project before the studio's closure. |
+| Freedom Wars | 2014 | SCE Japan Studio / Dimps / Shift | SCE | Action RPG | 1–8 | Dead | Ported | PS4, PS5, Switch, PC (2025, *Remastered*) | | Was stranded until 10 Jan 2025. |
+| Murasaki Baby | 2014 | Ovosonico | SCE | Puzzle / horror | 1 | No | Stranded | | | Controlled entirely by dragging a balloon string on the front screen and manipulating the world via the rear pad. |
+| Oreshika: Tainted Bloodlines | 2014 | Alfa System | SCE | RPG | 1 | Dead | Stranded | | | Generational-breeding RPG; the PS1 predecessor never left Japan either. |
+| Phantasy Star Nova | 2014 | Tri-Ace | Sega | Action RPG | 1–4 | Dead | Stranded | | Japanese | Japan-only. |
+| PlayStation Vita Pets | 2014 | Spiral House | SCE | Virtual pet | 1 | Dead | Stranded | | | Uses the camera and microphone for interaction; Sony has never revisited the virtual-pet concept. |
+| Sword Art Online: Hollow Fragment | 2014 | Aquria | Bandai Namco | Action RPG | 1–2 | Dead | Ported | PS4 (2015), PC (2017) | | |
+| TxK | 2014 | Llamasoft | Llamasoft | Tube shooter | 1 | No | Stranded | | | **Stranded by litigation, not hardware.** PC, PS4 and Android versions were finished or planned when Atari claimed it infringed *Tempest 2000*. Jeff Minter was blocked from shipping them. The dispute later settled and the design was reworked into *Tempest 4000* (2018): a different game under Atari's licence, so TxK itself remains Vita-only. |
+| Digimon Story: Cyber Sleuth | 2015 | Media.Vision | Bandai Namco | JRPG | 1 | No | Ported | PS4 (2016), Switch, PC (2019) | | Japanese Vita debut; the West got the PS4 version alongside. |
+| Looney Tunes Galactic Sports | 2015 | Virtual Toys | Sony | Sports | 1–4 | Dead | Stranded | | | PAL-only; licensed. |
+| MonsterBag | 2015 | IguanaBee | Sony Santa Monica | Puzzle | 1 | No | Stranded | | | A small IguanaBee puzzle game that Sony published and then left behind. |
+| The Muppets Movie Adventures | 2015 | Virtual Toys | Sony | Platformer | 1 | No | Stranded | | | PAL-only. Disney licence makes a re-release unlikely. |
+| Tokyo Xanadu | 2015 | Nihon Falcom | Falcom / Aksys | Action RPG | 1 | No | Ported | PS4, PC (2017, as *eX+*) | | |
+| Dragon Quest Builders | 2016 | Square Enix | Square Enix | Sandbox | 1 | No | Sim-ship | PS4 (2016, same day), Switch (2018) | | |
+| Severed | 2016 | DrinkBox Studios | DrinkBox | Dungeon crawler | 1 | No | Ported | Wii U, 3DS, PS4, Xbox One, Switch, PC (2016–17) | | Vita-first by a few months. |
+| Zero Time Dilemma | 2016 | Chime | Aksys / Spike Chunsoft | Visual novel | 1 | No | Sim-ship | 3DS, PC (2016, same day), PS4 (2017) | | |
 
 ## Contested
 

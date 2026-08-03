@@ -38,14 +38,14 @@ was effectively its own computer; a design nothing can emulate straightforwardly
 
 ## Debut games
 
-| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Notes |
-|---|---|---|---|---|---|---|---|---|---|
-| Kikori no Yosaku | 1981 | Epoch | Epoch | Action | 1–2 | No | **Stranded** | | A launch title for the original Cassette Vision. Its cartridge contains the system's processor; the console itself was little more than a power supply and video output, so the "game" and the hardware are inseparable. |
-| Astro Command | 1982 | Epoch | Epoch | Shoot 'em up | 1 | No | **Stranded** | | An Epoch original for the Cassette Vision, whose cartridges each contained the system's CPU; hardware and game are inseparable, and Epoch has no games division to reissue it. |
-| Battle Vader | 1982 | Epoch | Epoch | Shoot 'em up | 1 | No | **Stranded** | | An unlicensed `Space Invaders` derivative, which is a further bar to any reissue. |
-| Pole Position II | 1984 | Epoch | Epoch | Racing | 1 | No | **Stranded** | | **Super Cassette Vision.** A Namco licence, on a Japan-only console that lost to the Famicom; the licence has been re-sold many times since without ever including this build. |
-| Boulder Dash | 1985 | Epoch | Epoch | Puzzle | 1 | No | **Stranded** | | **Super Cassette Vision.** A licensed conversion of the 1984 computer game, so it fails the debut test, listed to show the platform's licensing pattern. |
-| Professional Baseball | 1985 | Epoch | Epoch | Sports | 1–2 | No | **Stranded** | | **Super Cassette Vision.** Japanese league branding from 1985, long expired. |
+| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Kikori no Yosaku | 1981 | Epoch | Epoch | Action | 1–2 | No | **Stranded** | | | A launch title for the original Cassette Vision. Its cartridge contains the system's processor; the console itself was little more than a power supply and video output, so the "game" and the hardware are inseparable. |
+| Astro Command | 1982 | Epoch | Epoch | Shoot 'em up | 1 | No | **Stranded** | | | An Epoch original for the Cassette Vision, whose cartridges each contained the system's CPU; hardware and game are inseparable, and Epoch has no games division to reissue it. |
+| Battle Vader | 1982 | Epoch | Epoch | Shoot 'em up | 1 | No | **Stranded** | | | An unlicensed `Space Invaders` derivative, which is a further bar to any reissue. |
+| Pole Position II | 1984 | Epoch | Epoch | Racing | 1 | No | **Stranded** | | Japanese | **Super Cassette Vision.** A Namco licence, on a Japan-only console that lost to the Famicom; the licence has been re-sold many times since without ever including this build. |
+| Boulder Dash | 1985 | Epoch | Epoch | Puzzle | 1 | No | **Stranded** | | | **Super Cassette Vision.** A licensed conversion of the 1984 computer game, so it fails the debut test, listed to show the platform's licensing pattern. |
+| Professional Baseball | 1985 | Epoch | Epoch | Sports | 1–2 | No | **Stranded** | | | **Super Cassette Vision.** Japanese league branding from 1985, long expired. |
 
 ## Excluded
 

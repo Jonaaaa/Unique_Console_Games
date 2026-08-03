@@ -38,12 +38,12 @@ no re-release would reproduce faithfully. `Ported` count of **zero**.
 
 ## Debut games
 
-| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Notes |
-|---|---|---|---|---|---|---|---|---|---|
-| Lights Out | 1997 | Tiger Electronics | Tiger | Puzzle | 1 | No | **Stranded** | | A pack-in title adapted from Tiger's own handheld electronic toy, and one of the few Game.com games designed around the stylus rather than converted to it. |
-| Fighters Megamix | 1998 | Tiger Electronics | Tiger | Fighting | 1–2 | No | **Stranded** | | A Game.com-original interpretation rather than a conversion of the Saturn game of the same name, which is itself stranded, on [Saturn](saturn.md). |
-| Henry | 1998 | Tiger Electronics | Tiger | Puzzle | 1 | No | **Stranded** | | A stylus-drawn puzzle game built specifically for the touchscreen: the platform's clearest demonstration of why it existed, and unportable without one. |
-| Indy 500 | 1998 | Tiger Electronics | Tiger | Racing | 1 | No | **Stranded** | | Carries the Indianapolis 500 licence, which is still actively managed, a bar to reissue on top of everything else. |
+| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Lights Out | 1997 | Tiger Electronics | Tiger | Puzzle | 1 | No | **Stranded** | | | A pack-in title adapted from Tiger's own handheld electronic toy, and one of the few Game.com games designed around the stylus rather than converted to it. |
+| Fighters Megamix | 1998 | Tiger Electronics | Tiger | Fighting | 1–2 | No | **Stranded** | | | A Game.com-original interpretation rather than a conversion of the Saturn game of the same name, which is itself stranded, on [Saturn](saturn.md). |
+| Henry | 1998 | Tiger Electronics | Tiger | Puzzle | 1 | No | **Stranded** | | | A stylus-drawn puzzle game built specifically for the touchscreen: the platform's clearest demonstration of why it existed, and unportable without one. |
+| Indy 500 | 1998 | Tiger Electronics | Tiger | Racing | 1 | No | **Stranded** | | | Carries the Indianapolis 500 licence, which is still actively managed, a bar to reissue on top of everything else. |
 
 ## Excluded
 

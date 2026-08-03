@@ -171,13 +171,30 @@ not facts**. They routinely list multiplatform games (`ZombiU`, `Watch Dogs`,
 ./tools/validate.py
 ```
 
-Verifies that each file has exactly one debut table, that every row has its ten
-cells and a known status, that the Summary count matches the rows actually
-present, that no heading is glued to the end of a table row, and that every
-relative link and heading anchor resolves. GitHub renders all of those mistakes
-without complaint, so they look correct on the page and are wrong in the data.
-The same script runs on every push and pull request.
+Verifies that each file has exactly one debut table, that every row has its
+eleven cells and a known status, that `Also On` agrees with `Status`, that the
+Summary count matches the rows actually present, that no heading is glued to the
+end of a table row, and that every relative link and heading anchor resolves.
+GitHub renders all of those mistakes without complaint, so they look correct on
+the page and are wrong in the data. The same script runs on every push and pull
+request.
 
 It is a structure check only. Whether a game genuinely debuted on a platform is
 a research question no script can settle; [`CONSISTENCY.md`](CONSISTENCY.md)
 covers the rule checks that go alongside it.
+
+## Licence
+
+[CC BY-NC-SA 4.0](LICENSE). Copy it, adapt it, translate it, build on it, so
+long as you credit this repo, share your version on the same terms, and do not
+use it commercially. The full text is in [`LICENSE`](LICENSE); the plain-English
+summary is on [Creative Commons' site](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+The same terms cover `tools/validate.py`, which is too small to be worth a
+second licence.
+
+Two things worth saying plainly. Individual facts, such as a release year or a
+publisher, are not copyrightable and nobody needs permission to state them; what
+the licence covers is the selection, the written notes and the ruleset. And a
+non-commercial clause is not an open-source licence by the
+[OSI definition](https://opensource.org/osd), which requires that commercial use
+be permitted, so projects such as Wikipedia cannot reuse this material.

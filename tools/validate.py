@@ -26,9 +26,9 @@ CATALOGS = ROOT / "catalogs"
 
 DEBUT_HEADER = (
     "| Title | Year | Developer | Publisher | Genre | Players | Online "
-    "| Status | Also On | Notes |"
+    "| Status | Also On | Language | Notes |"
 )
-EXPECTED_CELLS = 10
+EXPECTED_CELLS = 11
 VALID_STATUS = {"Stranded", "Ported", "Sim-ship"}
 
 SEPARATOR_RE = re.compile(r"^\|[\s:|-]+\|$")

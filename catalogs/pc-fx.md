@@ -44,17 +44,17 @@ will be.
 
 ## Debut games
 
-| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Notes |
-|---|---|---|---|---|---|---|---|---|---|
-| Battle Heat | 1994 | NEC Avenue | NEC | Fighting | 1–2 | No | **Stranded** | | A launch title, and one of the strangest fighting games ever built: **entirely pre-rendered animation** rather than sprites or polygons, because the hardware could not do 3D. A product of the console's central limitation. |
-| Team Innocent: The Point of No Return | 1994 | Red Company | NEC | Action-adventure | 1 | No | **Stranded** | | The launch title, and the game used to demonstrate the hardware's FMV capability. Red Company (later Red Entertainment) survives, but this has never been reissued. |
-| Kishin Dōji Zenki FX | 1995 | Hudson Soft | Hudson Soft | Fighting | 1–2 | No | **Stranded** | | A licensed anime tie-in, the pattern that defines the platform. |
-| Miraculum: The Last Revelation | 1995 | Media Works | NEC | RPG | 1 | No | **Stranded** | | One of the few non-visual-novel RPGs on the platform. |
-| Blue Breaker: Ken Yorimo Hohoemi o | 1996 | Hudson Soft | Hudson Soft | Visual novel / RPG | 1 | No | **Stranded** | | Representative of the platform's dominant genre. |
-| First Kiss Story | 1996 | Hudson Soft | Hudson Soft | Visual novel | 1 | No | **Stranded** | | A dating sim with a full voice cast, the exact combination of rights that makes reissue uneconomic. |
-| Chip-chan Kick! | 1997 | Wonder Kitchen | NEC | Action-platformer | 1 | No | **Stranded** | | A rare original action game on a platform that had almost none. Now among the most sought-after PC-FX discs. |
-| Farland Story FX | 1997 | TGL | NEC | Tactical RPG | 1 | No | **Stranded** | | Part of a long-running Japanese PC series; the PC-FX entry is its own game. |
-| Zeroigar | 1997 | Nihon Bussan / Kaneko | NEC | Shoot 'em up | 1 | No | **Stranded** | | **The final PC-FX release**, and the platform's only real shoot 'em up; well regarded, released into a market of a few thousand active owners. The most sought-after game on the system. |
+| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Battle Heat | 1994 | NEC Avenue | NEC | Fighting | 1–2 | No | **Stranded** | | | A launch title, and one of the strangest fighting games ever built: **entirely pre-rendered animation** rather than sprites or polygons, because the hardware could not do 3D. A product of the console's central limitation. |
+| Team Innocent: The Point of No Return | 1994 | Red Company | NEC | Action-adventure | 1 | No | **Stranded** | | | The launch title, and the game used to demonstrate the hardware's FMV capability. Red Company (later Red Entertainment) survives, but this has never been reissued. |
+| Kishin Dōji Zenki FX | 1995 | Hudson Soft | Hudson Soft | Fighting | 1–2 | No | **Stranded** | | | A licensed anime tie-in, the pattern that defines the platform. |
+| Miraculum: The Last Revelation | 1995 | Media Works | NEC | RPG | 1 | No | **Stranded** | | | One of the few non-visual-novel RPGs on the platform. |
+| Blue Breaker: Ken Yorimo Hohoemi o | 1996 | Hudson Soft | Hudson Soft | Visual novel / RPG | 1 | No | **Stranded** | | | Representative of the platform's dominant genre. |
+| First Kiss Story | 1996 | Hudson Soft | Hudson Soft | Visual novel | 1 | No | **Stranded** | | | A dating sim with a full voice cast, the exact combination of rights that makes reissue uneconomic. |
+| Chip-chan Kick! | 1997 | Wonder Kitchen | NEC | Action-platformer | 1 | No | **Stranded** | | | A rare original action game on a platform that had almost none. Now among the most sought-after PC-FX discs. |
+| Farland Story FX | 1997 | TGL | NEC | Tactical RPG | 1 | No | **Stranded** | | | Part of a long-running Japanese PC series; the PC-FX entry is its own game. |
+| Zeroigar | 1997 | Nihon Bussan / Kaneko | NEC | Shoot 'em up | 1 | No | **Stranded** | | | **The final PC-FX release**, and the platform's only real shoot 'em up; well regarded, released into a market of a few thousand active owners. The most sought-after game on the system. |
 
 ## Excluded
 

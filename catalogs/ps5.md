@@ -44,26 +44,26 @@ that lacks them, the same category as `Wii Sports` or `Drag x Drive`.
 
 ## Debut games
 
-| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Notes |
-|---|---|---|---|---|---|---|---|---|---|
-| Astro's Playroom | 2020 | Team Asobi | Sony | Platformer | 1 | No | **Stranded** | | Pre-installed on every PS5. Built entirely around DualSense haptics and adaptive triggers: a controller demonstration in game form, and unportable for the same reason `1-2-Switch` is. |
-| Marvel's Spider-Man: Miles Morales | 2020 | Insomniac | Sony | Action-adventure | 1 | No | Sim-ship | PS4 (2020, same day); PC (2022) | Also catalogued under [PS4](ps4.md). |
-| Sackboy: A Big Adventure | 2020 | Sumo Digital | Sony | Platformer | 1–4 | Dead | Sim-ship | PS4 (2020, same day); PC (2022) | Also catalogued under [PS4](ps4.md). |
-| Destruction AllStars | 2021 | Lucid Games | Sony | Vehicular combat | 1–16 | **Dead (2023)** | **Stranded** | | Online-only, given away through PS Plus, and **delisted in 2023 when its servers closed**, so the game no longer functions at all. Two years from release to delisting. |
-| Ratchet & Clank: Rift Apart | 2021 | Insomniac | Sony | Platformer | 1 | No | **Stranded** | | Built around the SSD for instant dimension-hopping, the PS5's headline technical demonstration. PC in 2023; no second console. |
-| Returnal | 2021 | Housemarque | Sony | Roguelike shooter | 1–2 | Yes | **Stranded** | | Housemarque's first game after Sony acquired it. PC followed in 2023; no other console. Its DualSense trigger use is central to the design. |
-| God of War Ragnarök | 2022 | SCE Santa Monica | Sony | Action-adventure | 1 | No | Sim-ship | PS4 (2022, same day); PC (2024) | Also catalogued under [PS4](ps4.md). |
-| Gran Turismo 7 | 2022 | Polyphony Digital | Sony | Racing | 1–20 | Yes | Sim-ship | PS4 (2022, same day) | Also catalogued under [PS4](ps4.md). Requires a permanent online connection for most modes, which will strand it the moment those services close. |
-| Horizon Forbidden West | 2022 | Guerrilla Games | Sony | Action RPG | 1 | No | Sim-ship | PS4 (2022, same day); PC (2024) | Also catalogued under [PS4](ps4.md). |
-| Marvel's Spider-Man 2 | 2023 | Insomniac | Sony | Action-adventure | 1 | No | **Stranded** | | PC in 2025. The **Marvel licence** means Sony cannot place it on Nintendo or Microsoft hardware regardless of policy. |
-| Astro Bot | 2024 | Team Asobi | Sony | Platformer | 1 | No | **Stranded** | | The follow-up to `Astro's Playroom`, and widely the best-reviewed PS5 exclusive. DualSense-dependent and not on PC. |
-| Concord | 2024 | Firewalk Studios | Sony | Hero shooter | 1–12 | **Dead (2024)** | **Stranded** | | **Withdrawn from sale two weeks after release** and the servers shut down; Firewalk was closed in Oct 2024. Refunds were issued and the game is unobtainable by any means. Not merely stranded; it no longer exists as a product. |
-| Helldivers 2 | 2024 | Arrowhead | Sony | Co-op shooter | 1–4 | Yes | **Stranded** | | Launched on PS5 and PC the same day, which under the PC rule makes PS5 the catalogued debut. Its live-service design means server closure would end it entirely. |
-| Rise of the Ronin | 2024 | Team Ninja | Sony / Koei Tecmo | Action RPG | 1–3 | Yes | **Stranded** | | PC followed; no other console. |
-| Stellar Blade | 2024 | Shift Up | Sony | Action | 1 | No | **Stranded** | | A Korean-developed Sony exclusive; PC in 2025. |
-| Death Stranding 2: On the Beach | 2025 | Kojima Productions | Sony | Action-adventure | 1 | Yes | **Stranded** | | Kojima Productions retained rights to the first game and took it to Xbox; whether this follows is unresolved. |
-| Ghost of Yōtei | 2025 | Sucker Punch | Sony | Action-adventure | 1 | Yes | **Stranded** | | The follow-up to `Ghost of Tsushima`. |
-| The Outer Worlds 2 | 2025 | Obsidian | Microsoft | Action RPG | 1 | No | Sim-ship | Xbox Series X/S, PC (2025, same day) | Also catalogued under [Xbox Series X\|S](xbox-series.md). A Microsoft-published game launching on PlayStation day one. |
+| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Astro's Playroom | 2020 | Team Asobi | Sony | Platformer | 1 | No | **Stranded** | | | Pre-installed on every PS5. Built entirely around DualSense haptics and adaptive triggers: a controller demonstration in game form, and unportable for the same reason `1-2-Switch` is. |
+| Marvel's Spider-Man: Miles Morales | 2020 | Insomniac | Sony | Action-adventure | 1 | No | Sim-ship | PS4 (2020, same day); PC (2022) | | Also catalogued under [PS4](ps4.md). |
+| Sackboy: A Big Adventure | 2020 | Sumo Digital | Sony | Platformer | 1–4 | Dead | Sim-ship | PS4 (2020, same day); PC (2022) | | Also catalogued under [PS4](ps4.md). |
+| Destruction AllStars | 2021 | Lucid Games | Sony | Vehicular combat | 1–16 | **Dead (2023)** | **Stranded** | | | Online-only, given away through PS Plus, and **delisted in 2023 when its servers closed**, so the game no longer functions at all. Two years from release to delisting. |
+| Ratchet & Clank: Rift Apart | 2021 | Insomniac | Sony | Platformer | 1 | No | **Stranded** | | | Built around the SSD for instant dimension-hopping, the PS5's headline technical demonstration. PC in 2023; no second console. |
+| Returnal | 2021 | Housemarque | Sony | Roguelike shooter | 1–2 | Yes | **Stranded** | | | Housemarque's first game after Sony acquired it. PC followed in 2023; no other console. Its DualSense trigger use is central to the design. |
+| God of War Ragnarök | 2022 | SCE Santa Monica | Sony | Action-adventure | 1 | No | Sim-ship | PS4 (2022, same day); PC (2024) | | Also catalogued under [PS4](ps4.md). |
+| Gran Turismo 7 | 2022 | Polyphony Digital | Sony | Racing | 1–20 | Yes | Sim-ship | PS4 (2022, same day) | | Also catalogued under [PS4](ps4.md). Requires a permanent online connection for most modes, which will strand it the moment those services close. |
+| Horizon Forbidden West | 2022 | Guerrilla Games | Sony | Action RPG | 1 | No | Sim-ship | PS4 (2022, same day); PC (2024) | | Also catalogued under [PS4](ps4.md). |
+| Marvel's Spider-Man 2 | 2023 | Insomniac | Sony | Action-adventure | 1 | No | **Stranded** | | | PC in 2025. The **Marvel licence** means Sony cannot place it on Nintendo or Microsoft hardware regardless of policy. |
+| Astro Bot | 2024 | Team Asobi | Sony | Platformer | 1 | No | **Stranded** | | | The follow-up to `Astro's Playroom`, and widely the best-reviewed PS5 exclusive. DualSense-dependent and not on PC. |
+| Concord | 2024 | Firewalk Studios | Sony | Hero shooter | 1–12 | **Dead (2024)** | **Stranded** | | | **Withdrawn from sale two weeks after release** and the servers shut down; Firewalk was closed in Oct 2024. Refunds were issued and the game is unobtainable by any means. Not merely stranded; it no longer exists as a product. |
+| Helldivers 2 | 2024 | Arrowhead | Sony | Co-op shooter | 1–4 | Yes | **Stranded** | | | Launched on PS5 and PC the same day, which under the PC rule makes PS5 the catalogued debut. Its live-service design means server closure would end it entirely. |
+| Rise of the Ronin | 2024 | Team Ninja | Sony / Koei Tecmo | Action RPG | 1–3 | Yes | **Stranded** | | | PC followed; no other console. |
+| Stellar Blade | 2024 | Shift Up | Sony | Action | 1 | No | **Stranded** | | | A Korean-developed Sony exclusive; PC in 2025. |
+| Death Stranding 2: On the Beach | 2025 | Kojima Productions | Sony | Action-adventure | 1 | Yes | **Stranded** | | | Kojima Productions retained rights to the first game and took it to Xbox; whether this follows is unresolved. |
+| Ghost of Yōtei | 2025 | Sucker Punch | Sony | Action-adventure | 1 | Yes | **Stranded** | | | The follow-up to `Ghost of Tsushima`. |
+| The Outer Worlds 2 | 2025 | Obsidian | Microsoft | Action RPG | 1 | No | Sim-ship | Xbox Series X/S, PC (2025, same day) | | Also catalogued under [Xbox Series X\|S](xbox-series.md). A Microsoft-published game launching on PlayStation day one. |
 
 ## Contested
 

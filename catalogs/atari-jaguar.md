@@ -43,22 +43,22 @@ homebrew scene still produces cartridges.
 
 ## Debut games
 
-| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Notes |
-|---|---|---|---|---|---|---|---|---|---|
-| Cybermorph | 1993 | Attention to Detail | Atari | Flight combat | 1 | No | **Stranded** | | The pack-in title, and the source of the console's most-quoted line of voice acting. Never reissued in any form. |
-| Trevor McFur in the Crescent Galaxy | 1993 | Atari | Atari | Shoot 'em up | 1 | No | **Stranded** | | A launch title, widely panned, and never revisited. |
-| Alien vs Predator | 1994 | Rebellion | Atari | FPS | 1 | No | **Stranded** | | Rebellion's debut and the game most often cited as justifying the hardware. **Needs the 20th Century Fox licence for both franchises** (now Disney-owned) which makes reissue effectively impossible despite Rebellion still existing and still making AvP games. |
-| Iron Soldier | 1994 | Eclipse Software | Telegames | Mech action | 1 | No | **Stranded** | | One of the few Jaguar games with a good reputation. Telegames is effectively dormant. |
-| Kasumi Ninja | 1994 | Hand Made Software | Atari | Fighting | 1–2 | No | **Stranded** | | Atari's attempt at a `Mortal Kombat` competitor, notorious rather than good. |
-| Tempest 2000 | 1994 | Llamasoft | Atari | Tube shooter | 1–2 | No | Ported | Saturn, PC (1996), *Atari 50* (2022) | **The Jaguar's best game and its clearest success.** Jeff Minter's reinvention of `Tempest`; Atari owns it outright, which is why it escaped. The same designer's `TxK` (Vita) was later blocked by Atari's lawyers over its similarity to this; the only case here of one entry stranding another. |
-| Val d'Isère Championship | 1994 | Virtual Studio | Atari | Sports | 1 | No | **Stranded** | | Carries real-world resort branding. |
-| Blue Lightning | 1995 | Attention to Detail | Atari | Flight combat | 1 | No | **Stranded** | | **Jaguar CD.** A remake of the Lynx launch title, and a separate game from it, so both versions are stranded, on two dead Atari platforms. |
-| Highlander: The Last of the MacLeods | 1995 | Lore Design | Atari | Action-adventure | 1 | No | **Stranded** | | **Jaguar CD.** A film/TV licence on a CD add-on for a console with 250,000 owners, about as narrow a release window as exists. |
-| Missile Command 3D | 1995 | Virtuality | Atari | Shoot 'em up | 1 | No | Ported | *Atari 50* (2022) | Included in the anniversary collection because Atari owns `Missile Command` outright. |
-| Rayman | 1995 | Ubisoft | Ubisoft | Platformer | 1 | No | Ported | PS1, Saturn, PC (1995), GBA, mobile | ⚠ [Contested](#contested): Ubisoft developed it primarily on Jaguar hardware, but PS1 and Saturn versions arrived in the same window. |
-| Attack of the Mutant Penguins | 1996 | Sunrise Games | Atari | Puzzle-platformer | 1–2 | No | **Stranded** | | One of the final commercial Jaguar releases, into a market Atari had already abandoned. |
-| Defender 2000 | 1996 | Llamasoft | Atari | Shoot 'em up | 1 | No | **Stranded** | | Jeff Minter's follow-up to `Tempest 2000`. Unlike that game it has never been reissued, omitted from *Atari 50* despite Atari owning `Defender`. |
-| Battlesphere | 2000 | 4Play/ScatoLOGIC | 4Play | Space combat | 1–16 | No | **Stranded** | | Released **four years after Atari left the market**, in a run of roughly a thousand cartridges, supporting 16 linked consoles. Sells for four figures. One of the most obscure commercially sold games anywhere. |
+| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Cybermorph | 1993 | Attention to Detail | Atari | Flight combat | 1 | No | **Stranded** | | | The pack-in title, and the source of the console's most-quoted line of voice acting. Never reissued in any form. |
+| Trevor McFur in the Crescent Galaxy | 1993 | Atari | Atari | Shoot 'em up | 1 | No | **Stranded** | | | A launch title, widely panned, and never revisited. |
+| Alien vs Predator | 1994 | Rebellion | Atari | FPS | 1 | No | **Stranded** | | | Rebellion's debut and the game most often cited as justifying the hardware. **Needs the 20th Century Fox licence for both franchises** (now Disney-owned) which makes reissue effectively impossible despite Rebellion still existing and still making AvP games. |
+| Iron Soldier | 1994 | Eclipse Software | Telegames | Mech action | 1 | No | **Stranded** | | | One of the few Jaguar games with a good reputation. Telegames is effectively dormant. |
+| Kasumi Ninja | 1994 | Hand Made Software | Atari | Fighting | 1–2 | No | **Stranded** | | | Atari's attempt at a `Mortal Kombat` competitor, notorious rather than good. |
+| Tempest 2000 | 1994 | Llamasoft | Atari | Tube shooter | 1–2 | No | Ported | Saturn, PC (1996), *Atari 50* (2022) | | **The Jaguar's best game and its clearest success.** Jeff Minter's reinvention of `Tempest`; Atari owns it outright, which is why it escaped. The same designer's `TxK` (Vita) was later blocked by Atari's lawyers over its similarity to this; the only case here of one entry stranding another. |
+| Val d'Isère Championship | 1994 | Virtual Studio | Atari | Sports | 1 | No | **Stranded** | | | Carries real-world resort branding. |
+| Blue Lightning | 1995 | Attention to Detail | Atari | Flight combat | 1 | No | **Stranded** | | | **Jaguar CD.** A remake of the Lynx launch title, and a separate game from it, so both versions are stranded, on two dead Atari platforms. |
+| Highlander: The Last of the MacLeods | 1995 | Lore Design | Atari | Action-adventure | 1 | No | **Stranded** | | | **Jaguar CD.** A film/TV licence on a CD add-on for a console with 250,000 owners, about as narrow a release window as exists. |
+| Missile Command 3D | 1995 | Virtuality | Atari | Shoot 'em up | 1 | No | Ported | *Atari 50* (2022) | | Included in the anniversary collection because Atari owns `Missile Command` outright. |
+| Rayman | 1995 | Ubisoft | Ubisoft | Platformer | 1 | No | Ported | PS1, Saturn, PC (1995), GBA, mobile | | ⚠ [Contested](#contested): Ubisoft developed it primarily on Jaguar hardware, but PS1 and Saturn versions arrived in the same window. |
+| Attack of the Mutant Penguins | 1996 | Sunrise Games | Atari | Puzzle-platformer | 1–2 | No | **Stranded** | | | One of the final commercial Jaguar releases, into a market Atari had already abandoned. |
+| Defender 2000 | 1996 | Llamasoft | Atari | Shoot 'em up | 1 | No | **Stranded** | | | Jeff Minter's follow-up to `Tempest 2000`. Unlike that game it has never been reissued, omitted from *Atari 50* despite Atari owning `Defender`. |
+| Battlesphere | 2000 | 4Play/ScatoLOGIC | 4Play | Space combat | 1–16 | No | **Stranded** | | | Released **four years after Atari left the market**, in a run of roughly a thousand cartridges, supporting 16 linked consoles. Sells for four figures. One of the most obscure commercially sold games anywhere. |
 
 ## Contested
 

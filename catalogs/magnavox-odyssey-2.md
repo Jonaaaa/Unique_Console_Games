@@ -42,15 +42,15 @@ Another platform here with a `Ported` count of **zero**.
 
 ## Debut games
 
-| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Notes |
-|---|---|---|---|---|---|---|---|---|---|
-| Musician | 1979 | Magnavox | Magnavox | Music tool | 1 | No | **Stranded** | | Uses the console's built-in keyboard as a musical instrument, software written specifically for hardware nothing else has. |
-| K.C. Munchkin! | 1981 | Ed Averett | Magnavox | Maze | 1–2 | No | **Stranded** | | **The subject of the first major video game copyright lawsuit.** Atari sued over its similarity to `Pac-Man` and won an injunction that pulled it from shelves, establishing that game *look and feel* could be protected. Permanently unreissuable as a direct result. |
-| Quest for the Rings | 1981 | Ed Averett | Magnavox | Action / board game | 1–2 | No | **Stranded** | | Part of the "Master Strategy" line: a physical game board, plastic pieces and cards used alongside the cartridge. The software alone is not the game, so there is nothing coherent to re-release. |
-| Pick Axe Pete | 1982 | Ed Averett | Magnavox | Platformer | 1 | No | **Stranded** | | Widely regarded as the platform's best action game. |
-| Turtles | 1982 | Konami | Philips | Maze | 1 | No | **Stranded** | | A Videopac-only European release, licensed from Konami's cabinet. |
-| Attack of the Timelord! | 1983 | Ed Averett | Philips | Shoot 'em up | 1 | No | **Stranded** | | Uses The Voice for taunting speech during play. |
-| Killer Bees! | 1983 | Ed Averett | Magnavox | Action | 1–2 | No | **Stranded** | | One of the few titles supporting **The Voice** speech module, peripheral-locked on top of everything else. |
+| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Musician | 1979 | Magnavox | Magnavox | Music tool | 1 | No | **Stranded** | | | Uses the console's built-in keyboard as a musical instrument, software written specifically for hardware nothing else has. |
+| K.C. Munchkin! | 1981 | Ed Averett | Magnavox | Maze | 1–2 | No | **Stranded** | | | **The subject of the first major video game copyright lawsuit.** Atari sued over its similarity to `Pac-Man` and won an injunction that pulled it from shelves, establishing that game *look and feel* could be protected. Permanently unreissuable as a direct result. |
+| Quest for the Rings | 1981 | Ed Averett | Magnavox | Action / board game | 1–2 | No | **Stranded** | | | Part of the "Master Strategy" line: a physical game board, plastic pieces and cards used alongside the cartridge. The software alone is not the game, so there is nothing coherent to re-release. |
+| Pick Axe Pete | 1982 | Ed Averett | Magnavox | Platformer | 1 | No | **Stranded** | | | Widely regarded as the platform's best action game. |
+| Turtles | 1982 | Konami | Philips | Maze | 1 | No | **Stranded** | | | A Videopac-only European release, licensed from Konami's cabinet. |
+| Attack of the Timelord! | 1983 | Ed Averett | Philips | Shoot 'em up | 1 | No | **Stranded** | | | Uses The Voice for taunting speech during play. |
+| Killer Bees! | 1983 | Ed Averett | Magnavox | Action | 1–2 | No | **Stranded** | | | One of the few titles supporting **The Voice** speech module, peripheral-locked on top of everything else. |
 
 ## Excluded
 

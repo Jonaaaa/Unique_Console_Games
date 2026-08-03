@@ -39,14 +39,14 @@ with a `Ported` count of **zero**.
 
 ## Debut games
 
-| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Notes |
-|---|---|---|---|---|---|---|---|---|---|
-| Videocart-1: Tic-Tac-Toe / Shooting Gallery | 1976 | Fairchild | Fairchild | Compilation | 1–2 | No | **Stranded** | | The launch cartridge. Fairchild's Videocarts bundled several small games each, a format that predates the idea of one game per cartridge. |
-| Videocart-4: Spitfire | 1976 | Fairchild | Fairchild | Flight combat | 1–2 | No | **Stranded** | | An early two-player dogfighting game, a year before the 2600 existed. |
-| Videocart-9: Drag Strip | 1977 | Fairchild | Fairchild | Racing | 1–2 | No | **Stranded** | | A Fairchild-developed Videocart; Fairchild sold the platform to Zircon in 1979 and neither company's successors have any interest in it. |
-| Videocart-18: Hangman | 1978 | Fairchild | Fairchild | Word game | 1–2 | No | **Stranded** | | One of the later Fairchild-era carts, produced in small numbers as the platform wound down. |
-| Videocart-20: Video Whizball | 1978 | Zircon | Zircon | Sports | 1–2 | No | **Stranded** | | **Contains the first known developer credit hidden in a game**: programmer Brad Reid-Selth's name appears as a collectable in-game object, predating the `Adventure` easter egg on the 2600 by a year. |
-| Videocart-26: Alien Invasion | 1981 | Zircon | Zircon | Shoot 'em up | 1 | No | **Stranded** | | A late Zircon-era release, produced in small numbers after Fairchild had already left. |
+| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Videocart-1: Tic-Tac-Toe / Shooting Gallery | 1976 | Fairchild | Fairchild | Compilation | 1–2 | No | **Stranded** | | | The launch cartridge. Fairchild's Videocarts bundled several small games each, a format that predates the idea of one game per cartridge. |
+| Videocart-4: Spitfire | 1976 | Fairchild | Fairchild | Flight combat | 1–2 | No | **Stranded** | | | An early two-player dogfighting game, a year before the 2600 existed. |
+| Videocart-9: Drag Strip | 1977 | Fairchild | Fairchild | Racing | 1–2 | No | **Stranded** | | | A Fairchild-developed Videocart; Fairchild sold the platform to Zircon in 1979 and neither company's successors have any interest in it. |
+| Videocart-18: Hangman | 1978 | Fairchild | Fairchild | Word game | 1–2 | No | **Stranded** | | | One of the later Fairchild-era carts, produced in small numbers as the platform wound down. |
+| Videocart-20: Video Whizball | 1978 | Zircon | Zircon | Sports | 1–2 | No | **Stranded** | | | **Contains the first known developer credit hidden in a game**: programmer Brad Reid-Selth's name appears as a collectable in-game object, predating the `Adventure` easter egg on the 2600 by a year. |
+| Videocart-26: Alien Invasion | 1981 | Zircon | Zircon | Shoot 'em up | 1 | No | **Stranded** | | | A late Zircon-era release, produced in small numbers after Fairchild had already left. |
 
 ## Excluded
 

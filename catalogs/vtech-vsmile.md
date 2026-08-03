@@ -35,13 +35,13 @@ games-preservation interest. `Ported` count of **zero**.
 
 ## Debut games
 
-| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Notes |
-|---|---|---|---|---|---|---|---|---|---|
-| Alphabet Park Adventure | 2004 | VTech | VTech | Edutainment | 1 | No | **Stranded** | | The pack-in title, and one of the few V.Smile releases without a third-party licence, yet still unreissued, because VTech has no route to distribute legacy software. |
-| Scooby-Doo! Funland Frenzy | 2005 | VTech | VTech | Edutainment | 1 | No | **Stranded** | | Warner licence. |
-| Winnie the Pooh: The Honey Hunt | 2005 | VTech | VTech | Edutainment | 1 | No | **Stranded** | | Disney licence. |
-| Cars: Rev It Up in Radiator Springs | 2006 | VTech | VTech | Edutainment | 1 | No | **Stranded** | | A Disney/Pixar licence, representative of the platform's dominant pattern. |
-| Thomas & Friends: Engines Working Together | 2006 | VTech | VTech | Edutainment | 1 | No | **Stranded** | | Mattel now owns Thomas, a rights transfer that further complicates any reissue. |
+| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Alphabet Park Adventure | 2004 | VTech | VTech | Edutainment | 1 | No | **Stranded** | | | The pack-in title, and one of the few V.Smile releases without a third-party licence, yet still unreissued, because VTech has no route to distribute legacy software. |
+| Scooby-Doo! Funland Frenzy | 2005 | VTech | VTech | Edutainment | 1 | No | **Stranded** | | | Warner licence. |
+| Winnie the Pooh: The Honey Hunt | 2005 | VTech | VTech | Edutainment | 1 | No | **Stranded** | | | Disney licence. |
+| Cars: Rev It Up in Radiator Springs | 2006 | VTech | VTech | Edutainment | 1 | No | **Stranded** | | | A Disney/Pixar licence, representative of the platform's dominant pattern. |
+| Thomas & Friends: Engines Working Together | 2006 | VTech | VTech | Edutainment | 1 | No | **Stranded** | | | Mattel now owns Thomas, a rights transfer that further complicates any reissue. |
 
 ## Excluded
 

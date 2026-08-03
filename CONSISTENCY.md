@@ -13,7 +13,7 @@ the tables themselves.
 
 | # | Check | Rule it enforces |
 |---|---|---|
-| R0 | Status is one of `Stranded` / `Ported` / `Sim-ship`; every row has exactly 10 columns | Table schema |
+| R0 | Status is one of `Stranded` / `Ported` / `Sim-ship`; every row has exactly 11 columns | Table schema |
 | R1 | Rows sorted by Year, then Title | Table schema |
 | R2 | `Stranded` rows leave `Also On` empty | Status semantics |
 | R3 | `Ported` / `Sim-ship` rows have a non-empty `Also On` | Status semantics |

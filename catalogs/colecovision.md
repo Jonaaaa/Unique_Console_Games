@@ -39,18 +39,18 @@ platform famous belong to Nintendo, Sega and Universal; none of whom would reiss
 
 ## Debut games
 
-| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Notes |
-|---|---|---|---|---|---|---|---|---|---|
-| Cosmic Avenger | 1982 | Universal | Coleco | Shoot 'em up | 1 | No | Ported | ColecoVision Flashback (2014) | First home release of the Universal cabinet. |
-| Donkey Kong | 1982 | Coleco | Coleco | Platformer | 1 | No | Sim-ship | Atari 2600, Intellivision (1982, same window) | The ColecoVision pack-in and the best of the three 1982 conversions. Also catalogued under [Atari 2600](atari-2600.md) and [Intellivision](intellivision.md). |
-| Smurf: Rescue in Gargamel's Castle | 1982 | Coleco | Coleco | Platformer | 1 | No | **Stranded** | | A launch title carrying the Peyo Smurfs licence: still actively managed today, which is exactly why a 1982 cartridge cannot be revived. |
-| Venture | 1982 | Exidy | Coleco | Action | 1 | No | Ported | ColecoVision Flashback (2014) | First home release of the Exidy cabinet. |
-| War Room | 1983 | Coleco | Coleco | Strategy | 1–2 | No | **Stranded** | | A Cold War nuclear-strategy game released the year of *WarGames*. Coleco original; never reissued. |
-| 2010: The Graphics Action Game | 1984 | Coleco | Coleco | Action | 1 | No | **Stranded** | | A licensed tie-in to the *2010: The Year We Make Contact* film, released as Coleco was collapsing. |
-| Dam Busters | 1984 | Coleco | Coleco | Flight simulation | 1 | No | **Stranded** | | Licensed from the 1955 film. |
-| Fortune Builder | 1984 | Coleco | Coleco | Simulation | 1–4 | No | **Stranded** | | **An early city-building / property simulation**, predating *SimCity* by five years and supporting four players. The platform's most historically interesting game and unavailable. |
-| Illusions | 1984 | Coleco | Coleco | Puzzle | 1–2 | No | **Stranded** | | A late Coleco original released as the company was winding down; Coleco's 1988 liquidation left no rights holder with an interest. |
-| Telly Turtle | 1984 | Coleco | Coleco | Puzzle | 1 | No | **Stranded** | | One of the final releases before Coleco exited the market. |
+| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Cosmic Avenger | 1982 | Universal | Coleco | Shoot 'em up | 1 | No | Ported | ColecoVision Flashback (2014) | | First home release of the Universal cabinet. |
+| Donkey Kong | 1982 | Coleco | Coleco | Platformer | 1 | No | Sim-ship | Atari 2600, Intellivision (1982, same window) | | The ColecoVision pack-in and the best of the three 1982 conversions. Also catalogued under [Atari 2600](atari-2600.md) and [Intellivision](intellivision.md). |
+| Smurf: Rescue in Gargamel's Castle | 1982 | Coleco | Coleco | Platformer | 1 | No | **Stranded** | | | A launch title carrying the Peyo Smurfs licence: still actively managed today, which is exactly why a 1982 cartridge cannot be revived. |
+| Venture | 1982 | Exidy | Coleco | Action | 1 | No | Ported | ColecoVision Flashback (2014) | | First home release of the Exidy cabinet. |
+| War Room | 1983 | Coleco | Coleco | Strategy | 1–2 | No | **Stranded** | | | A Cold War nuclear-strategy game released the year of *WarGames*. Coleco original; never reissued. |
+| 2010: The Graphics Action Game | 1984 | Coleco | Coleco | Action | 1 | No | **Stranded** | | | A licensed tie-in to the *2010: The Year We Make Contact* film, released as Coleco was collapsing. |
+| Dam Busters | 1984 | Coleco | Coleco | Flight simulation | 1 | No | **Stranded** | | | Licensed from the 1955 film. |
+| Fortune Builder | 1984 | Coleco | Coleco | Simulation | 1–4 | No | **Stranded** | | | **An early city-building / property simulation**, predating *SimCity* by five years and supporting four players. The platform's most historically interesting game and unavailable. |
+| Illusions | 1984 | Coleco | Coleco | Puzzle | 1–2 | No | **Stranded** | | | A late Coleco original released as the company was winding down; Coleco's 1988 liquidation left no rights holder with an interest. |
+| Telly Turtle | 1984 | Coleco | Coleco | Puzzle | 1 | No | **Stranded** | | | One of the final releases before Coleco exited the market. |
 
 ## Contested
 

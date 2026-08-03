@@ -48,15 +48,15 @@ nobody liked.
 
 ## Debut games
 
-| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Notes |
-|---|---|---|---|---|---|---|---|---|---|
-| Countermeasure | 1982 | Atari | Atari | Vehicular action | 1 | No | **Stranded** | | A launch title and one of the few 5200 games written for the console rather than converted to it. Never reissued. |
-| RealSports Football | 1982 | Atari | Atari | Sports | 1–2 | No | **Stranded** | | Atari's own unlicensed sports brand, created to avoid league fees. Ironically that should have made reissue easy, but the 5200 versions were skipped in favour of the 2600 ones. |
-| Space Dungeon | 1983 | Atari | Atari | Shoot 'em up | 1–2 | No | Ported | *Atari 50* (2022) | First home release of the Taito cabinet, and one of the few 5200 titles Atari has reissued; it shipped with a dual-joystick holder, an early twin-stick control scheme. |
-| Vanguard | 1983 | Atari | Atari | Shoot 'em up | 1 | No | **Stranded** | | First home release of the SNK cabinet, but the SNK licence sits outside Atari's catalogue, the same wall that strands `Space Invaders` on the 2600. |
-| Bounty Bob Strikes Back! | 1984 | Big Five Software | Big Five | Platformer | 1 | No | **Stranded** | | ⚠ [Contested](#contested): released on 5200 cartridge and Atari 8-bit computers in the same window, and it is unclear which came first. |
-| Gremlins | 1984 | Atari | Atari | Action | 1 | No | **Stranded** | | A Warner film licence on a console that was discontinued the same year. |
-| Millipede | 1984 | Atari | Atari | Shoot 'em up | 1–2 | No | Ported | *Atari 50*, Atari Flashback | Atari owns `Centipede` and its sequel outright, which is why this one escaped. |
+| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Countermeasure | 1982 | Atari | Atari | Vehicular action | 1 | No | **Stranded** | | | A launch title and one of the few 5200 games written for the console rather than converted to it. Never reissued. |
+| RealSports Football | 1982 | Atari | Atari | Sports | 1–2 | No | **Stranded** | | | Atari's own unlicensed sports brand, created to avoid league fees. Ironically that should have made reissue easy, but the 5200 versions were skipped in favour of the 2600 ones. |
+| Space Dungeon | 1983 | Atari | Atari | Shoot 'em up | 1–2 | No | Ported | *Atari 50* (2022) | | First home release of the Taito cabinet, and one of the few 5200 titles Atari has reissued; it shipped with a dual-joystick holder, an early twin-stick control scheme. |
+| Vanguard | 1983 | Atari | Atari | Shoot 'em up | 1 | No | **Stranded** | | | First home release of the SNK cabinet, but the SNK licence sits outside Atari's catalogue, the same wall that strands `Space Invaders` on the 2600. |
+| Bounty Bob Strikes Back! | 1984 | Big Five Software | Big Five | Platformer | 1 | No | **Stranded** | | | ⚠ [Contested](#contested): released on 5200 cartridge and Atari 8-bit computers in the same window, and it is unclear which came first. |
+| Gremlins | 1984 | Atari | Atari | Action | 1 | No | **Stranded** | | | A Warner film licence on a console that was discontinued the same year. |
+| Millipede | 1984 | Atari | Atari | Shoot 'em up | 1–2 | No | Ported | *Atari 50*, Atari Flashback | | Atari owns `Centipede` and its sequel outright, which is why this one escaped. |
 
 ## Contested
 

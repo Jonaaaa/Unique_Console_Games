@@ -52,74 +52,74 @@ and Kingdom Hearts all left the platform.
 
 Every game that debuted on this platform and launched nowhere else. `Status` records where it stands today; it does not affect membership.
 
-| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Notes |
-|---|---|---|---|---|---|---|---|---|---|
-| Lumines | 2004 | Q Entertainment | Bandai / Ubisoft | Puzzle | 1–2 | No | Ported | PC, PS4, Xbox One, Switch (2018, *Remastered*) | Launch title. |
-| Metal Gear Acid | 2004 | Konami | Konami | Turn-based card strategy | 1–2 | No | Stranded | | Launch title. Absent from every Metal Gear collection, including *Master Collection*. |
-| Ape Escape Academy | 2005 | SCE Japan Studio | SCE | Minigame collection | 1–4 | No | Stranded | | PAL: *Ape Escape Academy*; NA: *Ape Escape: On the Loose* is a separate PS1 remake. |
-| Archer Maclean's Mercury | 2005 | Awesome Studios | Ignition | Puzzle | 1 | No | Stranded | | Launch-window tilt-physics puzzler. |
-| Bleach: Heat the Soul (series, 1–7) | 2005–2010 | Racjin | SCE | Fighting | 1–2 | Dead | Stranded | | Japan-only, seven games. Licensed anime fighting series, none re-released. |
-| Coded Arms | 2005 | Konami | Konami | FPS | 1–4 | Dead | Stranded | | An early PSP FPS built on procedurally generated levels; Konami has never revisited it. |
-| Death Jr. | 2005 | Backbone Entertainment | Konami | Action-platformer | 1 | No | Stranded | | One of the first PSP-original franchises. |
-| Grand Theft Auto: Liberty City Stories | 2005 | Rockstar Leeds | Rockstar | Open-world action | 1–6 | Dead | Ported | PS2 (2006), mobile (2015) | |
-| Metal Gear Acid 2 | 2005 | Konami | Konami | Turn-based card strategy | 1–2 | No | Stranded | | Shipped with the Solid Eye 3D viewer, which no other platform supports. |
-| Pursuit Force | 2005 | Bigbig Studios | SCE | Vehicular action | 1 | No | Stranded | | Bigbig was closed by Sony in 2012. |
-| Untold Legends: Brotherhood of the Blade | 2005 | Climax | Sony Online | Action RPG | 1–4 | Dead | Ported | Mobile | PSP launch title. |
-| Wipeout Pure | 2005 | SCE Studio Liverpool | SCE | Racing | 1–8 | Dead | Stranded | | Launch title. *WipEout Omega Collection* took the PS3 and Vita entries but not this one. |
-| Brave Story: New Traveler | 2006 | Game Republic | XSEED | JRPG | 1 | No | Stranded | | Adapted from Miyuki Miyabe's novel; a literary licence that blocks any reissue. |
-| Daxter | 2006 | Ready at Dawn | SCE | Platformer | 1 | No | Stranded | | Best-selling PSP platformer; excluded from every Jak & Daxter collection. |
-| Death Jr. II: Root of Evil | 2006 | Backbone | Eidos | Action-platformer | 1–2 | No | Ported | Wii (2008) | |
-| Every Extend Extra | 2006 | Q Entertainment | Bandai Namco | Puzzle / shooter | 1 | No | Stranded | | Tetsuya Mizuguchi chain-explosion shooter. The Xbox 360 *Every Extend Extra Extreme* is a separate game. |
-| Exit | 2006 | Taito | Taito | Puzzle-platformer | 1 | No | Ported | Xbox 360, PS3, iOS | |
-| Grand Theft Auto: Vice City Stories | 2006 | Rockstar Leeds | Rockstar | Open-world action | 1–6 | Dead | Ported | PS2 (2007) | |
-| Jeanne d'Arc | 2006 | Level-5 | SCE | Tactical RPG | 1 | No | Stranded | | Widely regarded as one of the best PSP games and the most-requested port that has never happened. |
-| Killzone: Liberation | 2006 | Guerrilla Cambridge | SCE | Isometric shooter | 1–4 | Dead | Stranded | | Guerrilla Cambridge closed in 2017. |
-| LocoRoco | 2006 | SCE Japan Studio | SCE | Platformer | 1 | No | Ported | PS4 (2017, *Remastered*) | |
-| Lumines II | 2006 | Q Entertainment | Buena Vista | Puzzle | 1–2 | No | Stranded | | *Lumines Remastered* (2018) rebuilt the **first** game only; II's licensed music video tracklist blocks it. |
-| Tekken: Dark Resurrection | 2006 | Namco | Namco | Fighting | 1–2 | Dead | Ported | PS3 (2007), PS Plus Premium (PS4/PS5) | First home release of the 2005 arcade revision. |
-| Coded Arms: Contagion | 2007 | Creat Studios | Konami | FPS | 1–8 | Dead | Stranded | | Its online multiplayer was the main draw and the servers are long gone. |
-| Crisis Core: Final Fantasy VII | 2007 | Square Enix | Square Enix | Action RPG | 1 | No | Ported | PS4/PS5, Xbox, Switch, PC (2022, *Reunion*) | |
-| Crush | 2007 | Zoë Mode | Sega | Puzzle-platformer | 1 | No | Ported | 3DS (2011, *Crush3D*) | |
-| Pursuit Force: Extreme Justice | 2007 | Bigbig Studios | SCE | Vehicular action | 1 | No | Ported | PS2 (2008) | |
-| Ratchet & Clank: Size Matters | 2007 | High Impact Games | SCE | Platformer | 1–4 | Dead | Ported | PS2 (2008) | |
-| Silent Hill: Origins | 2007 | Climax Studios | Konami | Survival horror | 1 | No | Ported | PS2 (2008) | |
-| WipEout Pulse | 2007 | SCE Studio Liverpool | SCE | Racing | 1–8 | Dead | Ported | PS2 (2009, PAL) | |
-| Ape Quest | 2008 | SCE Japan Studio | SCE | Action RPG | 1–4 | Dead | Stranded | | Episodic download-only title. |
-| Class of Heroes | 2008 | Zerodiv | Atlus | Dungeon crawler | 1 | No | Stranded | | Later entries reached PS3 and Vita, but the PSP original was left behind. |
-| Dissidia Final Fantasy | 2008 | Square Enix | Square Enix | Fighting | 1–2 | Dead | Stranded | | *Dissidia NT* is a separate arcade-derived game; neither PSP entry has ever been reissued. |
-| Echochrome | 2008 | Japan Studio | SCE | Puzzle | 1 | No | Sim-ship | PS3 (2008, same day) | |
-| God of War: Chains of Olympus | 2008 | Ready at Dawn | SCE | Action | 1 | No | Ported | PS3 (2011, *Origins Collection*) | |
-| Monster Hunter Freedom Unite | 2008 | Capcom | Capcom | Hunting action | 1–4 | Dead | Ported | iOS (2014) | |
-| Patapon 2 | 2008 | Pyramid / Japan Studio | SCE | Rhythm / strategy | 1–4 | Dead | Ported | PS4 (2020, *Remastered*), multiplatform (2025, *Patapon 1+2 Replay*) | |
-| Phantasy Star Portable | 2008 | Alfa System | Sega | Action RPG | 1–4 | Dead | Stranded | | Built around ad-hoc local multiplayer, and Sega's Phantasy Star attention has moved entirely to *Online*. |
-| Prinny: Can I Really Be the Hero? | 2008 | Nippon Ichi | NIS America | Platformer | 1 | No | Ported | Switch, PS4 (2020, *Prinny 1•2*) | |
-| Secret Agent Clank | 2008 | High Impact Games | SCE | Platformer | 1 | No | Ported | PS2 (2009) | |
-| What Did I Do to Deserve This, My Lord!? | 2008 | Acquire | NIS America | Dungeon management | 1 | No | Stranded | | PAL: *Holy Invasion of Privacy, Badman!*, renamed after a trademark dispute. |
-| Boku no Natsuyasumi 4 | 2009 | Millennium Kitchen | SCE | Life sim | 1 | No | Stranded | | Japan-only. The whole series is stranded outside Japan. |
-| Disgaea Infinite | 2009 | Nippon Ichi | NIS America | Visual novel | 1 | No | Stranded | | The only Disgaea title never re-released. |
-| Gran Turismo | 2009 | Polyphony Digital | SCE | Racing | 1–4 | Dead | Stranded | | 800 cars, no career mode. Polyphony has never revisited it. |
-| Half-Minute Hero | 2009 | Marvelous | Marvelous / XSEED | RPG / action | 1 | No | Ported | Xbox 360, PC (2010–12) | |
-| Jak and Daxter: The Lost Frontier | 2009 | High Impact Games | SCE | Platformer | 1 | No | Sim-ship | PS2 (2009, same day) | The last new Jak game. |
-| LittleBigPlanet PSP | 2009 | SCE Cambridge | SCE | Platformer / creation | 1 | Dead (2021) | Stranded | | Levels were shared with the PS3 community; that infrastructure is gone. |
-| LocoRoco Midnight Carnival | 2009 | SCE Japan Studio | SCE | Platformer | 1 | No | Stranded | | LocoRoco 1 and 2 were both remastered for PS4; this spin-off was not. |
-| Persona 3 Portable | 2009 | Atlus | Atlus | JRPG | 1 | No | Ported | PS4, Xbox, Switch, PC (2023) | Was stranded for fourteen years. |
-| Phantasy Star Portable 2 | 2009 | Alfa System | Sega | Action RPG | 1–4 | Dead | Stranded | | *Infinity* (2011) is a Japan-only PSP sequel, also stranded. |
-| Resistance: Retribution | 2009 | Bend Studio | SCE | Third-person shooter | 1–8 | Dead | Stranded | | Bend Studio moved to *Days Gone*; the whole Resistance series is stranded across PSP and PS3. |
-| Ys Seven | 2009 | Nihon Falcom | Falcom / XSEED | Action RPG | 1 | No | **Stranded** | | No console release. PC version exists (PC (2017)) but PC is not a catalogued platform. |
-| Corpse Party | 2010 | Team GrisGris | XSEED | Horror adventure | 1 | No | Ported | PC, 3DS, Switch, PS4 (2016–21) | |
-| Danganronpa: Trigger Happy Havoc | 2010 | Spike Chunsoft | Spike Chunsoft | Visual novel | 1 | No | Ported | Vita (2014), PC, Switch, PS4, mobile | Japanese PSP original; the West only ever saw the Vita port onward. |
-| God of War: Ghost of Sparta | 2010 | Ready at Dawn | SCE | Action | 1 | No | Ported | PS3 (2011, *Origins Collection*) | |
-| Kingdom Hearts: Birth by Sleep | 2010 | Square Enix | Square Enix | Action RPG | 1–6 | Dead | Ported | PS3 (2014, *HD 2.5 ReMIX*), PS4, Xbox, Switch, PC | |
-| Metal Gear Solid: Peace Walker | 2010 | Kojima Productions | Konami | Stealth action | 1–4 | Dead | Ported | PS3, Xbox 360 (2011, *HD Edition*), multiplatform (2025, *Master Collection Vol. 2*) | |
-| Monster Hunter Portable 3rd | 2010 | Capcom | Capcom | Hunting action | 1–4 | Dead | Ported | PS3 (2011, *HD Ver.*, Japan-only) | |
-| The 3rd Birthday | 2010 | HexaDrive / Square Enix | Square Enix | Action RPG | 1 | No | Stranded | | The third Parasite Eve game. Square Enix has never re-released it, leaving the trilogy permanently split across three dead platforms. |
-| Valkyria Chronicles II | 2010 | Sega | Sega | Tactical RPG | 1–2 | Dead | Stranded | | The only numbered Valkyria game never re-released; *Valkyria Chronicles III* (2011, Japan-only) is likewise stranded and never officially localised. |
-| Z.H.P.: Unlosing Ranger vs. Darkdeath Evilman | 2010 | Nippon Ichi | NIS America | Roguelike | 1 | No | Stranded | | A Nippon Ichi roguelike that never joined the Disgaea reissue programme. |
-| Dissidia 012 Final Fantasy | 2011 | Square Enix | Square Enix | Fighting | 1–2 | Dead | Stranded | | *Dissidia NT* (2018) is a separate arcade-derived game, not a port of either PSP title. |
-| Final Fantasy IV: The Complete Collection | 2011 | Matrix Software | Square Enix | Compilation | 1 | Dead | **Stranded** | | *FFIV*, its *The After Years* sequel, and **Interlude**, a new chapter written for this release and available nowhere else. The compilation has never been reissued. |
-| Grand Knights History | 2011 | Vanillaware | Marvelous | Tactical RPG | 1–4 | Dead | Stranded | | Japan-only. The only Vanillaware game never localised or re-released; a planned English release was cancelled. |
-| Gungnir | 2011 | Sting | Atlus | Tactical RPG | 1 | No | Stranded | | Sting's Dept. Heaven series is largely stranded, only `Riviera` and `Yggdra Union` ever escaped. |
-| Patapon 3 | 2011 | Japan Studio | SCE | Rhythm / strategy | 1–4 | Dead | Ported | PS4, PS5 (18 Feb 2025) | Was stranded until Feb 2025. |
+| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Lumines | 2004 | Q Entertainment | Bandai / Ubisoft | Puzzle | 1–2 | No | Ported | PC, PS4, Xbox One, Switch (2018, *Remastered*) | | Launch title. |
+| Metal Gear Acid | 2004 | Konami | Konami | Turn-based card strategy | 1–2 | No | Stranded | | | Launch title. Absent from every Metal Gear collection, including *Master Collection*. |
+| Ape Escape Academy | 2005 | SCE Japan Studio | SCE | Minigame collection | 1–4 | No | Stranded | | | PAL: *Ape Escape Academy*; NA: *Ape Escape: On the Loose* is a separate PS1 remake. |
+| Archer Maclean's Mercury | 2005 | Awesome Studios | Ignition | Puzzle | 1 | No | Stranded | | | Launch-window tilt-physics puzzler. |
+| Bleach: Heat the Soul (series, 1–7) | 2005–2010 | Racjin | SCE | Fighting | 1–2 | Dead | Stranded | | Japanese | Japan-only, seven games. Licensed anime fighting series, none re-released. |
+| Coded Arms | 2005 | Konami | Konami | FPS | 1–4 | Dead | Stranded | | | An early PSP FPS built on procedurally generated levels; Konami has never revisited it. |
+| Death Jr. | 2005 | Backbone Entertainment | Konami | Action-platformer | 1 | No | Stranded | | | One of the first PSP-original franchises. |
+| Grand Theft Auto: Liberty City Stories | 2005 | Rockstar Leeds | Rockstar | Open-world action | 1–6 | Dead | Ported | PS2 (2006), mobile (2015) | | |
+| Metal Gear Acid 2 | 2005 | Konami | Konami | Turn-based card strategy | 1–2 | No | Stranded | | | Shipped with the Solid Eye 3D viewer, which no other platform supports. |
+| Pursuit Force | 2005 | Bigbig Studios | SCE | Vehicular action | 1 | No | Stranded | | | Bigbig was closed by Sony in 2012. |
+| Untold Legends: Brotherhood of the Blade | 2005 | Climax | Sony Online | Action RPG | 1–4 | Dead | Ported | Mobile | | PSP launch title. |
+| Wipeout Pure | 2005 | SCE Studio Liverpool | SCE | Racing | 1–8 | Dead | Stranded | | | Launch title. *WipEout Omega Collection* took the PS3 and Vita entries but not this one. |
+| Brave Story: New Traveler | 2006 | Game Republic | XSEED | JRPG | 1 | No | Stranded | | | Adapted from Miyuki Miyabe's novel; a literary licence that blocks any reissue. |
+| Daxter | 2006 | Ready at Dawn | SCE | Platformer | 1 | No | Stranded | | | Best-selling PSP platformer; excluded from every Jak & Daxter collection. |
+| Death Jr. II: Root of Evil | 2006 | Backbone | Eidos | Action-platformer | 1–2 | No | Ported | Wii (2008) | | |
+| Every Extend Extra | 2006 | Q Entertainment | Bandai Namco | Puzzle / shooter | 1 | No | Stranded | | | Tetsuya Mizuguchi chain-explosion shooter. The Xbox 360 *Every Extend Extra Extreme* is a separate game. |
+| Exit | 2006 | Taito | Taito | Puzzle-platformer | 1 | No | Ported | Xbox 360, PS3, iOS | | |
+| Grand Theft Auto: Vice City Stories | 2006 | Rockstar Leeds | Rockstar | Open-world action | 1–6 | Dead | Ported | PS2 (2007) | | |
+| Jeanne d'Arc | 2006 | Level-5 | SCE | Tactical RPG | 1 | No | Stranded | | | Widely regarded as one of the best PSP games and the most-requested port that has never happened. |
+| Killzone: Liberation | 2006 | Guerrilla Cambridge | SCE | Isometric shooter | 1–4 | Dead | Stranded | | | Guerrilla Cambridge closed in 2017. |
+| LocoRoco | 2006 | SCE Japan Studio | SCE | Platformer | 1 | No | Ported | PS4 (2017, *Remastered*) | | |
+| Lumines II | 2006 | Q Entertainment | Buena Vista | Puzzle | 1–2 | No | Stranded | | | *Lumines Remastered* (2018) rebuilt the **first** game only; II's licensed music video tracklist blocks it. |
+| Tekken: Dark Resurrection | 2006 | Namco | Namco | Fighting | 1–2 | Dead | Ported | PS3 (2007), PS Plus Premium (PS4/PS5) | | First home release of the 2005 arcade revision. |
+| Coded Arms: Contagion | 2007 | Creat Studios | Konami | FPS | 1–8 | Dead | Stranded | | | Its online multiplayer was the main draw and the servers are long gone. |
+| Crisis Core: Final Fantasy VII | 2007 | Square Enix | Square Enix | Action RPG | 1 | No | Ported | PS4/PS5, Xbox, Switch, PC (2022, *Reunion*) | | |
+| Crush | 2007 | Zoë Mode | Sega | Puzzle-platformer | 1 | No | Ported | 3DS (2011, *Crush3D*) | | |
+| Pursuit Force: Extreme Justice | 2007 | Bigbig Studios | SCE | Vehicular action | 1 | No | Ported | PS2 (2008) | | |
+| Ratchet & Clank: Size Matters | 2007 | High Impact Games | SCE | Platformer | 1–4 | Dead | Ported | PS2 (2008) | | |
+| Silent Hill: Origins | 2007 | Climax Studios | Konami | Survival horror | 1 | No | Ported | PS2 (2008) | | |
+| WipEout Pulse | 2007 | SCE Studio Liverpool | SCE | Racing | 1–8 | Dead | Ported | PS2 (2009, PAL) | | |
+| Ape Quest | 2008 | SCE Japan Studio | SCE | Action RPG | 1–4 | Dead | Stranded | | | Episodic download-only title. |
+| Class of Heroes | 2008 | Zerodiv | Atlus | Dungeon crawler | 1 | No | Stranded | | | Later entries reached PS3 and Vita, but the PSP original was left behind. |
+| Dissidia Final Fantasy | 2008 | Square Enix | Square Enix | Fighting | 1–2 | Dead | Stranded | | | *Dissidia NT* is a separate arcade-derived game; neither PSP entry has ever been reissued. |
+| Echochrome | 2008 | Japan Studio | SCE | Puzzle | 1 | No | Sim-ship | PS3 (2008, same day) | | |
+| God of War: Chains of Olympus | 2008 | Ready at Dawn | SCE | Action | 1 | No | Ported | PS3 (2011, *Origins Collection*) | | |
+| Monster Hunter Freedom Unite | 2008 | Capcom | Capcom | Hunting action | 1–4 | Dead | Ported | iOS (2014) | | |
+| Patapon 2 | 2008 | Pyramid / Japan Studio | SCE | Rhythm / strategy | 1–4 | Dead | Ported | PS4 (2020, *Remastered*), multiplatform (2025, *Patapon 1+2 Replay*) | | |
+| Phantasy Star Portable | 2008 | Alfa System | Sega | Action RPG | 1–4 | Dead | Stranded | | | Built around ad-hoc local multiplayer, and Sega's Phantasy Star attention has moved entirely to *Online*. |
+| Prinny: Can I Really Be the Hero? | 2008 | Nippon Ichi | NIS America | Platformer | 1 | No | Ported | Switch, PS4 (2020, *Prinny 1•2*) | | |
+| Secret Agent Clank | 2008 | High Impact Games | SCE | Platformer | 1 | No | Ported | PS2 (2009) | | |
+| What Did I Do to Deserve This, My Lord!? | 2008 | Acquire | NIS America | Dungeon management | 1 | No | Stranded | | | PAL: *Holy Invasion of Privacy, Badman!*, renamed after a trademark dispute. |
+| Boku no Natsuyasumi 4 | 2009 | Millennium Kitchen | SCE | Life sim | 1 | No | Stranded | | Japanese | Japan-only. The whole series is stranded outside Japan. |
+| Disgaea Infinite | 2009 | Nippon Ichi | NIS America | Visual novel | 1 | No | Stranded | | | The only Disgaea title never re-released. |
+| Gran Turismo | 2009 | Polyphony Digital | SCE | Racing | 1–4 | Dead | Stranded | | | 800 cars, no career mode. Polyphony has never revisited it. |
+| Half-Minute Hero | 2009 | Marvelous | Marvelous / XSEED | RPG / action | 1 | No | Ported | Xbox 360, PC (2010–12) | | |
+| Jak and Daxter: The Lost Frontier | 2009 | High Impact Games | SCE | Platformer | 1 | No | Sim-ship | PS2 (2009, same day) | | The last new Jak game. |
+| LittleBigPlanet PSP | 2009 | SCE Cambridge | SCE | Platformer / creation | 1 | Dead (2021) | Stranded | | | Levels were shared with the PS3 community; that infrastructure is gone. |
+| LocoRoco Midnight Carnival | 2009 | SCE Japan Studio | SCE | Platformer | 1 | No | Stranded | | | LocoRoco 1 and 2 were both remastered for PS4; this spin-off was not. |
+| Persona 3 Portable | 2009 | Atlus | Atlus | JRPG | 1 | No | Ported | PS4, Xbox, Switch, PC (2023) | | Was stranded for fourteen years. |
+| Phantasy Star Portable 2 | 2009 | Alfa System | Sega | Action RPG | 1–4 | Dead | Stranded | | Japanese | *Infinity* (2011) is a Japan-only PSP sequel, also stranded. |
+| Resistance: Retribution | 2009 | Bend Studio | SCE | Third-person shooter | 1–8 | Dead | Stranded | | | Bend Studio moved to *Days Gone*; the whole Resistance series is stranded across PSP and PS3. |
+| Ys Seven | 2009 | Nihon Falcom | Falcom / XSEED | Action RPG | 1 | No | **Stranded** | | | No console release. PC version exists (PC (2017)) but PC is not a catalogued platform. |
+| Corpse Party | 2010 | Team GrisGris | XSEED | Horror adventure | 1 | No | Ported | PC, 3DS, Switch, PS4 (2016–21) | | |
+| Danganronpa: Trigger Happy Havoc | 2010 | Spike Chunsoft | Spike Chunsoft | Visual novel | 1 | No | Ported | Vita (2014), PC, Switch, PS4, mobile | | Japanese PSP original; the West only ever saw the Vita port onward. |
+| God of War: Ghost of Sparta | 2010 | Ready at Dawn | SCE | Action | 1 | No | Ported | PS3 (2011, *Origins Collection*) | | |
+| Kingdom Hearts: Birth by Sleep | 2010 | Square Enix | Square Enix | Action RPG | 1–6 | Dead | Ported | PS3 (2014, *HD 2.5 ReMIX*), PS4, Xbox, Switch, PC | | |
+| Metal Gear Solid: Peace Walker | 2010 | Kojima Productions | Konami | Stealth action | 1–4 | Dead | Ported | PS3, Xbox 360 (2011, *HD Edition*), multiplatform (2025, *Master Collection Vol. 2*) | | |
+| Monster Hunter Portable 3rd | 2010 | Capcom | Capcom | Hunting action | 1–4 | Dead | Ported | PS3 (2011, *HD Ver.*, Japan-only) | | |
+| The 3rd Birthday | 2010 | HexaDrive / Square Enix | Square Enix | Action RPG | 1 | No | Stranded | | | The third Parasite Eve game. Square Enix has never re-released it, leaving the trilogy permanently split across three dead platforms. |
+| Valkyria Chronicles II | 2010 | Sega | Sega | Tactical RPG | 1–2 | Dead | Stranded | | Japanese | The only numbered Valkyria game never re-released; *Valkyria Chronicles III* (2011, Japan-only) is likewise stranded and never officially localised. |
+| Z.H.P.: Unlosing Ranger vs. Darkdeath Evilman | 2010 | Nippon Ichi | NIS America | Roguelike | 1 | No | Stranded | | | A Nippon Ichi roguelike that never joined the Disgaea reissue programme. |
+| Dissidia 012 Final Fantasy | 2011 | Square Enix | Square Enix | Fighting | 1–2 | Dead | Stranded | | | *Dissidia NT* (2018) is a separate arcade-derived game, not a port of either PSP title. |
+| Final Fantasy IV: The Complete Collection | 2011 | Matrix Software | Square Enix | Compilation | 1 | Dead | **Stranded** | | | *FFIV*, its *The After Years* sequel, and **Interlude**, a new chapter written for this release and available nowhere else. The compilation has never been reissued. |
+| Grand Knights History | 2011 | Vanillaware | Marvelous | Tactical RPG | 1–4 | Dead | Stranded | | Japanese | Japan-only. The only Vanillaware game never localised or re-released; a planned English release was cancelled. |
+| Gungnir | 2011 | Sting | Atlus | Tactical RPG | 1 | No | Stranded | | | Sting's Dept. Heaven series is largely stranded, only `Riviera` and `Yggdra Union` ever escaped. |
+| Patapon 3 | 2011 | Japan Studio | SCE | Rhythm / strategy | 1–4 | Dead | Ported | PS4, PS5 (18 Feb 2025) | | Was stranded until Feb 2025. |
 
 ## Contested
 

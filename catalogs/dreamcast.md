@@ -42,45 +42,45 @@ What remains stranded splits three ways:
 
 ## Debut games
 
-| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Notes |
-|---|---|---|---|---|---|---|---|---|---|
-| Sonic Adventure | 1998 | Sonic Team | Sega | Platformer | 1–2 | Dead (2003) | Ported | GameCube (2003, *DX*), PS3, Xbox 360, PC (2010) | Launch title. Its Chao Garden wrote pets to the VMU; a feature every port had to redesign. |
-| Blue Stinger | 1999 | Climax Graphics | Activision | Survival horror | 1 | No | **Stranded** | | Launch-window horror game; Climax Graphics became Crazy Games and dissolved. |
-| ChuChu Rocket! | 1999 | Sonic Team | Sega | Puzzle | 1–4 | Dead (2003) | Ported | GBA (2001), iOS, Android | The first console game with free online play, Sega gave it away to get people onto SegaNet. |
-| Elemental Gimmick Gear | 1999 | Birthday | Vatical | Action RPG | 1 | No | **Stranded** | | Tiny Western print run. |
-| Maken X | 1999 | Atlus | Atlus | Action | 1 | No | **Stranded** | | Atlus's only Dreamcast game. |
-| Power Stone | 1999 | Capcom | Capcom | Fighting | 1–2 | No | Ported | PSP (2006, *Power Stone Collection*) | First home version of the 1999 cabinet. |
-| Samba de Amigo | 1999 | Sonic Team | Sega | Rhythm | 1–2 | No | **Stranded** | | Needs maraca controllers **and** carries a licensed Latin-pop tracklist. The 2008 Wii game and 2023 *Party Central* are separate entries with different songlists, not ports. |
-| Seaman | 1999 | Vivarium | Sega | Virtual pet | 1 | No | **Stranded** | | Requires the Dreamcast microphone, tracks the real-world clock and calendar, and is narrated by Leonard Nimoy in the Western release. Peripheral dependency **and** a voice-likeness licence, doubly unreleasable. |
-| Sega Bass Fishing | 1999 | Sega AM1 | Sega | Fishing | 1 | No | Ported | Wii (2008), PC | First home version of the cabinet; shipped with a fishing-rod controller. |
-| Shenmue | 1999 | Sega AM2 | Sega | Action-adventure | 1 | Dead (2003) | Ported | PS4, Xbox One, PC (2018, *I & II*), Switch | Its per-day NPC schedules and weather were modelled on real 1986 Yokosuka records. |
-| Space Channel 5 | 1999 | United Game Artists | Sega | Rhythm | 1 | No | Ported | PS2 (2000), PS3, Xbox 360, PC (2011–12), Switch | |
-| Sword of the Berserk: Guts' Rage | 1999 | Yuke's | Eidos | Action | 1 | No | **Stranded** | | Berserk manga licence, and Kentaro Miura's death in 2021 has not simplified it. |
-| Toy Commander | 1999 | No Cliché | Sega | Action | 1–4 | Dead (2003) | **Stranded** | | Sega closed No Cliché in 2001; its later Dreamcast game was cancelled outright. |
-| D2 | 2000 | Warp | Sega | Survival horror | 1 | No | **Stranded** | | Kenji Eno's four-disc final game. Warp dissolved, Eno died in 2013, and it has never been reissued in any form. |
-| Fur Fighters | 2000 | Bizarre Creations | Acclaim | Third-person shooter | 1–4 | No | Ported | PS2, PC (2001), iOS (2013) | |
-| Grandia II | 2000 | Game Arts | Ubi Soft | RPG | 1 | No | Ported | PS2, PC, Switch (2019, *HD*) | |
-| Jet Set Radio | 2000 | Smilebit | Sega | Action | 1 | No | Ported | Xbox 360, PS3, PC, Vita (2012, *HD*) | PAL/NA: *Jet Grind Radio* in North America. |
-| Metropolis Street Racer | 2000 | Bizarre Creations | Sega | Racing | 1–2 | Dead (2003) | **Stranded** | | Its "Kudos" scoring became *Project Gotham Racing* on Xbox, so the concept escaped but the game did not. Bizarre closed in 2011, and its licensed real-world London/Tokyo/San Francisco streets and radio stations block reissue. |
-| Napple Tale: Arsia in Daydream | 2000 | Chime | Sega | Platformer | 1 | No | **Stranded** | | Japan-only, with a Yoko Kanno soundtrack, a music licence on top of obscurity. |
-| Phantasy Star Online | 2000 | Sonic Team | Sega | Online RPG | 1–4 | Dead (2003) | Ported | GameCube, Xbox, PC (2001–04) | The first console MMO. The Dreamcast servers are gone; the game continued elsewhere. |
-| Record of Lodoss War | 2000 | Neverland | ESP / Conspiracy | Action RPG | 1 | No | **Stranded** | | Anime licence; Neverland went bankrupt in 2013. |
-| Roommania #203 | 2000 | Sega | Sega | Life sim | 1 | No | **Stranded** | | Japan-only. The player observes and nudges a stranger's apartment life; there is nothing else like it. |
-| Skies of Arcadia | 2000 | Overworks | Sega | RPG | 1 | No | Ported | GameCube (2002, *Legends*) | |
-| Sonic Shuffle | 2000 | Hudson Soft | Sega | Party | 1–4 | No | **Stranded** | | Sega's Mario Party answer; never reissued. |
-| Cosmic Smash | 2001 | Sega Rosso | Sega | Sports / puzzle | 1 | No | **Stranded** | | Japan-only. Squash crossed with *Breakout*, in a stark neon art style. |
-| Headhunter | 2001 | Amuze | Sega / Acclaim | Action-adventure | 1 | No | Ported | PS2 (2002) | Amuze went bankrupt during development. |
-| Illbleed | 2001 | Crazy Games | AIA / Jaleco | Survival horror | 1 | No | **Stranded** | | A horror game about a horror theme park, with a "startle gauge". Released into the Dreamcast's final months in tiny numbers. |
-| Rez | 2001 | United Game Artists | Sega | Rail shooter | 1 | No | Ported | PS2 (2002), Xbox 360 (2008), PS4/PC/VR (2016, *Infinite*) | Mizuguchi's synaesthesia shooter. |
-| Segagaga | 2001 | Sega Hitmaker | Sega | Simulation / RPG | 1 | No | **Stranded** | | Japan-only. A game about **running Sega and losing to Sony**, released as the company exited hardware. Self-referential to the point of being unlicensable; it is built on Sega's own history and its rivals'. |
-| Shenmue II | 2001 | Sega AM2 | Sega | Action-adventure | 1 | No | Ported | Xbox (2002), PS4, Xbox One, PC (2018, *I & II*) | |
-| Sonic Adventure 2 | 2001 | Sonic Team USA | Sega | Platformer | 1–2 | Dead (2003) | Ported | GameCube (2001, *Battle*), PS3, Xbox 360, PC (2012) | |
-| Ikaruga | 2002 | Treasure | ESP | Shoot 'em up | 1–2 | No | Ported | GameCube (2003), Xbox 360 (2008), Switch, PS4, PC | First home version of the 2001 cabinet. Japan-only on Dreamcast. |
-| Border Down | 2003 | G.rev | G.rev | Shoot 'em up | 1 | No | Ported | Switch, PS4 (2023) | Japan-only; post-discontinuation release. |
-| Chaos Field | 2004 | Milestone | Milestone | Shoot 'em up | 1 | No | Ported | GameCube, PS2 (2005) | |
-| Trizeal | 2004 | Triangle Service | Triangle Service | Shoot 'em up | 1 | No | **Stranded** | | Japan-only, post-discontinuation. |
-| Under Defeat | 2005 | G.rev | G.rev | Shoot 'em up | 1 | No | Ported | PS3, Xbox 360 (2012, *HD*) | Released **four years after** Sega discontinued the hardware, Japan's Dreamcast shmup scene outlived the console. |
-| Karous | 2007 | Milestone | Milestone | Shoot 'em up | 1 | No | Ported | Wii (2008) | **The last official Dreamcast game**, released six years after the console died. |
+| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Sonic Adventure | 1998 | Sonic Team | Sega | Platformer | 1–2 | Dead (2003) | Ported | GameCube (2003, *DX*), PS3, Xbox 360, PC (2010) | | Launch title. Its Chao Garden wrote pets to the VMU; a feature every port had to redesign. |
+| Blue Stinger | 1999 | Climax Graphics | Activision | Survival horror | 1 | No | **Stranded** | | | Launch-window horror game; Climax Graphics became Crazy Games and dissolved. |
+| ChuChu Rocket! | 1999 | Sonic Team | Sega | Puzzle | 1–4 | Dead (2003) | Ported | GBA (2001), iOS, Android | | The first console game with free online play, Sega gave it away to get people onto SegaNet. |
+| Elemental Gimmick Gear | 1999 | Birthday | Vatical | Action RPG | 1 | No | **Stranded** | | | Tiny Western print run. |
+| Maken X | 1999 | Atlus | Atlus | Action | 1 | No | **Stranded** | | | Atlus's only Dreamcast game. |
+| Power Stone | 1999 | Capcom | Capcom | Fighting | 1–2 | No | Ported | PSP (2006, *Power Stone Collection*) | | First home version of the 1999 cabinet. |
+| Samba de Amigo | 1999 | Sonic Team | Sega | Rhythm | 1–2 | No | **Stranded** | | | Needs maraca controllers **and** carries a licensed Latin-pop tracklist. The 2008 Wii game and 2023 *Party Central* are separate entries with different songlists, not ports. |
+| Seaman | 1999 | Vivarium | Sega | Virtual pet | 1 | No | **Stranded** | | | Requires the Dreamcast microphone, tracks the real-world clock and calendar, and is narrated by Leonard Nimoy in the Western release. Peripheral dependency **and** a voice-likeness licence, doubly unreleasable. |
+| Sega Bass Fishing | 1999 | Sega AM1 | Sega | Fishing | 1 | No | Ported | Wii (2008), PC | | First home version of the cabinet; shipped with a fishing-rod controller. |
+| Shenmue | 1999 | Sega AM2 | Sega | Action-adventure | 1 | Dead (2003) | Ported | PS4, Xbox One, PC (2018, *I & II*), Switch | | Its per-day NPC schedules and weather were modelled on real 1986 Yokosuka records. |
+| Space Channel 5 | 1999 | United Game Artists | Sega | Rhythm | 1 | No | Ported | PS2 (2000), PS3, Xbox 360, PC (2011–12), Switch | | |
+| Sword of the Berserk: Guts' Rage | 1999 | Yuke's | Eidos | Action | 1 | No | **Stranded** | | | Berserk manga licence, and Kentaro Miura's death in 2021 has not simplified it. |
+| Toy Commander | 1999 | No Cliché | Sega | Action | 1–4 | Dead (2003) | **Stranded** | | | Sega closed No Cliché in 2001; its later Dreamcast game was cancelled outright. |
+| D2 | 2000 | Warp | Sega | Survival horror | 1 | No | **Stranded** | | | Kenji Eno's four-disc final game. Warp dissolved, Eno died in 2013, and it has never been reissued in any form. |
+| Fur Fighters | 2000 | Bizarre Creations | Acclaim | Third-person shooter | 1–4 | No | Ported | PS2, PC (2001), iOS (2013) | | |
+| Grandia II | 2000 | Game Arts | Ubi Soft | RPG | 1 | No | Ported | PS2, PC, Switch (2019, *HD*) | | |
+| Jet Set Radio | 2000 | Smilebit | Sega | Action | 1 | No | Ported | Xbox 360, PS3, PC, Vita (2012, *HD*) | | PAL/NA: *Jet Grind Radio* in North America. |
+| Metropolis Street Racer | 2000 | Bizarre Creations | Sega | Racing | 1–2 | Dead (2003) | **Stranded** | | | Its "Kudos" scoring became *Project Gotham Racing* on Xbox, so the concept escaped but the game did not. Bizarre closed in 2011, and its licensed real-world London/Tokyo/San Francisco streets and radio stations block reissue. |
+| Napple Tale: Arsia in Daydream | 2000 | Chime | Sega | Platformer | 1 | No | **Stranded** | | Japanese | Japan-only, with a Yoko Kanno soundtrack, a music licence on top of obscurity. |
+| Phantasy Star Online | 2000 | Sonic Team | Sega | Online RPG | 1–4 | Dead (2003) | Ported | GameCube, Xbox, PC (2001–04) | | The first console MMO. The Dreamcast servers are gone; the game continued elsewhere. |
+| Record of Lodoss War | 2000 | Neverland | ESP / Conspiracy | Action RPG | 1 | No | **Stranded** | | | Anime licence; Neverland went bankrupt in 2013. |
+| Roommania #203 | 2000 | Sega | Sega | Life sim | 1 | No | **Stranded** | | Japanese | Japan-only. The player observes and nudges a stranger's apartment life; there is nothing else like it. |
+| Skies of Arcadia | 2000 | Overworks | Sega | RPG | 1 | No | Ported | GameCube (2002, *Legends*) | | |
+| Sonic Shuffle | 2000 | Hudson Soft | Sega | Party | 1–4 | No | **Stranded** | | | Sega's Mario Party answer; never reissued. |
+| Cosmic Smash | 2001 | Sega Rosso | Sega | Sports / puzzle | 1 | No | **Stranded** | | Japanese | Japan-only. Squash crossed with *Breakout*, in a stark neon art style. |
+| Headhunter | 2001 | Amuze | Sega / Acclaim | Action-adventure | 1 | No | Ported | PS2 (2002) | | Amuze went bankrupt during development. |
+| Illbleed | 2001 | Crazy Games | AIA / Jaleco | Survival horror | 1 | No | **Stranded** | | | A horror game about a horror theme park, with a "startle gauge". Released into the Dreamcast's final months in tiny numbers. |
+| Rez | 2001 | United Game Artists | Sega | Rail shooter | 1 | No | Ported | PS2 (2002), Xbox 360 (2008), PS4/PC/VR (2016, *Infinite*) | | Mizuguchi's synaesthesia shooter. |
+| Segagaga | 2001 | Sega Hitmaker | Sega | Simulation / RPG | 1 | No | **Stranded** | | Japanese | Japan-only. A game about **running Sega and losing to Sony**, released as the company exited hardware. Self-referential to the point of being unlicensable; it is built on Sega's own history and its rivals'. |
+| Shenmue II | 2001 | Sega AM2 | Sega | Action-adventure | 1 | No | Ported | Xbox (2002), PS4, Xbox One, PC (2018, *I & II*) | | |
+| Sonic Adventure 2 | 2001 | Sonic Team USA | Sega | Platformer | 1–2 | Dead (2003) | Ported | GameCube (2001, *Battle*), PS3, Xbox 360, PC (2012) | | |
+| Ikaruga | 2002 | Treasure | ESP | Shoot 'em up | 1–2 | No | Ported | GameCube (2003), Xbox 360 (2008), Switch, PS4, PC | Japanese | First home version of the 2001 cabinet. Japan-only on Dreamcast. |
+| Border Down | 2003 | G.rev | G.rev | Shoot 'em up | 1 | No | Ported | Switch, PS4 (2023) | Japanese | Japan-only; post-discontinuation release. |
+| Chaos Field | 2004 | Milestone | Milestone | Shoot 'em up | 1 | No | Ported | GameCube, PS2 (2005) | | |
+| Trizeal | 2004 | Triangle Service | Triangle Service | Shoot 'em up | 1 | No | **Stranded** | | Japanese | Japan-only, post-discontinuation. |
+| Under Defeat | 2005 | G.rev | G.rev | Shoot 'em up | 1 | No | Ported | PS3, Xbox 360 (2012, *HD*) | | Released **four years after** Sega discontinued the hardware, Japan's Dreamcast shmup scene outlived the console. |
+| Karous | 2007 | Milestone | Milestone | Shoot 'em up | 1 | No | Ported | Wii (2008) | | **The last official Dreamcast game**, released six years after the console died. |
 
 ## Contested
 

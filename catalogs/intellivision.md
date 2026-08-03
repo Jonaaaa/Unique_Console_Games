@@ -43,22 +43,22 @@ the split here is clean; Mattel's own games survived, licensed ones did not.
 
 ## Debut games
 
-| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Notes |
-|---|---|---|---|---|---|---|---|---|---|
-| NBA Basketball / NHL Hockey / PGA Golf | 1979–80 | APh Technological | Mattel | Sports | 1–2 | No | **Stranded** | | The rest of Mattel's licensed sports line. All four leagues plus the PGA, all expired, all unreissuable under their original names. |
-| NFL Football | 1979 | APh Technological | Mattel | Sports | 1–2 | No | **Stranded** | | A launch title with a real **NFL licence in 1979**: extraordinary at the time, and now an absolute bar to reissue. Renamed in later collections to strip the licence. |
-| Major League Baseball | 1980 | APh Technological | Mattel | Sports | 1–2 | No | **Stranded** | | MLB and MLBPA rights from 1980. Same problem, and the reason Mattel's sports line is absent from its own anniversary collections under its original names. |
-| Astrosmash | 1981 | John Sohl | Mattel | Shoot 'em up | 1 | No | Ported | *Intellivision Lives!*, Flashback, Evercade, Switch | The platform's best-selling game and its pack-in. |
-| Space Spartans | 1981 | APh Technological | Mattel | Space combat | 1 | No | Ported | *Intellivision Lives!*, Flashback | **Intellivoice.** The speech module spoke to the player, one of the earliest uses of synthesised voice in a home game. |
-| Utopia | 1981 | Don Daglow | Mattel | Simulation | 1–2 | No | Ported | *Intellivision Lives!*, Flashback, Evercade | **Widely cited as the first god game / resource-management simulation**: two islands, two players, and no win condition. A genuine ancestor of *Civilization* and *SimCity*. |
-| Advanced Dungeons & Dragons: Cloudy Mountain | 1982 | Tom Loughry | Mattel | Action-adventure | 1 | No | **Stranded** | | ⚠ [Contested](#contested): reissued as *Crown of Kings* with the D&D branding stripped, because the licence now sits with Wizards of the Coast. |
-| B-17 Bomber | 1982 | APh Technological | Mattel | Flight simulation | 1 | No | Ported | *Intellivision Lives!*, Flashback | **Intellivoice.** |
-| Beauty & the Beast | 1982 | Mattel | Mattel | Platformer | 1 | No | Ported | *Intellivision Lives!*, Flashback | Unrelated to the fairy tale of the same name, a King Kong-style climbing game. |
-| Bomb Squad | 1982 | APh Technological | Mattel | Puzzle | 1 | No | **Stranded** | | **Intellivoice.** A bomb-defusal game that talks you through the procedure; skipped by the reissue collections. |
-| Donkey Kong | 1982 | Coleco | Coleco | Platformer | 1 | No | Sim-ship | Atari 2600, ColecoVision (1982, same window) | Also catalogued under [Atari 2600](atari-2600.md) and [ColecoVision](colecovision.md). |
-| Night Stalker | 1982 | Steve Montero | Mattel | Action | 1 | No | Ported | *Intellivision Lives!*, Flashback, Evercade | |
-| Shark! Shark! | 1982 | Don Daglow | Mattel | Action | 1–2 | No | Ported | *Intellivision Lives!*, Flashback, Evercade | |
-| TRON: Deadly Discs | 1982 | Mattel | Mattel | Action | 1 | No | **Stranded** | | The best-regarded TRON game of its era, and locked behind a **Disney** licence. Renamed in later Mattel collections to remove the branding, so the game as shipped has never been reissued. |
+| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|
+| NBA Basketball / NHL Hockey / PGA Golf | 1979–80 | APh Technological | Mattel | Sports | 1–2 | No | **Stranded** | | | The rest of Mattel's licensed sports line. All four leagues plus the PGA, all expired, all unreissuable under their original names. |
+| NFL Football | 1979 | APh Technological | Mattel | Sports | 1–2 | No | **Stranded** | | | A launch title with a real **NFL licence in 1979**: extraordinary at the time, and now an absolute bar to reissue. Renamed in later collections to strip the licence. |
+| Major League Baseball | 1980 | APh Technological | Mattel | Sports | 1–2 | No | **Stranded** | | | MLB and MLBPA rights from 1980. Same problem, and the reason Mattel's sports line is absent from its own anniversary collections under its original names. |
+| Astrosmash | 1981 | John Sohl | Mattel | Shoot 'em up | 1 | No | Ported | *Intellivision Lives!*, Flashback, Evercade, Switch | | The platform's best-selling game and its pack-in. |
+| Space Spartans | 1981 | APh Technological | Mattel | Space combat | 1 | No | Ported | *Intellivision Lives!*, Flashback | | **Intellivoice.** The speech module spoke to the player, one of the earliest uses of synthesised voice in a home game. |
+| Utopia | 1981 | Don Daglow | Mattel | Simulation | 1–2 | No | Ported | *Intellivision Lives!*, Flashback, Evercade | | **Widely cited as the first god game / resource-management simulation**: two islands, two players, and no win condition. A genuine ancestor of *Civilization* and *SimCity*. |
+| Advanced Dungeons & Dragons: Cloudy Mountain | 1982 | Tom Loughry | Mattel | Action-adventure | 1 | No | **Stranded** | | | ⚠ [Contested](#contested): reissued as *Crown of Kings* with the D&D branding stripped, because the licence now sits with Wizards of the Coast. |
+| B-17 Bomber | 1982 | APh Technological | Mattel | Flight simulation | 1 | No | Ported | *Intellivision Lives!*, Flashback | | **Intellivoice.** |
+| Beauty & the Beast | 1982 | Mattel | Mattel | Platformer | 1 | No | Ported | *Intellivision Lives!*, Flashback | | Unrelated to the fairy tale of the same name, a King Kong-style climbing game. |
+| Bomb Squad | 1982 | APh Technological | Mattel | Puzzle | 1 | No | **Stranded** | | | **Intellivoice.** A bomb-defusal game that talks you through the procedure; skipped by the reissue collections. |
+| Donkey Kong | 1982 | Coleco | Coleco | Platformer | 1 | No | Sim-ship | Atari 2600, ColecoVision (1982, same window) | | Also catalogued under [Atari 2600](atari-2600.md) and [ColecoVision](colecovision.md). |
+| Night Stalker | 1982 | Steve Montero | Mattel | Action | 1 | No | Ported | *Intellivision Lives!*, Flashback, Evercade | | |
+| Shark! Shark! | 1982 | Don Daglow | Mattel | Action | 1–2 | No | Ported | *Intellivision Lives!*, Flashback, Evercade | | |
+| TRON: Deadly Discs | 1982 | Mattel | Mattel | Action | 1 | No | **Stranded** | | | The best-regarded TRON game of its era, and locked behind a **Disney** licence. Renamed in later Mattel collections to remove the branding, so the game as shipped has never been reissued. |
 
 ## Contested
 

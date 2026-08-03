@@ -39,12 +39,12 @@ Another `Ported` count of **zero**.
 
 ## Debut games
 
-| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Notes |
-|---|---|---|---|---|---|---|---|---|---|
-| Fun with Numbers | 1977 | RCA | RCA | Edutainment | 1 | No | **Stranded** | | An RCA-developed edutainment cart for a monochrome console that sold in tiny numbers; RCA left consumer computing entirely. |
-| Gunfighter / Moonship Battle | 1977 | RCA | RCA | Shooter | 1–2 | No | **Stranded** | | One of the last releases before RCA abandoned the platform in 1979. |
-| Speedway / Tag | 1977 | RCA | RCA | Racing | 1–2 | No | **Stranded** | | The closest the platform had to an action game, and limited by having no joystick to steer with. |
-| TV Schoolhouse I | 1977 | RCA | RCA | Edutainment | 1 | No | **Stranded** | | A launch cartridge. RCA positioned the console partly as an educational device, predating the Sega Pico's approach by sixteen years. |
+| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Fun with Numbers | 1977 | RCA | RCA | Edutainment | 1 | No | **Stranded** | | | An RCA-developed edutainment cart for a monochrome console that sold in tiny numbers; RCA left consumer computing entirely. |
+| Gunfighter / Moonship Battle | 1977 | RCA | RCA | Shooter | 1–2 | No | **Stranded** | | | One of the last releases before RCA abandoned the platform in 1979. |
+| Speedway / Tag | 1977 | RCA | RCA | Racing | 1–2 | No | **Stranded** | | | The closest the platform had to an action game, and limited by having no joystick to steer with. |
+| TV Schoolhouse I | 1977 | RCA | RCA | Edutainment | 1 | No | **Stranded** | | | A launch cartridge. RCA positioned the console partly as an educational device, predating the Sega Pico's approach by sixteen years. |
 
 ## Excluded
 

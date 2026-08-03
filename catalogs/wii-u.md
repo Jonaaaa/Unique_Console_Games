@@ -39,87 +39,87 @@ game whose entire point died on 8 Apr 2024 and whose sequels replaced it commerc
 
 Every game that debuted on this platform and launched nowhere else. `Status` records where it stands today; it does not affect membership.
 
-| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Notes |
-|---|---|---|---|---|---|---|---|---|---|
-| Chasing Aurora | 2012 | Broken Rules | Broken Rules | Flight / multiplayer | 1–5 (asym.) | No | Stranded | | Launch-window indie; GamePad player plays a different game from the TV players. |
-| ESPN Sports Connection | 2012 | Ubisoft Barcelona / Longtail | Ubisoft | Sports | 1–4 | No | Stranded | | PAL: *Sports Connection*. Launch title. Six sports, all GamePad-motion driven. |
-| Family Party: 30 Great Games — Obstacle Arcade | 2012 | Art Co. | D3Publisher | Party | 1–4 | No | Stranded | | Launch title. Uses the GamePad camera to put the player's face in minigames. |
-| Funky Barn | 2012 | Tantalus Media | 505 Games | Farm simulation | 1 | No | Ported | 3DS (2013, *Funky Barn 3D*) | Routinely listed as a Wii U exclusive; the 3DS version disqualifies it. |
-| Game Party Champions | 2012 | Phosphor Games | Warner Bros. | Party | 1–4 | No | Stranded | | Launch title. |
-| Nano Assault Neo | 2012 | Shin'en | Shin'en | Twin-stick shooter | 1–2 | No | Ported | PS4, Vita (2013, as *Neo-X*) | Launch-day eShop title. |
-| New Super Mario Bros. U | 2012 | Nintendo EAD | Nintendo | Platformer | 1–5 | No | Ported | Switch (2019, *Deluxe*) | Launch title. Boost Mode used the GamePad. |
-| Ninja Gaiden 3: Razor's Edge | 2012 | Team Ninja | Tecmo Koei | Action | 1 | Dead | Ported | PS3, Xbox 360 (2013) | Wii U launch exclusive for five months. |
-| Nintendo Land | 2012 | Nintendo EAD | Nintendo | Party / minigames | 1–5 (asym.) | No | Stranded | | The pack-in title. Every attraction is built around the GamePad's second screen. |
-| Rabbids Land | 2012 | Ubisoft Paris | Ubisoft | Party / board game | 1–4 | No | Stranded | | Launch title. The only Rabbids game never re-released in any form. |
-| SiNG Party | 2012 | Nintendo SPD / FreeStyleGames | Nintendo | Music / karaoke | 1–8 | No | Stranded | | Launch title, NA/PAL only. Needs the GamePad as a lyrics-facing mic display. Licensed tracklist makes a re-release near-impossible. |
-| Tank! Tank! Tank! | 2012 | Namco Bandai | Namco Bandai | Vehicular action | 1–4 | No | **Stranded** | | Launch title, and the first home release of the 2009 arcade game. |
-| Your Shape: Fitness Evolved 2013 | 2012 | Blue Byte | Ubisoft | Fitness | 1–2 | No | Stranded | | Launch title, NA/PAL only. Series ended here. |
-| ZombiU | 2012 | Ubisoft Montpellier | Ubisoft | Survival horror | 1–2 (asym.) | No | Ported | PS4, Xbox One, PC (2015, as *ZOMBI*) | The port cut the asymmetric multiplayer entirely; the GamePad survival-inventory scanner is Wii U-only in practice. |
-| Dr. Luigi | 2013 | Arika | Nintendo | Puzzle | 1–4 | Dead (2024) | Stranded | | Dr. Mario variant with L-shaped pills. Never reissued. |
-| Game & Wario | 2013 | Intelligent Systems / Nintendo SPD | Nintendo | Minigame collection | 1–5 | No | Stranded | | Every microgame is a GamePad gimmick; unportable by construction. |
-| Lego City Undercover | 2013 | TT Fusion | Nintendo / WB | Open-world action | 1 | No | Ported | PS4, Xbox One, Switch, PC (2017) | The 2017 port added co-op and dropped the GamePad communicator. |
-| Mario & Sonic at the Sochi 2014 Olympic Winter Games | 2013 | Sega | Nintendo | Sports | 1–4 | Dead (2024) | Stranded | | The only entry in the series with **no** handheld counterpart: Wii U-only, unlike the Rio 2016 game. |
-| NES Remix | 2013 | indieszero / Nintendo EAD | Nintendo | Minigame collection | 1 | Dead (2024) | Stranded | | ⚠ [Contested](#contested), *Ultimate NES Remix* (3DS) recompiles some of its content. |
-| New Super Luigi U | 2013 | Nintendo EAD | Nintendo | Platformer | 1–5 | No | Ported | Switch (2019, in *NSMBU Deluxe*) | Standalone retail release as well as DLC. |
-| Pikmin 3 | 2013 | Nintendo EAD | Nintendo | RTS / strategy | 1–2 | No | Ported | Switch (2020, *Deluxe*) | |
-| Pokémon Rumble U | 2013 | Ambrella | Pokémon Co. / Nintendo | Action | 1–4 | No | Stranded | | eShop-only. First Nintendo game to use NFC figures, needed the GamePad's reader and a line of dedicated Rumble U toys. Unportable without the toys. |
-| Rayman Legends | 2013 | Ubisoft Montpellier | Ubisoft | Platformer | 1–5 | No | Sim-ship | PS3, Xbox 360, PC (2013, same day), Vita (2013), PS4/XB1 (2014), Switch (2017) | Originally a Wii U exclusive; delayed and widened to a simultaneous multiplatform launch. |
-| Sonic Lost World | 2013 | Sonic Team | Sega | Platformer | 1 | Dead (2024) | Sim-ship | 3DS (2013, same day), PC (2015) | The Wii U and 3DS builds are different games sharing a title, launched together. |
-| Super Mario 3D World | 2013 | Nintendo EAD | Nintendo | Platformer | 1–4 | No | Ported | Switch (2021, + *Bowser's Fury*) | |
-| Taiko no Tatsujin: Wii U Version | 2013 | Namco Bandai Studios | Namco Bandai | Rhythm | 1–4 | No | Stranded | | Japan-only. Needs the TaTaCon drum peripheral; licensed J-pop tracklist. |
-| The Wonderful 101 | 2013 | PlatinumGames | Nintendo | Action | 1–5 | Dead | Ported | Switch, PS4, PC (2020, *Remastered*) | Escaped via Kickstarter, not Nintendo. Was stranded for seven years. |
-| Wii Fit U | 2013 | Nintendo EAD | Nintendo | Fitness | 1 | Dead (2024) | Stranded | | Requires Balance Board + Fit Meter peripherals. |
-| Wii Party U | 2013 | Nd Cube | Nintendo | Party | 1–4 | No | Stranded | | Tabletop modes use the GamePad as a physical board. |
-| Wii Sports Club | 2013 | Nintendo EAD | Nintendo | Sports | 1–4 | Dead (2024) | Stranded | | HD Wii Sports with online clubs. Superseded by *Nintendo Switch Sports*, not ported. |
-| Bayonetta 2 | 2014 | PlatinumGames | Nintendo | Action | 1–2 | Dead | Ported | Switch (2018) | Nintendo-funded; the reason the series continued at all. |
-| Captain Toad: Treasure Tracker | 2014 | Nintendo EAD | Nintendo | Puzzle | 1 | No | Ported | Switch, 3DS (2018) | Grew out of a *Super Mario 3D World* minigame. |
-| Donkey Kong Country: Tropical Freeze | 2014 | Retro Studios | Nintendo | Platformer | 1–2 | No | Ported | Switch (2018) | Switch version added Funky Mode. |
-| Fatal Frame: Maiden of Black Water | 2014 | Koei Tecmo | Nintendo (Wii U) | Survival horror | 1 | No | Ported | PS4/PS5, Xbox One/Series, Switch, PC (2021) | PAL: *Project Zero*. The GamePad was the in-game Camera Obscura. |
-| Hyrule Warriors | 2014 | Omega Force / Team Ninja | Nintendo | Musou | 1–2 | Dead | Ported | 3DS (2016, *Legends*), Switch (2018, *Definitive*) | |
-| Just Dance Wii U | 2014 | Ubisoft Paris | Nintendo | Music / dance | 1–4 | No | Stranded | | Japan-only, Nintendo-published entry. Every other Just Dance is multiplatform; this SKU is not. |
-| Mario Kart 8 | 2014 | Nintendo EAD | Nintendo | Racing | 1–12 | Dead (2024) | Ported | Switch (2017, *Deluxe*) | The best-selling Wii U game; *Deluxe* went on to outsell the entire Wii U library several times over. |
-| Meme Run | 2014 | Ninja Pig Studios | Ninja Pig Studios | Endless runner | 1 | No | Stranded | | eShop-only. "Trollface" endless runner, pulled from sale after a copyright claim. |
-| NES Remix 2 | 2014 | indieszero / Nintendo EAD | Nintendo | Minigame collection | 1 | Dead (2024) | Stranded | | ⚠ [Contested](#contested), same reasoning as *NES Remix*. |
-| Pushmo World | 2014 | Intelligent Systems | Nintendo | Puzzle | 1 | Dead (2024) | Stranded | | PAL: *Pullblox World*. 250 levels. The 3DS line continued separately with *Stretchmo*. |
-| Shovel Knight | 2014 | Yacht Club Games | Yacht Club Games | Action-platformer | 1 | No | Sim-ship | 3DS, PC (2014, same day), then almost every platform | |
-| Sonic Boom: Rise of Lyric | 2014 | Big Red Button | Sega | Action-adventure | 1–2 | No | Stranded | | Locked to Wii U by Sega's three-game Nintendo exclusivity deal; shipped in a broken state and was never revisited. |
-| Stealth Inc 2: A Game of Clones | 2014 | Curve Studios | Curve Digital | Puzzle-platformer | 1–4 | No | Ported | PS4, PS3, Vita, PC (2015), Switch (2018) | Wii U timed exclusive for about a year. |
-| Super Smash Bros. for Wii U | 2014 | Sora Ltd. / Bandai Namco | Nintendo | Fighting | 1–8 | Dead (2024) | Stranded | | ⚠ [Contested](#contested), separate build from the 3DS twin; 8-Player Smash and Smash Tour exist nowhere else. |
-| Taiko no Tatsujin: Tokumori! | 2014 | Bandai Namco Studios | Bandai Namco | Rhythm | 1–4 | No | Stranded | | Japan-only. TaTaCon peripheral + licensed tracklist. |
-| The Letter | 2014 | TreeFall Studios | TreeFall Studios | Adventure / horror | 1 | No | Ported | PS4, PC (2022, *Classic Edition*) | Built in ~2 months; a notorious eShop low point. Escaped the Wii U eight years later. |
-| Affordable Space Adventures | 2015 | KnapNok Games / Nifflas | Nintendo | Puzzle / stealth | 1–3 (asym.) | No | Stranded | | The GamePad is the ship's engineering console: throttle, scanner and power management. Its developers have described it as unportable. |
-| amiibo tap: Nintendo's Greatest Bits | 2015 | Nintendo | Nintendo | Compilation | 1 | Dead (2024) | **Stranded** | | A free download that unlocked short excerpts of NES and SNES games by scanning amiibo: playable slices rather than full games, which is unusual enough to be its own product. Requires amiibo and a dead eShop. |
-| Animal Crossing: amiibo Festival | 2015 | Nd Cube | Nintendo | Board game | 1–4 | No | Stranded | | Cannot be played without amiibo figures. |
-| Art Academy: Home Studio | 2015 | Headstrong Games | Nintendo | Art / edutainment | 1 | Dead (2024) | Stranded | | PAL: *Art Academy: Atelier*. Stylus-driven; sharing features died with the servers. |
-| Cube Life: Island Survival | 2015 | Cypronia | Cypronia | Survival sandbox | 1 | No | Ported | PC (2018), Switch (2020), PS4 (2021), as *HD* | Voxel survival sandbox; one of the few eShop titles to sell well enough to justify a port. |
-| Devil's Third | 2015 | Valhalla Game Studios | Nintendo (console) | Action / shooter | 1–16 | Dead (2016) | **Stranded** | | Tomonobu Itagaki's last console game. *Devil's Third Online* was a separate free-to-play, multiplayer-only PC build: no campaign, not cross-compatible, since discontinued. The full game remains Wii U-only. Console servers died 28 Dec 2016, barely a year after launch. No console release. PC version exists (PC (2016, Japan/Asia only)) but PC is not a catalogued platform. |
-| FAST Racing NEO | 2015 | Shin'en | Shin'en | Racing | 1–8 | Dead | Ported | Switch (2017, as *FAST RMX*) | ⚠ [Contested](#contested): renamed, rebuilt, extra tracks. |
-| Kirby and the Rainbow Curse | 2015 | HAL Laboratory | Nintendo | Action / platformer | 1–4 | No | Stranded | | PAL: *Kirby and the Rainbow Paintbrush*. Movement is entirely stylus-drawn on the GamePad. |
-| Mario Party 10 | 2015 | Nd Cube | Nintendo | Party | 1–5 | No | Stranded | | Bowser Party mode is 4-vs-1 with Bowser on the GamePad. |
-| Mario Tennis: Ultra Smash | 2015 | Camelot | Nintendo | Sports | 1–4 | Dead (2024) | Stranded | | Content-thin; *Mario Tennis Aces* replaced it rather than porting it. |
-| Mario vs. Donkey Kong: Tipping Stars | 2015 | Nintendo Software Technology | Nintendo | Puzzle | 1 | Dead (2024) | Sim-ship | 3DS (2015, same day) | Cross-buy: one purchase covered both. |
-| Rodea the Sky Soldier | 2015 | Prope | Kadokawa / NIS America | Action | 1 | No | Sim-ship | 3DS (2015, same day) | The Wii U edition bundled the original 2011-era Wii build, which is the game's true first version. |
-| Runbow | 2015 | 13AM Games | 13AM Games | Party / platformer | 1–9 | Dead | Ported | 3DS (2016), PC (2016), Switch (2017), PS4 (2018) | Nine-player local was a Wii U-only party trick. |
-| Splatoon | 2015 | Nintendo EAD | Nintendo | Third-person shooter | 1–8 | Dead (2024) | Stranded | | New IP, 4.9M sold, now unplayable online. Sequels are new games, not ports. |
-| Super Destronaut | 2015 | Petite Games | Petite Games | Shoot 'em up | 1–2 | No | Ported | PS4, Xbox One, Switch, Vita (2018, *DX*) | Ratalaika handled the multiplatform re-release. |
-| Super Mario Maker | 2015 | Nintendo EAD | Nintendo | Level creator / platformer | 1 | Dead (2024) | Ported | 3DS (2016) | ⚠ [Contested](#contested), the 3DS port strips course uploading and online entirely. Course sharing died with the servers on both. |
-| Swords & Soldiers II | 2015 | Ronimo Games | Ronimo Games | Side-scrolling strategy | 1–2 | No | Ported | PS4, Switch, PC (2018, *Shawarmageddon*) | Wii U exclusive for three years. |
-| Taiko no Tatsujin: Atsumete ☆ Tomodachi Daisakusen! | 2015 | Bandai Namco Studios | Bandai Namco | Rhythm | 1–4 | No | Stranded | | Japan-only. Last Wii U Taiko game. |
-| Temple of Yog | 2015 | ChudChud Industries | ChudChud Industries | Roguelike | 1–5 (asym.) | Dead | Stranded | | eShop-only. GamePad player builds the dungeon in real time while TV players run it, an asymmetric design with no single-screen equivalent. |
-| Tokyo Mirage Sessions ♯FE | 2015 | Atlus | Nintendo | JRPG | 1 | No | Ported | Switch (2020, *Encore*) | Fire Emblem × Shin Megami Tensei. JP Dec 2015, West Jun 2016. |
-| Typoman | 2015 | Brainseed Factory | Headup Games | Puzzle-platformer | 1 | No | Ported | PC, PS4, Xbox One (2016), Switch (2017), as *Revised* | |
-| Xenoblade Chronicles X | 2015 | Monolith Soft | Nintendo | Open-world RPG | 1–32 | Dead (2024) | Ported | Switch (2025, *Definitive Edition*) | Was stranded until 30 Mar 2025. |
-| Yo-kai Watch Dance: Just Dance Special Version | 2015 | Ubisoft Paris / Level-5 | Nintendo / Level-5 | Music / dance | 1–4 | No | Stranded | | Japan-only. Double licensing lock: Just Dance engine + Yo-kai Watch IP + licensed music. |
-| Yoshi's Woolly World | 2015 | Good-Feel | Nintendo | Platformer | 1–2 | No | Ported | 3DS (2017, *Poochy & Yoshi's Woolly World*) | Frequently miscounted as stranded because it never reached Switch, but the 3DS port disqualifies it. |
-| Lost Reavers | 2016 | Bandai Namco Studios | Bandai Namco | Co-op action | 1–4 | Dead (2018) | Stranded | | Free-to-play, online-only 4-player looter. JP beta ran 2015 as *Project Treasure*. Servers closed Jan 2018; the game is now **unplayable even on a working Wii U**, the only entry here that is fully lost. |
-| Mario & Sonic at the Rio 2016 Olympic Games | 2016 | Sega Sports R&D | Sega / Nintendo | Sports | 1–4 | Dead (2024) | Stranded | | Wii U build only. The 3DS game and the arcade game share the name but are separate products, see [Contested](#contested). |
-| Mini Mario & Friends: amiibo Challenge | 2016 | Nintendo Software Technology | Nintendo | Puzzle-platformer | 1 | No | Sim-ship | 3DS (2016, same day) | Free download requiring amiibo. |
-| Paper Mario: Color Splash | 2016 | Intelligent Systems | Nintendo | RPG / adventure | 1 | No | Stranded | | Card battles are played on the GamePad touch screen. Best-regarded of the divisive modern Paper Marios. |
-| Pokkén Tournament | 2016 | Bandai Namco | Nintendo | Fighting | 1–2 | Dead (2024) | Ported | Switch (2017, *DX*) | First home release of the 2015 Japanese cabinet. |
-| Star Fox Guard | 2016 | PlatinumGames / Nintendo EPD | Nintendo | Tower defence | 1 | No | Stranded | | Bundled with *Star Fox Zero*; 12 simultaneous camera feeds need two screens. |
-| Star Fox Zero | 2016 | PlatinumGames / Nintendo EPD | Nintendo | Rail shooter | 1–2 (asym.) | No | Stranded | | Cockpit view on GamePad + gyro aiming. The control scheme *is* the game, which is exactly why it can't leave. The 2026 Switch 2 *Star Fox* is a **Star Fox 64** reimagining, not this. |
-| Star Ghost | 2016 | Squarehead Games | Squarehead Games | Shoot 'em up | 1 | No | Stranded | | eShop-only, NA/EU. One-button roguelike shooter from a two-person studio that dissolved after it. |
-| The Legend of Zelda: Breath of the Wild | 2017 | Nintendo EPD | Nintendo | Action-adventure | 1 | No | Sim-ship | Switch (2017, same day) | The Wii U's final first-party release and the Switch's launch title; the same game, shipped to both on 3 Mar 2017. |
+| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Chasing Aurora | 2012 | Broken Rules | Broken Rules | Flight / multiplayer | 1–5 (asym.) | No | Stranded | | | Launch-window indie; GamePad player plays a different game from the TV players. |
+| ESPN Sports Connection | 2012 | Ubisoft Barcelona / Longtail | Ubisoft | Sports | 1–4 | No | Stranded | | | PAL: *Sports Connection*. Launch title. Six sports, all GamePad-motion driven. |
+| Family Party: 30 Great Games — Obstacle Arcade | 2012 | Art Co. | D3Publisher | Party | 1–4 | No | Stranded | | | Launch title. Uses the GamePad camera to put the player's face in minigames. |
+| Funky Barn | 2012 | Tantalus Media | 505 Games | Farm simulation | 1 | No | Ported | 3DS (2013, *Funky Barn 3D*) | | Routinely listed as a Wii U exclusive; the 3DS version disqualifies it. |
+| Game Party Champions | 2012 | Phosphor Games | Warner Bros. | Party | 1–4 | No | Stranded | | | Launch title. |
+| Nano Assault Neo | 2012 | Shin'en | Shin'en | Twin-stick shooter | 1–2 | No | Ported | PS4, Vita (2013, as *Neo-X*) | | Launch-day eShop title. |
+| New Super Mario Bros. U | 2012 | Nintendo EAD | Nintendo | Platformer | 1–5 | No | Ported | Switch (2019, *Deluxe*) | | Launch title. Boost Mode used the GamePad. |
+| Ninja Gaiden 3: Razor's Edge | 2012 | Team Ninja | Tecmo Koei | Action | 1 | Dead | Ported | PS3, Xbox 360 (2013) | | Wii U launch exclusive for five months. |
+| Nintendo Land | 2012 | Nintendo EAD | Nintendo | Party / minigames | 1–5 (asym.) | No | Stranded | | | The pack-in title. Every attraction is built around the GamePad's second screen. |
+| Rabbids Land | 2012 | Ubisoft Paris | Ubisoft | Party / board game | 1–4 | No | Stranded | | | Launch title. The only Rabbids game never re-released in any form. |
+| SiNG Party | 2012 | Nintendo SPD / FreeStyleGames | Nintendo | Music / karaoke | 1–8 | No | Stranded | | | Launch title, NA/PAL only. Needs the GamePad as a lyrics-facing mic display. Licensed tracklist makes a re-release near-impossible. |
+| Tank! Tank! Tank! | 2012 | Namco Bandai | Namco Bandai | Vehicular action | 1–4 | No | **Stranded** | | | Launch title, and the first home release of the 2009 arcade game. |
+| Your Shape: Fitness Evolved 2013 | 2012 | Blue Byte | Ubisoft | Fitness | 1–2 | No | Stranded | | | Launch title, NA/PAL only. Series ended here. |
+| ZombiU | 2012 | Ubisoft Montpellier | Ubisoft | Survival horror | 1–2 (asym.) | No | Ported | PS4, Xbox One, PC (2015, as *ZOMBI*) | | The port cut the asymmetric multiplayer entirely; the GamePad survival-inventory scanner is Wii U-only in practice. |
+| Dr. Luigi | 2013 | Arika | Nintendo | Puzzle | 1–4 | Dead (2024) | Stranded | | | Dr. Mario variant with L-shaped pills. Never reissued. |
+| Game & Wario | 2013 | Intelligent Systems / Nintendo SPD | Nintendo | Minigame collection | 1–5 | No | Stranded | | | Every microgame is a GamePad gimmick; unportable by construction. |
+| Lego City Undercover | 2013 | TT Fusion | Nintendo / WB | Open-world action | 1 | No | Ported | PS4, Xbox One, Switch, PC (2017) | | The 2017 port added co-op and dropped the GamePad communicator. |
+| Mario & Sonic at the Sochi 2014 Olympic Winter Games | 2013 | Sega | Nintendo | Sports | 1–4 | Dead (2024) | Stranded | | | The only entry in the series with **no** handheld counterpart: Wii U-only, unlike the Rio 2016 game. |
+| NES Remix | 2013 | indieszero / Nintendo EAD | Nintendo | Minigame collection | 1 | Dead (2024) | Stranded | | | ⚠ [Contested](#contested), *Ultimate NES Remix* (3DS) recompiles some of its content. |
+| New Super Luigi U | 2013 | Nintendo EAD | Nintendo | Platformer | 1–5 | No | Ported | Switch (2019, in *NSMBU Deluxe*) | | Standalone retail release as well as DLC. |
+| Pikmin 3 | 2013 | Nintendo EAD | Nintendo | RTS / strategy | 1–2 | No | Ported | Switch (2020, *Deluxe*) | | |
+| Pokémon Rumble U | 2013 | Ambrella | Pokémon Co. / Nintendo | Action | 1–4 | No | Stranded | | | eShop-only. First Nintendo game to use NFC figures, needed the GamePad's reader and a line of dedicated Rumble U toys. Unportable without the toys. |
+| Rayman Legends | 2013 | Ubisoft Montpellier | Ubisoft | Platformer | 1–5 | No | Sim-ship | PS3, Xbox 360, PC (2013, same day), Vita (2013), PS4/XB1 (2014), Switch (2017) | | Originally a Wii U exclusive; delayed and widened to a simultaneous multiplatform launch. |
+| Sonic Lost World | 2013 | Sonic Team | Sega | Platformer | 1 | Dead (2024) | Sim-ship | 3DS (2013, same day), PC (2015) | | The Wii U and 3DS builds are different games sharing a title, launched together. |
+| Super Mario 3D World | 2013 | Nintendo EAD | Nintendo | Platformer | 1–4 | No | Ported | Switch (2021, + *Bowser's Fury*) | | |
+| Taiko no Tatsujin: Wii U Version | 2013 | Namco Bandai Studios | Namco Bandai | Rhythm | 1–4 | No | Stranded | | Japanese | Japan-only. Needs the TaTaCon drum peripheral; licensed J-pop tracklist. |
+| The Wonderful 101 | 2013 | PlatinumGames | Nintendo | Action | 1–5 | Dead | Ported | Switch, PS4, PC (2020, *Remastered*) | | Escaped via Kickstarter, not Nintendo. Was stranded for seven years. |
+| Wii Fit U | 2013 | Nintendo EAD | Nintendo | Fitness | 1 | Dead (2024) | Stranded | | | Requires Balance Board + Fit Meter peripherals. |
+| Wii Party U | 2013 | Nd Cube | Nintendo | Party | 1–4 | No | Stranded | | | Tabletop modes use the GamePad as a physical board. |
+| Wii Sports Club | 2013 | Nintendo EAD | Nintendo | Sports | 1–4 | Dead (2024) | Stranded | | | HD Wii Sports with online clubs. Superseded by *Nintendo Switch Sports*, not ported. |
+| Bayonetta 2 | 2014 | PlatinumGames | Nintendo | Action | 1–2 | Dead | Ported | Switch (2018) | | Nintendo-funded; the reason the series continued at all. |
+| Captain Toad: Treasure Tracker | 2014 | Nintendo EAD | Nintendo | Puzzle | 1 | No | Ported | Switch, 3DS (2018) | | Grew out of a *Super Mario 3D World* minigame. |
+| Donkey Kong Country: Tropical Freeze | 2014 | Retro Studios | Nintendo | Platformer | 1–2 | No | Ported | Switch (2018) | | Switch version added Funky Mode. |
+| Fatal Frame: Maiden of Black Water | 2014 | Koei Tecmo | Nintendo (Wii U) | Survival horror | 1 | No | Ported | PS4/PS5, Xbox One/Series, Switch, PC (2021) | | PAL: *Project Zero*. The GamePad was the in-game Camera Obscura. |
+| Hyrule Warriors | 2014 | Omega Force / Team Ninja | Nintendo | Musou | 1–2 | Dead | Ported | 3DS (2016, *Legends*), Switch (2018, *Definitive*) | | |
+| Just Dance Wii U | 2014 | Ubisoft Paris | Nintendo | Music / dance | 1–4 | No | Stranded | | Japanese | Japan-only, Nintendo-published entry. Every other Just Dance is multiplatform; this SKU is not. |
+| Mario Kart 8 | 2014 | Nintendo EAD | Nintendo | Racing | 1–12 | Dead (2024) | Ported | Switch (2017, *Deluxe*) | | The best-selling Wii U game; *Deluxe* went on to outsell the entire Wii U library several times over. |
+| Meme Run | 2014 | Ninja Pig Studios | Ninja Pig Studios | Endless runner | 1 | No | Stranded | | | eShop-only. "Trollface" endless runner, pulled from sale after a copyright claim. |
+| NES Remix 2 | 2014 | indieszero / Nintendo EAD | Nintendo | Minigame collection | 1 | Dead (2024) | Stranded | | | ⚠ [Contested](#contested), same reasoning as *NES Remix*. |
+| Pushmo World | 2014 | Intelligent Systems | Nintendo | Puzzle | 1 | Dead (2024) | Stranded | | | PAL: *Pullblox World*. 250 levels. The 3DS line continued separately with *Stretchmo*. |
+| Shovel Knight | 2014 | Yacht Club Games | Yacht Club Games | Action-platformer | 1 | No | Sim-ship | 3DS, PC (2014, same day), then almost every platform | | |
+| Sonic Boom: Rise of Lyric | 2014 | Big Red Button | Sega | Action-adventure | 1–2 | No | Stranded | | | Locked to Wii U by Sega's three-game Nintendo exclusivity deal; shipped in a broken state and was never revisited. |
+| Stealth Inc 2: A Game of Clones | 2014 | Curve Studios | Curve Digital | Puzzle-platformer | 1–4 | No | Ported | PS4, PS3, Vita, PC (2015), Switch (2018) | | Wii U timed exclusive for about a year. |
+| Super Smash Bros. for Wii U | 2014 | Sora Ltd. / Bandai Namco | Nintendo | Fighting | 1–8 | Dead (2024) | Stranded | | | ⚠ [Contested](#contested), separate build from the 3DS twin; 8-Player Smash and Smash Tour exist nowhere else. |
+| Taiko no Tatsujin: Tokumori! | 2014 | Bandai Namco Studios | Bandai Namco | Rhythm | 1–4 | No | Stranded | | Japanese | Japan-only. TaTaCon peripheral + licensed tracklist. |
+| The Letter | 2014 | TreeFall Studios | TreeFall Studios | Adventure / horror | 1 | No | Ported | PS4, PC (2022, *Classic Edition*) | | Built in ~2 months; a notorious eShop low point. Escaped the Wii U eight years later. |
+| Affordable Space Adventures | 2015 | KnapNok Games / Nifflas | Nintendo | Puzzle / stealth | 1–3 (asym.) | No | Stranded | | | The GamePad is the ship's engineering console: throttle, scanner and power management. Its developers have described it as unportable. |
+| amiibo tap: Nintendo's Greatest Bits | 2015 | Nintendo | Nintendo | Compilation | 1 | Dead (2024) | **Stranded** | | | A free download that unlocked short excerpts of NES and SNES games by scanning amiibo: playable slices rather than full games, which is unusual enough to be its own product. Requires amiibo and a dead eShop. |
+| Animal Crossing: amiibo Festival | 2015 | Nd Cube | Nintendo | Board game | 1–4 | No | Stranded | | | Cannot be played without amiibo figures. |
+| Art Academy: Home Studio | 2015 | Headstrong Games | Nintendo | Art / edutainment | 1 | Dead (2024) | Stranded | | | PAL: *Art Academy: Atelier*. Stylus-driven; sharing features died with the servers. |
+| Cube Life: Island Survival | 2015 | Cypronia | Cypronia | Survival sandbox | 1 | No | Ported | PC (2018), Switch (2020), PS4 (2021), as *HD* | | Voxel survival sandbox; one of the few eShop titles to sell well enough to justify a port. |
+| Devil's Third | 2015 | Valhalla Game Studios | Nintendo (console) | Action / shooter | 1–16 | Dead (2016) | **Stranded** | | | Tomonobu Itagaki's last console game. *Devil's Third Online* was a separate free-to-play, multiplayer-only PC build: no campaign, not cross-compatible, since discontinued. The full game remains Wii U-only. Console servers died 28 Dec 2016, barely a year after launch. No console release. PC version exists (PC (2016, Japan/Asia only)) but PC is not a catalogued platform. |
+| FAST Racing NEO | 2015 | Shin'en | Shin'en | Racing | 1–8 | Dead | Ported | Switch (2017, as *FAST RMX*) | | ⚠ [Contested](#contested): renamed, rebuilt, extra tracks. |
+| Kirby and the Rainbow Curse | 2015 | HAL Laboratory | Nintendo | Action / platformer | 1–4 | No | Stranded | | | PAL: *Kirby and the Rainbow Paintbrush*. Movement is entirely stylus-drawn on the GamePad. |
+| Mario Party 10 | 2015 | Nd Cube | Nintendo | Party | 1–5 | No | Stranded | | | Bowser Party mode is 4-vs-1 with Bowser on the GamePad. |
+| Mario Tennis: Ultra Smash | 2015 | Camelot | Nintendo | Sports | 1–4 | Dead (2024) | Stranded | | | Content-thin; *Mario Tennis Aces* replaced it rather than porting it. |
+| Mario vs. Donkey Kong: Tipping Stars | 2015 | Nintendo Software Technology | Nintendo | Puzzle | 1 | Dead (2024) | Sim-ship | 3DS (2015, same day) | | Cross-buy: one purchase covered both. |
+| Rodea the Sky Soldier | 2015 | Prope | Kadokawa / NIS America | Action | 1 | No | Sim-ship | 3DS (2015, same day) | | The Wii U edition bundled the original 2011-era Wii build, which is the game's true first version. |
+| Runbow | 2015 | 13AM Games | 13AM Games | Party / platformer | 1–9 | Dead | Ported | 3DS (2016), PC (2016), Switch (2017), PS4 (2018) | | Nine-player local was a Wii U-only party trick. |
+| Splatoon | 2015 | Nintendo EAD | Nintendo | Third-person shooter | 1–8 | Dead (2024) | Stranded | | | New IP, 4.9M sold, now unplayable online. Sequels are new games, not ports. |
+| Super Destronaut | 2015 | Petite Games | Petite Games | Shoot 'em up | 1–2 | No | Ported | PS4, Xbox One, Switch, Vita (2018, *DX*) | | Ratalaika handled the multiplatform re-release. |
+| Super Mario Maker | 2015 | Nintendo EAD | Nintendo | Level creator / platformer | 1 | Dead (2024) | Ported | 3DS (2016) | | ⚠ [Contested](#contested), the 3DS port strips course uploading and online entirely. Course sharing died with the servers on both. |
+| Swords & Soldiers II | 2015 | Ronimo Games | Ronimo Games | Side-scrolling strategy | 1–2 | No | Ported | PS4, Switch, PC (2018, *Shawarmageddon*) | | Wii U exclusive for three years. |
+| Taiko no Tatsujin: Atsumete ☆ Tomodachi Daisakusen! | 2015 | Bandai Namco Studios | Bandai Namco | Rhythm | 1–4 | No | Stranded | | Japanese | Japan-only. Last Wii U Taiko game. |
+| Temple of Yog | 2015 | ChudChud Industries | ChudChud Industries | Roguelike | 1–5 (asym.) | Dead | Stranded | | | eShop-only. GamePad player builds the dungeon in real time while TV players run it, an asymmetric design with no single-screen equivalent. |
+| Tokyo Mirage Sessions ♯FE | 2015 | Atlus | Nintendo | JRPG | 1 | No | Ported | Switch (2020, *Encore*) | | Fire Emblem × Shin Megami Tensei. JP Dec 2015, West Jun 2016. |
+| Typoman | 2015 | Brainseed Factory | Headup Games | Puzzle-platformer | 1 | No | Ported | PC, PS4, Xbox One (2016), Switch (2017), as *Revised* | | |
+| Xenoblade Chronicles X | 2015 | Monolith Soft | Nintendo | Open-world RPG | 1–32 | Dead (2024) | Ported | Switch (2025, *Definitive Edition*) | | Was stranded until 30 Mar 2025. |
+| Yo-kai Watch Dance: Just Dance Special Version | 2015 | Ubisoft Paris / Level-5 | Nintendo / Level-5 | Music / dance | 1–4 | No | Stranded | | Japanese | Japan-only. Double licensing lock: Just Dance engine + Yo-kai Watch IP + licensed music. |
+| Yoshi's Woolly World | 2015 | Good-Feel | Nintendo | Platformer | 1–2 | No | Ported | 3DS (2017, *Poochy & Yoshi's Woolly World*) | | Frequently miscounted as stranded because it never reached Switch, but the 3DS port disqualifies it. |
+| Lost Reavers | 2016 | Bandai Namco Studios | Bandai Namco | Co-op action | 1–4 | Dead (2018) | Stranded | | | Free-to-play, online-only 4-player looter. JP beta ran 2015 as *Project Treasure*. Servers closed Jan 2018; the game is now **unplayable even on a working Wii U**, the only entry here that is fully lost. |
+| Mario & Sonic at the Rio 2016 Olympic Games | 2016 | Sega Sports R&D | Sega / Nintendo | Sports | 1–4 | Dead (2024) | Stranded | | | Wii U build only. The 3DS game and the arcade game share the name but are separate products, see [Contested](#contested). |
+| Mini Mario & Friends: amiibo Challenge | 2016 | Nintendo Software Technology | Nintendo | Puzzle-platformer | 1 | No | Sim-ship | 3DS (2016, same day) | | Free download requiring amiibo. |
+| Paper Mario: Color Splash | 2016 | Intelligent Systems | Nintendo | RPG / adventure | 1 | No | Stranded | | | Card battles are played on the GamePad touch screen. Best-regarded of the divisive modern Paper Marios. |
+| Pokkén Tournament | 2016 | Bandai Namco | Nintendo | Fighting | 1–2 | Dead (2024) | Ported | Switch (2017, *DX*) | | First home release of the 2015 Japanese cabinet. |
+| Star Fox Guard | 2016 | PlatinumGames / Nintendo EPD | Nintendo | Tower defence | 1 | No | Stranded | | | Bundled with *Star Fox Zero*; 12 simultaneous camera feeds need two screens. |
+| Star Fox Zero | 2016 | PlatinumGames / Nintendo EPD | Nintendo | Rail shooter | 1–2 (asym.) | No | Stranded | | | Cockpit view on GamePad + gyro aiming. The control scheme *is* the game, which is exactly why it can't leave. The 2026 Switch 2 *Star Fox* is a **Star Fox 64** reimagining, not this. |
+| Star Ghost | 2016 | Squarehead Games | Squarehead Games | Shoot 'em up | 1 | No | Stranded | | | eShop-only, NA/EU. One-button roguelike shooter from a two-person studio that dissolved after it. |
+| The Legend of Zelda: Breath of the Wild | 2017 | Nintendo EPD | Nintendo | Action-adventure | 1 | No | Sim-ship | Switch (2017, same day) | | The Wii U's final first-party release and the Switch's launch title; the same game, shipped to both on 3 Mar 2017. |
 
 ## Contested
 

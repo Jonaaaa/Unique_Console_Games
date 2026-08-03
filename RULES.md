@@ -193,8 +193,8 @@ catalogue to drift into inconsistency.
 One table per platform, identical columns everywhere so files stay diff-able.
 
 ```markdown
-| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Notes |
-|---|---|---|---|---|---|---|---|---|---|
+| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|
 ```
 
 | Column | Rule |
@@ -208,6 +208,7 @@ One table per platform, identical columns everywhere so files stay diff-able.
 | `Online` | `Yes`, `No`, or `Dead (year)` where servers have shut down. |
 | `Status` | `Stranded`, `Ported`, or `Sim-ship`. |
 | `Also On` | Empty when stranded. Otherwise every platform with year: `Switch (2017), PC (2020)`. For `Sim-ship`, list the co-launch platforms and mark them, e.g. `Switch (2017, same day)`. |
+| `Language` | The language the game shipped in, where it is known and worth stating. Japan-only releases are `Japanese`. Leave empty rather than assuming; an empty cell means unrecorded, not English. |
 | `Notes` | One line. Prefer *why* it is stranded (hardware dependency, licensing, studio closure, server death) over review commentary. |
 
 Sort by Year, then Title. Keep everything in **one** table; status is a column,
