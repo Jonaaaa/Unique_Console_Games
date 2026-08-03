@@ -7,7 +7,9 @@
 | **Library size** | Large, but overwhelmingly multiplatform or cross-gen |
 | **Backward compat** | Plays the great majority of PS4 titles. That is BC, **not** another platform. |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | Sony first-party and notable exclusives verified individually. **Provisional** — this is a live platform. | ## ⚠ Short by rule, for three reasons
+| **Coverage** | Sony first-party and notable exclusives verified individually. **Provisional** — this is a live platform. |
+
+## ⚠ Short by rule, for three reasons
 
 1. **Cross-gen sim-shipping was the norm through 2023.** `Miles Morales`,
  `Sackboy`, `Gran Turismo 7` and `Horizon Forbidden West` all launched on PS4 too.
@@ -27,7 +29,9 @@ What is left is a modest set of genuine PS5-only debuts.
 | — still `Stranded` | 12 |
 | — since `Ported` | 0 |
 | — `Sim-ship` | 6 |
-| **Contested** | 1 | **Why the PS5 strands games.** Policy, as with the PS4 and Switch — Sony does not
+| **Contested** | 1 |
+
+**Why the PS5 strands games.** Policy, as with the PS4 and Switch — Sony does not
 license first-party software to competing consoles. Nothing here is stranded by a
 licence, a dead studio or lost code; it is stranded by a commercial decision that
 could reverse.
@@ -59,11 +63,15 @@ that lacks them — the same category as `Wii Sports` or `Drag x Drive`.
 | Stellar Blade | 2024 | Shift Up | Sony | Action | 1 | No | **Stranded** | | A Korean-developed Sony exclusive; PC in 2025. |
 | Death Stranding 2: On the Beach | 2025 | Kojima Productions | Sony | Action-adventure | 1 | Yes | **Stranded** | | Kojima Productions retained rights to the first game and took it to Xbox; whether this follows is unresolved. |
 | Ghost of Yōtei | 2025 | Sucker Punch | Sony | Action-adventure | 1 | Yes | **Stranded** | | The follow-up to `Ghost of Tsushima`. |
-| The Outer Worlds 2 | 2025 | Obsidian | Microsoft | Action RPG | 1 | No | Sim-ship | Xbox Series X/S, PC (2025, same day) | Also catalogued under [Xbox Series X\|S](xbox-series.md). A Microsoft-published game launching on PlayStation day one. | ## Contested
+| The Outer Worlds 2 | 2025 | Obsidian | Microsoft | Action RPG | 1 | No | Sim-ship | Xbox Series X/S, PC (2025, same day) | Also catalogued under [Xbox Series X\|S](xbox-series.md). A Microsoft-published game launching on PlayStation day one. |
+
+## Contested
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| Helldivers 2 | 2024 | **Include** (`Stranded`) | PS5 and PC launched the same day, and the PC rule says a same-day PC launch makes the console release the catalogued debut. It has never appeared on another console. | It is culturally a PC-and-PS5 game with no console identity, and Sony has since signalled openness to Xbox. If it moves, this becomes `Ported`. | ## Excluded
+| Helldivers 2 | 2024 | **Include** (`Stranded`) | PS5 and PC launched the same day, and the PC rule says a same-day PC launch makes the console release the catalogued debut. It has never appeared on another console. | It is culturally a PC-and-PS5 game with no console identity, and Sony has since signalled openness to Xbox. If it moves, this becomes `Ported`. |
+
+## Excluded
 
 | Title | Year | Why excluded |
 |---|---|---|
@@ -74,7 +82,9 @@ that lacks them — the same category as `Wii Sports` or `Drag x Drive`.
 | Ghost of Tsushima Director's Cut, Spider-Man Remastered | 2021–22 | Enhanced re-releases of PS4 games. |
 | Final Fantasy XVI, Final Fantasy VII Rebirth | 2023–24 | Timed exclusives that reached PC; qualify as debuts and are `Stranded` under the PC rule — listed here only because their exclusivity status is widely misunderstood. |
 | Any PS4 title played via backward compatibility | | BC, not a re-release. |
-| *(games with a day-one or later PC port)* | | **Not `Ported`.** PC is not a catalogued platform. | ## Appendix — the tails
+| *(games with a day-one or later PC port)* | | **Not `Ported`.** PC is not a catalogued platform. |
+
+## Appendix — the tails
 
 - **Cross-gen releases (2020–23).** Nearly every major PS5 title through 2023 also
  shipped on PS4. Those belong to both files as `Sim-ship`, which is why this
@@ -84,7 +94,7 @@ that lacks them — the same category as `Wii Sports` or `Drag x Drive`.
 - **PSVR2 titles (~100).** A new headset generation, not backward compatible with all
  PSVR software. Peripheral-locked from day one.
 - **Live-service failures.** `Concord` and `Destruction AllStars` are the clearest
- cases in the repo of games that ceased to exist commercially within months —
+ cases here of games that ceased to exist commercially within months —
  a failure mode that did not exist before online-only design.
 
 ## Coverage gaps

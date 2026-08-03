@@ -7,7 +7,9 @@
 | **Library size** | ~2,300 titles |
 | **Backward compat** | Plays a curated subset of Xbox and Xbox 360 titles; Series X\|S plays Xbox One titles. All BC, **not** another platform. |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | First-party and notable exclusives verified individually. Multiplatform third-party releases are out of scope by rule. | ## ⚠ Why this file looks strange
+| **Coverage** | First-party and notable exclusives verified individually. Multiplatform third-party releases are out of scope by rule. |
+
+## ⚠ Why the Xbox One's list looks strange
 
 Two Microsoft policies collide with the ruleset here, and the result needs stating
 up front:
@@ -18,8 +20,8 @@ those games stay `Stranded` — a PC build is not a second console. So `Sunset
 Overdrive`, `Quantum Break`, `Gears of War 4` and `Killer Instinct` are all
 `Stranded` despite being trivially purchasable on Steam.
 
-**2. Microsoft started porting to PlayStation in 2024.** This is the one platform in
-the repo whose owner reversed its exclusivity policy mid-retirement. `Sea of
+**2. Microsoft started porting to PlayStation in 2024.** This is the one platform
+here whose owner reversed its exclusivity policy mid-retirement. `Sea of
 Thieves`, `Grounded`, `Pentiment` and others reached PS5 and Switch, which flips
 them to `Ported` — and more are still moving.
 
@@ -34,8 +36,10 @@ other retired platform's.
 | — still `Stranded` | 22 |
 | — since `Ported` | 7 |
 | — `Sim-ship` | 3 |
-| **Contested** | 1 | **Why the Xbox One strands games.** Chiefly **because PC was the escape hatch**, and
-this repo does not count it. Beyond that:
+| **Contested** | 1 |
+
+**Why the Xbox One strands games.** Chiefly **because PC was the escape hatch**, and
+PC does not count here. Beyond that:
 
 1. **Kinect, again.** `Kinect Sports Rivals` and `Fantasia: Music Evolved` need
  hardware discontinued in 2017.
@@ -81,11 +85,15 @@ this repo does not count it. Beyond that:
 | Tell Me Why | 2020 | Dontnod | Microsoft | Adventure | 1 | No | **Stranded** | | PC version day-one; delisted from sale in 2024 and made temporarily free. |
 | Forza Horizon 5 | 2021 | Playground Games | Microsoft | Racing | 1–12 | Yes | Sim-ship | Xbox Series X/S (2021, same day); PS5 (2025), PC | Also catalogued under [Xbox Series X\|S](xbox-series.md). |
 | Halo Infinite | 2021 | 343 Industries | Microsoft | FPS | 1–24 | Yes | Sim-ship | Xbox Series X/S, PC (2021, same day) | Cross-gen launch; also catalogued under [Xbox Series X\|S](xbox-series.md). |
-| Pentiment | 2022 | Obsidian | Microsoft | Adventure | 1 | No | Ported | PS5, Switch (2024), PC | | ## Contested
+| Pentiment | 2022 | Obsidian | Microsoft | Adventure | 1 | No | Ported | PS5, Switch (2024), PC | |
+
+## Contested
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| Halo 5: Guardians | 2015 | **Include** (`Stranded`) | Never on PC, never in *MCC*, never on another console — unambiguously stranded, and so for a flagship first-party game. | Its multiplayer is still live and it is playable via BC on Series X\|S, so a buyer might not experience it as stranded at all. Status here tracks re-release, not availability. | ## Excluded
+| Halo 5: Guardians | 2015 | **Include** (`Stranded`) | Never on PC, never in *MCC*, never on another console — unambiguously stranded, and so for a flagship first-party game. | Its multiplayer is still live and it is playable via BC on Series X\|S, so a buyer might not experience it as stranded at all. Status here tracks re-release, not availability. |
+
+## Excluded
 
 | Title | Year | Why excluded |
 |---|---|---|
@@ -95,7 +103,9 @@ this repo does not count it. Beyond that:
 | Hellblade: Senua's Sacrifice | 2018 | PS4 and PC original (2017). |
 | Microsoft Flight Simulator | 2021 | PC original (2020) — the console version followed a year later. |
 | Any Xbox / 360 BC titles | | Backward compatibility, not a re-release. |
-| *(games with a later or day-one PC port)* | | **Not `Ported`.** PC is not a catalogued platform — the game stays `Stranded` with the PC release noted. | ## Appendix — the tails
+| *(games with a later or day-one PC port)* | | **Not `Ported`.** PC is not a catalogued platform — the game stays `Stranded` with the PC release noted. |
+
+## Appendix — the tails
 
 - **Multiplatform third-party releases.** The overwhelming majority of the Xbox One
  library shipped on PS4 the same day, so it does not qualify as an Xbox debut at all.

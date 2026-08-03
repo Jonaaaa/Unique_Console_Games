@@ -6,10 +6,12 @@
 | **Lifespan** | Feb 2011 (JP) – Sep 2020 (production ended); 75.94M units sold |
 | **eShop closed** | 27 Mar 2023 |
 | **Online services ended** | 8 Apr 2024 |
-| **Backward compat** | Plays Nintendo DS cards and DSiWare. That is BC, **not** another platform — see the [BC rule](./.claude/skills/unique-console-games/SKILL.md#backward-compatibility-is-not-another-platform). |
+| **Backward compat** | Plays Nintendo DS cards and DSiWare. That is BC, **not** another platform — see the [BC rule](../.claude/skills/unique-console-games/SKILL.md#backward-compatibility-is-not-another-platform). |
 | **Category spine** | 238 titles tagged `Category:Nintendo 3DS-only games` on Wikipedia (fetched 2026-07-29) |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | First-party, major third-party and notable eShop releases verified individually. Japan-only licensed anime tie-ins are summarised in the [Appendix](#appendix--the-japanese-licensed-tail), not individually verified. | ## Summary
+| **Coverage** | First-party, major third-party and notable eShop releases verified individually. Japan-only licensed anime tie-ins are summarised in the [Appendix](#appendix--the-japanese-licensed-tail), not individually verified. |
+
+## Summary
 
 | | Count |
 |---|---|
@@ -17,7 +19,9 @@
 | — still `Stranded` | 124 |
 | — since `Ported` | 14 |
 | — `Sim-ship` | 7 |
-| **Contested** | 1 | **Why the 3DS strands games — and it is not mainly the hardware.** The obvious
+| **Contested** | 1 |
+
+**Why the 3DS strands games — and it is not mainly the hardware.** The obvious
 answer is the two screens, the stereoscopic 3D and StreetPass, and those do
 block some titles: `Kid Icarus: Uprising` needs a stylus-and-shoulder
 control scheme with no modern equivalent, and everything built on StreetPass died
@@ -189,13 +193,17 @@ it stands today; it does not affect membership.
 | Etrian Odyssey Nexus | 2018 | Atlus | Atlus | Dungeon crawler | 1 | No | Stranded | | The final 3DS Etrian game and the series' send-off. |
 | Jake Hunter Detective Story: Ghost of the Dusk | 2018 | Arc System Works | Aksys | Visual novel | 1 | No | Stranded | | A late-life 3DS visual novel released in 2018 into an already-dead market. |
 | Persona Q2: New Cinema Labyrinth | 2018 | Atlus | Atlus | Dungeon crawler | 1 | No | Stranded | | Released in 2018 on dying hardware; never localised beyond that. |
-| WarioWare Gold | 2018 | Nintendo EPD / Intelligent Systems | Nintendo | Minigame collection | 1 | Dead (2024) | Stranded | | 300 microgames, full voice acting — the largest WarioWare ever made, and stranded. Many microgames use the microphone, gyro and touchscreen together. | ## Contested
+| WarioWare Gold | 2018 | Nintendo EPD / Intelligent Systems | Nintendo | Minigame collection | 1 | Dead (2024) | Stranded | | 300 microgames, full voice acting — the largest WarioWare ever made, and stranded. Many microgames use the microphone, gyro and touchscreen together. |
+
+## Contested
 
 Under the debut rule most disputes resolve themselves. One remains.
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| Super Smash Bros. for Nintendo 3DS | 2014 | **Include** | A separate build from the Wii U version — different stages, different modes (Smash Run), different engine target — and it shipped **first** (Sep 2014 JP, vs Nov 2014). If either half of the pair is a debut, this is the one. | The two were marketed as one product line under a shared name and roster, so neither is cleanly "the game". Note the Wii U catalogue also includes its half; this is the one place the repo counts both. | ## Excluded
+| Super Smash Bros. for Nintendo 3DS | 2014 | **Include** | A separate build from the Wii U version — different stages, different modes (Smash Run), different engine target — and it shipped **first** (Sep 2014 JP, vs Nov 2014). If either half of the pair is a debut, this is the one. | The two were marketed as one product line under a shared name and roster, so neither is cleanly "the game". Note the Wii U catalogue also includes its half; this is the one place both are counted. |
+
+## Excluded
 
 Titles commonly assumed to qualify that fail the debut test. Recorded so they are
 not re-added — several appear in Wikipedia's `Nintendo 3DS-only games` category
@@ -222,7 +230,9 @@ despite not being debuts.
 | Ace Combat: Assault Horizon Legacy | 2011 | Remake of *Ace Combat 2* (PS1, 1997). |
 | Dragon Quest VII / VIII (3DS) | 2013–15 | Remakes/ports of PS1 and PS2 games. |
 | Any Nintendo DS card or DSiWare title played on 3DS | | Backward compatibility. |
-| *(same-day multiplatform launches)* | | **No longer excluded** — they now appear in the main table as `Sim-ship`. Only *later* ports are excluded. | ## Appendix — the Japanese licensed tail
+| *(same-day multiplatform launches)* | | **No longer excluded** — they now appear in the main table as `Sim-ship`. Only *later* ports are excluded. |
+
+## Appendix — the Japanese licensed tail
 
 Roughly 90 of the 238 category entries are Japan-only licensed tie-ins and small
 retail titles: `Yo-kai Sangokushi`, `Inazuma Eleven GO` (three games), `LBX:

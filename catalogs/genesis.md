@@ -8,7 +8,9 @@
 | **Library size** | ~900 cartridge titles, ~200 Sega CD, ~40 32X |
 | **Backward compat** | Plays Master System carts via the Power Base Converter. That is BC, **not** another platform. |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | Marquee titles verified individually. Sports annuals and licensed tie-ins summarised, not enumerated. | ## ⚠ Status caveat
+| **Coverage** | Marquee titles verified individually. Sports annuals and licensed tie-ins summarised, not enumerated. |
+
+## ⚠ Status caveat
 
 Sega has re-released this library exhaustively: *Sega
 Genesis Classics*, both **Mega Drive Minis**, the Switch Online Genesis app, *Sonic
@@ -22,7 +24,9 @@ Origins*, and per-series collections. **Most of the Genesis canon reads as
 | **Debut games** | **47** |
 | — still `Stranded` | 14 |
 | — since `Ported` | 32 |
-| **Contested** | 1 | **Why the Genesis strands games.** Almost entirely **dead licences**, as on NES and
+| **Contested** | 1 |
+
+**Why the Genesis strands games.** Almost entirely **dead licences**, as on NES and
 SNES — but with one difference that makes it sharper. Sega owns and reissues its own
 catalogue aggressively, so anything Sega-published has escaped. What remains is
 third-party licensed work: Marvel's `X-Men` games, Acclaim's film tie-ins, `Michael Jackson's Moonwalker`.
@@ -85,11 +89,15 @@ likeness rights alongside everything else.
 | Ristar | 1995 | Sega | Sega | Platformer | 1 | No | Ported | Sega collections, Mega Drive Mini, Switch Online | |
 | Sonic Compilation | 1995 | Sega | Sega | Compilation | 1–2 | No | **Stranded** | | PAL/Brazil-only. Bundles the first two Sonic games and *Dr. Robotnik's Mean Bean Machine* on one cartridge; the compilation SKU has never been reissued. |
 | Vectorman | 1995 | BlueSky | Sega | Run and gun | 1 | No | Ported | Sega collections, Switch Online | |
-| X-Men 2: Clone Wars | 1995 | Headgames | Sega | Action-platformer | 1 | No | **Stranded** | | Marvel licence. | ## Contested
+| X-Men 2: Clone Wars | 1995 | Headgames | Sega | Action-platformer | 1 | No | **Stranded** | | Marvel licence. |
+
+## Contested
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| Sonic the Hedgehog 3 | 1994 | **Include** (`Ported`) | It debuted on Genesis and is available in *Sonic Origins*, so `Ported` is correct. | The *Origins* release replaced several music tracks whose authorship is disputed. The original soundtrack has never been legally reissued, so the game as it shipped is still stranded — the same shape as `Mike Tyson's Punch-Out!!` on NES. | ## Excluded
+| Sonic the Hedgehog 3 | 1994 | **Include** (`Ported`) | It debuted on Genesis and is available in *Sonic Origins*, so `Ported` is correct. | The *Origins* release replaced several music tracks whose authorship is disputed. The original soundtrack has never been legally reissued, so the game as it shipped is still stranded — the same shape as `Mike Tyson's Punch-Out!!` on NES. |
+
+## Excluded
 
 | Title | Year | Why excluded |
 |---|---|---|
@@ -98,14 +106,16 @@ likeness rights alongside everything else.
 | Sonic 3D Blast | 1996 | Qualifies and is `Ported`; listed here because the Saturn version confuses its lineage. |
 | Virtua Racing (32X) | 1994 | The Genesis cartridge version shipped first. |
 | Any Sega Genesis Classics / Mega Drive Mini / Switch Online release | | Re-releases by definition. |
-| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on another home platform still disqualifies. | ## Appendix — the tails
+| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on another home platform still disqualifies. |
+
+## Appendix — the tails
 
 - **Sports annuals (~120 titles).** EA's Genesis output — Madden, NHL, FIFA, PGA
  Tour — built the platform's Western reputation and is almost entirely stranded on
  expired league and athlete licences.
 - **Licensed tie-ins (~180 titles).** Acclaim, LJN, Virgin, Sony Imagesoft. Marvel,
  DC and film licences dominate; almost all stranded.
-- **32X (~40 titles).** Never included in any Sega collection. the most
+- **32X (~40 titles).** Never included in any Sega collection. The most
  stranded block on the platform, because a re-release means emulating an add-on
  Sega would rather forget.
 - **Sega CD (~200 titles).** Heavy on full-motion video with paid actors, which adds

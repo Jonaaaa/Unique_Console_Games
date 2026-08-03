@@ -7,14 +7,18 @@
 | **Library size** | ~82 titles across both models |
 | **Backward compat** | NGPC plays monochrome NGP cartridges. That is BC, **not** another platform. |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | Near-complete. The library is small enough to cover properly. | ## Summary
+| **Coverage** | Near-complete. The library is small enough to cover properly. |
+
+## Summary
 
 | | Count |
 |---|---|
 | **Debut games** | **17** |
 | — still `Stranded` | 6 |
 | — since `Ported` | 11 |
-| **Contested** | 0 | **Why the Neo Geo Pocket strands games.** Very little, and for a specific reason:
+| **Contested** | 0 |
+
+**Why the Neo Geo Pocket strands games.** Very little, and for a specific reason:
 **SNK's 2020–21 reissue programme was complete.** Roughly a dozen NGPC
 titles were released individually on Switch, plus the *Neo Geo Pocket Color
 Selection Vol. 1 and 2* compilations — an thorough rescue of a handheld
@@ -51,14 +55,18 @@ What remains stranded is stranded because SNK **does not own it alone**:
 | Big Bang Pro Wrestling | 2000 | Saurus | SNK | Wrestling | 1–2 | No | **Stranded** | | A late release into a dying platform, as SNK approached bankruptcy. |
 | Fantastic Night Dreams: Cotton | 2000 | Success | SNK | Shoot 'em up | 1 | No | Ported | Switch, PS4 (2021, *Cotton Guardian Force* era reissues) | The Cotton series was revived in 2021, which pulled the handheld entry along with it. |
 | Metal Slug: 2nd Mission | 2000 | SNK | SNK | Run and gun | 1 | No | Ported | Switch (2020), *NGPC Selection Vol. 1* | |
-| The Last Blade: Beyond the Destiny | 2000 | SNK | SNK | Fighting | 1–2 | No | Ported | Switch (2021, *NGPC Selection Vol. 2*) | | ## Excluded
+| The Last Blade: Beyond the Destiny | 2000 | SNK | SNK | Fighting | 1–2 | No | Ported | Switch (2021, *NGPC Selection Vol. 2*) | |
+
+## Excluded
 
 | Title | Year | Why excluded |
 |---|---|---|
 | Neo Geo Pocket Color versions of AES games | 1999–2000 | Where a title is a straight conversion of a Neo Geo cartridge game, the AES release is the debut — see [Neo Geo](neo-geo.md). |
 | Pac-Man, Puyo Pop, Bust-A-Move Pocket | 1999–2000 | Conversions of games that debuted on earlier home platforms. |
-| Any *NGPC Selection* / Switch reissue | 2020–21 | Re-releases by definition — they are what moved most of this file to `Ported`. |
-| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. | ## Appendix — the tail
+| Any *NGPC Selection* / Switch reissue | 2020–21 | Re-releases by definition — they are what moved most of this library to `Ported`. |
+| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. |
+
+## Appendix — the tail
 
 - **Japan-only releases (~30 titles).** Mahjong, pachinko, `Dive Alert` variants and
  licensed tie-ins. Mostly stranded, but low-value.

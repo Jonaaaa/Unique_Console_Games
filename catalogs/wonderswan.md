@@ -7,7 +7,9 @@
 | **Library size** | ~200 titles, all Japanese |
 | **Backward compat** | WonderSwan Color and SwanCrystal play original WonderSwan cartridges. BC, **not** another platform. |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | Marquee titles verified individually. The library is entirely Japanese and largely uncatalogued in English. | ## ⚠ A wholly Japanese platform
+| **Coverage** | Marquee titles verified individually. The library is entirely Japanese and largely uncatalogued in English. |
+
+## ⚠ A wholly Japanese platform
 
 The WonderSwan was designed by **Gunpei Yokoi** — creator of the Game Boy — after he
 left Nintendo, and it was his last project before his death in 1997. It sold 3.5
@@ -26,8 +28,10 @@ Bandai Namco in 2005 and has never revisited the hardware.
 | **Debut games** | **15** |
 | — still `Stranded` | 12 |
 | — since `Ported` | 3 |
-| **Contested** | 1 | **Why the WonderSwan strands games.** Three causes stack, and together they make
-this the most reliably stranded platform in the repo after the Saturn's Japanese tail.
+| **Contested** | 1 |
+
+**Why the WonderSwan strands games.** Three causes stack, and together they make
+this the most reliably stranded platform here after the Saturn's Japanese tail.
 
 1. **No Western release, ever.** No localisation exists to reuse, and no Western
  publisher holds any rights.
@@ -59,11 +63,15 @@ The exceptions are instructive: the three `Ported` entries all escaped because a
 | Star Hearts | 2001 | Bandai / Tose | Bandai | RPG | 1 | No | **Stranded** | | An original Bandai RPG with no licence attached, and no series to justify a revival. |
 | One Piece: Grand Battle Swan Colosseum | 2002 | Bandai | Bandai | Fighting | 1–2 | No | **Stranded** | | One Piece remains a live licence, which makes an old handheld entry commercially pointless to revive. |
 | Judgement Silversword | 2004 | Qute | Qute | Shoot 'em up | 1 | No | Ported | Xbox 360 (2011), Switch, PS4 (2020) — bundled with *Eschatos* | **Released a year after the platform was discontinued**, as a WonderFan competition prize before a small retail run. Qute kept its own rights and bundled it with *Eschatos*, rescuing it. |
-| Dicing Knight | 2005 | Qute | Qute | Roguelike | 1 | No | Ported | Switch, PS4 (2020) — bundled with *Eschatos* | **The final WonderSwan release**, two years after the hardware died. Rescued by the same Qute bundle. | ## Contested
+| Dicing Knight | 2005 | Qute | Qute | Roguelike | 1 | No | Ported | Switch, PS4 (2020) — bundled with *Eschatos* | **The final WonderSwan release**, two years after the hardware died. Rescued by the same Qute bundle. |
+
+## Contested
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| Judgement Silversword / Dicing Knight | 2004–05 | **Include** (`Ported`) | Both are original WonderSwan software, sold at retail, and their debut platform is unambiguously this one. | Both released *after* the platform was formally discontinued, into a market of a few thousand enthusiasts — closer to homebrew than to a commercial console release. Included because they were sold commercially and later reissued, which settles it either way. | ## Excluded
+| Judgement Silversword / Dicing Knight | 2004–05 | **Include** (`Ported`) | Both are original WonderSwan software, sold at retail, and their debut platform is unambiguously this one. | Both released *after* the platform was formally discontinued, into a market of a few thousand enthusiasts — closer to homebrew than to a commercial console release. Included because they were sold commercially and later reissued, which settles it either way. |
+
+## Excluded
 
 | Title | Year | Why excluded |
 |---|---|---|
@@ -73,7 +81,9 @@ The exceptions are instructive: the three `Ported` entries all escaped because a
 | Romancing SaGa | 2001 | Remake of the 1992 SNES game. |
 | Tetris / Puyo Puyo Tsu | 1999–2000 | Conversions of games that debuted elsewhere. |
 | Kaze no Klonoa: Moonlight Museum | 1999 | Japanese title of a game already listed — a duplicate, not a separate release. |
-| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on another home platform still disqualifies. | ## Appendix — the tail
+| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on another home platform still disqualifies. |
+
+## Appendix — the tail
 
 - **Licensed anime tie-ins (~90 titles).** Digimon, Gundam, One Piece, Dragon Ball,
  Crayon Shin-chan, Hunter × Hunter. Bandai was a toy company first, and its handheld
@@ -86,7 +96,7 @@ The exceptions are instructive: the three `Ported` entries all escaped because a
 
 ## Coverage gaps
 
-- **The largest proportional gap in the repo.** ~15 of ~200 titles are catalogued,
+- **The largest proportional gap here.** ~15 of ~200 titles are catalogued,
  and English-language documentation of the library is thin.
 - No reissue programme exists, so `Ported` is very unlikely to grow — which makes
  these `Stranded` claims among the most stable here.

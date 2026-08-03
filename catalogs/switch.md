@@ -8,7 +8,9 @@
 | **Library size** | 15,000+ titles, overwhelmingly eShop indies |
 | **Backward compat** | Switch 2 plays Switch cartridges and digital titles. That is BC, **not** another platform. **"Switch 2 Edition" upgrades are a different matter** — see below. |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | Nintendo first-party and major third-party exclusives verified individually. The eShop indie library is far too large to catalogue and is almost entirely multiplatform anyway. | ## ⚠ Two caveats specific to this platform
+| **Coverage** | Nintendo first-party and major third-party exclusives verified individually. The eShop indie library is far too large to catalogue and is almost entirely multiplatform anyway. |
+
+## ⚠ Two caveats specific to this platform
 
 **1. The console is still current**, so `Stranded` here is a snapshot rather than a settled fact. Nintendo is
 actively re-releasing Switch games as **Switch 2 Editions**, and each one flips a
@@ -30,7 +32,9 @@ answer for a collector, but it is not the same kind of fact.
 | — still `Stranded` | 41 |
 | — since `Ported` | 5 |
 | — `Sim-ship` | 5 |
-| **Contested** | 1 | **Why the Switch strands games.** Almost entirely **policy**. Nintendo owns its
+| **Contested** | 1 |
+
+**Why the Switch strands games.** Almost entirely **policy**. Nintendo owns its
 software and does not license it to competing hardware, so every first-party
 exclusive is stranded by definition and stays that way. There is no licensing
 obstacle, no dead studio, no lost source code.
@@ -98,11 +102,15 @@ Two narrower causes do real work, though:
 | The Legend of Zelda: Echoes of Wisdom | 2024 | Grezzo | Nintendo | Action-adventure | 1 | No | **Stranded** | | The first mainline Zelda with Zelda as the playable character. |
 | Metroid Prime 4: Beyond | 2025 | Retro Studios | Nintendo | Action-adventure | 1 | No | Sim-ship | Switch 2 (2025, same day) | Also catalogued under [Switch 2](switch-2.md). Announced in 2017 and restarted from scratch in 2019. |
 | Pokémon Legends: Z-A | 2025 | Game Freak | Nintendo | RPG | 1–4 | Yes | Sim-ship | Switch 2 (2025, same day) | Also catalogued under [Switch 2](switch-2.md). |
-| Super Mario Galaxy 1+2 | 2025 | Nintendo EPD | Nintendo | Compilation | 1–2 | No | Sim-ship | Switch 2 (2025, same day) | Also catalogued under [Switch 2](switch-2.md). Brought `Galaxy 2` off Wii after 15 years. | ## Contested
+| Super Mario Galaxy 1+2 | 2025 | Nintendo EPD | Nintendo | Compilation | 1–2 | No | Sim-ship | Switch 2 (2025, same day) | Also catalogued under [Switch 2](switch-2.md). Brought `Galaxy 2` off Wii after 15 years. |
+
+## Contested
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| Switch 2 Edition releases | 2025 | **Treat as `Ported`** | A Switch 2 Edition is a separately purchased build with its own store listing, targeting different hardware. By the repo's own test — did someone ship a version *for* that platform — it is a re-release. | Switch 2 also plays the original cartridge directly, so a buyer might reasonably see the Edition as an optional upgrade patch rather than a new release. Under that reading these titles would stay `Stranded`. | ## Excluded
+| Switch 2 Edition releases | 2025 | **Treat as `Ported`** | A Switch 2 Edition is a separately purchased build with its own store listing, targeting different hardware. By the same test — did someone ship a version *for* that platform — it is a re-release. | Switch 2 also plays the original cartridge directly, so a buyer might reasonably see the Edition as an optional upgrade patch rather than a new release. Under that reading these titles would stay `Stranded`. |
+
+## Excluded
 
 | Title | Year | Why excluded |
 |---|---|---|
@@ -116,7 +124,9 @@ Two narrower causes do real work, though:
 | Tetris 99, Pac-Man 99, F-Zero 99 | 2019–23 | Battle-royale reworkings of existing games; also NSO-tied services. |
 | Nintendo Switch Online apps (NES/SNES/N64/GB/GBA/Genesis) | 2018– | Re-release services by definition. |
 | The eShop indie library | | Out of scope: 15,000+ titles, overwhelmingly multiplatform. |
-| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on another home platform still disqualifies. | ## Appendix — why there is no long tail here
+| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on another home platform still disqualifies. |
+
+## Appendix — why there is no long tail here
 
 The Switch has no shovelware or Japan-only appendix because its ~15,000 titles are dominated by
 **eShop indies that are multiplatform by default**. A modern indie ships on Switch,

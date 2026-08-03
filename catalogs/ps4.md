@@ -7,11 +7,13 @@
 | **Library size** | ~4,000 titles |
 | **Backward compat** | None for discs. PS5 plays the great majority of PS4 titles — BC, **not** another platform. |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | Sony first-party and notable third-party exclusives verified individually. Multiplatform third-party releases are out of scope by rule. | ## ⚠ Two things reshape this file
+| **Coverage** | Sony first-party and notable third-party exclusives verified individually. Multiplatform third-party releases are out of scope by rule. |
+
+## ⚠ Two things reshape the PS4's list
 
 **1. Sony began porting to PC in 2020.** `Horizon Zero Dawn`, `Days Gone`,
 `God of War`, `Marvel's Spider-Man`, `The Last of Us Part I` and others all reached
-Windows. Under this repo's rule that **PC is not a catalogued platform**, those games
+Windows. Under the rule that **PC is not a catalogued platform**, those games
 stay `Stranded` — a PC build is not a second console. So the `Stranded` count here is
 high while the games are widely purchasable.
 
@@ -27,7 +29,9 @@ Those are `Sim-ship` entries appearing in **both** files, not PS4-only debuts.
 | — still `Stranded` | 21 |
 | — since `Ported` | 3 |
 | — `Sim-ship` | 8 |
-| **Contested** | 1 | **Why the PS4 strands games.** Almost entirely **policy**, like the Switch — Sony
+| **Contested** | 1 |
+
+**Why the PS4 strands games.** Almost entirely **policy**, like the Switch — Sony
 does not license its first-party software to Nintendo or Microsoft hardware. Where a
 game has left, it has gone to PS5 (backward compatibility, which does not count) or
 to PC (not a catalogued platform).
@@ -76,11 +80,15 @@ Two narrower causes do real work:
 | The Last of Us Part II | 2020 | Naughty Dog | Sony | Action-adventure | 1 | No | **Stranded** | | A PS5 remaster (2024) and PC (2025), both within the family or off-console. |
 | God of War Ragnarök | 2022 | SCE Santa Monica | Sony | Action-adventure | 1 | No | Sim-ship | PS5 (2022, same day); PC (2024) | Also catalogued under [PS5](ps5.md). |
 | Gran Turismo 7 | 2022 | Polyphony Digital | Sony | Racing | 1–20 | Yes | Sim-ship | PS5 (2022, same day) | Also catalogued under [PS5](ps5.md). The last major cross-gen PS4 release. |
-| Horizon Forbidden West | 2022 | Guerrilla Games | Sony | Action RPG | 1 | No | Sim-ship | PS5 (2022, same day); PC (2024) | Also catalogued under [PS5](ps5.md). | ## Contested
+| Horizon Forbidden West | 2022 | Guerrilla Games | Sony | Action RPG | 1 | No | Sim-ship | PS5 (2022, same day); PC (2024) | Also catalogued under [PS5](ps5.md). |
+
+## Contested
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| Ratchet & Clank (2016) | 2016 | **Include** | Built from scratch on new hardware with a new story structure, tied to the film rather than the 2002 game. Insomniac described it as a reimagining, not a remake. | It shares the title, characters and broad plot of the 2002 PS2 game, so a strict reading of the remake rule would exclude it — the same test that excludes `Metroid: Samus Returns`. | ## Excluded
+| Ratchet & Clank (2016) | 2016 | **Include** | Built from scratch on new hardware with a new story structure, tied to the film rather than the 2002 game. Insomniac described it as a reimagining, not a remake. | It shares the title, characters and broad plot of the 2002 PS2 game, so a strict reading of the remake rule would exclude it — the same test that excludes `Metroid: Samus Returns`. |
+
+## Excluded
 
 | Title | Year | Why excluded |
 |---|---|---|
@@ -91,7 +99,9 @@ Two narrower causes do real work:
 | Horizon Forbidden West, Ghost of Tsushima Director's Cut | 2021–22 | Cross-gen releases where PS5 is the lead platform — see [PS5](ps5.md). |
 | Bloodborne: The Old Hunters | 2015 | Same-platform expansion. |
 | *(games with a later or day-one PC port)* | | **Not `Ported`.** PC is not a catalogued platform — the game stays `Stranded` with the PC release noted. |
-| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. | ## Appendix — the tails
+| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. |
+
+## Appendix — the tails
 
 - **Multiplatform third-party releases (~3,500 titles).** The overwhelming majority of
  the PS4 library shipped on Xbox One the same day, so it does not qualify as a PS4

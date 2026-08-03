@@ -7,7 +7,9 @@
 | **Library size** | Small and growing; the majority of its catalogue is Switch software played via BC |
 | **Backward compat** | Plays Switch cartridges and digital titles. That is BC, **not** another platform. |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | **Provisional.** Roughly one year of releases. This file will change more than any other in the repo. | ## ⚠ This file is short by rule, not by neglect
+| **Coverage** | **Provisional.** Roughly one year of releases. This list will change more than any other here. |
+
+## ⚠ Short by rule, not by neglect
 
 Three mechanics keep the Switch 2's debut list small, and all three are working as
 the ruleset intends:
@@ -30,7 +32,9 @@ What is left is a small set of Switch 2-only first-party titles.
 | **Debut games** | **9** |
 | — still `Stranded` | 6 |
 | — `Sim-ship` | 3 |
-| **Contested** | 1 | **Why the Switch 2 strands games.** Same as the Switch: **policy**. Nintendo does
+| **Contested** | 1 |
+
+**Why the Switch 2 strands games.** Same as the Switch: **policy**. Nintendo does
 not license its software to competing hardware. Every entry below is stranded for
 that reason alone, and none has any other obstacle.
 
@@ -51,11 +55,15 @@ mice**, and `Drag x Drive` is built entirely around that whose stranding cause e
 | Metroid Prime 4: Beyond | 2025 | Retro Studios | Nintendo | Action-adventure | 1 | No | Sim-ship | Switch (2025, same day) | Announced in 2017, restarted from scratch in 2019. Also catalogued under [Switch](switch.md). |
 | Nintendo Switch 2 Welcome Tour | 2025 | Nintendo EPD | Nintendo | Tech demo | 1–4 | No | **Stranded** | | A paid pack-in-style tour of the hardware itself — it demonstrates the console's own features, so it cannot exist anywhere else by definition. Charging for it was widely criticised. |
 | Pokémon Legends: Z-A | 2025 | Game Freak | Nintendo | RPG | 1–4 | Yes | Sim-ship | Switch (2025, same day) | Also catalogued under [Switch](switch.md). |
-| Super Mario Galaxy 1+2 | 2025 | Nintendo EPD | Nintendo | Compilation | 1–2 | No | Sim-ship | Switch (2025, same day) | Also catalogued under [Switch](switch.md). Brought `Galaxy 2` off Wii after 15 years. | ## Contested
+| Super Mario Galaxy 1+2 | 2025 | Nintendo EPD | Nintendo | Compilation | 1–2 | No | Sim-ship | Switch (2025, same day) | Also catalogued under [Switch](switch.md). Brought `Galaxy 2` off Wii after 15 years. |
+
+## Contested
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| Nintendo Switch 2 Welcome Tour | 2025 | **Include** | It is a paid, separately purchased software product with its own store listing — not a firmware feature. By every structural test it is a game on this platform. | It is a hardware demonstration rather than a game, closer to `Wii U Panorama View` (which this repo excludes as an application) than to `Nintendo Land`. Included because it is sold as software and has objectives; flagged because the call is arguable. | ## Excluded
+| Nintendo Switch 2 Welcome Tour | 2025 | **Include** | It is a paid, separately purchased software product with its own store listing — not a firmware feature. By every structural test it is a game on this platform. | It is a hardware demonstration rather than a game, closer to `Wii U Panorama View` (excluded here as an application) than to `Nintendo Land`. Included because it is sold as software and has objectives; flagged because the call is arguable. |
+
+## Excluded
 
 | Title | Year | Why excluded |
 |---|---|---|
@@ -65,7 +73,9 @@ mice**, and `Drag x Drive` is built entirely around that whose stranding cause e
 | Elden Ring: Tarnished Edition | 2025 | Port of the 2022 game. |
 | Street Fighter 6, Yakuza 0 Director's Cut, Split Fiction | 2025 | Ports of existing multiplatform games. |
 | Any Nintendo Classics library (GameCube, N64, etc.) | 2025– | Re-release services by definition. |
-| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. | ## Coverage gaps
+| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. |
+
+## Coverage gaps
 
 - **This is a one-year snapshot of a live platform.** Expect the list to grow and
  expect nothing here to move to `Ported` for a long time — Nintendo first-party

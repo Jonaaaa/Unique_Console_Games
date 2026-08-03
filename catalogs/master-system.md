@@ -7,14 +7,18 @@
 | **Library size** | ~340 titles worldwide, plus ~100 Brazil-only Tectoy releases |
 | **Backward compat** | The Game Gear shares its architecture, and the Genesis plays SMS carts via the Power Base Converter. Both are BC-style, **not** another platform. |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | Marquee titles verified individually. The Brazilian Tectoy catalogue and the Japanese Mark III tail are summarised, not enumerated. | ## Summary
+| **Coverage** | Marquee titles verified individually. The Brazilian Tectoy catalogue and the Japanese Mark III tail are summarised, not enumerated. |
+
+## Summary
 
 | | Count |
 |---|---|
 | **Debut games** | **30** |
 | — still `Stranded` | 22 |
 | — since `Ported` | 8 |
-| **Contested** | 1 | **Why the Master System strands games.** Two causes.
+| **Contested** | 1 |
+
+**Why the Master System strands games.** Two causes.
 
 1. **Sega's own re-release strategy skipped it.** Sega has repackaged the Genesis
  endlessly — *Genesis Classics*, the Mega Drive Mini, Switch Online — while the
@@ -60,11 +64,15 @@
 | Geraldinho | 1995 | Tectoy | Tectoy | Platformer | 1 | No | **Stranded** | | **Brazil-only.** |
 | Sapo Xulé: O Mestre do Kung Fu | 1995 | Tectoy | Tectoy | Action | 1 | No | **Stranded** | | **Brazil-only.** A Sega game re-skinned around a Brazilian TV character. Never sold outside Brazil. |
 | Férias Frustradas do Pica-Pau | 1996 | Tectoy | Tectoy | Platformer | 1 | No | **Stranded** | | **Brazil-only.** Woody Woodpecker licence. |
-| Sonic Blast | 1996 | Aspect | Sega | Platformer | 1 | No | **Stranded** | | Brazil-only on Master System. | ## Contested
+| Sonic Blast | 1996 | Aspect | Sega | Platformer | 1 | No | **Stranded** | | Brazil-only on Master System. |
+
+## Contested
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| Sonic the Hedgehog (8-bit) | 1991 | **Include** | An entirely separate game — different levels, engine, physics and developer (Ancient, not Sonic Team) — that happens to share a title with the Genesis game. | It shipped as "the Master System version of Sonic", and the Game Gear release followed within weeks, which reads as a sim-ship of one product. | ## Excluded
+| Sonic the Hedgehog (8-bit) | 1991 | **Include** | An entirely separate game — different levels, engine, physics and developer (Ancient, not Sonic Team) — that happens to share a title with the Genesis game. | It shipped as "the Master System version of Sonic", and the Game Gear release followed within weeks, which reads as a sim-ship of one product. |
+
+## Excluded
 
 | Title | Year | Why excluded |
 |---|---|---|
@@ -73,7 +81,9 @@
 | Wonder Boy | 1987 | Earlier home versions existed on other platforms. |
 | Castle of Illusion (SMS) | 1990 | The Genesis version shipped first; the 8-bit build followed. |
 | Any Sega Ages / Genesis Classics / Mini release | | Re-releases by definition. |
-| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts as the debut. A prior release on another home platform still disqualifies. | ## Appendix — the tails
+| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts as the debut. A prior release on another home platform still disqualifies. |
+
+## Appendix — the tails
 
 - **Tectoy Brazil (~100 titles).** Sega licensed the Master System to Tectoy, which
  kept producing hardware and software for decades. Its output includes original

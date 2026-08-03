@@ -7,14 +7,16 @@
 | **Library size** | ~73 official titles |
 | **Backward compat** | None. |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | Near-complete for debut titles. The library is small enough to cover properly. | ## ⚠ The first colour handheld, and it lost anyway
+| **Coverage** | Near-complete for debut titles. The library is small enough to cover properly. |
+
+## ⚠ The first colour handheld, and it lost anyway
 
 The Lynx shipped in 1989 with a **backlit colour LCD**, hardware sprite scaling and
 16-player link cabling — years ahead of the Game Boy technically. It sold ~3 million
 against the Game Boy's 118 million, because it cost twice as much and ate six AA
 batteries in four hours.
 
-For this catalogue the consequence is a small library where the genuine debuts are
+The consequence is a small library where the genuine debuts are
 mostly stranded: Atari's reissue programme reaches the 2600 and the arcade catalogue,
 and only a few Lynx titles have been picked up.
 
@@ -25,7 +27,9 @@ and only a few Lynx titles have been picked up.
 | **Debut games** | **15** |
 | — still `Stranded` | 10 |
 | — since `Ported` | 5 |
-| **Contested** | 1 | **Why the Lynx strands games.** Two causes:
+| **Contested** | 1 |
+
+**Why the Lynx strands games.** Two causes:
 
 1. **Third-party publishers that no longer exist.** Epyx designed the hardware and
  went bankrupt in 1993; Telegames, Songbird and Beyond Games are gone or tiny. Much
@@ -53,11 +57,15 @@ and only a few Lynx titles have been picked up.
 | Turbo Sub | 1991 | Imagitec | Atari | Rail shooter | 1 | No | Ported | *Atari 50* (2022) | One of the few Lynx titles Atari has reissued. |
 | Basketbrawl | 1992 | Atari | Atari | Sports | 1–2 | No | **Stranded** | | Also on 7800. |
 | Battlewheels | 1993 | Beyond Games | Beyond Games | Vehicular combat | 1–6 | No | **Stranded** | | Six-player car combat over ComLynx, released as the platform was dying. Beyond Games no longer exists. |
-| Malibu Bikini Volleyball | 1993 | Hand Made Software | Atari | Sports | 1–2 | No | **Stranded** | | A late release into a dead market. | ## Contested
+| Malibu Bikini Volleyball | 1993 | Hand Made Software | Atari | Sports | 1–2 | No | **Stranded** | | A late release into a dead market. |
+
+## Contested
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| Klax | 1990 | **Include** (`Ported`) | Under the arcade rule the first home release counts, and Atari owns the property outright — which is why it appears in *Atari 50*. | Home versions landed on Lynx, Genesis, NES, Amiga and others within months of each other, so no single platform is cleanly the debut. a multi-platform sim-ship. | ## Excluded
+| Klax | 1990 | **Include** (`Ported`) | Under the arcade rule the first home release counts, and Atari owns the property outright — which is why it appears in *Atari 50*. | Home versions landed on Lynx, Genesis, NES, Amiga and others within months of each other, so no single platform is cleanly the debut. a multi-platform sim-ship. |
+
+## Excluded
 
 | Title | Year | Why excluded |
 |---|---|---|
@@ -66,7 +74,9 @@ and only a few Lynx titles have been picked up.
 | Shanghai, Chip's Challenge sequels, Checkered Flag | 1990–91 | Home computer originals or later entries. |
 | Batman Returns, Toki, Rygar, Ninja Gaiden III | 1991–93 | Conversions of games that debuted on other platforms. |
 | Any *Atari 50* release | | Re-releases by definition. |
-| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on a home computer or console still disqualifies. | ## Appendix — the tail
+| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on a home computer or console still disqualifies. |
+
+## Appendix — the tail
 
 - **Arcade and computer conversions (~40 titles).** The bulk of the library, and
  nearly all fail the debut test — the Lynx was largely a machine for playing

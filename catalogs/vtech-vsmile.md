@@ -7,11 +7,13 @@
 | **Library size** | ~100 "Smartridge" titles |
 | **Backward compat** | Handheld V.Smile variants play the same Smartridges. BC, **not** another platform. |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | Representative titles only; this library has essentially no critical documentation. | ## ⚠ A children's educational console
+| **Coverage** | Representative titles only; this library has essentially no critical documentation. |
+
+## ⚠ A children's educational console
 
 The V.Smile was a TV-connected cartridge console aimed at 3–7 year-olds, with a joystick
 controller and a library of licensed edutainment. It is included on the same basis as the
-[Sega Pico](catalogs/sega-pico.md) — TV-connected, removable media, dedicated software
+[Sega Pico](sega-pico.md) — TV-connected, removable media, dedicated software
 line — and it fails to escape for the same reasons.
 
 ## Summary
@@ -21,7 +23,9 @@ line — and it fails to escape for the same reasons.
 | **Debut games** | **5** |
 | — still `Stranded` | 5 |
 | — since `Ported` | 0 |
-| **Contested** | 0 | **Why the V.Smile strands games.** Every title is a **licensed children's property** —
+| **Contested** | 0 |
+
+**Why the V.Smile strands games.** Every title is a **licensed children's property** —
 Disney, Nickelodeon, Sesame Street, Thomas the Tank Engine, Scooby-Doo — on hardware
 VTech discontinued. Those licences are live and worth more on current products; nobody
 will re-clear them for a 2005 edutainment cartridge. VTech still trades but has no
@@ -37,13 +41,17 @@ games-preservation interest. `Ported` count of **zero**.
 | Scooby-Doo! Funland Frenzy | 2005 | VTech | VTech | Edutainment | 1 | No | **Stranded** | | Warner licence. |
 | Winnie the Pooh: The Honey Hunt | 2005 | VTech | VTech | Edutainment | 1 | No | **Stranded** | | Disney licence. |
 | Cars: Rev It Up in Radiator Springs | 2006 | VTech | VTech | Edutainment | 1 | No | **Stranded** | | A Disney/Pixar licence, representative of the platform's dominant pattern. |
-| Thomas & Friends: Engines Working Together | 2006 | VTech | VTech | Edutainment | 1 | No | **Stranded** | | Mattel now owns Thomas, a rights transfer that further complicates any reissue. | ## Excluded
+| Thomas & Friends: Engines Working Together | 2006 | VTech | VTech | Edutainment | 1 | No | **Stranded** | | Mattel now owns Thomas, a rights transfer that further complicates any reissue. |
+
+## Excluded
 
 | Title | Year | Why excluded |
 |---|---|---|
 | Remaining ~95 Smartridge titles | 2004–11 | Licensed children's edutainment with identical `Stranded` status; not separately tabled. |
 | V.Smile Baby, V.Reader, InnoTab, Storio | 2007–14 | Successor toy platforms; noted here rather than given files, as their libraries follow the same pattern with the same zero-reissue status. |
-| Non-interactive Smartridge content | 2004–11 | Some cartridges are electronic storybooks with no game structure. | ## Coverage gaps
+| Non-interactive Smartridge content | 2004–11 | Some cartridges are electronic storybooks with no game structure. |
+
+## Coverage gaps
 
 - 5 of ~100 titles. This library has effectively no critical or archival coverage in
  any language, so attribution is limited to publisher and year.

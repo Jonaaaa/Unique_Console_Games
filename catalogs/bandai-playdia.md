@@ -7,7 +7,9 @@
 | **Library size** | ~34 titles |
 | **Backward compat** | None. |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | Notable titles verified individually. | ## ⚠ Bandai's licence showcase
+| **Coverage** | Notable titles verified individually. |
+
+## ⚠ Bandai's licence showcase
 
 The Playdia was a CD console for young children with a **wireless infrared controller**
 and essentially no interactivity beyond multiple-choice prompts — its software is
@@ -24,7 +26,9 @@ footage. There is no game underneath to separate from the licence.
 | **Debut games** | **5** |
 | — still `Stranded` | 5 |
 | — since `Ported` | 0 |
-| **Contested** | 0 | **Why the Playdia strands games.** The library is licensed anime video. Every title
+| **Contested** | 0 |
+
+**Why the Playdia strands games.** The library is licensed anime video. Every title
 needs the property, the footage, the music and the voice cast re-cleared, for a Japanese
 console that sold ~50,000 units over two years. `Ported` count of **zero**.
 
@@ -38,12 +42,16 @@ console that sold ~50,000 units over two years. `Ported` count of **zero**.
 | Mobile Suit Gundam: Mokuba no Kiseki | 1994 | Bandai | Bandai | Interactive video | 1 | No | **Stranded** | | The Gundam licence is continuously renewed for new products and never for reissues. |
 | Sailor Moon S: Quiz Taiketsu! | 1994 | Bandai | Bandai | Quiz | 1 | No | **Stranded** | | A launch title. Uses broadcast anime footage under licence — the exact combination that cannot be re-cleared economically. |
 | Ultraman Powered: Kaijuu Gekimetsu Sakusen | 1994 | Bandai | Bandai | Interactive video | 1 | No | **Stranded** | | Tsuburaya's Ultraman rights, which have themselves been the subject of prolonged international litigation — a further bar. |
-| SD Gundam: Daizukan | 1995 | Bandai | Bandai | Reference / quiz | 1 | No | **Stranded** | | Closer to an interactive encyclopaedia than a game, which is characteristic of the platform. | ## Excluded
+| SD Gundam: Daizukan | 1995 | Bandai | Bandai | Reference / quiz | 1 | No | **Stranded** | | Closer to an interactive encyclopaedia than a game, which is characteristic of the platform. |
+
+## Excluded
 
 | Title | Year | Why excluded |
 |---|---|---|
 | Remaining ~29 titles | 1994–96 | Licensed anime video products with identical `Stranded` status; not separately tabled. |
-| Non-interactive video discs | 1994–96 | Some Playdia releases are anime compilations with no interactive component. | ## Coverage gaps
+| Non-interactive video discs | 1994–96 | Some Playdia releases are anime compilations with no interactive component. |
+
+## Coverage gaps
 
 - 5 of ~34 titles. Japanese documentation only.
 - The boundary between "game" and "interactive anime disc" is blurry on this

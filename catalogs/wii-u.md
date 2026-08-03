@@ -8,7 +8,9 @@
 | **Online services ended** | 8 Apr 2024 |
 | **Library size** | 792 releases total (Wikipedia list, parsed 2026-07-29) |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | Retail and notable eShop titles individually verified. The ~150-title micro-publisher tail is covered by publisher block in the [Appendix](#appendix--the-eshop-long-tail), not individually verified. | ## Summary
+| **Coverage** | Retail and notable eShop titles individually verified. The ~150-title micro-publisher tail is covered by publisher block in the [Appendix](#appendix--the-eshop-long-tail), not individually verified. |
+
+## Summary
 
 | | Count |
 |---|---|
@@ -16,7 +18,9 @@
 | — still `Stranded` | 43 |
 | — since `Ported` | 29 |
 | — `Sim-ship` | 7 |
-| **Contested** | 2 | **Why the Wii U strands games.** Almost every stranded entry is stuck for the same
+| **Contested** | 2 |
+
+**Why the Wii U strands games.** Almost every stranded entry is stuck for the same
 structural reason: the GamePad. The Wii U shipped a second screen with a gyroscope,
 a camera, NFC, and its own speaker, and Nintendo spent the generation proving the
 thing was necessary. Games built to that brief — asymmetric 1-vs-4 party design,
@@ -115,7 +119,9 @@ Every game that debuted on this platform and launched nowhere else. `Status` rec
 | Star Fox Guard | 2016 | PlatinumGames / Nintendo EPD | Nintendo | Tower defence | 1 | No | Stranded | | Bundled with *Star Fox Zero*; 12 simultaneous camera feeds need two screens. |
 | Star Fox Zero | 2016 | PlatinumGames / Nintendo EPD | Nintendo | Rail shooter | 1–2 (asym.) | No | Stranded | | Cockpit view on GamePad + gyro aiming. The control scheme *is* the game, which is exactly why it can't leave. The 2026 Switch 2 *Star Fox* is a **Star Fox 64** reimagining, not this. |
 | Star Ghost | 2016 | Squarehead Games | Squarehead Games | Shoot 'em up | 1 | No | Stranded | | eShop-only, NA/EU. One-button roguelike shooter from a two-person studio that dissolved after it. |
-| The Legend of Zelda: Breath of the Wild | 2017 | Nintendo EPD | Nintendo | Action-adventure | 1 | No | Sim-ship | Switch (2017, same day) | The Wii U's final first-party release and the Switch's launch title — the same game, shipped to both on 3 Mar 2017. | ## Contested
+| The Legend of Zelda: Breath of the Wild | 2017 | Nintendo EPD | Nintendo | Action-adventure | 1 | No | Sim-ship | Switch (2017, same day) | The Wii U's final first-party release and the Switch's launch title — the same game, shipped to both on 3 Mar 2017. |
+
+## Contested
 
 Under the debut rule most former disputes resolved themselves — a later port no
 longer threatens membership, so the only question left is *"is this a debut or a
@@ -124,7 +130,9 @@ port?"*.
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
 | Super Smash Bros. for Wii U | 2014 | **Include** | It is a separate build, not a version: different stages, different modes (8-Player Smash, Smash Tour), different engine target. Nothing named this exists on any other platform. | *Super Smash Bros. for Nintendo 3DS* shipped first (Sep 2014 JP) under the same product line, so the Wii U release is the second half of one product rather than a debut. |
-| Mario & Sonic at the Rio 2016 Olympic Games | 2016 | **Include** | The Wii U build has never appeared elsewhere and has its own event roster. | The 3DS game of the same name shipped first (Feb 2016 JP), and an *Arcade Edition* also exists — both are separate products, but the shared title muddies the debut claim. | **Resolved by the rule change:** *Super Mario Maker*, *NES Remix*, *NES Remix 2*
+| Mario & Sonic at the Rio 2016 Olympic Games | 2016 | **Include** | The Wii U build has never appeared elsewhere and has its own event roster. | The 3DS game of the same name shipped first (Feb 2016 JP), and an *Arcade Edition* also exists — both are separate products, but the shared title muddies the debut claim. |
+
+**Resolved by the rule change:** *Super Mario Maker*, *NES Remix*, *NES Remix 2*
 and *FAST Racing NEO* are no longer contested. All four debuted on Wii U; that
 later 3DS or Switch versions exist now only sets their `Status`, not membership.
 
@@ -152,9 +160,13 @@ conflate *not on Switch* with *exclusive*. Recorded so they are not re-added.
 | Color Zen / Color Zen Kids | 2014 | **iOS first** (2013). |
 | Electronic Super Joy: Groove City | 2015 | PC first (2014). |
 | Unepic, Abyss, Spy Chameleon, Funk of Titans, 99Seconds | 2013–15 | EnjoyUp catalogue — PC-first or 3DS-first, or multiplatform. |
-| Nintendo eShop Virtual Console (all) | | Re-releases by definition. | ---
+| Nintendo eShop Virtual Console (all) | | Re-releases by definition. |
+
+---
 | *(same-day multiplatform launches)* | | **No longer excluded** — they now appear in the main table as `Sim-ship`. Only *later* ports are excluded. |
-| *(games with an earlier arcade release)* | | **No longer excluded.** Arcades are out of scope — a cabinet is not a collectable home device — so the first *home* release counts as the debut. A prior release on another **home** console still disqualifies. | ## Appendix — the eShop long tail
+| *(games with an earlier arcade release)* | | **No longer excluded.** Arcades are out of scope — a cabinet is not a collectable home device — so the first *home* release counts as the debut. A prior release on another **home** console still disqualifies. |
+
+## Appendix — the eShop long tail
 
 The Wii U library is **792 releases** (Wikipedia's list, parsed 2026-07-29). Beyond
 the titles tabled above, roughly 150 of those come from a dozen micro-publishers who
@@ -185,7 +197,9 @@ from the counts in the [Summary](#summary).
 | **Tacs Games** | 4 | Stranded — likely | *Octocopter*, *Quadcopter Pilot Challenge*, *Factotum*, *Radiantflux*. |
 | **Thornbury Software** | 3 | Stranded — likely | *Archery*, *Shooting Range*, *A Day at the Carnival*. |
 | **Intropy Games** | 3 | **Mixed** | *Astral Breakers* reached Switch. |
-| **Brave Rock Games** | 3 | Stranded — likely | Fairy-tale adventure trio. | ### RCMADIAX — the fully stranded catalogue
+| **Brave Rock Games** | 3 | Stranded — likely | Fairy-tale adventure trio. |
+
+### RCMADIAX — the fully stranded catalogue
 
 The one block with a documented, categorical cause rather than an inferred one. All 33:
 
@@ -214,7 +228,9 @@ The one block with a documented, categorical cause rather than an inferred one. 
 | Tacs Games | Factotum · Octocopter: Super Sub Squid Escape · Quadcopter Pilot Challenge · Radiantflux: Hyperfractal |
 | Thornbury Software | Archery by Thornbury Software · A Day at the Carnival · Shooting Range by Thornbury Software |
 | Intropy Games | Astral Breakers *(→ Switch)* · Emojikara: A Clever Emoji Match Game · Prism Pets |
-| Brave Rock Games | Alice in Wonderland · Red Riding Hood · The Stonecutter | ### What this tail means
+| Brave Rock Games | Alice in Wonderland · Red Riding Hood · The Stonecutter |
+
+### What this tail means
 
 By count, the Wii U's stranded library is dominated by shovelware rather than by
 Nintendo. If every likely-stranded entry above holds, the platform has roughly

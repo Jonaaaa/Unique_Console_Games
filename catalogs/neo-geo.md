@@ -7,14 +7,16 @@
 | **Library size** | ~150 AES cartridges, ~100 Neo Geo CD titles |
 | **Backward compat** | None. AES carts and CD discs are not interchangeable. |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | Near-complete for marquee titles. The platform's library is small enough to cover properly. | ## ⚠ This platform tests the arcade rule harder than any other
+| **Coverage** | Near-complete for marquee titles. The platform's library is small enough to cover properly. |
+
+## ⚠ This platform tests the arcade rule harder than any other
 
 The Neo Geo is a unique case: SNK sold **the same games on the same hardware** in two
 forms — the **MVS** arcade board and the **AES** home cartridge — usually within days
 of each other. The AES cart was a coin-op board in a home shell, at coin-op prices
 (carts routinely cost $200+).
 
-Under this repo's rule that **arcades are out of scope**, the AES release is therefore
+Under the rule that **arcades are out of scope**, the AES release is therefore
 the catalogued debut for essentially the whole library. That is the rule working as
 intended — a collector cannot shelve an MVS cabinet, and the AES cart is the home
 product, and worth
@@ -32,7 +34,9 @@ short list of genuine oddities.
 | **Debut games** | **23** |
 | — still `Stranded` | 5 |
 | — since `Ported` | 18 |
-| **Contested** | 1 | **Why the Neo Geo strands games.** Almost nothing, which is the finding. SNK went
+| **Contested** | 1 |
+
+**Why the Neo Geo strands games.** Almost nothing, which is the finding. SNK went
 bankrupt in 2001 and was rebuilt, but the catalogue survived intact and is now
 aggressively monetised. The exceptions are:
 
@@ -72,11 +76,15 @@ aggressively monetised. The exceptions are:
 | Garou: Mark of the Wolves | 1999 | SNK | SNK | Fighting | 1–2 | No | Ported | *ACA NEOGEO*, Switch, PS4, Xbox, PC, mobile | Widely considered SNK's best fighting game; a sequel finally arrived 26 years later. |
 | Big Bang Pro Wrestling | 2000 | Saurus | SNK | Wrestling | 1–2 | No | **Stranded** | | One of the very last AES releases, sold into a collapsing market as SNK headed for bankruptcy. Never reissued. |
 | Digger Man | 2000 | Kaz | Kaz | Action | 1 | No | **Stranded** | | An independently produced Neo Geo Pocket title sold in tiny numbers direct from the developer — effectively the platform's first homebrew commercial release. |
-| Samurai Shodown V Special | 2004 | Yuki Enterprise | SNK Playmore | Fighting | 1–2 | No | Ported | *ACA NEOGEO*, *Samurai Shodown NeoGeo Collection* | **The final AES release**, fourteen years after launch. | ## Contested
+| Samurai Shodown V Special | 2004 | Yuki Enterprise | SNK Playmore | Fighting | 1–2 | No | Ported | *ACA NEOGEO*, *Samurai Shodown NeoGeo Collection* | **The final AES release**, fourteen years after launch. |
+
+## Contested
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| The entire AES library | 1990–2004 | **Include** | Arcades are out of scope by rule, so the AES cartridge is the first *collectable home* release of each game. A collector buys AES carts, not MVS boards. | MVS and AES releases were near-simultaneous and often literally the same board. Someone could argue every Neo Geo game is an arcade title that happens to have a home SKU — which would empty this file. Recorded because it is the repo's single largest rule-driven judgement. | ## Excluded
+| The entire AES library | 1990–2004 | **Include** | Arcades are out of scope by rule, so the AES cartridge is the first *collectable home* release of each game. A collector buys AES carts, not MVS boards. | MVS and AES releases were near-simultaneous and often literally the same board. Someone could argue every Neo Geo game is an arcade title that happens to have a home SKU — which would empty this list. Recorded because it is the single largest rule-driven judgement here. |
+
+## Excluded
 
 | Title | Year | Why excluded |
 |---|---|---|
@@ -86,7 +94,9 @@ aggressively monetised. The exceptions are:
 | Neo Geo Pocket / Pocket Color titles | 1998–2001 | Separate handheld platform — see [Neo Geo Pocket Color](neo-geo-pocket-color.md). |
 | Hyper Neo Geo 64 titles | 1997–99 | Arcade-only hardware with no home release at all. |
 | Any *ACA NEOGEO* / *40th Anniversary* / Neo Geo mini release | | Re-releases by definition. |
-| *(games with a simultaneous MVS arcade release)* | | **Not excluded.** Arcades are out of scope — see [Contested](#contested). | ## Appendix — the tails
+| *(games with a simultaneous MVS arcade release)* | | **Not excluded.** Arcades are out of scope — see [Contested](#contested). |
+
+## Appendix — the tails
 
 - **Fighting-game sequels (~60 titles).** The `King of Fighters`, `Fatal Fury`,
  `Samurai Shodown`, `Art of Fighting` and `World Heroes` lines account for a large

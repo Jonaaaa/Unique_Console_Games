@@ -8,7 +8,9 @@
 | **Store status** | The Xbox 360 Marketplace **closed 29 Jul 2024.** Digital-only titles cannot be purchased any more; previously bought games remain redownloadable. |
 | **Backward compat** | Xbox One and Series play a curated subset of 360 titles. That is BC, **not** another platform. |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | First-party and notable exclusives verified individually. Sports annuals, licensed tie-ins and the XBLA tail summarised, not enumerated. | ## Summary
+| **Coverage** | First-party and notable exclusives verified individually. Sports annuals, licensed tie-ins and the XBLA tail summarised, not enumerated. |
+
+## Summary
 
 | | Count |
 |---|---|
@@ -16,7 +18,9 @@
 | — still `Stranded` | 22 |
 | — since `Ported` | 20 |
 | — `Sim-ship` | 3 |
-| **Contested** | 1 | **Why the Xbox 360 strands games.** Four causes, and two of them are new to this
+| **Contested** | 1 |
+
+**Why the Xbox 360 strands games.** Four causes, and two of them are new to this
 repo.
 
 1. **The Marketplace closed in July 2024.** Roughly 700 Xbox Live Arcade titles were
@@ -27,7 +31,7 @@ repo.
  completely unportable — it needs a depth camera Microsoft discontinued in 2017.
  `Dance Central` compounds it with a fully licensed tracklist.
 3. **Forza's licensing.** Every 360 Forza game has been **delisted** as its car and
- manufacturer licences expired. This is the cleanest example in the repo of a game
+ manufacturer licences expired. This is the cleanest example here of a game
  being pulled while its platform was still alive.
 4. **BC instead of re-release**, as on the original Xbox — Microsoft lets you run the
  old build rather than selling a new one.
@@ -82,11 +86,15 @@ repo.
 | Halo 4 | 2012 | 343 Industries | Microsoft | FPS | 1–16 | Dead (2021) | Ported | Xbox One, PC (2014–20, *MCC*) | |
 | Mark of the Ninja | 2012 | Klei | Microsoft | Stealth | 1 | No | Ported | Switch, PS4, PC (2013–18, *Remastered*) | |
 | Trials Evolution | 2012 | RedLynx | Microsoft | Racing / platformer | 1–4 | Dead | **Stranded** | | Digital-only; delisted, and the Marketplace has since closed. |
-| Rayman Legends | 2013 | Ubisoft Montpellier | Ubisoft | Platformer | 1–5 | No | Sim-ship | Wii U, PS3, PC (2013, same day); PS4/XB1 (2014), Switch (2017) | Also catalogued under [Wii U](wii-u.md) and [PS3](ps3.md). | ## Contested
+| Rayman Legends | 2013 | Ubisoft Montpellier | Ubisoft | Platformer | 1–5 | No | Sim-ship | Wii U, PS3, PC (2013, same day); PS4/XB1 (2014), Switch (2017) | Also catalogued under [Wii U](wii-u.md) and [PS3](ps3.md). |
+
+## Contested
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| Left 4 Dead | 2008 | **Include** (`Stranded`) | Xbox 360 and PC shipped the same day, and the PC rule says a same-day PC launch still makes the console release the catalogued debut. It never reached a second console. | Valve is a PC developer and *Left 4 Dead* is culturally a PC game; treating the 360 SKU as its home platform is a rules-driven answer rather than an intuitive one. Kept because the rule is explicit. | ## Excluded
+| Left 4 Dead | 2008 | **Include** (`Stranded`) | Xbox 360 and PC shipped the same day, and the PC rule says a same-day PC launch still makes the console release the catalogued debut. It never reached a second console. | Valve is a PC developer and *Left 4 Dead* is culturally a PC game; treating the 360 SKU as its home platform is a rules-driven answer rather than an intuitive one. Kept because the rule is explicit. |
+
+## Excluded
 
 | Title | Year | Why excluded |
 |---|---|---|
@@ -100,7 +108,9 @@ repo.
 | Gears of War 2 / 3 / Judgment | 2008–13 | Qualify and are `Stranded` — sequels never re-released on another console. |
 | Any Xbox 360 BC on One / Series | | Backward compatibility, not a re-release. |
 | *(games with a later PC port)* | | **Not `Ported`.** PC is not a catalogued platform — the game stays `Stranded` with the PC release noted. |
-| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. | ## Appendix — the tails
+| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. |
+
+## Appendix — the tails
 
 - **Xbox Live Arcade (~700 titles).** The first large console digital storefront.
  With the Marketplace closed since **29 Jul 2024**, XBLA-only titles that were never

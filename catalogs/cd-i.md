@@ -7,7 +7,9 @@
 | **Library size** | ~200 games within a larger catalogue of ~750 discs (mostly reference and educational titles) |
 | **Backward compat** | None. |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | Notable game titles verified individually. Reference and educational discs are out of scope. | ## ⚠ Is this a console?
+| **Coverage** | Notable game titles verified individually. Reference and educational discs are out of scope. |
+
+## ⚠ Is this a console?
 
 The CD-i was sold as a **home multimedia appliance** — encyclopaedias, music videos,
 art collections — with games as one category among several. It attached to a TV, took
@@ -27,7 +29,9 @@ re-license them and Philips has no reason to.
 | **Debut games** | **9** |
 | — still `Stranded` | 8 |
 | — since `Ported` | 1 |
-| **Contested** | 1 | **Why the CD-i strands games.** Three causes:
+| **Contested** | 1 |
+
+**Why the CD-i strands games.** Three causes:
 
 1. **The Nintendo licence.** Nintendo has never acknowledged the CD-i games and never
  will re-license them. Philips no longer makes consoles.
@@ -50,11 +54,15 @@ re-license them and Philips has no reason to.
 | Mutant Rampage: Bodyslam | 1994 | Sony Imagesoft | Philips | Beat 'em up | 1–2 | No | **Stranded** | | A Sony Imagesoft beat 'em up on Philips hardware — a two-company arrangement neither side has revisited, and Philips left console publishing entirely. |
 | The Apprentice | 1994 | Asylum Software | Philips | Platformer | 1 | No | **Stranded** | | A competent original platformer, cited as the best game designed for the hardware. |
 | Zelda's Adventure | 1994 | Viridis | Philips | Action-adventure | 1 | No | **Stranded** | | The third and rarest CD-i Zelda, using digitised live-action photography and a top-down perspective. A different developer again, and the most obscure of the three. |
-| Escape from CyberCity | 1995 | Interweave | Philips | Rail shooter | 1 | No | **Stranded** | | Animated FMV shooter produced with a Japanese animation studio. | ## Contested
+| Escape from CyberCity | 1995 | Interweave | Philips | Rail shooter | 1 | No | **Stranded** | | Animated FMV shooter produced with a Japanese animation studio. |
+
+## Contested
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| The CD-i as a platform | 1991 | **Include** | It connects to a television, takes a game controller, runs software from removable media and had ~200 games. By every functional test it is a console. | Philips marketed it as a multimedia appliance, and ~75% of its catalogue is encyclopaedias, music discs and educational reference titles. If it counts, so do other multimedia set-top devices this repo omits. Included, with non-game software excluded. | ## Excluded
+| The CD-i as a platform | 1991 | **Include** | It connects to a television, takes a game controller, runs software from removable media and had ~200 games. By every functional test it is a console. | Philips marketed it as a multimedia appliance, and ~75% of its catalogue is encyclopaedias, music discs and educational reference titles. If it counts, so do other multimedia set-top devices omitted here. Included, with non-game software excluded. |
+
+## Excluded
 
 | Title | Year | Why excluded |
 |---|---|---|
@@ -62,9 +70,11 @@ re-license them and Philips has no reason to.
 | Lords of the Rising Sun, It Came from the Desert, Defender of the Crown | 1992–94 | Cinemaware titles that debuted on the Amiga. |
 | Lost Eden, Alien Gate, Chaos Control | 1994–95 | PC or Amiga originals. |
 | Myst | 1996 | PC original (1993). |
-| Reference, educational and music discs (~550) | 1991–98 | Not games — out of scope for this catalogue. |
+| Reference, educational and music discs (~550) | 1991–98 | Not games — out of scope. |
 | *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on a home computer still disqualifies. |
-| *(games with a later PC port)* | | **Not `Ported`.** PC is not a catalogued platform. | ## Appendix — the tails
+| *(games with a later PC port)* | | **Not `Ported`.** PC is not a catalogued platform. |
+
+## Appendix — the tails
 
 - **Non-game software (~550 discs).** Encyclopaedias, art and museum collections,
  language courses, Video CD movies. The majority of the catalogue, and deliberately

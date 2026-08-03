@@ -7,7 +7,9 @@
 | **Library size** | Small in debut terms; most of what runs on it belongs to Xbox One or is multiplatform |
 | **Backward compat** | Plays Xbox, Xbox 360 and Xbox One titles. All BC, **not** another platform. |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | **Provisional and deliberately short.** See the note below — this is a structural result, not missing work. | ## ⚠ This is the thinnest file in the repo, and it should be
+| **Coverage** | **Provisional and deliberately short.** See the note below — this is a structural result, not missing work. |
+
+## ⚠ The thinnest list here, and it should be
 
 Three of Microsoft's own policies each independently disqualify most of this
 console's library:
@@ -23,7 +25,7 @@ console's library:
  still current — the opposite of every retired platform here.
 
 Net effect: a very small number of games debuted on Series X|S **and only
-there**. Padding this file would mean breaking the ruleset.
+there**. Padding the list would mean breaking the ruleset.
 
 ## Summary
 
@@ -33,11 +35,13 @@ there**. Padding this file would mean breaking the ruleset.
 | — still `Stranded` | 5 |
 | — since `Ported` | 4 |
 | — `Sim-ship` | 3 |
-| **Contested** | 1 | **Why the Series X|S strands games.** Almost nothing here is stranded by an
+| **Contested** | 1 | **Why the Series X|
+
+S strands games.** Almost nothing here is stranded by an
 *obstacle*. There are no dead peripherals, no lost source code, no expired anime
 licences. What remains stranded is stranded because **Microsoft has not yet chosen
 to move it** — and the company has demonstrated since 2024 that it will. This is
-the least permanent `Stranded` column in the repo.
+the least permanent `Stranded` column here.
 
 The one durable cause is the familiar one: **licensed cars**. `Forza Motorsport`
 (2023) will eventually follow every previous Forza into delisting.
@@ -59,11 +63,15 @@ The one durable cause is the familiar one: **licensed cars**. `Forza Motorsport`
 | Senua's Saga: Hellblade II | 2024 | Ninja Theory | Microsoft | Action-adventure | 1 | No | Ported | PS5 (2025), PC | Ninja Theory's second Hellblade, and part of the 2024–25 PlayStation wave. |
 | Avowed | 2025 | Obsidian | Microsoft | Action RPG | 1 | No | **Stranded** | | PC version day-one; no console release elsewhere yet. |
 | South of Midnight | 2025 | Compulsion Games | Microsoft | Action-adventure | 1 | No | **Stranded** | | PC version day-one. |
-| The Outer Worlds 2 | 2025 | Obsidian | Microsoft | Action RPG | 1 | No | Sim-ship | PS5, PC (2025, same day) | Microsoft's multiplatform pivot applied from day one rather than retroactively — the clearest sign the exclusivity era has ended. | ## Contested
+| The Outer Worlds 2 | 2025 | Obsidian | Microsoft | Action RPG | 1 | No | Sim-ship | PS5, PC (2025, same day) | Microsoft's multiplatform pivot applied from day one rather than retroactively — the clearest sign the exclusivity era has ended. |
+
+## Contested
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| Starfield | 2023 | **Include** (`Stranded`, flagged) | It debuted on Series X\|S and PC, so under the PC rule the console is the catalogued platform. | A PS5 release has been widely reported for 2025. If it shipped, this should read `Ported` — I could not verify it, so it is flagged here rather than asserted either way. Treat the status as provisional. | ## Excluded
+| Starfield | 2023 | **Include** (`Stranded`, flagged) | It debuted on Series X\|S and PC, so under the PC rule the console is the catalogued platform. | A PS5 release has been widely reported for 2025. If it shipped, this should read `Ported` — I could not verify it, so it is flagged here rather than asserted either way. Treat the status as provisional. |
+
+## Excluded
 
 | Title | Year | Why excluded |
 |---|---|---|
@@ -73,7 +81,9 @@ The one durable cause is the familiar one: **licensed cars**. `Forza Motorsport`
 | Age of Empires IV | 2021 | PC original (2021); the console version followed in 2023. |
 | Diablo IV, Call of Duty, Elder Scrolls Online | 2023– | Multiplatform, despite Microsoft's ownership of the publishers. |
 | Any Xbox / 360 / One BC titles | | Backward compatibility, not a re-release. |
-| *(games with a day-one PC release)* | | **Not excluded, and not `Ported`.** PC is not a catalogued platform — the console release is the debut and the game stays `Stranded`. | ## Appendix — why there is no tail
+| *(games with a day-one PC release)* | | **Not excluded, and not `Ported`.** PC is not a catalogued platform — the console release is the debut and the game stays `Stranded`. |
+
+## Appendix — why there is no tail
 
 The Series X|S has no shovelware tail, no Japan-only tail and no peripheral tail. Its library is
 overwhelmingly:

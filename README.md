@@ -76,7 +76,9 @@ debut is permanent.
 | [Sony PlayStation 5](catalogs/ps5.md) | Nov 2020 – present | **18** | 12 | 0 +6 sim |
 | [Microsoft Xbox Series X|S](catalogs/xbox-series.md) | Nov 2020 – present | **12** | 5 | 4 +3 sim |
 | [Panic Playdate](catalogs/playdate.md) | Apr 2022 – present | **6** | 5 | 1 |
-| [Nintendo Switch 2](catalogs/switch-2.md) | Jun 2025 – present | **9** | 6 | 0 +3 sim | **All 68 console and handheld platforms catalogued** — every TV-connected
+| [Nintendo Switch 2](catalogs/switch-2.md) | Jun 2025 – present | **9** | 6 | 0 +3 sim |
+
+**All 68 console and handheld platforms catalogued** — every TV-connected
 and portable games system with a commercial software library, from the Magnavox Odyssey
 (1972) to the Switch 2 (2025). See [ROSTER.md](ROSTER.md) for what is included,
 excluded and folded in, and why.
@@ -111,7 +113,9 @@ the catalogues surface:
 | Wii U | **Hardware.** The GamePad's second screen cannot be reproduced on a single-screen console. |
 | PSP | **Licensing.** Anime tie-ins and licensed music tracklists whose rights are impractical to reassemble. |
 | Nintendo 3DS | **Commercial gravity — the inverse of the Wii U.** It sold 75.94M, so the audience already owns the library and there is little money in re-selling it. Stereoscopic 3D and StreetPass block the rest. |
-| PS Vita | **Studio closure.** Sony shut Bigbig, Zipper, Studio Liverpool and Guerrilla Cambridge, orphaning their games. One title (`TxK`) is stranded by injunction. | ## The ruleset
+| PS Vita | **Studio closure.** Sony shut Bigbig, Zipper, Studio Liverpool and Guerrilla Cambridge, orphaning their games. One title (`TxK`) is stranded by injunction. |
+
+## The ruleset
 
 A game qualifies on **one** test: **did it debut here?** The platform must be the
 game's first release anywhere, and the only platform it launched on.
@@ -137,7 +141,9 @@ Exclusivity is recorded as an attribute, not used as a filter.
 | Status | Meaning |
 |---|---|
 | **Stranded** | Never officially released anywhere else, in any form. |
-| **Ported** | Since released elsewhere. `Also On` gives platform + year. | Status decays one way. `Xenoblade Chronicles X` was stranded until March 2025,
+| **Ported** | Since released elsewhere. `Also On` gives platform + year. |
+
+Status decays one way. `Xenoblade Chronicles X` was stranded until March 2025,
 `The Wonderful 101` until 2020, `Persona 3 Portable` until 2023. Rows flip from
 `Stranded` to `Ported` — they are never deleted.
 

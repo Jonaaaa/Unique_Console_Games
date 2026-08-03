@@ -7,11 +7,13 @@
 | **Library size** | **~4 |
 | **Backward compat** | Plays PS1 discs. Early PS3 models play PS2 discs. Both are BC, **not** another platform. |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | **Deliberately partial.** ~50 marquee and interesting titles verified individually out of ~4,400. This file makes no claim to completeness — see [Coverage gaps](#coverage-gaps). | ## ⚠ Read the coverage note before using the counts
+| **Coverage** | **Deliberately partial.** ~50 marquee and interesting titles verified individually out of ~4,400. No claim to completeness is made — see [Coverage gaps](#coverage-gaps). |
+
+## ⚠ Read the coverage note before using the counts
 
 At 4,400 titles the PS2 cannot be catalogued the way the N64 (388 titles) can. What
 follows is a **curated selection**, chosen to cover the platform's marquee output
-and every distinct *cause* of stranding. The counts describe this file, not the
+and every distinct *cause* of stranding. The counts describe the selection, not the
 platform.
 
 The important platform-level fact is the opposite of the Genesis: **Sony's PS2
@@ -20,14 +22,16 @@ titles, and PS Plus Premium adds a rotating handful. Against a 4,400-title libra
 that is a rounding error — so for the PS2 as a whole, `Stranded` is the default
 state and `Ported` is the exception.
 
-## Summary *(of this file, not the platform)*
+## Summary *(of the selection, not the platform)*
 
 | | Count |
 |---|---|
 | **Debut games** | **67** |
 | — still `Stranded` | 28 |
 | — since `Ported` | 33 |
-| **Contested** | 2 | **Why the PS2 strands games.** Licensed music becomes the dominant cause for the
+| **Contested** | 2 |
+
+**Why the PS2 strands games.** Licensed music becomes the dominant cause for the
 first time, and it is severe. The PS2 generation invented the licensed-soundtrack
 racing game and the licensed-soundtrack sports game, and those catalogues are
 permanently frozen: `Burnout 3`, `SSX 3`, `Need for Speed Underground`, `Def Jam:
@@ -115,12 +119,16 @@ Three more causes:
 | Odin Sphere | 2007 | Vanillaware | Atlus | Action RPG | 1 | No | Ported | PS4, PS3, Vita (2016, *Leifthrasir*) | |
 | Rogue Galaxy | 2007 | Level-5 | Sony | Action RPG | 1 | No | Ported | PS4 (2018) | |
 | Persona 4 | 2008 | Atlus | Atlus | RPG | 1 | No | Ported | Vita (2012, *Golden*), PC, PS4, Switch, Xbox | |
-| Jak and Daxter: The Lost Frontier | 2009 | High Impact Games | Sony | Platformer | 1 | No | Sim-ship | PSP (2009, same day) | Also catalogued under [PSP](psp.md). The last new Jak game. | ## Contested
+| Jak and Daxter: The Lost Frontier | 2009 | High Impact Games | Sony | Platformer | 1 | No | Sim-ship | PSP (2009, same day) | Also catalogued under [PSP](psp.md). The last new Jak game. |
+
+## Contested
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
 | TimeSplitters 2 | 2002 | **Include** (`Stranded`) | It has never been sold on another platform. Its appearance inside *Homefront: The Revolution* is an easter egg in someone else's game, not a release. | The full game is playable, in full, on PS4/Xbox One/PC via that unlockable — so it is available elsewhere and should be `Ported`. |
-| Fatal Frame | 2001 | **Include** (`Ported`) | The PS2 version shipped first (Dec 2001) and the Xbox version followed in 2002, making this a debut with a later port. | The two releases are close enough that some sources treat them as one launch, which would make it a `Sim-ship` in both catalogues. | ## Excluded
+| Fatal Frame | 2001 | **Include** (`Ported`) | The PS2 version shipped first (Dec 2001) and the Xbox version followed in 2002, making this a debut with a later port. | The two releases are close enough that some sources treat them as one launch, which would make it a `Sim-ship` in both catalogues. |
+
+## Excluded
 
 | Title | Year | Why excluded |
 |---|---|---|
@@ -134,7 +142,9 @@ Three more causes:
 | Grandia II, Skies of Arcadia, Sonic Adventure 2 (PS2/GC ports) | 2002–03 | Dreamcast originals. |
 | Guitar Hero II onward | 2006– | Sequels rather than debuts; also multiplatform. |
 | Any PS2 Classics / PS Plus Premium release | | Re-releases by definition. |
-| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on another home platform still disqualifies. | ## Appendix — the tails
+| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on another home platform still disqualifies. |
+
+## Appendix — the tails
 
 - **Japan-only releases (~1,500 titles).** Visual novels, dating sims, licensed
  anime games, mahjong and pachinko. Effectively all stranded.
@@ -148,7 +158,7 @@ Three more causes:
 
 ## Coverage gaps
 
-**This is the least complete file in the repo, by design.** ~60 of ~4,400 titles
+**This is the least complete list here, by design.** ~60 of ~4,400 titles
 are catalogued. What is covered: Sony first-party, the major Japanese RPG and horror
 output, Rockstar, and at least one representative of every stranding cause. What is
 not: the Japanese half of the library, sports, licensed tie-ins, and the budget tail.

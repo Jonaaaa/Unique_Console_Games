@@ -8,7 +8,9 @@
 | **See also** | [Game Boy Color](game-boy-color.md) for the ~570 GBC-exclusive "black cartridge" titles. Dual-mode games that run on both are catalogued here. |
 | **Library size** | ~1,050 Game Boy titles | | **Backward compat** | Game Boy Color and GBA play GB cartridges. That is BC, **not** another platform. |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | Marquee and historically significant titles verified individually. The licensed tie-in tail is summarised, not enumerated. | ## ⚠ Status caveat
+| **Coverage** | Marquee and historically significant titles verified individually. The licensed tie-in tail is summarised, not enumerated. |
+
+## ⚠ Status caveat
 
 The 3DS Virtual Console, Nintendo Switch Online's Game Boy app (2023), and
 publisher collections all count as releases on another platform. Nintendo has been
@@ -21,7 +23,9 @@ thorough with this library, so **the `Ported` share is high**.
 | **Debut games** | **34** |
 | — still `Stranded` | 11 |
 | — since `Ported` | 22 |
-| **Contested** | 2 | **Why the Game Boy strands games.** Three causes, one of them unique to this
+| **Contested** | 2 |
+
+**Why the Game Boy strands games.** Three causes, one of them unique to this
 platform:
 
 1. **Cartridge hardware.** The Game Boy is the only system here whose *games*
@@ -33,7 +37,7 @@ platform:
 3. **Link Cable dependency.** Trading and battling were the point of several
  titles, and the physical cable has no modern equivalent.
 
-Note the platform's most famous game is **not in this catalogue**: `Tetris` debuted
+Note the platform's most famous game is **not catalogued here**: `Tetris` debuted
 on a Soviet Electronika 60 in 1984, so the Game Boy pack-in is a port.
 
 ---
@@ -75,11 +79,15 @@ on a Soviet Electronika 60 in 1984, so the Game Boy pack-in is a port.
 | Pokémon Trading Card Game | 1998 | Hudson Soft | Nintendo | Card battler | 1–2 | No | Ported | 3DS Virtual Console, NSO | |
 | Pokémon Yellow | 1998 | Game Freak | Nintendo | RPG | 1–2 | No | Ported | 3DS Virtual Console (2016) | |
 | Wario Land II | 1998 | Nintendo R&D1 | Nintendo | Platformer | 1 | No | Ported | 3DS Virtual Console, NSO | Released for both GB and GBC. |
-| Pokémon Gold and Silver | 1999 | Game Freak | Nintendo | RPG | 1–2 | No | Ported | 3DS Virtual Console (2017), NSO | | ## Contested
+| Pokémon Gold and Silver | 1999 | Game Freak | Nintendo | RPG | 1–2 | No | Ported | 3DS Virtual Console (2017), NSO | |
+
+## Contested
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| Tetris DX | 1998 | **Include** (`Stranded`) | Adds save files, a scoring system, a versus mode and colour — a distinct GBC product, not a straight re-release. | It is fundamentally *Tetris* on the same platform family, so it is an enhanced re-release rather than a debut. | ## Excluded
+| Tetris DX | 1998 | **Include** (`Stranded`) | Adds save files, a scoring system, a versus mode and colour — a distinct GBC product, not a straight re-release. | It is fundamentally *Tetris* on the same platform family, so it is an enhanced re-release rather than a debut. |
+
+## Excluded
 
 | Title | Year | Why excluded |
 |---|---|---|
@@ -88,7 +96,9 @@ on a Soviet Electronika 60 in 1984, so the Game Boy pack-in is a port.
 | Donkey Kong Land series | 1995–97 | Original games, and they **qualify** — listed here only because they are often mistaken for ports of the SNES *Country* trilogy. |
 | Final Fantasy Legend I–III | 1989–91 | Qualify — these are the *SaGa* games, not ports of *Final Fantasy*. Listed here because the naming misleads. |
 | Any 3DS Virtual Console / NSO / collection release | | Re-releases by definition. |
-| *(games with an earlier arcade release)* | | **No longer excluded.** Arcades are out of scope — a cabinet is not a collectable home device — so the first *home* release counts as the debut. A prior release on another **home** console still disqualifies. | ## Appendix — the tails
+| *(games with an earlier arcade release)* | | **No longer excluded.** Arcades are out of scope — a cabinet is not a collectable home device — so the first *home* release counts as the debut. A prior release on another **home** console still disqualifies. |
+
+## Appendix — the tails
 
 - **Licensed tie-ins (~300 titles).** Film, cartoon and TV licences from LJN,
  THQ, Ocean, Acclaim and Absolute. Overwhelmingly stranded.

@@ -8,14 +8,18 @@
 | **Library size** | ~370 titles worldwide |
 | **Relationship to Master System** | The Game Gear is architecturally a portable Master System. Many titles shipped on both — where one came first, the other is a port. The Master Gear Converter plays SMS carts, which is BC. |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | Marquee titles verified individually. Licensed and Japan-only tails summarised, not enumerated. | ## Summary
+| **Coverage** | Marquee titles verified individually. Licensed and Japan-only tails summarised, not enumerated. |
+
+## Summary
 
 | | Count |
 |---|---|
 | **Debut games** | **31** |
 | — still `Stranded` | 19 |
 | — since `Ported` | 11 |
-| **Contested** | 1 | **Why the Game Gear strands games.** Sega has re-released the Game Gear's **Sonic**
+| **Contested** | 1 |
+
+**Why the Game Gear strands games.** Sega has re-released the Game Gear's **Sonic**
 library thoroughly — *Sonic Gems Collection* (2005) and especially *Sonic Origins
 Plus* (2023), which added twelve Game Gear titles in one go — and almost nothing
 else. Outside Sonic, the platform's output was licensed tie-ins and Japan-only
@@ -60,11 +64,15 @@ games each, sold as a collector's joke about the console's unreadable screen.
 | Baku Baku Animal | 1996 | Sega | Sega | Puzzle | 1–2 | No | Ported | Saturn, Sega collections | |
 | Madou Monogatari I | 1996 | Compile | Compile | Dungeon crawler | 1 | No | **Stranded** | | Japan-only. The series that *Puyo Puyo* spun out of. |
 | Panzer Dragoon Mini | 1996 | Sega | Sega | Rail shooter | 1 | No | **Stranded** | | Japan-only. The only handheld Panzer Dragoon, and the only entry untouched by the 2020 remake wave. |
-| Sonic Blast | 1996 | Aspect | Sega | Platformer | 1 | No | Ported | *Sonic Origins Plus* (2023) | Pre-rendered sprites on a screen that could not display them well. | ## Contested
+| Sonic Blast | 1996 | Aspect | Sega | Platformer | 1 | No | Ported | *Sonic Origins Plus* (2023) | Pre-rendered sprites on a screen that could not display them well. |
+
+## Contested
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| Sonic Chaos | 1993 | **Include** | The Game Gear version is the lead SKU and the one Sega reissues; the Master System build followed and was PAL/Brazil-only. | The two shipped close together on architecturally near-identical hardware, so it reads as one product on two form factors rather than a Game Gear debut. | ## Excluded
+| Sonic Chaos | 1993 | **Include** | The Game Gear version is the lead SKU and the one Sega reissues; the Master System build followed and was PAL/Brazil-only. | The two shipped close together on architecturally near-identical hardware, so it reads as one product on two form factors rather than a Game Gear debut. |
+
+## Excluded
 
 | Title | Year | Why excluded |
 |---|---|---|
@@ -72,7 +80,9 @@ games each, sold as a collector's joke about the console's unreadable screen.
 | Columns | 1990 | Launch title, but an arcade/Genesis title first on home hardware. |
 | Streets of Rage, Ecco the Dolphin, Aladdin (GG) | 1992–94 | Conversions of Genesis originals. |
 | Any Sonic Gems / Sonic Origins / Game Gear Micro release | | Re-releases by definition. |
-| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on another home platform still disqualifies. | ## Appendix — the tails
+| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on another home platform still disqualifies. |
+
+## Appendix — the tails
 
 - **Master System conversions (~120 titles).** A large share of the library is 8-bit
  Sega games shared with the Master System. Which platform came first varies title

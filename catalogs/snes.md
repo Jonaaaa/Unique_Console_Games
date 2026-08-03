@@ -7,7 +7,9 @@
 | **Library size** | ~1,750 titles worldwide |
 | **Backward compat** | None. The SNES is the original device for everything here. |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | Marquee and historically significant titles verified individually. The licensed tie-in and Japan-only tails are summarised in the [Appendix](#appendix--the-tails), not individually verified. | ## ⚠ Status caveat — same as NES
+| **Coverage** | Marquee and historically significant titles verified individually. The licensed tie-in and Japan-only tails are summarised in the [Appendix](#appendix--the-tails), not individually verified. |
+
+## ⚠ Status caveat — same as NES
 
 Virtual Console, Nintendo Switch Online, the SNES Classic Mini and publisher
 collections all count as releases on another platform, so **most of the canonical
@@ -21,7 +23,9 @@ Japan-only remainder. NSO's SNES library rotates and grows, so `Ported` is a flo
 | **Debut games** | **57** |
 | — still `Stranded` | 16 |
 | — since `Ported` | 40 |
-| **Contested** | 3 | **Why the SNES strands games.** Same cause as the NES — **dead licences** — with
+| **Contested** | 3 |
+
+**Why the SNES strands games.** Same cause as the NES — **dead licences** — with
 two additions. First, the SNES generation was the peak of the *film tie-in*, so
 Batman, Jurassic Park, Addams Family and Star Wars carts are everywhere and most
 are unreleasable. Second, the SNES had two Japan-only distribution experiments —
@@ -29,7 +33,7 @@ the **Satellaview** satellite service and the **Nintendo Power** SF Memory
 write-to-order cartridge kiosks — whose games were never manufactured normally and
 in several cases no longer fully exist.
 
-A third, rarer cause appears here for the first time in the repo: **litigation**.
+A third, rarer cause appears here for the first time: **litigation**.
 `Uniracers` is stranded because Pixar sued over its unicycle characters.
 
 ---
@@ -94,12 +98,16 @@ A third, rarer cause appears here for the first time in the repo: **litigation**
 | Treasure of the Rudras | 1996 | Square | Square | RPG | 1 | No | **Stranded** | | Japan-only. Its custom spell-name parser makes localisation hard. |
 | Sutte Hakkun | 1997 | Indies Zero | Nintendo | Puzzle | 1 | No | **Stranded** | | Nintendo Power SF Memory / Satellaview exclusive. |
 | Fire Emblem: Thracia 776 | 1999 | Intelligent Systems | Nintendo | Tactical RPG | 1 | No | Ported | NSO (Japan) | Originally distributed via Nintendo Power write-to-order kiosks before a small retail run. |
-| Star Fox 2 | 2017 | Nintendo EAD / Argonaut | Nintendo | Rail shooter | 1–2 | No | Ported | SNES Classic (2017), NSO | ⚠ [Contested](#contested) — finished in 1995, shelved, and first released 22 years later on a plug-and-play device. | ## Contested
+| Star Fox 2 | 2017 | Nintendo EAD / Argonaut | Nintendo | Rail shooter | 1–2 | No | Ported | SNES Classic (2017), NSO | ⚠ [Contested](#contested) — finished in 1995, shelved, and first released 22 years later on a plug-and-play device. |
+
+## Contested
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| Star Fox 2 | 2017 | **Include** (`Ported`) | Completed for the SNES in 1995. Under the repo's **shelved-games rule** the debut platform is the hardware a game was built for, so this is an SNES entry whose 2017 SNES Classic release makes it `Ported`. The Virtual Boy's `Zero Racers` is treated identically. | Its actual first sale was 2017 on a plug-and-play device, so a literal reading would make that its debut platform. |
-| Earthworm Jim 2 | 1995 | **Include** | The SNES and Genesis versions were separate builds and the SNES release was not preceded by the Genesis one. | Released across SNES/Genesis/Saturn/PS1 in close succession — a sim-ship, which would put it in several catalogues rather than this one. | ## Excluded
+| Star Fox 2 | 2017 | **Include** (`Ported`) | Completed for the SNES in 1995. Under the **shelved-games rule** the debut platform is the hardware a game was built for, so this is an SNES entry whose 2017 SNES Classic release makes it `Ported`. The Virtual Boy's `Zero Racers` is treated identically. | Its actual first sale was 2017 on a plug-and-play device, so a literal reading would make that its debut platform. |
+| Earthworm Jim 2 | 1995 | **Include** | The SNES and Genesis versions were separate builds and the SNES release was not preceded by the Genesis one. | Released across SNES/Genesis/Saturn/PS1 in close succession — a sim-ship, which would put it in several catalogues rather than this one. |
+
+## Excluded
 
 | Title | Year | Why excluded |
 |---|---|---|
@@ -109,7 +117,9 @@ A third, rarer cause appears here for the first time in the repo: **litigation**
 | Ogre Battle: The March of the Black Queen | 1993 | Qualifies and is `Ported` (PS1, Saturn, Virtual Console). |
 | Doom | 1995 | Port of the 1993 PC game. The SNES build is a bespoke Randy Linden conversion on a custom Super FX 2 chip and has never been reissued — stranded software, but not a debut. |
 | Any Virtual Console / NSO / SNES Classic release | | Re-releases by definition. |
-| *(games with an earlier arcade release)* | | **No longer excluded.** Arcades are out of scope — a cabinet is not a collectable home device — so the first *home* release counts as the debut. A prior release on another **home** console still disqualifies. | ## Appendix — the tails
+| *(games with an earlier arcade release)* | | **No longer excluded.** Arcades are out of scope — a cabinet is not a collectable home device — so the first *home* release counts as the debut. A prior release on another **home** console still disqualifies. |
+
+## Appendix — the tails
 
 - **Licensed tie-ins (~250+ titles).** Acclaim, LJN, Ocean, THQ, Absolute and
  Virgin film/cartoon/comic licences. Overwhelmingly stranded, for the same

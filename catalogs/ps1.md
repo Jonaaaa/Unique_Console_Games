@@ -8,7 +8,9 @@
 | **Library size** | ~4,000 titles worldwide; roughly half Japan-only |
 | **Backward compat** | PS2 and PS3 (early models) play PS1 discs. That is BC, **not** another platform. |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | Marquee Western and notable Japanese titles verified individually. The Japan-only and licensed tails are summarised, not enumerated. | ## ⚠ The PS Plus Premium problem, again
+| **Coverage** | Marquee Western and notable Japanese titles verified individually. The Japan-only and licensed tails are summarised, not enumerated. |
+
+## ⚠ The PS Plus Premium problem, again
 
 As with the [PSP](psp.md), Sony's PS Plus Premium Classics catalogue puts PS1 games
 on PS4 and PS5 as distinct store entries — a re-release, so it flips a row to
@@ -25,7 +27,9 @@ Premium listing as of 2026-07-29*. Re-check before relying on it.
 | **Debut games** | **52** |
 | — still `Stranded` | 21 |
 | — since `Ported` | 31 |
-| **Contested** | 1 | **Why the PS1 strands games.** On the PS1, **music and car licensing** becomes the dominant cause rather than film or comic rights.
+| **Contested** | 1 |
+
+**Why the PS1 strands games.** On the PS1, **music and car licensing** becomes the dominant cause rather than film or comic rights.
 
 The console arrived with CD audio, and developers used it for licensed soundtracks.
 `Gran Turismo` combines that with hundreds of individually licensed real cars —
@@ -98,11 +102,15 @@ Two further causes:
 | Fear Effect | 2000 | Kronos | Eidos | Action-adventure | 1 | No | **Stranded** | | Cel-shaded horror with pre-rendered animated backgrounds. Kronos folded in 2000. |
 | Final Fantasy IX | 2000 | Square | Square | RPG | 1 | No | Ported | PC, PS4, Xbox, Switch, mobile (2016–19) | |
 | Mega Man Legends 2 | 2000 | Capcom | Capcom | Action-adventure | 1 | No | **Stranded** | | As with the first game, absent from every Mega Man Legacy Collection; *Legends 3* was cancelled in 2011. |
-| Vagrant Story | 2000 | Square | Square | Action RPG | 1 | No | Ported | PS3, PS Plus Premium | Yasumi Matsuno's Ivalice entry. | ## Contested
+| Vagrant Story | 2000 | Square | Square | Action RPG | 1 | No | Ported | PS3, PS Plus Premium | Yasumi Matsuno's Ivalice entry. |
+
+## Contested
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| Gran Turismo / Gran Turismo 2 | 1997–99 | **Include** (`Stranded`) | Both debuted on PS1 and neither has ever been re-released, remastered or included in any subscription tier. | Later Gran Turismo games are effectively the same product line evolving, and Sony would argue the series is continuously available. But no later entry contains these games, so `Stranded` is correct. | ## Excluded
+| Gran Turismo / Gran Turismo 2 | 1997–99 | **Include** (`Stranded`) | Both debuted on PS1 and neither has ever been re-released, remastered or included in any subscription tier. | Later Gran Turismo games are effectively the same product line evolving, and Sony would argue the series is continuously available. But no later entry contains these games, so `Stranded` is correct. |
+
+## Excluded
 
 | Title | Year | Why excluded |
 |---|---|---|
@@ -118,7 +126,9 @@ Two further causes:
 | Resident Evil: Director's Cut | 1997 | Same-platform re-release. |
 | Persona 2: Eternal Punishment | 2000 | Qualifies and is `Stranded` outside Japan — its PSP remake was Japan-only. |
 | Any PS Plus Premium / PS3 Classics release | | Re-releases by definition. |
-| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on another home platform still disqualifies. | ## Appendix — the tails
+| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on another home platform still disqualifies. |
+
+## Appendix — the tails
 
 - **Japan-only releases (~2,000 titles).** Roughly half the library. Visual novels,
  dating sims, mahjong, licensed anime RPGs and a deep shmup catalogue. Almost

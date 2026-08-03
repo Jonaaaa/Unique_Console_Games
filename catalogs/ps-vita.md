@@ -5,10 +5,12 @@
 | **Platform** | Sony PlayStation Vita (PCH-1000 / PCH-2000) |
 | **Lifespan** | Dec 2011 (JP) – Mar 2019 (production ended); ~16M units sold |
 | **Store status** | **Open.** Sony announced closure in Mar 2021 and reversed the decision six weeks later. |
-| **Backward compat** | Plays PSP, PS1 and PS Minis digitally; PlayStation TV plays most Vita games. Neither counts as another platform — see the [BC rule](./.claude/skills/unique-console-games/SKILL.md#backward-compatibility-is-not-another-platform). |
+| **Backward compat** | Plays PSP, PS1 and PS Minis digitally; PlayStation TV plays most Vita games. Neither counts as another platform — see the [BC rule](../.claude/skills/unique-console-games/SKILL.md#backward-compatibility-is-not-another-platform). |
 | **Category spine** | 79 titles tagged `Category:PlayStation Vita-only games` on Wikipedia (fetched 2026-07-29) |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | Western and notable Japanese releases verified individually. Japanese visual-novel and licensed-anime tie-ins are listed in the [Appendix](#appendix--the-japanese-tie-in-tail) but not individually verified. | ## Summary
+| **Coverage** | Western and notable Japanese releases verified individually. Japanese visual-novel and licensed-anime tie-ins are listed in the [Appendix](#appendix--the-japanese-tie-in-tail) but not individually verified. |
+
+## Summary
 
 | | Count |
 |---|---|
@@ -16,7 +18,9 @@
 | — still `Stranded` | 37 |
 | — since `Ported` | 14 |
 | — `Sim-ship` | 8 |
-| **Contested** | 1 | **Why the Vita strands games.** The Wii U stranded games through hardware — the
+| **Contested** | 1 |
+
+**Why the Vita strands games.** The Wii U stranded games through hardware — the
 GamePad could not be emulated on a single screen. The Vita's causes are commercial
 and legal instead. Sony's own first-party Vita studios were shut down (Bend moved
 to *Days Gone*, Zipper Interactive closed in 2012, Guerrilla Cambridge in 2017),
@@ -95,7 +99,9 @@ Every game that debuted on this platform and launched nowhere else. `Status` rec
 | Tokyo Xanadu | 2015 | Nihon Falcom | Falcom / Aksys | Action RPG | 1 | No | Ported | PS4, PC (2017, as *eX+*) | |
 | Dragon Quest Builders | 2016 | Square Enix | Square Enix | Sandbox | 1 | No | Sim-ship | PS4 (2016, same day), Switch (2018) | |
 | Severed | 2016 | DrinkBox Studios | DrinkBox | Dungeon crawler | 1 | No | Ported | Wii U, 3DS, PS4, Xbox One, Switch, PC (2016–17) | Vita-first by a few months. |
-| Zero Time Dilemma | 2016 | Chime | Aksys / Spike Chunsoft | Visual novel | 1 | No | Sim-ship | 3DS, PC (2016, same day), PS4 (2017) | | ## Contested
+| Zero Time Dilemma | 2016 | Chime | Aksys / Spike Chunsoft | Visual novel | 1 | No | Sim-ship | 3DS, PC (2016, same day), PS4 (2017) | |
+
+## Contested
 
 Under the debut rule most former disputes resolved themselves — a later port no
 longer threatens membership, so the only question left is *"is this a debut or a
@@ -103,7 +109,9 @@ port?"*.
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| Oreshika: Tainted Bloodlines | 2014 | **Include** | Debuted on Vita worldwide as a new game; never ported. | It is a sequel-remake of *Ore no Shikabane o Koete Yuke* (PS1, 1999), which some readings treat as the same product rather than a new one. | **Resolved by the rule change:** *Tearaway* and *Soul Sacrifice Delta* are no
+| Oreshika: Tainted Bloodlines | 2014 | **Include** | Debuted on Vita worldwide as a new game; never ported. | It is a sequel-remake of *Ore no Shikabane o Koete Yuke* (PS1, 1999), which some readings treat as the same product rather than a new one. |
+
+**Resolved by the rule change:** *Tearaway* and *Soul Sacrifice Delta* are no
 longer contested. *Tearaway* debuted on Vita, so *Unfolded* only sets its `Status`
 to `Ported`; *Delta* is a same-platform re-release and never affected anything.
 
@@ -119,7 +127,9 @@ to `Ported`; *Delta* is a same-platform re-release and never affected anything.
 | Minecraft: PlayStation Vita Edition | 2014 | Port of the 2011 PC game. |
 | Everybody's Golf / Hot Shots Golf: World Invitational | 2011 | Also on PS3 (2012). |
 | Any PSP, PS1 or PS Minis title played on Vita | | Backward compatibility, not a Vita release. |
-| *(same-day multiplatform launches)* | | **No longer excluded** — they now appear in the main table as `Sim-ship`. Only *later* ports are excluded. | ## Appendix — the Japanese tie-in tail
+| *(same-day multiplatform launches)* | | **No longer excluded** — they now appear in the main table as `Sim-ship`. Only *later* ports are excluded. |
+
+## Appendix — the Japanese tie-in tail
 
 Roughly half the `Vita-only` category is Japanese visual novels, idol games and
 licensed anime tie-ins that never left Japan and never left the platform. These are

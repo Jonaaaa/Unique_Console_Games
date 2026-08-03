@@ -28,7 +28,9 @@ from the tables themselves.
 | R11 | Every file has Debut games / Excluded / Sources / Coverage gaps / Last verified | File structure |
 | R12 | No broken internal links | |
 | R13 | **Sim-ship reciprocity** — a `Sim-ship` must appear in every co-launch platform's file that exists | Never pick a canonical platform |
-| R14 | Escaped pipes (`\|`) must not appear in table cells — they break column parsing | Table schema | **R13 is the one that catches the most.** In its first run it found 16 sim-ships
+| R14 | Escaped pipes (`\|`) must not appear in table cells — they break column parsing | Table schema |
+
+**R13 is the one that catches the most.** In its first run it found 16 sim-ships
 present in only one file — including three where a note said "Also catalogued under X"
 and the row in X had never been added.
 
@@ -44,7 +46,9 @@ Run 2026-07-29, after the compilations change:
 | Excluded as "arcade first" | 2 | **Real** — one was also in its own table, a direct contradiction |
 | `Ported` justified by a PC port alone | 1 | **Real** — contradicted the PC rule |
 | Escaped pipes in `Also On` | 4 | **Real** — silently broke column parsing |
-| Title spelled two ways across files | 1 | `Nier` vs `NieR` | Two rule *gaps* were also exposed, and are now settled in the skill:
+| Title spelled two ways across files | 1 | `Nier` vs `NieR` |
+
+Two rule *gaps* were also exposed, and are now settled in the skill:
 
 - **`Sim-ship` outranks `Ported`.** A game can launch same-day on two consoles and
  reach a third later. `Forza Horizon 5` did. The status stays `Sim-ship` because that

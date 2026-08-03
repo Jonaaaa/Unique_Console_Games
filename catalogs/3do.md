@@ -7,13 +7,15 @@
 | **Library size** | ~250 titles |
 | **Backward compat** | None. |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | Notable titles verified individually. The FMV and licensed-shovelware tails are summarised. | ## ⚠ An open hardware licence, and what it did to the rights
+| **Coverage** | Notable titles verified individually. The FMV and licensed-shovelware tails are summarised. |
+
+## ⚠ An open hardware licence, and what it did to the rights
 
 The 3DO Company designed the hardware and **licensed it to manufacturers** rather than
 building it with that model. It launched at $699,
 which is why it sold 2 million units against the PlayStation's 100 million.
 
-For this catalogue the consequence is unusual: 3DO's own published catalogue was
+The consequence is unusual: 3DO's own published catalogue was
 bought by **Ubisoft** when the company went bankrupt in 2003, while third-party 3DO
 games scattered. So `Ported` here mostly means "the developer survived and moved the
 game to PS1 or Saturn in 1995–96", not "someone reissued it later".
@@ -25,7 +27,9 @@ game to PS1 or Saturn in 1995–96", not "someone reissued it later".
 | **Debut games** | **16** |
 | — still `Stranded` | 10 |
 | — since `Ported` | 6 |
-| **Contested** | 0 | **Why the 3DO strands games.** The platform was a stepping stone — developers built on
+| **Contested** | 0 |
+
+**Why the 3DO strands games.** The platform was a stepping stone — developers built on
 it, then moved to PS1 and Saturn within eighteen months. Games that made that jump are
 `Ported`; games whose studios folded first are stranded, and the 3DO era killed a lot
 of studios. There has never been any 3DO reissue programme of any kind.
@@ -51,7 +55,9 @@ of studios. There has never been any 3DO reissue programme of any kind.
 | Killing Time | 1995 | Studio 3DO | Panasonic | FPS | 1 | No | **Stranded** | | A PC version followed in 1996, but PC is not a catalogued platform — so there is no second console to own it on. |
 | Lucienne's Quest | 1995 | Micro Cabin | Panasonic | RPG | 1 | No | **Stranded** | | **The only traditional JRPG released in English on the platform.** Micro Cabin's catalogue has been dormant for two decades. |
 | Return Fire | 1995 | Silent Software | Prolific | Vehicular combat | 1–2 | No | Ported | PS1, Saturn, PC (1995–96) | |
-| Captain Quazar | 1996 | Cyclone Studios | 3DO | Action | 1–2 | No | **Stranded** | | One of the last 3DO releases, published as the company pivoted to PC. | ## Excluded
+| Captain Quazar | 1996 | Cyclone Studios | 3DO | Action | 1–2 | No | **Stranded** | | One of the last 3DO releases, published as the company pivoted to PC. |
+
+## Excluded
 
 | Title | Year | Why excluded |
 |---|---|---|
@@ -62,7 +68,9 @@ of studios. There has never been any 3DO reissue programme of any kind.
 | Samurai Shodown, Super Street Fighter II Turbo | 1994–95 | Earlier home versions on Neo Geo and SNES. |
 | Wing Commander III, FIFA, Need for Speed | 1994–95 | Simultaneous or earlier releases on PC and other consoles. |
 | *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on a home computer or console still disqualifies. |
-| *(games with a later PC port)* | | **Not `Ported`.** PC is not a catalogued platform. | ## Appendix — the tails
+| *(games with a later PC port)* | | **Not `Ported`.** PC is not a catalogued platform. |
+
+## Appendix — the tails
 
 - **Full-motion-video titles (~60).** The 3DO's selling point was CD video, and a
  large share of the library is FMV with paid actors — which layers likeness rights on

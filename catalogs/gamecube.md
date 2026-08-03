@@ -8,7 +8,9 @@
 | **Backward compat** | None outward. The Wii plays GameCube discs — that is BC, **not** another platform. |
 | **Switch 2 status** | Nintendo Classics added a GameCube library at Switch 2 launch (Jun 2025). **9 titles as of Mar 2026**, expanding. Those are re-releases and count as `Ported`. |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | First-party and notable third-party titles verified individually. Licensed and sports tails summarised, not enumerated. | ## ⚠ This file will age faster than the others
+| **Coverage** | First-party and notable third-party titles verified individually. Licensed and sports tails summarised, not enumerated. |
+
+## ⚠ These entries will age faster than most
 
 The Switch 2 GameCube library is **actively expanding**. Confirmed available:
 `The Legend of Zelda: The Wind Waker`, `Soulcalibur II`, `F-Zero GX`,
@@ -27,7 +29,9 @@ any `Stranded` claim for a Nintendo-published title here.
 | — still `Stranded` | 24 |
 | — since `Ported` | 24 |
 | — `Sim-ship` | 3 |
-| **Contested** | 2 | **Why the GameCube strands games.** For years the answer was
+| **Contested** | 2 |
+
+**Why the GameCube strands games.** For years the answer was
 **nothing was being re-sold at all** — the GameCube was the only Nintendo home
 console with no Virtual Console presence, skipped by Wii, Wii U and Switch alike.
 That changed in June 2025.
@@ -95,14 +99,18 @@ What is left splits three ways:
 | Geist | 2005 | n-Space | Nintendo | FPS | 1–4 | No | **Stranded** | | A rare Nintendo-published M-rated FPS. |
 | Killer7 | 2005 | Grasshopper Manufacture | Capcom | Action-adventure | 1 | No | Sim-ship | PS2 (2005, same day), PC (2018) | |
 | Pokémon XD: Gale of Darkness | 2005 | Genius Sonority | Nintendo | RPG | 1 | No | Ported | Switch 2 (2026, Nintendo Classics) | |
-| Resident Evil 4 | 2005 | Capcom Production Studio 4 | Capcom | Survival horror | 1 | No | Ported | Almost every platform since; full remake (2023) | The most-ported game in this catalogue. |
+| Resident Evil 4 | 2005 | Capcom Production Studio 4 | Capcom | Survival horror | 1 | No | Ported | Almost every platform since; full remake (2023) | The most-ported game here. |
 | Star Fox: Assault | 2005 | Namco | Nintendo | Action | 1–4 | No | **Stranded** | | Namco-developed but Nintendo-owned — a split that has kept every console Star Fox after 64 stranded. |
 | Super Mario Strikers | 2005 | Next Level Games | Nintendo | Sports | 1–4 | No | **Stranded** | | PAL: *Mario Smash Football*. |
 | Baten Kaitos Origins | 2006 | Monolith Soft / tri-Crescendo | Nintendo | RPG | 1 | No | Ported | Switch, PS4/PS5, Xbox, PC (2023, *HD Remaster*) | Never released in PAL territories originally. |
-| Odama | 2006 | Vivarium | Nintendo | Pinball / strategy | 1 | No | **Stranded** | | Shipped with a microphone for voice commands to troops. | ## Contested
+| Odama | 2006 | Vivarium | Nintendo | Pinball / strategy | 1 | No | **Stranded** | | Shipped with a microphone for voice commands to troops. |
+
+## Contested
 
 | Title | Year | Verdict | Case for including | Case against |
-|---|---|---|---|---| ## Excluded
+|---|---|---|---|---|
+
+## Excluded
 
 | Title | Year | Why excluded |
 |---|---|---|
@@ -115,7 +123,9 @@ What is left splits three ways:
 | Twilight Princess (GameCube) | 2006 | The Wii version released first (19 Nov 2006 vs 12 Dec). The GameCube build is the later release of the pair. |
 | Ikaruga | 2002 | The **Dreamcast** version reached home first (Japan, Sep 2002) — see [Dreamcast](dreamcast.md). Arcades are out of scope, so the arcade original is irrelevant; the prior home release is what disqualifies it. |
 | Any Wii disc played on GameCube hardware | | Not possible; the reverse is backward compatibility. |
-| *(games with an earlier arcade release)* | | **No longer excluded.** Arcades are out of scope — a cabinet is not a collectable home device — so the first *home* release counts as the debut. A prior release on another **home** console still disqualifies. | ## Appendix — the tails
+| *(games with an earlier arcade release)* | | **No longer excluded.** Arcades are out of scope — a cabinet is not a collectable home device — so the first *home* release counts as the debut. A prior release on another **home** console still disqualifies. |
+
+## Appendix — the tails
 
 - **Licensed film and TV tie-ins (~120 titles).** The GameCube era overlapped the
  peak of the movie-licence platformer: Disney, Nickelodeon, Harry Potter, Lord of

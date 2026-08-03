@@ -7,7 +7,9 @@
 | **Library size** | ~125 official titles |
 | **Backward compat** | None. |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | Near-complete for debut titles. | ## ⚠ The platform that had real sports licences in 1979
+| **Coverage** | Near-complete for debut titles. |
+
+## ⚠ The platform that had real sports licences in 1979
 
 Mattel's differentiator was **officially licensed sports** — it secured MLB, NFL, NBA,
 NHL and PGA rights at a time when Atari used generic names. That won it market share
@@ -25,7 +27,9 @@ It is an early example of licensing-as-strategy becoming licensing-as-tombstone 
 | **Debut games** | **14** |
 | — still `Stranded` | 6 |
 | — since `Ported` | 7 |
-| **Contested** | 1 | **Why the Intellivision strands games.** Two clean groups:
+| **Contested** | 1 |
+
+**Why the Intellivision strands games.** Two clean groups:
 
 1. **The licensed sports catalogue** — MLB, NFL, NBA, NHL, PGA. Unreissuable.
 2. **Third-party character licences** — `TRON`, `Advanced Dungeons & Dragons`,
@@ -54,11 +58,15 @@ the split here is clean — Mattel's own games survived, licensed ones did not.
 | Donkey Kong | 1982 | Coleco | Coleco | Platformer | 1 | No | Sim-ship | Atari 2600, ColecoVision (1982, same window) | Also catalogued under [Atari 2600](atari-2600.md) and [ColecoVision](colecovision.md). |
 | Night Stalker | 1982 | Steve Montero | Mattel | Action | 1 | No | Ported | *Intellivision Lives!*, Flashback, Evercade | |
 | Shark! Shark! | 1982 | Don Daglow | Mattel | Action | 1–2 | No | Ported | *Intellivision Lives!*, Flashback, Evercade | |
-| TRON: Deadly Discs | 1982 | Mattel | Mattel | Action | 1 | No | **Stranded** | | The best-regarded TRON game of its era, and locked behind a **Disney** licence. Renamed in later Mattel collections to remove the branding, so the game as shipped has never been reissued. | ## Contested
+| TRON: Deadly Discs | 1982 | Mattel | Mattel | Action | 1 | No | **Stranded** | | The best-regarded TRON game of its era, and locked behind a **Disney** licence. Renamed in later Mattel collections to remove the branding, so the game as shipped has never been reissued. |
+
+## Contested
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| Advanced Dungeons & Dragons: Cloudy Mountain | 1982 | **Include** (`Stranded`) | The game as released — with its D&D licence and branding — has never been reissued. What appears in Mattel's collections is a **renamed** version with the licence stripped out. | A functionally identical game *is* purchasable as *Crown of Kings*, so a player can play it. This repo tracks the released product, not the mechanics, which is why it reads `Stranded` — the same reasoning applied to `Mike Tyson's Punch-Out!!` on NES. | ## Excluded
+| Advanced Dungeons & Dragons: Cloudy Mountain | 1982 | **Include** (`Stranded`) | The game as released — with its D&D licence and branding — has never been reissued. What appears in Mattel's collections is a **renamed** version with the licence stripped out. | A functionally identical game *is* purchasable as *Crown of Kings*, so a player can play it. What is tracked is the released product, not the mechanics, which is why it reads `Stranded` — the same reasoning applied to `Mike Tyson's Punch-Out!!` on NES. |
+
+## Excluded
 
 | Title | Year | Why excluded |
 |---|---|---|
@@ -66,7 +74,9 @@ the split here is clean — Mattel's own games survived, licensed ones did not.
 | Popeye, Masters of the Universe | 1983 | Licensed conversions with versions on other platforms in the same window. |
 | Pitfall!, River Raid, Demon Attack | 1983 | Activision and Imagic titles that debuted on the Atari 2600. |
 | Any *Intellivision Lives!* / Flashback / Evercade release | 2003– | Re-releases by definition. |
-| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on another home console still disqualifies. | ## Appendix — the tails
+| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on another home console still disqualifies. |
+
+## Appendix — the tails
 
 - **Licensed sports (~15 titles).** The platform's commercial identity and its most
  reliably stranded block. Later collections include renamed versions with the league

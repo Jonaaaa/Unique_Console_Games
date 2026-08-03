@@ -9,14 +9,18 @@
 | **Online** | WiiConnect24 ended Jun 2013; online play ended May 2014 |
 | **Backward compat** | Plays GameCube discs (original models only). That is BC, **not** another platform. |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | First-party and notable third-party titles verified individually. The casual/licensed tail — the largest of any home console — is summarised, not enumerated. | ## Summary
+| **Coverage** | First-party and notable third-party titles verified individually. The casual/licensed tail — the largest of any home console — is summarised, not enumerated. |
+
+## Summary
 
 | | Count |
 |---|---|
 | **Debut games** | **51** |
 | — still `Stranded` | 37 |
 | — since `Ported` | 14 |
-| **Contested** | 1 | **Why the Wii strands games.** The Wii is the clearest case in the repo of a
+| **Contested** | 1 |
+
+**Why the Wii strands games.** The Wii is the clearest case here of a
 platform stranded by its **controller**. The Wii Remote's motion sensing, the
 Nunchuk, MotionPlus, the Balance Board and the Zapper were not accessories — they
 were the reason the console sold 101 million units. Games built to that brief cannot
@@ -89,11 +93,15 @@ migrated.
 | The Last Story | 2011 | Mistwalker / AQ Interactive | Nintendo | RPG | 1–6 | Dead (2014) | **Stranded** | | Hironobu Sakaguchi's post-Final Fantasy RPG. One of the Operation Rainfall three; the only one still stranded. |
 | The Legend of Zelda: Skyward Sword | 2011 | Nintendo EAD | Nintendo | Action-adventure | 1 | No | Ported | Switch (2021, *HD*) | Built for 1:1 MotionPlus swordplay; the HD version added a button-only scheme. |
 | Kirby's Dream Collection | 2012 | HAL Laboratory | Nintendo | Compilation | 1–4 | No | **Stranded** | | Six Kirby games plus new challenge stages and a history booklet, released for the series' 20th anniversary in limited quantities. The new content exists nowhere else. |
-| Mario Party 9 | 2012 | Nd Cube | Nintendo | Party | 1–4 | No | **Stranded** | | Its car-based board design has never been revisited, and the motion minigames rule out a straight port. | ## Contested
+| Mario Party 9 | 2012 | Nd Cube | Nintendo | Party | 1–4 | No | **Stranded** | | Its car-based board design has never been revisited, and the motion minigames rule out a straight port. |
+
+## Contested
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| The Legend of Zelda: Twilight Princess | 2006 | **Include** (`Ported`) | The Wii version released first — 19 Nov 2006 versus 12 Dec for GameCube — so by date it debuted here. | It was developed as a GameCube game and mirrored for the Wii late in production. The GameCube build is the original, which would move this to the [GameCube](gamecube.md) catalogue. Both files reference it; only this one counts it. | ## Excluded
+| The Legend of Zelda: Twilight Princess | 2006 | **Include** (`Ported`) | The Wii version released first — 19 Nov 2006 versus 12 Dec for GameCube — so by date it debuted here. | It was developed as a GameCube game and mirrored for the Wii late in production. The GameCube build is the original, which would move this to the [GameCube](gamecube.md) catalogue. Both files reference it; only this one counts it. |
+
+## Excluded
 
 | Title | Year | Why excluded |
 |---|---|---|
@@ -104,7 +112,9 @@ migrated.
 | Resident Evil 4: Wii Edition | 2007 | Port of the 2005 GameCube game. |
 | Cave Story (WiiWare) | 2010 | PC original (2004). |
 | Any Virtual Console release | | Re-releases by definition. |
-| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on another home platform still disqualifies. | ## Appendix — the tails
+| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on another home platform still disqualifies. |
+
+## Appendix — the tails
 
 - **Casual and licensed shovelware (~900 titles).** The Wii's install base produced
  the largest low-budget tail of any home console: minigame compilations, fitness

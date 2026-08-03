@@ -7,7 +7,9 @@
 | **Library size** | ~500 licensed titles, plus a large unlicensed and continuing homebrew scene |
 | **Backward compat** | The Atari 7800 plays 2600 cartridges. That is BC, **not** another platform. |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | Marquee and interesting titles verified individually. The licensed and shovelware tails are summarised, not enumerated. | ## ⚠ The arcade rule inverts here
+| **Coverage** | Marquee and interesting titles verified individually. The licensed and shovelware tails are summarised, not enumerated. |
+
+## ⚠ The arcade rule inverts here
 
 On the NES, `Donkey Kong` is **excluded** because the Atari 2600 and ColecoVision
 already had it in 1982. Go back one generation and the 2600 *is* that earlier
@@ -29,7 +31,9 @@ are disqualified on prior-home-release grounds.
 | **Debut games** | **22** |
 | — still `Stranded` | 7 |
 | — since `Ported` | 14 |
-| **Contested** | 1 | **Why the 2600 strands games.** Atari has been diligent — *Atari 50: The
+| **Contested** | 1 |
+
+**Why the 2600 strands games.** Atari has been diligent — *Atari 50: The
 Anniversary Celebration* (2022), the Flashback consoles and *Atari Vault* between them
 cover most of what Atari owns. So `Stranded` here isolates two specific groups:
 
@@ -67,11 +71,15 @@ cover most of what Atari owns. So `Stranded` here isolates two specific groups:
 | Montezuma's Revenge | 1984 | Utopia Software | Parker Brothers | Platformer | 1 | No | Ported | Multiple compilations and reissues | Later became a benchmark problem in AI research for its sparse-reward structure. |
 | Pitfall II: Lost Caverns | 1984 | Activision | Activision | Platformer | 1 | No | Ported | *Activision Anthology* | Technically remarkable — a far larger world than the hardware should have allowed. |
 | Solaris | 1986 | Atari | Atari | Space combat | 1 | No | Ported | *Atari 50*, Atari Flashback | Released nine years into the platform's life and still cited as the most technically accomplished 2600 game. |
-| Halo 2600 | 2010 | Ed Fries | Homebrew | Action | 1 | No | **Stranded** | | Written by the former Microsoft executive who founded Xbox Game Studios, decades after the platform died. Distributed as a homebrew cartridge; no official release exists and the Halo licence guarantees none will. | ## Contested
+| Halo 2600 | 2010 | Ed Fries | Homebrew | Action | 1 | No | **Stranded** | | Written by the former Microsoft executive who founded Xbox Game Studios, decades after the platform died. Distributed as a homebrew cartridge; no official release exists and the Halo licence guarantees none will. |
+
+## Contested
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| Halo 2600 | 2010 | **Include** (`Stranded`) | An original game written for 2600 hardware and sold as a physical cartridge. The platform's homebrew scene has been commercially active for decades and produces genuine debuts. | It is unlicensed homebrew using someone else's IP, released 18 years after the console was discontinued. If homebrew counts, the 2600's library grows by several hundred titles this file does not attempt to cover. | ## Excluded
+| Halo 2600 | 2010 | **Include** (`Stranded`) | An original game written for 2600 hardware and sold as a physical cartridge. The platform's homebrew scene has been commercially active for decades and produces genuine debuts. | It is unlicensed homebrew using someone else's IP, released 18 years after the console was discontinued. If homebrew counts, the 2600's library grows by several hundred titles not covered here. |
+
+## Excluded
 
 | Title | Year | Why excluded |
 |---|---|---|
@@ -79,7 +87,9 @@ cover most of what Atari owns. So `Stranded` here isolates two specific groups:
 | Video Olympics | 1977 | A collection of Pong variants, already released on dedicated hardware. |
 | Pac-Man, Ms. Pac-Man, Defender | 1982 | Qualify as first home releases and would be `Stranded` — the Namco and Williams/WB licences keep them out of Atari's collections. Listed here only because their absence from *Atari 50* causes confusion. |
 | Any *Atari 50* / Flashback / *Activision Anthology* release | | Re-releases by definition. |
-| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on the Magnavox Odyssey, Channel F or a home computer still disqualifies. | ## Appendix — the tails
+| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on the Magnavox Odyssey, Channel F or a home computer still disqualifies. |
+
+## Appendix — the tails
 
 - **Licensed tie-ins (~80 titles).** Film, TV and comic licences from Atari, Parker
  Brothers, Coleco and 20th Century Fox. Almost all stranded, for the ordinary reason.

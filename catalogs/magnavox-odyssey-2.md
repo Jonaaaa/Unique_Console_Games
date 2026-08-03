@@ -7,7 +7,9 @@
 | **Library size** | ~50 North American titles, ~80 including Videopac-only European releases |
 | **Backward compat** | None. Unrelated to the 1972 [Odyssey](magnavox-odyssey.md). |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | Notable titles verified individually. | ## ⚠ The console with a keyboard
+| **Coverage** | Notable titles verified individually. |
+
+## ⚠ The console with a keyboard
 
 The Odyssey² shipped with a **full membrane keyboard** built into the console — unique
 among its generation — and its defining product was `The Voice`, a speech-synthesis
@@ -24,7 +26,9 @@ Magnavox and Philips both abandoned the platform in 1984. Nothing has been reiss
 | **Debut games** | **7** |
 | — still `Stranded` | 7 |
 | — since `Ported` | 0 |
-| **Contested** | 0 | **Why the Odyssey² strands games.** Three causes, one of them unusual:
+| **Contested** | 0 |
+
+**Why the Odyssey² strands games.** Three causes, one of them unusual:
 
 1. **No rights holder.** Philips exited; the Magnavox brand is a licensing shell.
 2. **The Voice module.** Speech-synthesis titles need a discontinued peripheral.
@@ -46,14 +50,18 @@ Another platform here with a `Ported` count of **zero**.
 | Pick Axe Pete | 1982 | Ed Averett | Magnavox | Platformer | 1 | No | **Stranded** | | Widely regarded as the platform's best action game. |
 | Turtles | 1982 | Konami | Philips | Maze | 1 | No | **Stranded** | | A Videopac-only European release, licensed from Konami's cabinet. |
 | Attack of the Timelord! | 1983 | Ed Averett | Philips | Shoot 'em up | 1 | No | **Stranded** | | Uses The Voice for taunting speech during play. |
-| Killer Bees! | 1983 | Ed Averett | Magnavox | Action | 1–2 | No | **Stranded** | | One of the few titles supporting **The Voice** speech module — peripheral-locked on top of everything else. | ## Excluded
+| Killer Bees! | 1983 | Ed Averett | Magnavox | Action | 1–2 | No | **Stranded** | | One of the few titles supporting **The Voice** speech module — peripheral-locked on top of everything else. |
+
+## Excluded
 
 | Title | Year | Why excluded |
 |---|---|---|
 | Built-in console games | 1978 | Fixed in ROM, not on removable media. |
 | Videopac+ G7400 enhanced titles | 1983 | A late European hardware revision with a handful of enhanced versions of existing games. |
 | K.C.'s Krazy Chase!, Munchkin sequels | 1982–83 | Qualify as debuts and are `Stranded`; not separately tabled. |
-| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on another home console still disqualifies. | ## Coverage gaps
+| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on another home console still disqualifies. |
+
+## Coverage gaps
 
 - 7 of ~80 titles including European Videopac exclusives, which are thinly documented
  in English.

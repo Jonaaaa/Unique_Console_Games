@@ -9,14 +9,18 @@
 | **Scope** | **GBC-exclusive titles only.** Dual-mode cartridges that also run on an original Game Boy are catalogued under [Game Boy](game-boy.md), since the Game Boy is the older original device. |
 | **Backward compat** | Plays Game Boy cartridges; GBA plays GBC cartridges. Both are BC, **not** another platform. |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | Marquee titles verified individually. The licensed tail is summarised, not enumerated. | ## Summary
+| **Coverage** | Marquee titles verified individually. The licensed tail is summarised, not enumerated. |
+
+## Summary
 
 | | Count |
 |---|---|
 | **Debut games** | **17** |
 | — still `Stranded` | 11 |
 | — since `Ported` | 6 |
-| **Contested** | 1 | **Why the Game Boy Color strands games.** The GBC inherits the Game Boy's defining
+| **Contested** | 1 |
+
+**Why the Game Boy Color strands games.** The GBC inherits the Game Boy's defining
 problem — **hardware inside the cartridge** — and its two worst cases are here:
 `Kirby Tilt 'n' Tumble` contains an accelerometer, and `Pokémon Pinball` contains a
 rumble motor and its own AAA battery. Neither can be reproduced by a software
@@ -52,11 +56,15 @@ the only games in either series absent from *Rare Replay*.
 | Resident Evil Gaiden | 2001 | M4 | Capcom | Survival horror | 1 | No | **Stranded** | | A wholly original Resident Evil with a first-person timing-based combat system. Never reissued in any form. |
 | The Legend of Zelda: Oracle of Ages | 2001 | Flagship / Capcom | Nintendo | Action-adventure | 1 | No | Ported | 3DS Virtual Console, NSO | |
 | The Legend of Zelda: Oracle of Seasons | 2001 | Flagship / Capcom | Nintendo | Action-adventure | 1 | No | Ported | 3DS Virtual Console, NSO | Linked to *Oracle of Ages* by password. |
-| Shantae | 2002 | WayForward | Capcom | Platformer | 1 | No | Ported | 3DS Virtual Console (2013), Switch/PS4/PS5/Xbox (2021) | Released at the very end of the GBC's life into a dead market; original carts became famously expensive. | ## Contested
+| Shantae | 2002 | WayForward | Capcom | Platformer | 1 | No | Ported | 3DS Virtual Console (2013), Switch/PS4/PS5/Xbox (2021) | Released at the very end of the GBC's life into a dead market; original carts became famously expensive. |
+
+## Contested
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| Tetris DX | 1998 | **Include** (`Stranded`) | Adds save files, a scoring system, a versus mode and colour — a distinct GBC product. | It is fundamentally *Tetris* on the same hardware line, so an enhanced re-release rather than a debut. | ## Excluded
+| Tetris DX | 1998 | **Include** (`Stranded`) | Adds save files, a scoring system, a versus mode and colour — a distinct GBC product. | It is fundamentally *Tetris* on the same hardware line, so an enhanced re-release rather than a debut. |
+
+## Excluded
 
 | Title | Year | Why excluded |
 |---|---|---|
@@ -65,7 +73,9 @@ the only games in either series absent from *Rare Replay*.
 | Super Mario Bros. Deluxe | 1999 | Enhanced port of the 1985 NES game. |
 | Dragon Warrior I & II / III | 2000 | Ports of NES originals. |
 | Any 3DS Virtual Console / NSO / collection release | | Re-releases by definition. |
-| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on another home platform still disqualifies. | ## Appendix — the tail
+| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on another home platform still disqualifies. |
+
+## Appendix — the tail
 
 - **Licensed tie-ins (~200 titles).** The GBC's late library is dominated by film,
  cartoon and toy licences from THQ, Ubi Soft and Activision. Almost all stranded.
@@ -76,7 +86,7 @@ the only games in either series absent from *Rare Replay*.
 ## Coverage gaps
 
 - The licensed tail is characterised, not enumerated.
-- Dual-mode cartridges are deliberately catalogued under Game Boy, so this file
+- Dual-mode cartridges are deliberately catalogued under Game Boy, so the list here
  undercounts the GBC's practical library.
 
 ## Sources

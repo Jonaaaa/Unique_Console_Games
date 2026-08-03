@@ -7,7 +7,9 @@
 | **Library size** | ~1,500 titles worldwide |
 | **Backward compat** | Plays GB and GBC cartridges. DS and DS Lite play GBA cartridges. Both are BC, **not** another platform. |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | Marquee and historically significant titles verified individually. Licensed tie-in and Japan-only tails summarised, not enumerated. | ## ⚠ Status caveat
+| **Coverage** | Marquee and historically significant titles verified individually. Licensed tie-in and Japan-only tails summarised, not enumerated. |
+
+## ⚠ Status caveat
 
 Wii U Virtual Console, the Nintendo Switch Online GBA app (2023), and publisher
 collections all count as releases on another platform. NSO's GBA library is
@@ -20,7 +22,9 @@ collections all count as releases on another platform. NSO's GBA library is
 | **Debut games** | **41** |
 | — still `Stranded` | 19 |
 | — since `Ported` | 22 |
-| **Contested** | 2 | **Why the GBA strands games.** The GBA repeats the Game Boy's defining trick and
+| **Contested** | 2 |
+
+**Why the GBA strands games.** The GBA repeats the Game Boy's defining trick and
 makes it worse: **hardware inside the cartridge**. `WarioWare: Twisted!` has a
 gyroscope. `Boktai` has a *photometric light sensor* and requires real sunlight to
 recharge your weapon — a game whose central mechanic is literally going outside.
@@ -79,12 +83,16 @@ without a Western release of any kind.
 | Mario Tennis: Power Tour | 2005 | Camelot | Nintendo | Sports RPG | 1–4 | No | **Stranded** | | Camelot's handheld sports RPGs have never been reissued, and its link features assumed GBA hardware. |
 | Mother 3 | 2006 | Brownie Brown / HAL | Nintendo | RPG | 1 | No | Ported | NSO (Japan, 2024) | Japan-only for 18 years. Its NSO release is **Japan-only**, so outside Japan it remains effectively stranded and has never been officially translated. |
 | Rhythm Tengoku | 2006 | Nintendo SPD | Nintendo | Rhythm | 1 | No | **Stranded** | | Japan-only. The first Rhythm Heaven game, never localised and never re-released — the arcade version is a separate product. |
-| Yggdra Union | 2006 | Sting | Sting / Atlus | Tactical RPG | 1 | No | Ported | PSP (2008), iOS | | ## Contested
+| Yggdra Union | 2006 | Sting | Sting / Atlus | Tactical RPG | 1 | No | Ported | PSP (2008), iOS | |
+
+## Contested
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
 | Mother 3 | 2006 | **Include** (`Ported`) | Its 2024 NSO release makes it available on another platform, so `Ported` is factually correct. | The NSO release is Japan-only and untranslated. For anyone outside Japan the game is still effectively stranded, and marking it `Ported` overstates its availability. Flagged in the Notes for this reason. |
-| Drill Dozer | 2005 | **Include** (`Ported`) | The Wii U Virtual Console release is a genuine re-release on another platform. | The cartridge's rumble motor is central to the design and absent from the re-release, so what shipped elsewhere is not the same game. | ## Excluded
+| Drill Dozer | 2005 | **Include** (`Ported`) | The Wii U Virtual Console release is a genuine re-release on another platform. | The cartridge's rumble motor is central to the design and absent from the re-release, so what shipped elsewhere is not the same game. |
+
+## Excluded
 
 | Title | Year | Why excluded |
 |---|---|---|
@@ -95,7 +103,9 @@ without a Western release of any kind.
 | Sonic Battle, Sonic Pinball Party | 2003 | Qualify and are `Stranded`; listed here only because they are often confused with the Advance trilogy. |
 | Yoshi's Island: Super Mario Advance 3 | 2002 | Port of the 1995 SNES game. |
 | Mario Pinball Land | 2004 | Qualifies and is `Stranded`. |
-| Any Wii U Virtual Console / NSO / collection release | | Re-releases by definition. | ## Appendix — the tails
+| Any Wii U Virtual Console / NSO / collection release | | Re-releases by definition. |
+
+## Appendix — the tails
 
 - **Licensed tie-ins (~400 titles).** The GBA overlapped the peak of the film
  tie-in handheld game: Harry Potter, Lord of the Rings, Shrek, Spider-Man, Finding

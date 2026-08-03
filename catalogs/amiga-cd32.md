@@ -7,13 +7,15 @@
 | **Library size** | ~200 discs |
 | **Backward compat** | Runs Amiga 1200-class software; an expansion module added keyboard and floppy support. |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | Effectively complete for debut titles — there are almost none. | ## ⚠ This file is nearly empty, by rule
+| **Coverage** | Effectively complete for debut titles — there are almost none. |
+
+## ⚠ Nearly empty, by rule
 
 The CD32 was **an Amiga 1200 computer in a console shell** — the same relationship the
 Atari 5200 had to the Atari 400, and it produces the same result here. Its library was
 almost entirely CD conversions of existing Amiga floppy games.
 
-Under this repo's rules a game that appeared on Amiga computers first is excluded on
+A game that appeared on Amiga computers first is excluded on
 the same principle that excludes PC-first titles. That removes nearly the whole
 library.
 
@@ -27,7 +29,9 @@ platform never developed software of its own.
 | **Debut games** | **4** |
 | — still `Stranded` | 4 |
 | — since `Ported` | 0 |
-| **Contested** | 1 | **Why the CD32 strands games.** Its handful of genuine debuts are stranded because
+| **Contested** | 1 |
+
+**Why the CD32 strands games.** Its handful of genuine debuts are stranded because
 Commodore's bankruptcy scattered the rights, the install base was ~100,000 in Europe
 only, and the platform existed for seven months. There has never been a CD32 reissue
 programme, and the developers involved are mostly gone.
@@ -41,11 +45,15 @@ programme, and the developers involved are mostly gone.
 | Diggers | 1993 | Millennium Interactive | Commodore | Strategy | 1 | No | **Stranded** | | The CD32 pack-in. Millennium became Computer Artworks and folded in 2003. |
 | Labyrinth of Time | 1993 | Terra Nova | Electronic Arts | Adventure | 1 | No | **Stranded** | | A first-person adventure released on CD32 alongside PC. Later PC re-releases exist, but PC is not a catalogued platform. |
 | Liberation: Captive II | 1993 | Byte Engineers | Mindscape | RPG | 1 | No | **Stranded** | | An ambitious 3D CD32 release; the developer no longer exists. |
-| Microcosm | 1993 | Psygnosis | Psygnosis | Rail shooter | 1 | No | **Stranded** | | ⚠ [Contested](#contested) — a CD32 launch title built to showcase CD video, with Sega CD and PC versions in the same window. Psygnosis was absorbed into Sony and closed in 2012. | ## Contested
+| Microcosm | 1993 | Psygnosis | Psygnosis | Rail shooter | 1 | No | **Stranded** | | ⚠ [Contested](#contested) — a CD32 launch title built to showcase CD video, with Sega CD and PC versions in the same window. Psygnosis was absorbed into Sony and closed in 2012. |
+
+## Contested
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| Microcosm | 1993 | **Include** (`Stranded`) | Psygnosis built it as a CD showcase and the CD32 version was among the first released, into the platform's launch window. | Sega CD, PC and FM Towns versions appeared in the same period, so this may be a sim-ship rather than a CD32 debut — in which case it belongs in the [Genesis](genesis.md) file under Sega CD. The ordering is poorly documented. | ## Excluded
+| Microcosm | 1993 | **Include** (`Stranded`) | Psygnosis built it as a CD showcase and the CD32 version was among the first released, into the platform's launch window. | Sega CD, PC and FM Towns versions appeared in the same period, so this may be a sim-ship rather than a CD32 debut — in which case it belongs in the [Genesis](genesis.md) file under Sega CD. The ordering is poorly documented. |
+
+## Excluded
 
 | Title | Year | Why excluded |
 |---|---|---|
@@ -53,7 +61,9 @@ programme, and the developers involved are mostly gone.
 | Chuck Rock, James Pond, Lotus Trilogy | 1993 | Amiga computer originals. |
 | Sensible Soccer, Worms (Directors Cut) | 1993–94 | Amiga originals; `Worms` debuted on Amiga floppy. |
 | Any Amiga computer software run on CD32 | | Backward compatibility. |
-| *(games with a later PC port)* | | **Not `Ported`.** PC is not a catalogued platform. | ## Appendix — why the library doesn't qualify
+| *(games with a later PC port)* | | **Not `Ported`.** PC is not a catalogued platform. |
+
+## Appendix — why the library doesn't qualify
 
 Of ~200 discs, roughly:
 
@@ -63,7 +73,7 @@ Of ~200 discs, roughly:
  the same window.
 - **~4 are genuine CD32 debuts**, catalogued above.
 
-This is the second platform in the repo — after the [Atari 5200](atari-5200.md) — where
+This is the second platform here — after the [Atari 5200](atari-5200.md) — where
 the *majority* of the library fails the debut test rather than merely being
 uncatalogued. Both were consoles built from an existing home computer, and both
 inherited that computer's library instead of building one.

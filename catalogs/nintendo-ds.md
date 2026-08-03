@@ -7,14 +7,18 @@
 | **Library size** | ~2,000 retail titles worldwide, plus ~500 DSiWare |
 | **Backward compat** | Plays GBA cartridges (original DS and DS Lite only). 3DS plays DS cards. Both are BC, **not** another platform. |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | First-party and major third-party titles verified individually. The licensed, casual and DSiWare tails are summarised, not enumerated. | ## Summary
+| **Coverage** | First-party and major third-party titles verified individually. The licensed, casual and DSiWare tails are summarised, not enumerated. |
+
+## Summary
 
 | | Count |
 |---|---|
 | **Debut games** | **49** |
 | — still `Stranded` | 35 |
 | — since `Ported` | 14 |
-| **Contested** | 1 | **Why the DS strands games.** The DS is the **hardware-locked platform par
+| **Contested** | 1 |
+
+**Why the DS strands games.** The DS is the **hardware-locked platform par
 excellence**, and unlike the NES or SNES its problem is not licensing — it is that
 the games physically cannot be reproduced.
 
@@ -88,11 +92,15 @@ games ever reached Wii U Virtual Console.
 | Pokémon Black and White | 2010 | Game Freak | Nintendo | RPG | 1–4 | Dead (2014) | **Stranded** | | 15.64M sold. The only mainline Pokémon generation with no remake, port or re-release of any kind. |
 | Radiant Historia | 2010 | Atlus | Atlus | RPG | 1 | No | Ported | 3DS (2017, *Perfect Chronology*) | |
 | Solatorobo: Red the Hunter | 2010 | CyberConnect2 | Bandai Namco | Action RPG | 1 | Dead (2014) | **Stranded** | | CyberConnect2's own IP, but its predecessor `Tail Concerto` is stranded too and the studio has worked almost exclusively on licensed games since. |
-| Pokémon Black 2 and White 2 | 2012 | Game Freak | Nintendo | RPG | 1–4 | Dead (2014) | **Stranded** | | The last mainline DS Pokémon games; likewise untouched. | ## Contested
+| Pokémon Black 2 and White 2 | 2012 | Game Freak | Nintendo | RPG | 1–4 | Dead (2014) | **Stranded** | | The last mainline DS Pokémon games; likewise untouched. |
+
+## Contested
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| Retro Game Challenge | 2007 | **Include** | The games inside it are original creations written for this release, not re-releases of anything — it only *looks* like a compilation. | It is presented as a collection, and the framing is licensed from a Japanese TV show, which complicates both the debut claim and any reissue. | ## Excluded
+| Retro Game Challenge | 2007 | **Include** | The games inside it are original creations written for this release, not re-releases of anything — it only *looks* like a compilation. | It is presented as a collection, and the framing is licensed from a Japanese TV show, which complicates both the debut claim and any reissue. |
+
+## Excluded
 
 | Title | Year | Why excluded |
 |---|---|---|
@@ -106,7 +114,9 @@ games ever reached Wii U Virtual Console.
 | Mario vs. Donkey Kong 2 / Minis March Again | 2006–09 | Qualify and are `Stranded`; listed here because the series' Switch entry is a remake of the **GBA** game, not these. |
 | Grand Theft Auto: Chinatown Wars | 2009 | Qualifies as a DS debut, but the PSP, iOS and Android versions followed within a year — it is `Ported`, not excluded. |
 | Any Wii U Virtual Console / collection release | | Re-releases by definition. |
-| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts as the debut. | ## Appendix — the tails
+| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts as the debut. |
+
+## Appendix — the tails
 
 - **Casual and licensed shovelware (~800+ titles).** The DS's install base attracted
  the largest low-budget tail of any platform here: *Imagine*, *Petz*, *Cooking

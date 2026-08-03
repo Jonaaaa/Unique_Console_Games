@@ -7,7 +7,9 @@
 | **Library size** | 11 Cassette Vision titles, ~30 Super Cassette Vision titles |
 | **Backward compat** | The Super Cassette Vision is a new platform, not compatible with the original. |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | Representative titles across both systems. | ## ⚠ Japan's best-selling console before the Famicom
+| **Coverage** | Representative titles across both systems. |
+
+## ⚠ Japan's best-selling console before the Famicom
 
 The Cassette Vision was **the top-selling home console in Japan until the Famicom
 arrived in 1983** — an achievement almost entirely forgotten outside Japan. Its
@@ -24,7 +26,9 @@ are catalogued together because their libraries are small and share one cause.
 | **Debut games** | **6** |
 | — still `Stranded` | 6 |
 | — since `Ported` | 0 |
-| **Contested** | 0 | **Why the Cassette Vision strands games.** Epoch remains a toy manufacturer with no
+| **Contested** | 0 |
+
+**Why the Cassette Vision strands games.** Epoch remains a toy manufacturer with no
 games division and no reissue programme; the libraries are Japan-only; and the original
 Cassette Vision's cartridges contained **the console's actual CPU**, so each cartridge
 was effectively its own computer — a design nothing can emulate straightforwardly.
@@ -41,14 +45,18 @@ was effectively its own computer — a design nothing can emulate straightforwar
 | Battle Vader | 1982 | Epoch | Epoch | Shoot 'em up | 1 | No | **Stranded** | | An unlicensed `Space Invaders` derivative, which is a further bar to any reissue. |
 | Pole Position II | 1984 | Epoch | Epoch | Racing | 1 | No | **Stranded** | | **Super Cassette Vision.** A Namco licence, on a Japan-only console that lost to the Famicom — the licence has been re-sold many times since without ever including this build. |
 | Boulder Dash | 1985 | Epoch | Epoch | Puzzle | 1 | No | **Stranded** | | **Super Cassette Vision.** A licensed conversion of the 1984 computer game, so it fails the debut test — listed to show the platform's licensing pattern. |
-| Professional Baseball | 1985 | Epoch | Epoch | Sports | 1–2 | No | **Stranded** | | **Super Cassette Vision.** Japanese league branding from 1985, long expired. | ## Excluded
+| Professional Baseball | 1985 | Epoch | Epoch | Sports | 1–2 | No | **Stranded** | | **Super Cassette Vision.** Japanese league branding from 1985, long expired. |
+
+## Excluded
 
 | Title | Year | Why excluded |
 |---|---|---|
 | Boulder Dash | 1985 | Included above for context but a conversion of the 1984 computer original. |
 | Remaining Super Cassette Vision titles (~24) | 1984–87 | Japan-only originals and licensed conversions with identical `Stranded` status; not separately tabled. |
 | Epoch TV Tennis / dedicated Epoch consoles | 1975–80 | Single-game units with no removable media. |
-| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on a home computer still disqualifies. | ## Coverage gaps
+| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on a home computer still disqualifies. |
+
+## Coverage gaps
 
 - 6 of ~41 titles across the two systems. Japanese documentation only, and dates for
  later Super Cassette Vision releases are uncertain.

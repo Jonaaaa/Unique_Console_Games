@@ -7,9 +7,11 @@
 | **Library size** | ~1,400 licensed titles worldwide, plus a large unlicensed tail |
 | **Backward compat** | None. The NES is the original device for everything here. |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | Marquee and historically significant titles verified individually. The licensed-shovelware and unlicensed tails are summarised in the [Appendix](#appendix--the-licence-locked-tail), not individually verified. | ## ⚠ Read this before using the Status column
+| **Coverage** | Marquee and historically significant titles verified individually. The licensed-shovelware and unlicensed tails are summarised in the [Appendix](#appendix--the-licence-locked-tail), not individually verified. |
 
-The NES is where the **re-release rule bites hardest**. Per the repo rule, a
+## ⚠ Read this before using the Status column
+
+The NES is where the **re-release rule bites hardest**. Per that rule, a
 Virtual Console listing, a Nintendo Switch Online entry, an NES Classic Mini
 inclusion, or a slot in a publisher collection all count as releases on another
 platform. That means **most of the famous NES library reads as `Ported`**.
@@ -31,7 +33,9 @@ ceiling — more entries will move over time, never back.
 | **Debut games** | **61** |
 | — still `Stranded` | 26 |
 | — since `Ported` | 34 |
-| **Contested** | 3 | **Why the NES strands games.** Not hardware — the NES is trivially emulable and
+| **Contested** | 3 |
+
+**Why the NES strands games.** Not hardware — the NES is trivially emulable and
 Nintendo re-sells its library constantly. The cause is **licensing**, and the NES
 era was built on cheap licences: Disney, Marvel, DC, Konami's cartoon deals,
 fast-food tie-ins, film adaptations. Those contracts were written for a single
@@ -109,13 +113,17 @@ Intellivision. Arcade originals are out of scope and never disqualify.
 | Recca: Summer Carnival '92 | 1992 | KID | Naxat Soft | Shoot 'em up | 1 | No | Ported | 3DS Virtual Console (Japan, 2012) | Produced for a shooting-competition event; tiny original print run. |
 | Kirby's Adventure | 1993 | HAL Laboratory | Nintendo | Platformer | 1 | No | Ported | NSO, Virtual Console, GBA (*Nightmare in Dream Land*) | |
 | Wayne's World | 1993 | Radical | THQ | Platformer | 1 | No | **Stranded** | | Film licence. |
-| Zoda's Revenge: StarTropics II | 1994 | Nintendo IRD | Nintendo | Action-adventure | 1 | No | Ported | NSO, Virtual Console | | ## Contested
+| Zoda's Revenge: StarTropics II | 1994 | Nintendo IRD | Nintendo | Action-adventure | 1 | No | Ported | NSO, Virtual Console | |
+
+## Contested
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
 | Super Mario Bros. 2 (Western) | 1988 | **Include** | The Western *SMB2* was assembled and shipped by Nintendo as a new product, with Mario characters, new balance and new art. It is the first release of *that* game. | It is a reskin of *Yume Kōjō: Doki Doki Panic* (FDS, 1987) — same engine, levels and design. Under a strict reading the game already existed. |
 | Mike Tyson's Punch-Out!! | 1987 | **Include** | Debuted on NES and remains a debut regardless of what happened to the licence. | The version that exists today is *Punch-Out!! Featuring Mr. Dream* — the Tyson build has never been re-released, so the original is `Stranded` and the re-release is a different product. |
-| Action 52 | 1991 | **Include** | 52 original games, none of which existed before, on a cartridge sold at retail. | Unlicensed and not a legitimate release at all; also a compilation, which the rules normally exclude. Kept because the compiled games are originals. | ## Excluded
+| Action 52 | 1991 | **Include** | 52 original games, none of which existed before, on a cartridge sold at retail. | Unlicensed and not a legitimate release at all; also a compilation, which the rules normally exclude. Kept because the compiled games are originals. |
+
+## Excluded
 
 | Title | Year | Why excluded |
 |---|---|---|
@@ -123,7 +131,9 @@ Intellivision. Arcade originals are out of scope and never disqualify.
 | Super Mario Bros.: The Lost Levels | 1986 | FDS release; the Famicom Disk System is the same platform family, so it is not a separate debut — it is in the main table's spirit as the Japanese *SMB2*. |
 | Castlevania III: Dracula's Curse | 1989 | Qualifies and is `Ported` — listed here only because it is often assumed FDS-exclusive. |
 | Any Virtual Console / NSO / NES Classic release | | Re-releases by definition. |
-| *(games with an earlier arcade release)* | | **No longer excluded.** Arcades are out of scope — a cabinet is not a collectable home device — so the first *home* release counts as the debut. A prior release on another **home** console still disqualifies. | ## Appendix — the licence-locked tail
+| *(games with an earlier arcade release)* | | **No longer excluded.** Arcades are out of scope — a cabinet is not a collectable home device — so the first *home* release counts as the debut. A prior release on another **home** console still disqualifies. |
+
+## Appendix — the licence-locked tail
 
 The NES's stranded library is dominated by two groups, neither individually
 verified here:

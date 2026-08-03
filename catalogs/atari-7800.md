@@ -7,7 +7,9 @@
 | **Library size** | ~59 official titles |
 | **Backward compat** | Plays 2600 cartridges natively — the first console with built-in BC. That is BC, **not** another platform. |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | Near-complete for debut titles. The library is small enough to cover properly. | ## ⚠ A console released two years late
+| **Coverage** | Near-complete for debut titles. The library is small enough to cover properly. |
+
+## ⚠ A console released two years late
 
 The 7800 was finished in **1984** and shelved when Warner sold Atari's consumer
 division mid-launch. It reached shelves in 1986, into a market the NES already owned.
@@ -25,7 +27,9 @@ catalogue.
 | **Debut games** | **11** |
 | — still `Stranded` | 7 |
 | — since `Ported` | 4 |
-| **Contested** | 0 | **Why the 7800 strands games.** Its arcade conversions mostly fail the debut test —
+| **Contested** | 0 |
+
+**Why the 7800 strands games.** Its arcade conversions mostly fail the debut test —
 `Ms. Pac-Man`, `Galaga`, `Joust`, `Centipede` all had earlier home versions. What
 qualifies is the small set of 7800-original games, and those are stranded because the
 platform sold under 4 million units into a market dominated by Nintendo, and because
@@ -50,7 +54,9 @@ favourite — which shows the barrier is commercial interest rather than rights.
 | Midnight Mutants | 1990 | Radioactive Software | Atari | Action-adventure | 1 | No | **Stranded** | | Licensed the likeness of horror host **Grandpa Munster** (Al Lewis) — a personal-likeness deal from 1990 that cannot realistically be re-cleared. The 7800's most ambitious game. |
 | Motor Psycho | 1990 | Atari | Atari | Racing | 1–2 | No | Ported | *Atari 50* (2022) | A late 7800 original that made the anniversary collection. |
 | Ninja Golf | 1990 | Blue Sky Software | Atari | Action / sports | 1 | No | Ported | *Atari 50* (2022) | The platform's cult classic: golf where you then fight ninjas along the fairway. Atari owns it outright, which is why it was the 7800 title chosen for *Atari 50*. |
-| Scrapyard Dog | 1990 | Atari | Atari | Platformer | 1 | No | **Stranded** | | Also on Lynx. One of the last 7800 releases. | ## Excluded
+| Scrapyard Dog | 1990 | Atari | Atari | Platformer | 1 | No | **Stranded** | | Also on Lynx. One of the last 7800 releases. |
+
+## Excluded
 
 | Title | Year | Why excluded |
 |---|---|---|
@@ -61,7 +67,9 @@ favourite — which shows the barrier is commercial interest rather than rights.
 | Double Dragon, Kung-Fu Master, Mario Bros. | 1988–89 | Earlier home releases on NES and other platforms. |
 | Any 2600 cartridge played on 7800 hardware | | Backward compatibility, not a re-release. |
 | Any *Atari 50* / Flashback release | | Re-releases by definition. |
-| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on another home platform still disqualifies. | ## Appendix — the tail
+| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on another home platform still disqualifies. |
+
+## Appendix — the tail
 
 - **Arcade conversions (~30 titles).** The 1984-designed core of the library. Nearly
  all fail the debut test because 2600 or 5200 versions came first.

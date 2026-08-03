@@ -8,7 +8,9 @@
 | **Library size** | ~680 HuCard titles, ~450 CD-ROM² titles. **Roughly 85% Japan-only.** |
 | **Backward compat** | None outward. |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | Western releases and marquee Japanese titles verified individually. The Japan-only CD library is the largest uncatalogued block here. | ## ⚠ Rights context
+| **Coverage** | Western releases and marquee Japanese titles verified individually. The Japan-only CD library is the largest uncatalogued block here. |
+
+## ⚠ Rights context
 
 Hudson Soft was the platform's driving force and was **absorbed into Konami in
 2012**. NEC's hardware business is gone. So the catalogue's rights now sit mostly
@@ -26,7 +28,9 @@ CD-ROM² catalogue — with no re-release of any kind.
 | **Debut games** | **29** |
 | — still `Stranded` | 9 |
 | — since `Ported` | 20 |
-| **Contested** | 1 | **Why the TurboGrafx strands games.** Two causes.
+| **Contested** | 1 |
+
+**Why the TurboGrafx strands games.** Two causes.
 
 1. **The CD add-ons fragmented the library.** CD-ROM², Super CD-ROM² and the
  Arcade Card each required different hardware, and late Arcade Card titles ran on
@@ -71,11 +75,15 @@ CD-ROM² catalogue — with no re-release of any kind.
 | Riot Zone | 1993 | Westone | Hudson Soft | Beat 'em up | 1–2 | No | **Stranded** | | **CD-ROM².** A localisation of Westone's *Crest of Wolf*; Westone went bankrupt in 2014. |
 | Sylphia | 1993 | Compile | Tonkin House | Shoot 'em up | 1 | No | **Stranded** | | **CD-ROM².** Compile went bankrupt in 1998 and its non-Puyo catalogue has never been reassembled. |
 | Dynastic Hero | 1994 | Westone | NEC | Action-adventure | 1 | No | **Stranded** | | **Super CD-ROM².** A reskin of `Wonder Boy in Monster World` with insect characters, made to sidestep the Sega-associated branding. Two rights holders and a defunct developer. |
-| Sapphire | 1995 | Hudson Soft | Hudson Soft | Shoot 'em up | 1 | No | **Stranded** | | **Arcade Card exclusive** — it needs both a Super CD-ROM² drive *and* the Arcade Card expansion, sold to a tiny installed base in 1995. Original discs trade in the thousands and it has never been reissued in any form. The most hardware-gated release on the platform. | ## Contested
+| Sapphire | 1995 | Hudson Soft | Hudson Soft | Shoot 'em up | 1 | No | **Stranded** | | **Arcade Card exclusive** — it needs both a Super CD-ROM² drive *and* the Arcade Card expansion, sold to a tiny installed base in 1995. Original discs trade in the thousands and it has never been reissued in any form. The most hardware-gated release on the platform. |
+
+## Contested
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| Splatterhouse | 1990 | **Include** (`Ported`) | Under the arcade rule the first *home* release is the debut, and the TurboGrafx build came before the Genesis one. | The Genesis `Splatterhouse 2` and `3` are separate games, and some sources treat the TG16 version as a straight conversion rather than a distinct product. | ## Excluded
+| Splatterhouse | 1990 | **Include** (`Ported`) | Under the arcade rule the first *home* release is the debut, and the TurboGrafx build came before the Genesis one. | The Genesis `Splatterhouse 2` and `3` are separate games, and some sources treat the TG16 version as a straight conversion rather than a distinct product. |
+
+## Excluded
 
 | Title | Year | Why excluded |
 |---|---|---|
@@ -86,10 +94,12 @@ CD-ROM² catalogue — with no re-release of any kind.
 | Valis II / III | 1989–92 | PC-8801 and X68000 originals. |
 | Dracula X / Ginga Fukei Densetsu Sapphire | 1993–95 | Japanese titles of games already listed above — duplicate entries, not separate games. |
 | Any Virtual Console / TurboGrafx-16 Mini release | | Re-releases by definition. |
-| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on another home platform still disqualifies. | ## Appendix — the tails
+| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on another home platform still disqualifies. |
+
+## Appendix — the tails
 
 - **Japan-only CD-ROM² and Super CD-ROM² (~400 titles).** The largest uncatalogued
- block on this platform and one of the largest in the repo. Includes the
+ block on this platform and one of the largest here. Includes the
  `Tengai Makyou` RPGs, a deep shmup catalogue (`Sylphia`, `Spriggan`, `Rayxanber`),
  and a very large visual-novel and dating-sim tail. Almost entirely stranded: no
  localisation, no Western rights history, and Konami has shown no interest.
@@ -104,7 +114,7 @@ CD-ROM² catalogue — with no re-release of any kind.
 ## Coverage gaps
 
 - The Japan-only CD library dominates the platform and is characterised rather than
- enumerated — this file covers the Western-released layer plus marquee imports.
+ enumerated — coverage here is the Western-released layer plus marquee imports.
 - SuperGrafx and Arcade Card titles are noted in the appendix, not tabled.
 - Konami's reissue programme has been dormant since the 2020 mini consoles;
  `Ported` is unlikely to grow much here.

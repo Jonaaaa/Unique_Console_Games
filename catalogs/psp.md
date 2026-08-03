@@ -5,10 +5,12 @@
 | **Platform** | Sony PlayStation Portable (PSP-1000 → PSP-E1000, PSP Go) |
 | **Lifespan** | Dec 2004 (JP) – 2014 (production ended); ~80M units sold |
 | **Store status** | **Closed.** PSP storefront shut 2016; PSP purchases via PS3/Vita ended 2021. |
-| **Backward compat** | PSP titles run on PS Vita and PS TV. That is BC, **not** another platform — see the [BC rule](./.claude/skills/unique-console-games/SKILL.md#backward-compatibility-is-not-another-platform). |
+| **Backward compat** | PSP titles run on PS Vita and PS TV. That is BC, **not** another platform — see the [BC rule](../.claude/skills/unique-console-games/SKILL.md#backward-compatibility-is-not-another-platform). |
 | **Category spine** | 268 titles tagged `Category:PlayStation Portable-only games` on Wikipedia (fetched 2026-07-29) |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | Notable Western and Japanese releases verified individually. The Japanese licensed-anime tail is not individually verified. **`Stranded` status here is less stable than on any other platform — see the warning below.** | ## ⚠ The PS Plus Premium problem
+| **Coverage** | Notable Western and Japanese releases verified individually. The Japanese licensed-anime tail is not individually verified. **`Stranded` status here is less stable than on any other platform — see the warning below.** |
+
+## ⚠ The PS Plus Premium problem
 
 On the PSP, **`Stranded` status cannot be treated as settled**. Sony's PS Plus Premium Classics catalogue includes PSP titles that run
 on PS4 and PS5 as distinct, downloadable store entries — which is a re-release on
@@ -16,7 +18,7 @@ another platform, not backward compatibility, so it flips a game to `Ported`. Th
 catalogue **rotates monthly**, Sony publishes no fixed list, and availability
 varies by region.
 
-Consequences for this file:
+Consequences:
 
 - A `Stranded` entry here means *no known port, remaster, compilation or standing
  PS Plus Premium listing as of 2026-07-29*.
@@ -33,7 +35,9 @@ Consequences for this file:
 | — still `Stranded` | 36 |
 | — since `Ported` | 28 |
 | — `Sim-ship` | 2 |
-| **Contested** | 0 | **Why the PSP strands games.** Unlike the Wii U (hardware) and the Vita (studio
+| **Contested** | 0 |
+
+**Why the PSP strands games.** Unlike the Wii U (hardware) and the Vita (studio
 closures and litigation), the PSP's stranding cause is mostly **licensing and
 Japanese-market gravity**. Its exclusives skew heavily toward anime tie-ins,
 rhythm games with licensed tracklists, and Japan-only strategy RPGs — categories
@@ -115,7 +119,9 @@ Every game that debuted on this platform and launched nowhere else. `Status` rec
 | Final Fantasy IV: The Complete Collection | 2011 | Matrix Software | Square Enix | Compilation | 1 | Dead | **Stranded** | | *FFIV*, its *The After Years* sequel, and **Interlude** — a new chapter written for this release and available nowhere else. The compilation has never been reissued. |
 | Grand Knights History | 2011 | Vanillaware | Marvelous | Tactical RPG | 1–4 | Dead | Stranded | | Japan-only. The only Vanillaware game never localised or re-released — a planned English release was cancelled. |
 | Gungnir | 2011 | Sting | Atlus | Tactical RPG | 1 | No | Stranded | | Sting's Dept. Heaven series is largely stranded — only `Riviera` and `Yggdra Union` ever escaped. |
-| Patapon 3 | 2011 | Japan Studio | SCE | Rhythm / strategy | 1–4 | Dead | Ported | PS4, PS5 (18 Feb 2025) | Was stranded until Feb 2025. | ## Contested
+| Patapon 3 | 2011 | Japan Studio | SCE | Rhythm / strategy | 1–4 | Dead | Ported | PS4, PS5 (18 Feb 2025) | Was stranded until Feb 2025. |
+
+## Contested
 
 None outstanding. Under the debut rule every former dispute resolved:
 
@@ -144,7 +150,9 @@ None outstanding. Under the debut rule every former dispute resolved:
 | Tactics Ogre: Let Us Cling Together | 2010 | Remake of the 1995 SNES game. |
 | Any PS1 Classic or PS Minis title played on PSP | | Backward compatibility / re-release, not a PSP original. |
 | *(same-day multiplatform launches)* | | **No longer excluded** — they now appear in the main table as `Sim-ship`. Only *later* ports are excluded. |
-| *(games with an earlier arcade release)* | | **No longer excluded.** Arcades are out of scope — a cabinet is not a collectable home device — so the first *home* release counts as the debut. A prior release on another **home** console still disqualifies. | ## Appendix — the Japanese licensed tail
+| *(games with an earlier arcade release)* | | **No longer excluded.** Arcades are out of scope — a cabinet is not a collectable home device — so the first *home* release counts as the debut. A prior release on another **home** console still disqualifies. |
+
+## Appendix — the Japanese licensed tail
 
 The bulk of the 268-title `PlayStation Portable-only games` category is Japanese:
 anime and light-novel tie-ins (`.hack//Link`, `Baka and Test`,

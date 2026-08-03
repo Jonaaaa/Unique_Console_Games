@@ -7,7 +7,9 @@
 | **Library size** | ~30 official cartridges |
 | **Backward compat** | None. |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | Notable titles only; the library is small and thinly documented. | ## ⚠ A console that changed owners three times
+| **Coverage** | Notable titles only; the library is small and thinly documented. |
+
+## ⚠ A console that changed owners three times
 
 Bally built it, sold it to Astrovision, which sold it to Astrocade Inc., which folded in
 the 1983 crash. Each transfer scattered the rights further, and the console sold roughly
@@ -24,7 +26,9 @@ software culture.
 | **Debut games** | **5** |
 | — still `Stranded` | 5 |
 | — since `Ported` | 0 |
-| **Contested** | 0 | **Why the Astrocade strands games.** No surviving rights holder, three ownership
+| **Contested** | 0 |
+
+**Why the Astrocade strands games.** No surviving rights holder, three ownership
 transfers, ~100,000 units sold, and a library of about thirty cartridges. Nothing has
 ever been reissued and there is no party with standing to do it.
 
@@ -40,14 +44,18 @@ Another `Ported` count of **zero**.
 | The Incredible Wizard | 1980 | Bally | Bally | Maze | 1–2 | No | **Stranded** | | A licensed home conversion of `Wizard of Wor`; the best-regarded Astrocade game and the closest the platform had to a killer app. |
 | Astro Battle | 1981 | Astrovision | Astrovision | Shoot 'em up | 1 | No | **Stranded** | | A `Space Invaders` derivative renamed after Taito objected, which is a further bar to any reissue. |
 | Muncher | 1981 | Astrovision | Astrovision | Maze | 1 | No | **Stranded** | | An unlicensed `Pac-Man` clone, pulled under legal pressure — the same fate as `K.C. Munchkin!` on the Odyssey². |
-| Treasure Cove | 1982 | Astrocade | Astrocade | Action | 1 | No | **Stranded** | | One of the final releases before the company folded. | ## Excluded
+| Treasure Cove | 1982 | Astrocade | Astrocade | Action | 1 | No | **Stranded** | | One of the final releases before the company folded. |
+
+## Excluded
 
 | Title | Year | Why excluded |
 |---|---|---|
 | Built-in games (Checkmate, Calculator, Scribbling) | 1978 | Fixed in console ROM, not removable media. |
 | Bally BASIC / Astro BASIC | 1978–81 | Programming environments rather than games. |
 | Type-in programs from *Arcadian* newsletter | 1979–84 | User-submitted listings, not commercial releases. |
-| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on another home console still disqualifies. | ## Coverage gaps
+| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on another home console still disqualifies. |
+
+## Coverage gaps
 
 - 5 of ~30 cartridges. English-language documentation is thin and release dates are
  often uncertain across the three ownership eras.

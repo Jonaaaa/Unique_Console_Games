@@ -7,7 +7,9 @@
 | **Library size** | ~50 official cartridge titles, ~13 Jaguar CD titles |
 | **Backward compat** | None. |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | Near-complete. The library is small enough to cover properly. | ## ⚠ Atari's last console
+| **Coverage** | Near-complete. The library is small enough to cover properly. |
+
+## ⚠ Atari's last console
 
 The Jaguar was marketed as "64-bit" on the strength of two 32-bit coprocessors, was
 hard to program, and sold roughly a quarter of a million units before
@@ -26,7 +28,9 @@ homebrew scene still produces cartridges.
 | **Debut games** | **14** |
 | — still `Stranded` | 11 |
 | — since `Ported` | 3 |
-| **Contested** | 1 | **Why the Jaguar strands games.** Three causes, and the third is unique to it.
+| **Contested** | 1 |
+
+**Why the Jaguar strands games.** Three causes, and the third is unique to it.
 
 1. **Film and franchise licences.** `Alien vs Predator` needs 20th Century Fox —
  the platform's best-regarded game, permanently locked.
@@ -46,7 +50,7 @@ homebrew scene still produces cartridges.
 | Alien vs Predator | 1994 | Rebellion | Atari | FPS | 1 | No | **Stranded** | | Rebellion's debut and the game most often cited as justifying the hardware. **Needs the 20th Century Fox licence for both franchises** — now Disney-owned — which makes reissue effectively impossible despite Rebellion still existing and still making AvP games. |
 | Iron Soldier | 1994 | Eclipse Software | Telegames | Mech action | 1 | No | **Stranded** | | One of the few Jaguar games with a good reputation. Telegames is effectively dormant. |
 | Kasumi Ninja | 1994 | Hand Made Software | Atari | Fighting | 1–2 | No | **Stranded** | | Atari's attempt at a `Mortal Kombat` competitor, notorious rather than good. |
-| Tempest 2000 | 1994 | Llamasoft | Atari | Tube shooter | 1–2 | No | Ported | Saturn, PC (1996), *Atari 50* (2022) | **The Jaguar's best game and its clearest success.** Jeff Minter's reinvention of `Tempest`; Atari owns it outright, which is why it escaped. The same designer's `TxK` (Vita) was later blocked by Atari's lawyers over its similarity to this — the repo's only case of one entry stranding another. |
+| Tempest 2000 | 1994 | Llamasoft | Atari | Tube shooter | 1–2 | No | Ported | Saturn, PC (1996), *Atari 50* (2022) | **The Jaguar's best game and its clearest success.** Jeff Minter's reinvention of `Tempest`; Atari owns it outright, which is why it escaped. The same designer's `TxK` (Vita) was later blocked by Atari's lawyers over its similarity to this — the only case here of one entry stranding another. |
 | Val d'Isère Championship | 1994 | Virtual Studio | Atari | Sports | 1 | No | **Stranded** | | Carries real-world resort branding. |
 | Blue Lightning | 1995 | Attention to Detail | Atari | Flight combat | 1 | No | **Stranded** | | **Jaguar CD.** A remake of the Lynx launch title, and a separate game from it — so both versions are stranded, on two dead Atari platforms. |
 | Highlander: The Last of the MacLeods | 1995 | Lore Design | Atari | Action-adventure | 1 | No | **Stranded** | | **Jaguar CD.** A film/TV licence on a CD add-on for a console with 250,000 owners — about as narrow a release window as exists. |
@@ -54,11 +58,15 @@ homebrew scene still produces cartridges.
 | Rayman | 1995 | Ubisoft | Ubisoft | Platformer | 1 | No | Ported | PS1, Saturn, PC (1995), GBA, mobile | ⚠ [Contested](#contested) — Ubisoft developed it primarily on Jaguar hardware, but PS1 and Saturn versions arrived in the same window. |
 | Attack of the Mutant Penguins | 1996 | Sunrise Games | Atari | Puzzle-platformer | 1–2 | No | **Stranded** | | One of the final commercial Jaguar releases, into a market Atari had already abandoned. |
 | Defender 2000 | 1996 | Llamasoft | Atari | Shoot 'em up | 1 | No | **Stranded** | | Jeff Minter's follow-up to `Tempest 2000`. Unlike that game it has never been reissued — omitted from *Atari 50* despite Atari owning `Defender`. |
-| Battlesphere | 2000 | 4Play/ScatoLOGIC | 4Play | Space combat | 1–16 | No | **Stranded** | | Released **four years after Atari left the market**, in a run of roughly a thousand cartridges, supporting 16 linked consoles. Sells for four figures. One of the most obscure commercially sold games anywhere. | ## Contested
+| Battlesphere | 2000 | 4Play/ScatoLOGIC | 4Play | Space combat | 1–16 | No | **Stranded** | | Released **four years after Atari left the market**, in a run of roughly a thousand cartridges, supporting 16 linked consoles. Sells for four figures. One of the most obscure commercially sold games anywhere. |
+
+## Contested
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| Rayman | 1995 | **Include** (`Ported`) | Ubisoft's original development target was Jaguar hardware, and the Jaguar version shipped in the platform's launch-year window. | The PS1 and Saturn versions arrived close enough that this reads as a multiplatform launch, and Rayman is remembered as a PS1 game. If treated as a sim-ship it belongs in several catalogues; if the PS1 version came first it belongs in [PS1](ps1.md) instead. | ## Excluded
+| Rayman | 1995 | **Include** (`Ported`) | Ubisoft's original development target was Jaguar hardware, and the Jaguar version shipped in the platform's launch-year window. | The PS1 and Saturn versions arrived close enough that this reads as a multiplatform launch, and Rayman is remembered as a PS1 game. If treated as a sim-ship it belongs in several catalogues; if the PS1 version came first it belongs in [PS1](ps1.md) instead. |
+
+## Excluded
 
 | Title | Year | Why excluded |
 |---|---|---|
@@ -68,11 +76,13 @@ homebrew scene still produces cartridges.
 | Primal Rage, NBA Jam T.E., Raiden | 1995 | Arcade conversions with earlier home versions elsewhere. |
 | Any *Atari 50* release | | Re-releases by definition. |
 | Homebrew cartridges (1999–present) | | Out of scope. Hasbro released the Jaguar's specifications into the public domain in 1999, so new commercial cartridges are still produced. |
-| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on a home computer or console still disqualifies. | ## Appendix — the tails
+| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on a home computer or console still disqualifies. |
+
+## Appendix — the tails
 
 - **Jaguar CD (13 titles).** An add-on for a console with a quarter-million owners.
  Every CD title shipped into a market of a few thousand buyers, and almost none has
- been reissued. the narrowest release window of any hardware here.
+ been reissued. The narrowest release window of any hardware here.
 - **Computer conversions (~15 titles).** Excluded on prior-home-release grounds.
 - **Homebrew (~40 titles and counting).** Because the specifications are public
  domain, the Jaguar has an legitimate homebrew scene producing new

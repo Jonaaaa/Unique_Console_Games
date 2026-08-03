@@ -7,10 +7,12 @@
 | **Library size** | ~1,000 titles worldwide |
 | **Backward compat** | Xbox 360 and Xbox One/Series play a curated subset of Xbox discs. That is BC, **not** another platform. |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | First-party and notable third-party exclusives verified individually. Sports annuals and licensed tie-ins summarised, not enumerated. | ## ⚠ How the PC rule reshapes the Xbox files
+| **Coverage** | First-party and notable third-party exclusives verified individually. Sports annuals and licensed tie-ins summarised, not enumerated. |
+
+## ⚠ How the PC rule reshapes the Xbox files
 
 Microsoft is a PC company, and it has shipped Xbox software to Windows since the
-beginning. Under this repo's rule that **PC is not a catalogued platform**, a
+beginning. Under the rule that **PC is not a catalogued platform**, a
 Windows port does not move a game out of `Stranded` — it only gets noted.
 
 The practical effect is that the Xbox files read as *more* stranded than a
@@ -27,12 +29,14 @@ is `Ported` as normal.
 | — still `Stranded` | 21 |
 | — since `Ported` | 10 |
 | — `Sim-ship` | 4 |
-| **Contested** | 1 | **Why the Xbox strands games.** Three causes, and the first is unique to Microsoft.
+| **Contested** | 1 |
+
+**Why the Xbox strands games.** Three causes, and the first is unique to Microsoft.
 
 1. **Backward compatibility instead of re-release.** Microsoft's answer to its own
  back catalogue is BC — it lets you run the original disc on modern hardware
  rather than selling you a port. That is excellent for players and it means the
- games are never actually *re-released*, so they stay `Stranded` by this repo's
+ games are never actually *re-released*, so they stay `Stranded` by the debut
  test. `Panzer Dragoon Orta` and `Jet Set Radio Future` are playable on a Series X
  and have still never shipped as new products.
 2. **Licensed music and cars.** `Project Gotham Racing`, `Amped` and `Jet Set Radio
@@ -59,7 +63,7 @@ is `Ported` as normal.
 | Otogi: Myth of Demons | 2002 | FromSoftware | Sega | Action | 1 | No | **Stranded** | | FromSoftware pre-*Demon's Souls*. Both Otogi games are stranded, so a chunk of From's pre-Souls output is unavailable. |
 | Panzer Dragoon Orta | 2002 | Smilebit | Sega | Rail shooter | 1 | No | **Stranded** | | The fourth Panzer Dragoon. `Panzer Dragoon` got a 2020 remake and `Zwei` was announced; Orta has never been touched. |
 | RalliSport Challenge | 2002 | Digital Illusions | Microsoft | Racing | 1–4 | Dead | **Stranded** | | Licensed rally cars and teams. |
-| Steel Battalion | 2002 | Capcom | Capcom | Mech simulator | 1 | No | **Stranded** | | Shipped with a **two-piece controller: 40+ buttons, two joysticks and three foot pedals**, including an eject lever that deletes your save if you fail to use it. unreleasable. |
+| Steel Battalion | 2002 | Capcom | Capcom | Mech simulator | 1 | No | **Stranded** | | Shipped with a **two-piece controller: 40+ buttons, two joysticks and three foot pedals**, including an eject lever that deletes your save if you fail to use it. Unreleasable. |
 | Toejam & Earl III: Mission to Earth | 2002 | Humanature | Sega | Action | 1–2 | No | **Stranded** | | The only Toejam & Earl game absent from Sega's collections. |
 | Beyond Good & Evil | 2003 | Ubisoft Montpellier | Ubisoft | Action-adventure | 1 | No | Sim-ship | GameCube, PS2, PC (2003, same day), HD versions (2011) | Also catalogued under [GameCube](gamecube.md) and [PS2](ps2.md). |
 | Brute Force | 2003 | Digital Anvil | Microsoft | Squad shooter | 1–4 | Dead | **Stranded** | | Digital Anvil was absorbed and dissolved. |
@@ -80,11 +84,15 @@ is `Ported` as normal.
 | Sudeki | 2004 | Climax | Microsoft | Action RPG | 1 | No | **Stranded** | | A PC version exists (2005) but PC is not a catalogued platform, so no console alternative. |
 | Jade Empire | 2005 | BioWare | Microsoft | Action RPG | 1 | No | Ported | PC (2007), mobile, Switch (2021, *Special Edition*) | |
 | Oddworld: Stranger's Wrath | 2005 | Oddworld Inhabitants | EA | Action-adventure | 1 | No | Ported | PS3, Vita, Switch, PC (2010–20, *HD*) | |
-| Psychonauts | 2005 | Double Fine | Majesco | Platformer | 1 | No | Sim-ship | PS2, PC (2005, same day) | Double Fine's debut; later ported nearly everywhere. | ## Contested
+| Psychonauts | 2005 | Double Fine | Majesco | Platformer | 1 | No | Sim-ship | PS2, PC (2005, same day) | Double Fine's debut; later ported nearly everywhere. |
+
+## Contested
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| Halo: Combat Evolved | 2001 | **Include** (`Ported`) | It debuted on Xbox and later shipped as *Anniversary* on Xbox 360 and in *MCC* on Xbox One — genuine re-releases on later consoles. | Both re-releases are Xbox-family hardware, so a strict reading could call them backward-compatibility-adjacent rather than new platforms. Treated as ports because they are separately purchased rebuilt products. | ## Excluded
+| Halo: Combat Evolved | 2001 | **Include** (`Ported`) | It debuted on Xbox and later shipped as *Anniversary* on Xbox 360 and in *MCC* on Xbox One — genuine re-releases on later consoles. | Both re-releases are Xbox-family hardware, so a strict reading could call them backward-compatibility-adjacent rather than new platforms. Treated as ports because they are separately purchased rebuilt products. |
+
+## Excluded
 
 | Title | Year | Why excluded |
 |---|---|---|
@@ -97,7 +105,9 @@ is `Ported` as normal.
 | Sega GT, Crazy Taxi 3, Jet Set Radio (Xbox) | 2001–03 | Dreamcast-lineage ports. |
 | Any Xbox BC on 360 / One / Series | | Backward compatibility, not a re-release. |
 | *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on another home platform still disqualifies. |
-| *(games with a later PC port)* | | **Not excluded, and not `Ported`.** PC is not a catalogued platform — the game stays `Stranded` with the PC release noted. | ## Appendix — the tails
+| *(games with a later PC port)* | | **Not excluded, and not `Ported`.** PC is not a catalogued platform — the game stays `Stranded` with the PC release noted. |
+
+## Appendix — the tails
 
 - **Sports annuals (~150 titles).** Madden, NFL Fever, NBA Live, FIFA, plus
  Microsoft's own `Links` golf line. Stranded on league and athlete licences.

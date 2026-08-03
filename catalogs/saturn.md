@@ -8,14 +8,18 @@
 | **Library size** | ~1,100 titles, of which roughly **two-thirds are Japan-only** |
 | **Backward compat** | None. The Saturn is the original device for everything here. |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | Western releases and notable Japanese titles verified individually. The Japanese tail is the largest uncatalogued block on this platform. | ## Summary
+| **Coverage** | Western releases and notable Japanese titles verified individually. The Japanese tail is the largest uncatalogued block on this platform. |
+
+## Summary
 
 | | Count |
 |---|---|
 | **Debut games** | **36** |
 | — still `Stranded` | 23 |
 | — since `Ported` | 13 |
-| **Contested** | 1 | **Why the Saturn strands games.** The Saturn is unusually hard to escape, for a technical rather than legal reason: its dual-SH2
+| **Contested** | 1 |
+
+**Why the Saturn strands games.** The Saturn is unusually hard to escape, for a technical rather than legal reason: its dual-SH2
 architecture with eight processors was difficult to program and is
 difficult to *emulate*. Sega has never built a Saturn re-release
 programme comparable to its Genesis one, because the engineering cost per title is
@@ -72,11 +76,15 @@ On top of that:
 | Deep Fear | 1998 | System Sacom | Sega | Survival horror | 1 | No | **Stranded** | | The Saturn's answer to *Resident Evil*, PAL and Japan only — never released in North America. |
 | Panzer Dragoon Saga | 1998 | Team Andromeda | Sega | RPG | 1 | No | **Stranded** | | **The headline stranded game of the platform.** Four discs, roughly 20,000 North American copies, and Sega has said the source code is lost. Team Andromeda dissolved immediately after. Regularly cited as the most valuable mainstream Saturn cartridge-era collectable. |
 | Radiant Silvergun | 1998 | Treasure | ESP | Shoot 'em up | 1–2 | No | Ported | Xbox 360 (2011), Switch, PS4 (2021) | First home version of the 1998 cabinet; Japan-only on Saturn and famously expensive for years. |
-| Shining Force III | 1998 | Camelot | Sega | Tactical RPG | 1 | No | **Stranded** | | Released in Japan as **three linked scenarios**; only Scenario 1 was localised. Scenarios 2 and 3 have never been officially translated or reissued, so the story is unfinished in English to this day. | ## Contested
+| Shining Force III | 1998 | Camelot | Sega | Tactical RPG | 1 | No | **Stranded** | | Released in Japan as **three linked scenarios**; only Scenario 1 was localised. Scenarios 2 and 3 have never been officially translated or reissued, so the story is unfinished in English to this day. |
+
+## Contested
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| Christmas NiGHTS into Dreams | 1996 | **Include** (`Stranded`) | A standalone disc with its own content, calendar-driven behaviour and a playable Sonic section — distributed separately from *NiGHTS*. | It is a promotional sampler built on *NiGHTS*, and the 2012 re-release folded some of it in as a mode, so it is not a separate game at all. | ## Excluded
+| Christmas NiGHTS into Dreams | 1996 | **Include** (`Stranded`) | A standalone disc with its own content, calendar-driven behaviour and a playable Sonic section — distributed separately from *NiGHTS*. | It is a promotional sampler built on *NiGHTS*, and the 2012 re-release folded some of it in as a mode, so it is not a separate game at all. |
+
+## Excluded
 
 | Title | Year | Why excluded |
 |---|---|---|
@@ -88,7 +96,9 @@ On top of that:
 | Grandia (Western release) | 1999 | The PS1 version; the Saturn original is in the main table. |
 | Sonic 3D Blast (Saturn) | 1996 | The Genesis version shipped first. |
 | Any Sega Ages / Xbox 360 / Switch re-release | | Re-releases by definition. |
-| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on another home platform still disqualifies. | ## Appendix — the tails
+| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on another home platform still disqualifies. |
+
+## Appendix — the tails
 
 - **Japan-only releases (~700 titles).** The largest uncatalogued block on any
  platform here. Includes a deep shmup catalogue (Cotton, Batsugun,

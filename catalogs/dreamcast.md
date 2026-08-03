@@ -9,14 +9,18 @@
 | **Online** | **SegaNet / Dreamarena shut down in 2003.** The Dreamcast was the first console with a built-in modem, and every official online mode is gone. |
 | **Backward compat** | None. The Dreamcast is the original device for everything here. |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | Western releases and notable Japanese titles verified individually. The Japanese tail and the post-2001 indie scene are summarised, not enumerated. | ## Summary
+| **Coverage** | Western releases and notable Japanese titles verified individually. The Japanese tail and the post-2001 indie scene are summarised, not enumerated. |
+
+## Summary
 
 | | Count |
 |---|---|
 | **Debut games** | **37** |
 | — still `Stranded` | 17 |
 | — since `Ported` | 20 |
-| **Contested** | 1 | **Why the Dreamcast strands games.** Unusually, the Dreamcast's *canon* escaped
+| **Contested** | 1 |
+
+**Why the Dreamcast strands games.** Unusually, the Dreamcast's *canon* escaped
 almost completely. Sega exited hardware, became a third-party publisher, and
 promptly re-sold its best Dreamcast games onto PS2, then again in HD onto PS3, Xbox
 360 and PC. `Shenmue`, `Jet Set Radio`, `Sonic Adventure`, `Crazy Taxi`, `Skies of
@@ -76,11 +80,15 @@ What remains stranded splits three ways:
 | Chaos Field | 2004 | Milestone | Milestone | Shoot 'em up | 1 | No | Ported | GameCube, PS2 (2005) | |
 | Trizeal | 2004 | Triangle Service | Triangle Service | Shoot 'em up | 1 | No | **Stranded** | | Japan-only, post-discontinuation. |
 | Under Defeat | 2005 | G.rev | G.rev | Shoot 'em up | 1 | No | Ported | PS3, Xbox 360 (2012, *HD*) | Released **four years after** Sega discontinued the hardware — Japan's Dreamcast shmup scene outlived the console. |
-| Karous | 2007 | Milestone | Milestone | Shoot 'em up | 1 | No | Ported | Wii (2008) | **The last official Dreamcast game**, released six years after the console died. | ## Contested
+| Karous | 2007 | Milestone | Milestone | Shoot 'em up | 1 | No | Ported | Wii (2008) | **The last official Dreamcast game**, released six years after the console died. |
+
+## Contested
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| Samba de Amigo | 1999 | **Include** (`Stranded`) | The Dreamcast game is the first home version, and neither the 2008 Wii game nor 2023's *Party Central* is a port — both have different tracklists and were built separately. | Sega markets all three as the same series, so a reasonable reading treats the Wii release as the Dreamcast game reaching another platform, which would make it `Ported`. | ## Excluded
+| Samba de Amigo | 1999 | **Include** (`Stranded`) | The Dreamcast game is the first home version, and neither the 2008 Wii game nor 2023's *Party Central* is a port — both have different tracklists and were built separately. | Sega markets all three as the same series, so a reasonable reading treats the Wii release as the Dreamcast game reaching another platform, which would make it `Ported`. |
+
+## Excluded
 
 | Title | Year | Why excluded |
 |---|---|---|
@@ -93,7 +101,9 @@ What remains stranded splits three ways:
 | Phantasy Star Online Ver. 2 | 2001 | Same-platform expanded re-release. |
 | Any HD / PS2 / Xbox 360 re-release | | Re-releases by definition. |
 | Post-2001 indie homebrew | | Out of scope: unlicensed, tiny-run, and continuously produced. See the Appendix. |
-| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on another home platform still disqualifies. | ## Appendix — the tails
+| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on another home platform still disqualifies. |
+
+## Appendix — the tails
 
 - **Japan-only releases (~250 titles).** Visual novels, dating sims, and the deep
  post-discontinuation shmup catalogue from G.rev, Milestone and Triangle Service.

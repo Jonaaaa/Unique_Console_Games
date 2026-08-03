@@ -8,7 +8,9 @@
 | **Store status** | Sony announced closure in 2021 and **reversed** it; the PS3 store remains open but many titles have been individually delisted. |
 | **Backward compat** | Launch models play PS2 discs; all models play PS1 discs. Both are BC, **not** another platform. |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | Sony first-party and notable third-party exclusives verified individually. Sports annuals and licensed tie-ins summarised, not enumerated. | ## Summary
+| **Coverage** | Sony first-party and notable third-party exclusives verified individually. Sports annuals and licensed tie-ins summarised, not enumerated. |
+
+## Summary
 
 | | Count |
 |---|---|
@@ -16,7 +18,9 @@
 | — still `Stranded` | 31 |
 | — since `Ported` | 19 |
 | — `Sim-ship` | 10 |
-| **Contested** | 2 | **Why the PS3 strands games.** On the PS3 the dominant cause becomes **the games were services**. This generation normalised online
+| **Contested** | 2 |
+
+**Why the PS3 strands games.** On the PS3 the dominant cause becomes **the games were services**. This generation normalised online
 infrastructure, downloadable content and licensed-music integration, and all three
 decay:
 
@@ -100,12 +104,16 @@ not "someone emulated it".
 | Sly Cooper: Thieves in Time | 2013 | Sanzaru Games | Sony | Platformer | 1 | No | Sim-ship | Vita (2013, same day) | Cross-buy. The series has been dormant since. |
 | The Last of Us | 2013 | Naughty Dog | Sony | Action-adventure | 1–8 | Dead (2019) | Ported | PS4 (2014, *Remastered*), PS5 (2022, *Part I*), PC | |
 | The Legend of Heroes: Trails of Cold Steel | 2013 | Nihon Falcom | Falcom / XSEED | JRPG | 1 | No | Sim-ship | PS Vita (2013, same day), PC (2017), PS4 (2019), Switch (2022) | Also catalogued under [PS Vita](ps-vita.md). |
-| Persona 5 | 2016 | Atlus | Atlus | JRPG | 1 | No | Sim-ship | PS4 (2016, same day) | Also catalogued under [PS4](ps4.md). The PS3 version was Japan-and-Asia only in some regions and is the last major PS3 release of note. | ## Contested
+| Persona 5 | 2016 | Atlus | Atlus | JRPG | 1 | No | Sim-ship | PS4 (2016, same day) | Also catalogued under [PS4](ps4.md). The PS3 version was Japan-and-Asia only in some regions and is the last major PS3 release of note. |
+
+## Contested
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
 | Metal Gear Solid 4 | 2008 | **Include** (`Stranded`) | It has not shipped on any other platform. Its Cell-specific engine is the reason — the same technical wall that kept Sony from re-releasing the generation. | It was announced as part of *Master Collection Vol. 2*. If that has shipped in a region I have not verified, this should read `Ported`. Flagged rather than guessed. |
-| PlayStation Home | 2008 | **Include** (`Stranded`) | Users purchased software and content inside it, and all of it is permanently inaccessible — the strongest possible case of stranding. | It is a service and a social space rather than a game, which this repo normally excludes (`Wii Karaoke U`, `Wii U Panorama View`). Included because paid content was lost; the call is arguable. | ## Excluded
+| PlayStation Home | 2008 | **Include** (`Stranded`) | Users purchased software and content inside it, and all of it is permanently inaccessible — the strongest possible case of stranding. | It is a service and a social space rather than a game, which is normally excluded (`Wii Karaoke U`, `Wii U Panorama View`). Included because paid content was lost; the call is arguable. |
+
+## Excluded
 
 | Title | Year | Why excluded |
 |---|---|---|
@@ -115,7 +123,9 @@ not "someone emulated it".
 | Bayonetta (PS3) | 2010 | Simultaneous-ish multiplatform, Xbox 360 lead. |
 | Demon's Souls (2020) | 2020 | A PS5 remake, not a PS3 game. |
 | Any PS2 Classics / PS Plus release | | Re-releases by definition. |
-| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on another home platform still disqualifies. | ## Appendix — the tails
+| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on another home platform still disqualifies. |
+
+## Appendix — the tails
 
 - **Sports annuals (~250 titles).** `MLB The Show`, Madden, FIFA, NBA 2K, NHL, plus
  the PS3 `SingStar` line. Every one carries league, athlete and music licences that

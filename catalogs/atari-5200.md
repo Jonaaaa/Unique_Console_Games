@@ -7,13 +7,15 @@
 | **Library size** | ~69 titles |
 | **Backward compat** | Plays 2600 cartridges via a separate adapter. That is BC, **not** another platform. |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | Effectively complete for debut titles — there are very few. | ## ⚠ Why this file is almost empty
+| **Coverage** | Effectively complete for debut titles — there are very few. |
+
+## ⚠ Why there is almost nothing here
 
 The Atari 5200 was **architecturally an Atari 400 home computer in a console shell**.
 Its library was therefore overwhelmingly composed of conversions of Atari 8-bit
 *computer* games and arcade titles that already had 2600 versions.
 
-Under this repo's rules that leaves almost nothing:
+That leaves almost nothing:
 
 - A game that appeared on the **Atari 400/800 computers first** is excluded, on the
  same principle that excludes PC-first titles.
@@ -21,7 +23,7 @@ Under this repo's rules that leaves almost nothing:
 - Arcade originals are out of scope, so those don't disqualify — but nearly every
  5200 arcade conversion was also a 2600 conversion.
 
-The 5200 is the clearest case in the repo of a console with a real library and
+The 5200 is the clearest case here of a console with a real library and
 almost no *debuts*. That is a finding about the hardware's purpose, not a gap.
 
 ## Summary
@@ -31,7 +33,9 @@ almost no *debuts*. That is a finding about the hardware's purpose, not a gap.
 | **Debut games** | **7** |
 | — still `Stranded` | 5 |
 | — since `Ported` | 2 |
-| **Contested** | 1 | **Why the 5200 strands games.** Its handful of genuine debuts are stranded because
+| **Contested** | 1 |
+
+**Why the 5200 strands games.** Its handful of genuine debuts are stranded because
 the platform sold ~1M units, lasted 18 months, and was killed by the 1983 crash
 before it developed an identity worth reviving. Atari's own reissue programme
 concentrates on the 2600 and the arcade catalogue.
@@ -52,11 +56,15 @@ nobody liked.
 | Vanguard | 1983 | Atari | Atari | Shoot 'em up | 1 | No | **Stranded** | | First home release of the SNK cabinet, but the SNK licence sits outside Atari's catalogue — the same wall that strands `Space Invaders` on the 2600. |
 | Bounty Bob Strikes Back! | 1984 | Big Five Software | Big Five | Platformer | 1 | No | **Stranded** | | ⚠ [Contested](#contested) — released on 5200 cartridge and Atari 8-bit computers in the same window, and it is unclear which came first. |
 | Gremlins | 1984 | Atari | Atari | Action | 1 | No | **Stranded** | | A Warner film licence on a console that was discontinued the same year. |
-| Millipede | 1984 | Atari | Atari | Shoot 'em up | 1–2 | No | Ported | *Atari 50*, Atari Flashback | Atari owns `Centipede` and its sequel outright, which is why this one escaped. | ## Contested
+| Millipede | 1984 | Atari | Atari | Shoot 'em up | 1–2 | No | Ported | *Atari 50*, Atari Flashback | Atari owns `Centipede` and its sequel outright, which is why this one escaped. |
+
+## Contested
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| Bounty Bob Strikes Back! | 1984 | **Include** (`Stranded`) | It shipped as a 5200 cartridge, and the 5200 release is documented as one of the platform's few late exclusives. | Big Five released it across Atari 8-bit computers, Commodore 64 and 5200 in a tight window, and the computer version may have come first — which would exclude it on prior-home-release grounds. Recorded because the ordering is unresolved. | ## Excluded
+| Bounty Bob Strikes Back! | 1984 | **Include** (`Stranded`) | It shipped as a 5200 cartridge, and the 5200 release is documented as one of the platform's few late exclusives. | Big Five released it across Atari 8-bit computers, Commodore 64 and 5200 in a tight window, and the computer version may have come first — which would exclude it on prior-home-release grounds. Recorded because the ordering is unresolved. |
+
+## Excluded
 
 | Title | Year | Why excluded |
 |---|---|---|
@@ -66,7 +74,9 @@ nobody liked.
 | Pitfall!, River Raid, Zaxxon, Frogger | 1983–84 | Conversions of titles that debuted on the 2600 or on home computers. |
 | Montezuma's Revenge, Miner 2049er, Choplifter | 1983–84 | Home computer originals. |
 | Any *Atari 50* / Flashback release | | Re-releases by definition. |
-| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on the 2600 or an Atari 8-bit computer still disqualifies. | ## Appendix — why the library doesn't qualify
+| *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on the 2600 or an Atari 8-bit computer still disqualifies. |
+
+## Appendix — why the library doesn't qualify
 
 Of ~69 titles, roughly:
 
@@ -77,7 +87,7 @@ Of ~69 titles, roughly:
 - **~8 are sports and licensed titles** shared with the 2600.
 - **~6 are genuine 5200 debuts**, catalogued above.
 
-This is the only platform in the repo where the *majority* of the library fails the
+This is the only platform here where the *majority* of the library fails the
 debut test rather than merely being uncatalogued.
 
 ## Coverage gaps
