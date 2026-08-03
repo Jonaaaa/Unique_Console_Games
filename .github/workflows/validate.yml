@@ -1,0 +1,29 @@
+name: Validate catalogues
+
+# Structural mistakes in these files render fine on GitHub and are still wrong:
+# a heading glued to a table row becomes cell text, a short row silently loses a
+# column, a link to a moved file stays clickable. This catches all three before
+# they reach a catalogue anyone reads.
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+# Read-only. This job inspects files and reports; it never writes to the repo.
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      # Pinned to a commit rather than a tag: a tag can be moved to point at
+      # different code, a commit SHA cannot.
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+
+      # No setup-python step: the runner image already ships a Python 3 that is
+      # newer than anything this script needs, and the script has no dependencies.
+      - name: Check catalogue structure
+        run: ./tools/validate.py

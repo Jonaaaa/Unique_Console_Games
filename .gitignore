@@ -11,7 +11,5 @@ tmp/
 .idea/
 .vscode/
 
-# Local Claude Code state (skills are tracked; local settings are not)
-.claude/settings.local.json
-.claude/scheduled_tasks.lock
-.claude/scheduled_tasks*
+# Local tooling state
+.claude/

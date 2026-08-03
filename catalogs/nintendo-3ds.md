@@ -6,7 +6,7 @@
 | **Lifespan** | Feb 2011 (JP) – Sep 2020 (production ended); 75.94M units sold |
 | **eShop closed** | 27 Mar 2023 |
 | **Online services ended** | 8 Apr 2024 |
-| **Backward compat** | Plays Nintendo DS cards and DSiWare. That is BC, **not** another platform — see the [BC rule](../.claude/skills/unique-console-games/SKILL.md#backward-compatibility-is-not-another-platform). |
+| **Backward compat** | Plays Nintendo DS cards and DSiWare. That is BC, **not** another platform — see the [BC rule](../RULES.md#backward-compatibility-is-not-another-platform). |
 | **Category spine** | 238 titles tagged `Category:Nintendo 3DS-only games` on Wikipedia (fetched 2026-07-29) |
 | **Last verified** | 2026-07-29 |
 | **Coverage** | First-party, major third-party and notable eShop releases verified individually. Japan-only licensed anime tie-ins are summarised in the [Appendix](#appendix--the-japanese-licensed-tail), not individually verified. |

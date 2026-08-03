@@ -5,7 +5,7 @@
 | **Platform** | Sony PlayStation Vita (PCH-1000 / PCH-2000) |
 | **Lifespan** | Dec 2011 (JP) – Mar 2019 (production ended); ~16M units sold |
 | **Store status** | **Open.** Sony announced closure in Mar 2021 and reversed the decision six weeks later. |
-| **Backward compat** | Plays PSP, PS1 and PS Minis digitally; PlayStation TV plays most Vita games. Neither counts as another platform — see the [BC rule](../.claude/skills/unique-console-games/SKILL.md#backward-compatibility-is-not-another-platform). |
+| **Backward compat** | Plays PSP, PS1 and PS Minis digitally; PlayStation TV plays most Vita games. Neither counts as another platform — see the [BC rule](../RULES.md#backward-compatibility-is-not-another-platform). |
 | **Category spine** | 79 titles tagged `Category:PlayStation Vita-only games` on Wikipedia (fetched 2026-07-29) |
 | **Last verified** | 2026-07-29 |
 | **Coverage** | Western and notable Japanese releases verified individually. Japanese visual-novel and licensed-anime tie-ins are listed in the [Appendix](#appendix--the-japanese-tie-in-tail) but not individually verified. |

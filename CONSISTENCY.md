@@ -8,9 +8,8 @@ This file records the checks so drift can be found on purpose instead.
 
 ## The 14 checks
 
-Each maps to a rule in
-[the skill](.claude/skills/unique-console-games/SKILL.md). All are machine-verifiable
-from the tables themselves.
+Each maps to a rule in [the ruleset](RULES.md). All are machine-verifiable from
+the tables themselves.
 
 | # | Check | Rule it enforces |
 |---|---|---|

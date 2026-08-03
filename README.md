@@ -157,10 +157,27 @@ a console debut; but a game that appeared on **PC first** is excluded entirely.
 
 ## Working on this repo
 
-The [`unique-console-games`](.claude/skills/unique-console-games/SKILL.md) skill
-holds the full ruleset, the table schema, the contested-case conventions, and the
-research method. Invoke it before adding a platform or auditing an existing file.
+[`RULES.md`](RULES.md) holds the full ruleset, the table schema, the
+contested-case conventions, and the research method. Read it before adding a
+platform or auditing an existing file.
 
 Key research warning encoded there: "never ported to Switch" listicles are **leads,
 not facts**. They routinely list multiplatform games (`ZombiU`, `Watch Dogs`,
 `Sonic Lost World`) as exclusives. Verify every candidate individually.
+
+### Checking the files
+
+```sh
+./tools/validate.py
+```
+
+Verifies that each file has exactly one debut table, that every row has its ten
+cells and a known status, that the Summary count matches the rows actually
+present, that no heading is glued to the end of a table row, and that every
+relative link and heading anchor resolves. GitHub renders all of those mistakes
+without complaint, so they look correct on the page and are wrong in the data.
+The same script runs on every push and pull request.
+
+It is a structure check only. Whether a game genuinely debuted on a platform is
+a research question no script can settle; [`CONSISTENCY.md`](CONSISTENCY.md)
+covers the rule checks that go alongside it.

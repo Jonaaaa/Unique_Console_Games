@@ -5,7 +5,7 @@
 | **Platform** | Sony PlayStation Portable (PSP-1000 → PSP-E1000, PSP Go) |
 | **Lifespan** | Dec 2004 (JP) – 2014 (production ended); ~80M units sold |
 | **Store status** | **Closed.** PSP storefront shut 2016; PSP purchases via PS3/Vita ended 2021. |
-| **Backward compat** | PSP titles run on PS Vita and PS TV. That is BC, **not** another platform — see the [BC rule](../.claude/skills/unique-console-games/SKILL.md#backward-compatibility-is-not-another-platform). |
+| **Backward compat** | PSP titles run on PS Vita and PS TV. That is BC, **not** another platform — see the [BC rule](../RULES.md#backward-compatibility-is-not-another-platform). |
 | **Category spine** | 268 titles tagged `Category:PlayStation Portable-only games` on Wikipedia (fetched 2026-07-29) |
 | **Last verified** | 2026-07-29 |
 | **Coverage** | Notable Western and Japanese releases verified individually. The Japanese licensed-anime tail is not individually verified. **`Stranded` status here is less stable than on any other platform — see the warning below.** |

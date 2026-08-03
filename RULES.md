@@ -1,9 +1,9 @@
----
-name: unique-console-games
-description: Catalogue games that DEBUTED on a given console — first release anywhere, no simultaneous launch elsewhere — and track which of them are still stranded there. Use when researching, auditing, or extending the platform catalogues in this repo (Wii U, PSP, PS Vita, and later 3DS, Dreamcast, etc.), when deciding whether a title qualifies, or when adding a new platform catalogue.
----
+# Unique Console Games — the ruleset
 
-# Unique Console Games
+The rules behind every catalogue here: what qualifies, how the table is shaped,
+how contested cases are settled, and how to research a new platform. Read this
+before adding a platform or auditing an existing file.
+[`CONSISTENCY.md`](CONSISTENCY.md) lists the 14 checks that enforce it.
 
 Build and maintain per-platform catalogues of the games each console **gave the
 world first**. One markdown file per platform under `catalogs/`, table-driven.
