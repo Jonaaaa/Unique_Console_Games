@@ -28,7 +28,7 @@ far higher.
 On top of that:
 
 1. **Two-thirds of the library never left Japan.** The Saturn won its home market
- and lost everywhere else, so its deepest catalogue, RPGs, shmups, visual novels
+ and lost everywhere else, so its deepest catalogue: RPGs, shmups, visual novels
 ; was never localised and has no Western rights history to build on.
 2. **Lost source code.** `Panzer Dragoon Saga`'s source is reported lost, which
  Sega has cited when asked about a re-release.
@@ -44,7 +44,7 @@ On top of that:
 | Clockwork Knight | 1994 | Sega | Sega | Platformer | 1 | No | **Stranded** | | Launch title. Its sequel is likewise stranded. |
 | Astal | 1995 | Sega | Sega | Platformer | 1 | No | **Stranded** | | Hand-painted 2D art at a fidelity almost nothing else on the platform matched. |
 | Magic Knight Rayearth | 1995 | Sega | Sega / Working Designs | Action RPG | 1 | No | **Stranded** | | The **last official Saturn release in North America** (1998), three years after Japan. Anime licence blocks reissue. |
-| Panzer Dragoon | 1995 | Team Andromeda | Sega | Rail shooter | 1 | No | Ported | Switch, PC, PS4, Xbox (2020, *Remake*) | The remake is a rebuild, not an emulation; which is why it took 25 years. |
+| Panzer Dragoon | 1995 | Team Andromeda | Sega | Rail shooter | 1 | No | Ported | Switch, PC, PS4, Xbox (2020, *Remake*) | The remake is a rebuild, not an emulation, which is why it took 25 years. |
 | Shinobi Legions | 1995 | Sega | Sega / Vic Tokai | Action-platformer | 1 | No | **Stranded** | | PAL: *Shinobi X*. Live-action digitised sprites. |
 | Virtua Fighter 2 | 1995 | Sega AM2 | Sega | Fighting | 1–2 | No | Ported | *Sega Ages*, PS2, Switch Online (Expansion Pack) | First home version of the 1994 cabinet. |
 | Albert Odyssey: Legend of Eldean | 1996 | Sunsoft | Working Designs | RPG | 1 | No | **Stranded** | | Working Designs dissolved in 2005 and Sunsoft has never reclaimed the localisation. |
@@ -103,7 +103,7 @@ On top of that:
 - **Japan-only releases (~700 titles).** The largest uncatalogued block on any
  platform here. Includes a deep shmup catalogue (Cotton, Batsugun,
  Layer Section), dating sims, mahjong, and licensed anime RPGs. Almost all
- permanently stranded, no Western rights history, no localisation, and a
+ permanently stranded: no Western rights history, no localisation, and a
  platform Sega does not re-release from.
 - **Western sports and licensed tie-ins (~90 titles).** Stranded as usual.
 - **The 3D Control Pad and Twin Stick.** Several titles were built around Saturn

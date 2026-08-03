@@ -69,7 +69,7 @@ will be.
 
 - **Visual novels and dating sims (~45 titles).** Roughly three-quarters of the
  library. Most carry licensed anime properties, full voice casts and licensed music
-, three independent clearance problems each, for a Japan-only audience of 400,000.
+: three independent clearance problems each, for a Japan-only audience of 400,000.
  Nothing here will ever be reissued.
 - **Anime tie-ins.** `Sailor Moon`, `Zenki`, `Ruin Arm` and similar. Live licences,
  dead platform.

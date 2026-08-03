@@ -25,7 +25,7 @@ repo.
 
 1. **The Marketplace closed in July 2024.** Roughly 700 Xbox Live Arcade titles were
  digital-only. Those never given a disc release or a later port are now
- unpurchasable, the same shape as WiiWare and DSiWare, but on a platform with
+ unpurchasable: the same shape as WiiWare and DSiWare, but on a platform with
  twenty times the install base.
 2. **Kinect.** `Kinect Adventures` sold **24M copies** as a pack-in and is
  completely unportable; it needs a depth camera Microsoft discontinued in 2017.
@@ -49,7 +49,7 @@ repo.
 | Bullet Witch | 2006 | Cavia | Atari | Third-person shooter | 1 | No | **Stranded** | | Cavia dissolved in 2010. A PC version exists (2018) but PC is not a catalogued platform. |
 | Earth Defense Force 2017 | 2006 | Sandlot | D3 / Microsoft | Third-person shooter | 1–2 | No | **Stranded** | | The series continued elsewhere; this entry did not move. |
 | Gears of War | 2006 | Epic Games | Microsoft | Third-person shooter | 1–8 | Dead | Ported | Xbox One, PC (2015, *Ultimate Edition*) | |
-| Ninety-Nine Nights | 2006 | Q Entertainment / Phantagram | Microsoft | Musou | 1 | No | **Stranded** | | A Q Entertainment / Phantagram co-production published by Microsoft, rights split three ways, and two of the parties no longer exist. |
+| Ninety-Nine Nights | 2006 | Q Entertainment / Phantagram | Microsoft | Musou | 1 | No | **Stranded** | | A Q Entertainment / Phantagram co-production published by Microsoft: rights split three ways, and two of the parties no longer exist. |
 | Viva Piñata | 2006 | Rare | Microsoft | Life sim | 1–2 | Dead | Ported | Xbox One, PC (2015, *Rare Replay*) | |
 | Crackdown | 2007 | Realtime Worlds | Microsoft | Open-world action | 1–2 | Dead | **Stranded** | | Realtime Worlds collapsed in 2010. Its main draw at launch was the *Halo 3* beta invite. |
 | Halo 3 | 2007 | Bungie | Microsoft | FPS | 1–16 | Dead (2021) | Ported | Xbox One, PC (2020, *MCC*) | |
@@ -61,7 +61,7 @@ repo.
 | Left 4 Dead | 2008 | Valve / Turtle Rock | Valve / EA | Co-op FPS | 1–8 | Yes | **Stranded** | | ⚠ [Contested](#contested), same-day Xbox 360 and PC launch. Under the PC rule the console release is the catalogued one, and it never reached another console. |
 | Lost Odyssey | 2008 | Mistwalker / feelplus | Microsoft | RPG | 1 | No | **Stranded** | | **The most-requested stranded 360 game.** Sakaguchi's four-disc JRPG, playable only via BC. Microsoft owns it and has never reissued it. |
 | Tales of Vesperia | 2008 | Namco Tales Studio | Namco Bandai | Action RPG | 1–4 | No | Ported | PS3 (2009, Japan), multiplatform (2019, *Definitive Edition*) | |
-| Too Human | 2008 | Silicon Knights | Microsoft | Action RPG | 1–2 | Dead | **Stranded** | | **Delisted in 2019** after Silicon Knights lost its Epic lawsuit and was ordered to destroy Unreal-derived code. The same studio as the stranded `Eternal Darkness`, both of its major games are unavailable, for unrelated legal reasons. |
+| Too Human | 2008 | Silicon Knights | Microsoft | Action RPG | 1–2 | Dead | **Stranded** | | **Delisted in 2019** after Silicon Knights lost its Epic lawsuit and was ordered to destroy Unreal-derived code. The same studio as the stranded `Eternal Darkness`: both of its major games are unavailable, for unrelated legal reasons. |
 | Halo 3: ODST | 2009 | Bungie | Microsoft | FPS | 1–4 | Dead | Ported | Xbox One, PC (2015–20, *MCC*) | |
 | Halo Wars | 2009 | Ensemble Studios | Microsoft | RTS | 1–6 | Dead | Ported | Xbox One, PC (2016, *Definitive Edition*) | Ensemble was closed the month it shipped. |
 | Mushihimesama Futari | 2009 | Cave | Cave | Shoot 'em up | 1–2 | No | **Stranded** | | Cave's 360 shmups were tiny-run Japanese digital and disc releases. Never reissued, and Cave has since moved to mobile. |
@@ -69,7 +69,7 @@ repo.
 | 'Splosion Man | 2009 | Twisted Pixel | Microsoft | Platformer | 1–4 | Dead | **Stranded** | | XBLA-only; digital-only, so the 2024 Marketplace closure ended sales. |
 | Alan Wake | 2010 | Remedy | Microsoft | Action-adventure | 1 | No | Ported | PS4, Switch, PC (2012–21, *Remastered*) | Its licensed music was replaced in the remaster. |
 | Crackdown 2 | 2010 | Ruffian Games | Microsoft | Open-world action | 1–16 | Dead | **Stranded** | | Ruffian Games closed in 2022, and the whole Crackdown series is stranded across three generations. |
-| Dance Central | 2010 | Harmonix | Microsoft | Rhythm | 1–2 | Dead | **Stranded** | | Kinect **and** a fully licensed tracklist, two independent walls, the same combination that stranded `Guitar Hero` and `Elite Beat Agents`. |
+| Dance Central | 2010 | Harmonix | Microsoft | Rhythm | 1–2 | Dead | **Stranded** | | Kinect **and** a fully licensed tracklist: two independent walls, the same combination that stranded `Guitar Hero` and `Elite Beat Agents`. |
 | Deadly Premonition | 2010 | Access Games | Ignition | Survival horror | 1 | No | Ported | PS3 (2013, *Director's Cut*), PC, Switch | |
 | Fable III | 2010 | Lionhead | Microsoft | Action RPG | 1–2 | Dead | **Stranded** | | A PC version shipped in 2011, but no other console. Delisted from the Marketplace. |
 | Halo: Reach | 2010 | Bungie | Microsoft | FPS | 1–16 | Dead (2021) | Ported | Xbox One, PC (2019, *MCC*) | Bungie's last Halo. |

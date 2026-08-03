@@ -49,7 +49,7 @@ candidate here.
 
 | Title | Year | Why excluded |
 |---|---|---|
-| Magical Shop, Dream Change, and the remaining five titles | 1995–98 | Qualify as debuts with identical `Stranded` status; not separately tabled. |
+| Magical Shop, Dream Change, and the remaining five titles | 1995–98 | Qualify as debuts with identical `Stranded` status, not separately tabled. |
 | Loopy Magical Shop / Seal Set accessories | 1995–98 | Hardware and consumables, not software. |
 
 ## Coverage gaps

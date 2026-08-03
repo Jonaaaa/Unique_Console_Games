@@ -112,7 +112,7 @@ the catalogues surface:
 | Switch | **Policy, not obstacle.** Nintendo doesn't license its software to competing hardware, so every first-party exclusive is stranded by default. Peripherals (Ring-Con, Labo cardboard) do the rest. |
 | Wii U | **Hardware.** The GamePad's second screen cannot be reproduced on a single-screen console. |
 | PSP | **Licensing.** Anime tie-ins and licensed music tracklists whose rights are impractical to reassemble. |
-| Nintendo 3DS | **Commercial gravity, the inverse of the Wii U.** It sold 75.94M, so the audience already owns the library and there is little money in re-selling it. Stereoscopic 3D and StreetPass block the rest. |
+| Nintendo 3DS | **Commercial gravity: the inverse of the Wii U.** It sold 75.94M, so the audience already owns the library and there is little money in re-selling it. Stereoscopic 3D and StreetPass block the rest. |
 | PS Vita | **Studio closure.** Sony shut Bigbig, Zipper, Studio Liverpool and Guerrilla Cambridge, orphaning their games. One title (`TxK`) is stranded by injunction. |
 
 ## The ruleset

@@ -61,7 +61,7 @@ since aged out. `Ported` count of **zero**.
 
 | Title | Year | Why excluded |
 |---|---|---|
-| Remaining ~120 titles across the three systems | 2003–16 | Licensed edutainment with identical `Stranded` status; not separately tabled. |
+| Remaining ~120 titles across the three systems | 2003–16 | Licensed edutainment with identical `Stranded` status, not separately tabled. |
 | LeapPad, Tag, LeapReader, LeapStart | 2001–16 | Electronic book platforms rather than games hardware. |
 | Leapster Explorer / LeapPad app downloads | 2010–16 | A download store rather than removable media; its catalogue is largely the same licensed content. |
 

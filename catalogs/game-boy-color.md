@@ -40,9 +40,9 @@ the only games in either series absent from *Rare Replay*.
 
 | Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Notes |
 |---|---|---|---|---|---|---|---|---|---|
-| Tetris DX | 1998 | Nintendo R&D1 | Nintendo | Puzzle | 1–2 | No | **Stranded** | | ⚠ [Contested](#contested), a GBC-enhanced *Tetris*, so a port; but its save system and modes are original. The Tetris licence has since moved to The Tetris Company, blocking reissue. |
+| Tetris DX | 1998 | Nintendo R&D1 | Nintendo | Puzzle | 1–2 | No | **Stranded** | | ⚠ [Contested](#contested): a GBC-enhanced *Tetris*, so a port; but its save system and modes are original. The Tetris licence has since moved to The Tetris Company, blocking reissue. |
 | Conker's Pocket Tales | 1999 | Rare | Rare | Action-adventure | 1 | No | **Stranded** | | Rare's only Game Boy Color game. Omitted from *Rare Replay*, and the only Conker title never reissued. |
-| Harvest Moon 2 GBC | 1999 | Victor Interactive | Natsume | Farming sim | 1 | No | **Stranded** | | Caught in the Harvest Moon / Story of Seasons brand split, Natsume kept the name, Marvelous kept the series, and neither holds a clean path to reissue. |
+| Harvest Moon 2 GBC | 1999 | Victor Interactive | Natsume | Farming sim | 1 | No | **Stranded** | | Caught in the Harvest Moon / Story of Seasons brand split: Natsume kept the name, Marvelous kept the series, and neither holds a clean path to reissue. |
 | Pokémon Pinball | 1999 | Jupiter | Nintendo | Pinball | 1 | No | **Stranded** | | The cartridge contains a rumble motor and its own AAA battery. No re-release can reproduce it, and it has never been attempted. |
 | Survival Kids | 1999 | Konami | Konami | Survival | 1 | No | **Stranded** | | The ancestor of *Lost in Blue*. Never reissued. |
 | Kirby Tilt 'n' Tumble | 2000 | HAL Laboratory | Nintendo | Puzzle | 1 | No | **Stranded** | | An accelerometer in the cartridge; the whole game is played by physically tilting the console. Never re-released, and unreleasable. |

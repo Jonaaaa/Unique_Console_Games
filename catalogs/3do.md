@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| **Platform** | 3DO Interactive Multiplayer (1993), manufactured under licence by Panasonic, Sanyo and Goldstar |
+| **Platform** | 3DO Interactive Multiplayer (1993): manufactured under licence by Panasonic, Sanyo and Goldstar |
 | **Lifespan** | Oct 1993 – 1996; ~2M units sold |
 | **Library size** | ~250 titles |
 | **Backward compat** | None. |

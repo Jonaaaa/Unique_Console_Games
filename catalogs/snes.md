@@ -30,7 +30,7 @@ two additions. First, the SNES generation was the peak of the *film tie-in*, so
 Batman, Jurassic Park, Addams Family and Star Wars carts are everywhere and most
 are unreleasable. Second, the SNES had two Japan-only distribution experiments:
 the **Satellaview** satellite service and the **Nintendo Power** SF Memory
-write-to-order cartridge kiosks; whose games were never manufactured normally and
+write-to-order cartridge kiosks, whose games were never manufactured normally and
 in several cases no longer fully exist.
 
 A third, rarer cause appears here for the first time: **litigation**.
@@ -98,7 +98,7 @@ A third, rarer cause appears here for the first time: **litigation**.
 | Treasure of the Rudras | 1996 | Square | Square | RPG | 1 | No | **Stranded** | | Japan-only. Its custom spell-name parser makes localisation hard. |
 | Sutte Hakkun | 1997 | Indies Zero | Nintendo | Puzzle | 1 | No | **Stranded** | | Nintendo Power SF Memory / Satellaview exclusive. |
 | Fire Emblem: Thracia 776 | 1999 | Intelligent Systems | Nintendo | Tactical RPG | 1 | No | Ported | NSO (Japan) | Originally distributed via Nintendo Power write-to-order kiosks before a small retail run. |
-| Star Fox 2 | 2017 | Nintendo EAD / Argonaut | Nintendo | Rail shooter | 1–2 | No | Ported | SNES Classic (2017), NSO | ⚠ [Contested](#contested), finished in 1995, shelved, and first released 22 years later on a plug-and-play device. |
+| Star Fox 2 | 2017 | Nintendo EAD / Argonaut | Nintendo | Rail shooter | 1–2 | No | Ported | SNES Classic (2017), NSO | ⚠ [Contested](#contested): finished in 1995, shelved, and first released 22 years later on a plug-and-play device. |
 
 ## Contested
 
@@ -115,7 +115,7 @@ A third, rarer cause appears here for the first time: **litigation**.
 | Aladdin (Capcom) | 1993 | Sim-ship-adjacent with the separate Genesis game; the Capcom SNES build is distinct but shipped alongside. Treated as excluded pending verification. |
 | Star Ocean | 1996 | Qualifies and is `Ported` (PSP, PSP→PS4 remakes). |
 | Ogre Battle: The March of the Black Queen | 1993 | Qualifies and is `Ported` (PS1, Saturn, Virtual Console). |
-| Doom | 1995 | Port of the 1993 PC game. The SNES build is a bespoke Randy Linden conversion on a custom Super FX 2 chip and has never been reissued, stranded software, but not a debut. |
+| Doom | 1995 | Port of the 1993 PC game. The SNES build is a bespoke Randy Linden conversion on a custom Super FX 2 chip and has never been reissued: stranded software, but not a debut. |
 | Any Virtual Console / NSO / SNES Classic release | | Re-releases by definition. |
 | *(games with an earlier arcade release)* | | **No longer excluded.** Arcades are out of scope (a cabinet is not a collectable home device) so the first *home* release counts as the debut. A prior release on another **home** console still disqualifies. |
 

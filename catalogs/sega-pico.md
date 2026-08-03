@@ -81,7 +81,7 @@ practice, a platform with no reissues of any kind.
 - **Japan-only releases (~230).** The Pico sold in Japan, with limited Western
  releases in the mid-1990s and a longer run in China.
 - **Advanced Pico Beena (~100 titles, 2005–13).** Sega's successor, Japan-only,
- supported until 2013; which makes it one of Sega's **longest-supported hardware
+ supported until 2013, which makes it one of Sega's **longest-supported hardware
  lines**, and one nobody outside Japan knows exists. Equally stranded.
 
 ## Coverage gaps

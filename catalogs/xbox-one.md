@@ -58,7 +58,7 @@ PC does not count here. Beyond that:
 | Forza Motorsport 5 | 2013 | Turn 10 | Microsoft | Racing | 1–16 | Dead | **Stranded** | | Launch title, since **delisted** as licences expired. |
 | Killer Instinct | 2013 | Double Helix / Iron Galaxy | Microsoft | Fighting | 1–2 | Yes | **Stranded** | | Launch title. The SNES and N64 *Killer Instinct* games are also stranded, each for a different reason. PC version exists. |
 | Ryse: Son of Rome | 2013 | Crytek | Microsoft | Action | 1–2 | Dead | **Stranded** | | Launch title. A PC version shipped in 2014; no other console. |
-| Fantasia: Music Evolved | 2014 | Harmonix | Disney | Rhythm | 1–2 | No | **Stranded** | | Kinect **plus** a Disney licence **plus** licensed music, three independent walls, the most over-locked entry on the platform. |
+| Fantasia: Music Evolved | 2014 | Harmonix | Disney | Rhythm | 1–2 | No | **Stranded** | | Kinect **plus** a Disney licence **plus** licensed music: three independent walls, the most over-locked entry on the platform. |
 | Forza Horizon 2 | 2014 | Playground Games | Microsoft | Racing | 1–12 | Dead | **Stranded** | | Delisted in 2018. |
 | Halo: The Master Chief Collection | 2014 | 343 Industries | Microsoft | Compilation | 1–24 | Yes | **Stranded** | | Its `Halo 2: Anniversary` remaster is exclusive to this package. A PC version exists (2019–20) but PC is not a catalogued platform, so there is no second console for it. |
 | Kinect Sports Rivals | 2014 | Rare | Microsoft | Sports | 1–2 | Dead | **Stranded** | | Rare's last Kinect game before *Sea of Thieves*. Needs hardware discontinued in 2017. |
@@ -91,7 +91,7 @@ PC does not count here. Beyond that:
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| Halo 5: Guardians | 2015 | **Include** (`Stranded`) | Never on PC, never in *MCC*, never on another console, unambiguously stranded, and so for a flagship first-party game. | Its multiplayer is still live and it is playable via BC on Series X\|S, so a buyer might not experience it as stranded at all. Status here tracks re-release, not availability. |
+| Halo 5: Guardians | 2015 | **Include** (`Stranded`) | Never on PC, never in *MCC*, never on another console: unambiguously stranded, and so for a flagship first-party game. | Its multiplayer is still live and it is playable via BC on Series X\|S, so a buyer might not experience it as stranded at all. Status here tracks re-release, not availability. |
 
 ## Excluded
 

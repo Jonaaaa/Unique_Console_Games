@@ -75,7 +75,7 @@ Intellivision. Arcade originals are out of scope and never disqualify.
 | Contra | 1988 | Konami | Konami | Run and gun | 1–2 | No | Ported | NSO, *Contra Anniversary Collection*, Virtual Console | Arcade original (1987) is out of scope; the NES version was the first home release and a substantially redesigned game. |
 | Mega Man 2 | 1988 | Capcom | Capcom | Action-platformer | 1 | No | Ported | *Legacy Collection*, NSO, Virtual Console | |
 | Ninja Gaiden | 1988 | Tecmo | Tecmo | Action-platformer | 1 | No | Ported | NSO, *Ninja Gaiden Collection*, Virtual Console | A separate game from the 1988 arcade *Ninja Gaiden*, despite the shared name and year. |
-| Super Mario Bros. 2 | 1988 | Nintendo R&D4 | Nintendo | Platformer | 1 | No | Ported | NSO, Virtual Console, NES Classic, GBA, All-Stars | ⚠ [Contested](#contested), a reskin of *Yume Kōjō: Doki Doki Panic* (FDS, 1987). |
+| Super Mario Bros. 2 | 1988 | Nintendo R&D4 | Nintendo | Platformer | 1 | No | Ported | NSO, Virtual Console, NES Classic, GBA, All-Stars | ⚠ [Contested](#contested): a reskin of *Yume Kōjō: Doki Doki Panic* (FDS, 1987). |
 | Super Mario Bros. 3 | 1988 | Nintendo EAD | Nintendo | Platformer | 1–2 | No | Ported | NSO, Virtual Console, NES Classic, GBA, All-Stars | |
 | The Adventures of Bayou Billy | 1988 | Konami | Konami | Beat 'em up | 1 | No | **Stranded** | | Absent from every Konami anniversary collection. |
 | Batman: The Video Game | 1989 | Sunsoft | Sunsoft | Action-platformer | 1 | No | **Stranded** | | DC licence. Widely regarded as one of the best NES licensed games and unavailable. |
@@ -119,7 +119,7 @@ Intellivision. Arcade originals are out of scope and never disqualify.
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| Super Mario Bros. 2 (Western) | 1988 | **Include** | The Western *SMB2* was assembled and shipped by Nintendo as a new product, with Mario characters, new balance and new art. It is the first release of *that* game. | It is a reskin of *Yume Kōjō: Doki Doki Panic* (FDS, 1987), same engine, levels and design. Under a strict reading the game already existed. |
+| Super Mario Bros. 2 (Western) | 1988 | **Include** | The Western *SMB2* was assembled and shipped by Nintendo as a new product, with Mario characters, new balance and new art. It is the first release of *that* game. | It is a reskin of *Yume Kōjō: Doki Doki Panic* (FDS, 1987): same engine, levels and design. Under a strict reading the game already existed. |
 | Mike Tyson's Punch-Out!! | 1987 | **Include** | Debuted on NES and remains a debut regardless of what happened to the licence. | The version that exists today is *Punch-Out!! Featuring Mr. Dream*; the Tyson build has never been re-released, so the original is `Stranded` and the re-release is a different product. |
 | Action 52 | 1991 | **Include** | 52 original games, none of which existed before, on a cartridge sold at retail. | Unlicensed and not a legitimate release at all; also a compilation, which the rules normally exclude. Kept because the compiled games are originals. |
 

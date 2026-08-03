@@ -13,7 +13,7 @@
 ## ⚠ The PS Plus Premium problem, again
 
 As with the [PSP](psp.md), Sony's PS Plus Premium Classics catalogue puts PS1 games
-on PS4 and PS5 as distinct store entries, a re-release, so it flips a row to
+on PS4 and PS5 as distinct store entries: a re-release, so it flips a row to
 `Ported`. The catalogue **rotates and expands with no published master list**, and
 availability varies by region.
 
@@ -90,7 +90,7 @@ Two further causes:
 | Chrono Cross | 1999 | Square | Square | RPG | 1 | No | Ported | multiplatform (2022, *The Radical Dreamers Edition*) | |
 | Final Fantasy VIII | 1999 | Square | Square | RPG | 1 | No | Ported | PC, multiplatform (2019, *Remastered*) | |
 | Front Mission 3 | 1999 | Square | Square | Tactical RPG | 1 | No | **Stranded** | | The *1st Remake* and *2nd Remake* covered the SNES and PS1 predecessors; this one was skipped. |
-| Gran Turismo 2 | 1999 | Polyphony Digital | Sony | Racing | 1–2 | No | **Stranded** | | 11.98M, **the best-selling stranded PS1 game.** Same licensing wall as the first, with far more cars. |
+| Gran Turismo 2 | 1999 | Polyphony Digital | Sony | Racing | 1–2 | No | **Stranded** | | 11.98M: **the best-selling stranded PS1 game.** Same licensing wall as the first, with far more cars. |
 | Omega Boost | 1999 | Polyphony Digital | Sony | Mech shooter | 1 | No | **Stranded** | | Polyphony's only non-racing game. |
 | Racing Lagoon | 1999 | Square | Square | Racing RPG | 1 | No | **Stranded** | | Japan-only. A street-racing RPG; never localised or reissued. |
 | Silent Hill | 1999 | Team Silent | Konami | Survival horror | 1 | No | **Stranded** | | **Never re-released in any form.** Konami is actively remaking the series (*Silent Hill 2* got a 2024 remake) while the original remains available only on PS1 discs. |

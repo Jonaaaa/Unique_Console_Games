@@ -18,7 +18,7 @@ of each other. The AES cart was a coin-op board in a home shell, at coin-op pric
 
 Under the rule that **arcades are out of scope**, the AES release is therefore
 the catalogued debut for essentially the whole library. That is the rule working as
-intended, a collector cannot shelve an MVS cabinet, and the AES cart is the home
+intended: a collector cannot shelve an MVS cabinet, and the AES cart is the home
 product, and worth
 stating plainly rather than letting it pass.
 
@@ -82,7 +82,7 @@ aggressively monetised. The exceptions are:
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| The entire AES library | 1990–2004 | **Include** | Arcades are out of scope by rule, so the AES cartridge is the first *collectable home* release of each game. A collector buys AES carts, not MVS boards. | MVS and AES releases were near-simultaneous and often literally the same board. Someone could argue every Neo Geo game is an arcade title that happens to have a home SKU; which would empty this list. Recorded because it is the single largest rule-driven judgement here. |
+| The entire AES library | 1990–2004 | **Include** | Arcades are out of scope by rule, so the AES cartridge is the first *collectable home* release of each game. A collector buys AES carts, not MVS boards. | MVS and AES releases were near-simultaneous and often literally the same board. Someone could argue every Neo Geo game is an arcade title that happens to have a home SKU, which would empty this list. Recorded because it is the single largest rule-driven judgement here. |
 
 ## Excluded
 
@@ -102,7 +102,7 @@ aggressively monetised. The exceptions are:
  `Samurai Shodown`, `Art of Fighting` and `World Heroes` lines account for a large
  share of the library. Almost all have been reissued, several times over.
 - **Sports and mahjong titles (~30).** SNK avoided real league licences, using
- original teams instead; which is precisely why this block could be reissued when
+ original teams instead, which is precisely why this block could be reissued when
  equivalent blocks on other platforms could not. A rare case of licence-avoidance
  preserving a catalogue.
 - **Neo Geo CD exclusives (~10).** The stranded corner of the platform.

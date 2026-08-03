@@ -13,7 +13,7 @@
 ## ⚠ The PS Plus Premium problem
 
 On the PSP, **`Stranded` status cannot be treated as settled**. Sony's PS Plus Premium Classics catalogue includes PSP titles that run
-on PS4 and PS5 as distinct, downloadable store entries; which is a re-release on
+on PS4 and PS5 as distinct, downloadable store entries, which is a re-release on
 another platform, not backward compatibility, so it flips a game to `Ported`. The
 catalogue **rotates monthly**, Sony publishes no fixed list, and availability
 varies by region.

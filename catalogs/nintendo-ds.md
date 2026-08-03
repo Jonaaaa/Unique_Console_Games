@@ -125,7 +125,7 @@ games ever reached Wii U Virtual Console.
 - **DSiWare (~500 titles).** The DSi Shop closed in **2017**. Purchases cannot be
  redownloaded and nothing was migrated. DSiWare originals, including
  `WarioWare: Snapped!` and the split releases of `Electroplankton`, are the most
- thoroughly lost software here, more so than Satellaview, because ordinary
+ thoroughly lost software here: more so than Satellaview, because ordinary
  customers bought it and simply no longer have it.
 - **Japan-only retail (~300 titles).** Includes `Jump Ultimate Stars`,
  `Soma Bringer` and a deep licensed-anime tail.

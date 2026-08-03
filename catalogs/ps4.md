@@ -5,7 +5,7 @@
 | **Platform** | PlayStation 4 (2013), PS4 Slim (2016), PS4 Pro (2016) |
 | **Lifespan** | Nov 2013 – 2021 (production wound down); ~117M units sold |
 | **Library size** | ~4,000 titles |
-| **Backward compat** | None for discs. PS5 plays the great majority of PS4 titles, BC, **not** another platform. |
+| **Backward compat** | None for discs. PS5 plays the great majority of PS4 titles: BC, **not** another platform. |
 | **Last verified** | 2026-07-29 |
 | **Coverage** | Sony first-party and notable third-party exclusives verified individually. Multiplatform third-party releases are out of scope by rule. |
 

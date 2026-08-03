@@ -50,7 +50,7 @@
 | Asterix | 1991 | Sega | Sega | Platformer | 1–2 | No | **Stranded** | | Licence held by Les Éditions Albert René; Europe-only. |
 | Golden Axe Warrior | 1991 | Sega | Sega | Action RPG | 1 | No | **Stranded** | | A full Zelda-style RPG using Golden Axe's setting. Omitted from every Golden Axe collection because it is nothing like the beat 'em ups. |
 | Mônica no Castelo do Dragão | 1991 | Tectoy | Tectoy | Platformer | 1 | No | **Stranded** | | **Brazil-only.** *Wonder Boy in Monster Land* rebuilt around the Brazilian comic *Turma da Mônica*. |
-| Sonic the Hedgehog | 1991 | Ancient | Sega | Platformer | 1 | No | Ported | Sega collections, Game Gear | ⚠ [Contested](#contested), a **completely different game** from the Genesis original, built by Yuzo Koshiro's studio. |
+| Sonic the Hedgehog | 1991 | Ancient | Sega | Platformer | 1 | No | Ported | Sega collections, Game Gear | ⚠ [Contested](#contested): a **completely different game** from the Genesis original, built by Yuzo Koshiro's studio. |
 | Land of Illusion Starring Mickey Mouse | 1992 | Sega | Sega | Platformer | 1 | No | **Stranded** | | Disney licence. The 8-bit *Illusion* games are separate designs from the Genesis ones. |
 | Master of Darkness | 1992 | SIMS | Sega | Action-platformer | 1 | No | **Stranded** | | A Castlevania-alike Sega made because it could not license Castlevania. Never reissued. |
 | Ecco the Dolphin | 1993 | Novotrade | Sega | Action-adventure | 1 | No | Ported | Sega collections | The 8-bit version is a distinct build. |
@@ -88,7 +88,7 @@
 - **Tectoy Brazil (~100 titles).** Sega licensed the Master System to Tectoy, which
  kept producing hardware and software for decades. Its output includes original
  games and licensed reskins built for Brazilian properties. **This is the most
- reliably stranded block on the platform**, never distributed internationally,
+ reliably stranded block on the platform**: never distributed internationally,
  never digitised, and often Portuguese-only.
 - **Japanese Mark III / SG-1000 tail (~80 titles).** Largely arcade conversions and
  early Sega originals.

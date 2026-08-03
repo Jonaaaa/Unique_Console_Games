@@ -48,7 +48,7 @@ console that sold ~50,000 units over two years. `Ported` count of **zero**.
 
 | Title | Year | Why excluded |
 |---|---|---|
-| Remaining ~29 titles | 1994–96 | Licensed anime video products with identical `Stranded` status; not separately tabled. |
+| Remaining ~29 titles | 1994–96 | Licensed anime video products with identical `Stranded` status, not separately tabled. |
 | Non-interactive video discs | 1994–96 | Some Playdia releases are anime compilations with no interactive component. |
 
 ## Coverage gaps

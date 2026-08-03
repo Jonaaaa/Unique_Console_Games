@@ -109,7 +109,7 @@ debut is a permanent historical fact.
 
 ### What counts as "released elsewhere"
 
-Only officially licensed releases. Emulation is irrelevant, Cemu, Dolphin,
+Only officially licensed releases. Emulation is irrelevant: Cemu, Dolphin,
 Ryujinx and flashcarts never change a status.
 
 #### PC is not a catalogued platform
@@ -129,7 +129,7 @@ so a reader knows the game is obtainable, just not on a second console.
 
 #### Backward compatibility is NOT another platform
 
-A later console running the *original release*, same SKU, disc, cartridge or
+A later console running the *original release*: same SKU, disc, cartridge or
 store entitlement, is backward compatibility. It does not change a status.
 Otherwise the attribute collapses: nearly every PSP game runs on a Vita, every
 Vita game on PlayStation TV, every Wii game on a Wii U, every Switch game on
@@ -137,7 +137,7 @@ Switch 2.
 
 | Counts as another platform | Does not |
 |---|---|
-| A **port or remaster**, new build, new SKU (`Gravity Rush Remastered`) | Vita playing a **PSP** game |
+| A **port or remaster**: new build, new SKU (`Gravity Rush Remastered`) | Vita playing a **PSP** game |
 | A **subscription re-release** that is a distinct store entry on a new platform (PS Plus Premium's PSP catalogue on PS4/PS5; NSO) | PS TV playing a **Vita** game |
 | A **compilation** the game is folded into (`WipEout Omega Collection`) | Wii U playing a **Wii** disc |
 | A **cross-buy twin** built for the other platform | Switch 2 playing a **Switch** cartridge |
@@ -178,7 +178,7 @@ collect it. Before release, such a game is `Stranded`; after, it is `Ported`.
 
 ### Remakes are not debuts
 
-A ground-up remake is tempting to treat as a new game, new engine, new art, often
+A ground-up remake is tempting to treat as a new game: new engine, new art, often
 new systems. Resist it. The test is *"is this the first release of this game?"*,
 and for a remake the answer is no: the game already existed. `Metroid: Samus
 Returns`, `Pokémon Omega Ruby and Alpha Sapphire`, `Fire Emblem Echoes`,

@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| **Platform** | Epoch Cassette Vision (1981), **Super Cassette Vision** (1984), Japan, plus a small French release |
+| **Platform** | Epoch Cassette Vision (1981), **Super Cassette Vision** (1984): Japan, plus a small French release |
 | **Lifespan** | Jul 1981 – 1987; ~400,000 Cassette Vision units |
 | **Library size** | 11 Cassette Vision titles, ~30 Super Cassette Vision titles |
 | **Backward compat** | The Super Cassette Vision is a new platform, not compatible with the original. |
@@ -52,7 +52,7 @@ was effectively its own computer; a design nothing can emulate straightforwardly
 | Title | Year | Why excluded |
 |---|---|---|
 | Boulder Dash | 1985 | Included above for context but a conversion of the 1984 computer original. |
-| Remaining Super Cassette Vision titles (~24) | 1984–87 | Japan-only originals and licensed conversions with identical `Stranded` status; not separately tabled. |
+| Remaining Super Cassette Vision titles (~24) | 1984–87 | Japan-only originals and licensed conversions with identical `Stranded` status, not separately tabled. |
 | Epoch TV Tennis / dedicated Epoch consoles | 1975–80 | Single-game units with no removable media. |
 | *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on a home computer still disqualifies. |
 

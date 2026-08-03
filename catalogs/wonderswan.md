@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Platform** | WonderSwan (1999), **WonderSwan Color** (2000), SwanCrystal (2002) |
-| **Lifespan** | Mar 1999 – 2003; ~3.5M units sold, **Japan only, never released anywhere else** |
+| **Lifespan** | Mar 1999 – 2003; ~3.5M units sold: **Japan only, never released anywhere else** |
 | **Library size** | ~200 titles, all Japanese |
 | **Backward compat** | WonderSwan Color and SwanCrystal play original WonderSwan cartridges. BC, **not** another platform. |
 | **Last verified** | 2026-07-29 |
@@ -80,7 +80,7 @@ The exceptions are instructive: the three `Ported` entries all escaped because a
 | Front Mission | 2002 | Port of the 1995 SNES game. |
 | Romancing SaGa | 2001 | Remake of the 1992 SNES game. |
 | Tetris / Puyo Puyo Tsu | 1999–2000 | Conversions of games that debuted elsewhere. |
-| Kaze no Klonoa: Moonlight Museum | 1999 | Japanese title of a game already listed, a duplicate, not a separate release. |
+| Kaze no Klonoa: Moonlight Museum | 1999 | Japanese title of a game already listed: a duplicate, not a separate release. |
 | *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on another home platform still disqualifies. |
 
 ## Appendix: the tail
@@ -98,7 +98,7 @@ The exceptions are instructive: the three `Ported` entries all escaped because a
 
 - **The largest proportional gap here.** ~15 of ~200 titles are catalogued,
  and English-language documentation of the library is thin.
-- No reissue programme exists, so `Ported` is very unlikely to grow; which makes
+- No reissue programme exists, so `Ported` is very unlikely to grow, which makes
  these `Stranded` claims among the most stable here.
 
 ## Sources

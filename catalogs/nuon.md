@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| **Platform** | Nuon (2000), a games chipset built into DVD players from Samsung, Toshiba and RCA |
+| **Platform** | Nuon (2000): a games chipset built into DVD players from Samsung, Toshiba and RCA |
 | **Lifespan** | 2000 – 2002; total install base never disclosed, believed tens of thousands |
 | **Library size** | **8 commercial titles** |
 | **Backward compat** | Plays DVDs, being a DVD player. Not a game library. |

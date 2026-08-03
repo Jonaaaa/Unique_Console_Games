@@ -66,12 +66,12 @@ on a Soviet Electronika 60 in 1984, so the Game Boy pack-in is a port.
 | Trip World | 1992 | Sunsoft | Sunsoft | Platformer | 1 | No | Ported | Switch, PS4, PC (2022, *Trip World DX*) | Japan/PAL-only originally; escaped because Sunsoft owns it outright. |
 | Kid Dracula | 1993 | Konami | Konami | Platformer | 1 | No | Ported | *Castlevania Anniversary Collection* (2019) | The GB game is a different build from the Famicom original. |
 | The Legend of Zelda: Link's Awakening | 1993 | Nintendo EAD | Nintendo | Action-adventure | 1 | No | Ported | 3DS Virtual Console, Switch (2019 remake), NSO | |
-| Donkey Kong | 1994 | Nintendo R&D1 | Nintendo | Puzzle-platformer | 1 | No | Ported | 3DS Virtual Console, NSO | ⚠ [Contested](#contested), opens with the 1981 arcade game's four stages, then continues into 97 original ones. |
+| Donkey Kong | 1994 | Nintendo R&D1 | Nintendo | Puzzle-platformer | 1 | No | Ported | 3DS Virtual Console, NSO | ⚠ [Contested](#contested): opens with the 1981 arcade game's four stages, then continues into 97 original ones. |
 | Mega Man V | 1994 | Minakuchi | Capcom | Action-platformer | 1 | No | Ported | 3DS Virtual Console | The best-regarded of the five GB Mega Man games; entirely original robot masters. |
 | Wario Land: Super Mario Land 3 | 1994 | Nintendo R&D1 | Nintendo | Platformer | 1 | No | Ported | 3DS Virtual Console, NSO | |
 | Kirby's Dream Land 2 | 1995 | HAL Laboratory | Nintendo | Platformer | 1 | No | Ported | 3DS Virtual Console, NSO | |
 | Mole Mania | 1996 | Nintendo R&D2 | Nintendo | Puzzle | 1 | No | Ported | 3DS Virtual Console | A Miyamoto-produced puzzler that almost nobody played. |
-| Pokémon Red and Blue | 1996 | Game Freak | Nintendo | RPG | 1–2 | No | Ported | 3DS Virtual Console (2016) | Link Cable trading was required to complete the Pokédex, the Virtual Console release emulated it, but the original cable experience is gone. |
+| Pokémon Red and Blue | 1996 | Game Freak | Nintendo | RPG | 1–2 | No | Ported | 3DS Virtual Console (2016) | Link Cable trading was required to complete the Pokédex: the Virtual Console release emulated it, but the original cable experience is gone. |
 | Harvest Moon GB | 1997 | Victor Interactive | Natsume | Farming sim | 1 | No | **Stranded** | | The same Harvest Moon / Story of Seasons rights split that strands the GBC sequel. |
 | Pocket Bomberman | 1997 | Hudson Soft | Hudson Soft | Action | 1 | No | **Stranded** | | Konami absorbed Hudson in 2012; none of the handheld Bomberman games have been collected. |
 | Dragon Quest Monsters: Terry's Wonderland | 1998 | Tose | Enix | RPG | 1–2 | No | Ported | 3DS (2012 remake), Switch (2023) | |
@@ -85,7 +85,7 @@ on a Soviet Electronika 60 in 1984, so the Game Boy pack-in is a port.
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| Tetris DX | 1998 | **Include** (`Stranded`) | Adds save files, a scoring system, a versus mode and colour, a distinct GBC product, not a straight re-release. | It is fundamentally *Tetris* on the same platform family, so it is an enhanced re-release rather than a debut. |
+| Tetris DX | 1998 | **Include** (`Stranded`) | Adds save files, a scoring system, a versus mode and colour: a distinct GBC product, not a straight re-release. | It is fundamentally *Tetris* on the same platform family, so it is an enhanced re-release rather than a debut. |
 
 ## Excluded
 

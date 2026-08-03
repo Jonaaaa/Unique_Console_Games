@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| **Platform** | Vectrex (1982), GCE, then Milton Bradley |
+| **Platform** | Vectrex (1982): GCE, then Milton Bradley |
 | **Lifespan** | Nov 1982 – early 1984; ~500,000 units sold |
 | **Library size** | 28 official cartridges |
 | **Backward compat** | None. |
@@ -31,7 +31,7 @@ use**, seeding a homebrew scene that still produces cartridges.
 | of which since `Ported` | 0 |
 | **Contested** | 1 |
 
-**Why the Vectrex strands games.** The display, primarily, any re-release on modern
+**Why the Vectrex strands games.** The display, primarily: any re-release on modern
 hardware is a simulation of a vector monitor, not the thing itself, and the overlays
 are physical. Beyond that, Hasbro has no commercial interest, and several titles were
 arcade licences (`Berzerk`, `Scramble`, `Star Trek`) whose rights sit elsewhere.
@@ -47,7 +47,7 @@ Another platform with a `Ported` count of **zero**.
 | Mine Storm | 1982 | John Hall | GCE | Shoot 'em up | 1 | No | **Stranded** | | Built into every console's ROM rather than sold separately; an `Asteroids` variant that is the game most Vectrex owners played. Its later `Mine Storm II` cartridge existed only to fix a level-13 crash bug. |
 | Scramble | 1982 | GCE | GCE | Shoot 'em up | 1 | No | **Stranded** | | Licensed from Konami's cabinet; the licence has long since lapsed. |
 | Star Trek: The Motion Picture | 1982 | GCE | GCE | Space combat | 1 | No | **Stranded** | | A Paramount film licence on a dead vector console, locked by two rights holders on dead hardware. |
-| 3D Mine Storm | 1983 | GCE | GCE | Shoot 'em up | 1 | No | **Stranded** | | Requires the **Vectrex 3D Imager**, a spinning-disc stereoscopic headset released in 1983. The peripheral was discontinued almost immediately and is now vanishingly rare, doubly stranded, by display and by accessory. |
+| 3D Mine Storm | 1983 | GCE | GCE | Shoot 'em up | 1 | No | **Stranded** | | Requires the **Vectrex 3D Imager**, a spinning-disc stereoscopic headset released in 1983. The peripheral was discontinued almost immediately and is now vanishingly rare: doubly stranded, by display and by accessory. |
 | Fortress of Narzod | 1983 | GCE | GCE | Shoot 'em up | 1 | No | **Stranded** | | A GCE original that needs the vector display, and Milton Bradley shut the platform down months after it shipped. |
 | Pole Position | 1983 | GCE | GCE | Racing | 1 | No | **Stranded** | | A Namco licence, and one of the last official releases before Milton Bradley shut the platform down. |
 | Spike | 1983 | GCE | GCE | Platformer | 1 | No | **Stranded** | | **The first console game with in-game speech**, using the Vectrex's audio hardware for spoken dialogue. Also one of the few titles with a named character, positioned as a mascot. |
@@ -64,7 +64,7 @@ Another platform with a `Ported` count of **zero**.
 | Title | Year | Why excluded |
 |---|---|---|
 | Berzerk, Rip-Off, Armor Attack, Star Castle | 1982–83 | Arcade licences that had earlier home conversions on other platforms. |
-| Clean Sweep, Hyperchase, Cosmic Chasm | 1982–83 | Qualify as debuts and are `Stranded`; not separately tabled. |
+| Clean Sweep, Hyperchase, Cosmic Chasm | 1982–83 | Qualify as debuts and are `Stranded`, not separately tabled. |
 | Homebrew cartridges (1996–present) | | Hasbro released the rights for non-commercial use, so an active scene still produces new Vectrex games; several hundred by now. Out of scope. |
 | *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on another home console still disqualifies. |
 

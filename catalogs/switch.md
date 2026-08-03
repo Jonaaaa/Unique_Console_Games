@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Platform** | Nintendo Switch (2017), Switch Lite, Switch OLED |
-| **Hardware revisions** | Lite and OLED play the same library. **Switch Lite cannot play games requiring detached Joy-Con or TV mode**, a compatibility split, not a separate library. |
+| **Hardware revisions** | Lite and OLED play the same library. **Switch Lite cannot play games requiring detached Joy-Con or TV mode**: a compatibility split, not a separate library. |
 | **Lifespan** | Mar 2017 – present (superseded by Switch 2, Jun 2025); ~154M units sold |
 | **Library size** | 15,000+ titles, overwhelmingly eShop indies |
 | **Backward compat** | Switch 2 plays Switch cartridges and digital titles. That is BC, **not** another platform. **"Switch 2 Edition" upgrades are a different matter**, see below. |
@@ -20,7 +20,7 @@ compatibility.
 
 **2. `Stranded` means something weaker here.** On the Saturn it means "nobody can
 reissue this". On Switch it mostly means "Nintendo does not put its games on other
-people's hardware", a commercial policy, not an obstacle. `Super Mario Odyssey`
+people's hardware": a commercial policy, not an obstacle. `Super Mario Odyssey`
 is stranded in exactly the sense that every Mario game is. That is still the right
 answer for a collector, but it is not the same kind of fact.
 
@@ -96,7 +96,7 @@ Two narrower causes do real work, though:
 | Emio – The Smiling Man: Famicom Detective Club | 2024 | Nintendo / Mages | Nintendo | Visual novel | 1 | No | **Stranded** | | A sequel to a 1988 Famicom Disk System series, 36 years later. |
 | Endless Ocean Luminous | 2024 | Arika | Nintendo | Diving sim | 1–30 | Yes | **Stranded** | | A new entry rather than a port of the Wii games, which remain stranded. |
 | Mario & Luigi: Brothership | 2024 | Acquire | Nintendo | RPG | 1 | No | **Stranded** | | The first Mario & Luigi game since AlphaDream's bankruptcy. |
-| Nintendo World Championships: NES Edition | 2024 | Nintendo | Nintendo | Compilation | 1–8 | Yes | **Stranded** | | 150 speedrun challenges built from 13 NES games, original content, not a re-release of the [1990 competition cart](nes.md). |
+| Nintendo World Championships: NES Edition | 2024 | Nintendo | Nintendo | Compilation | 1–8 | Yes | **Stranded** | | 150 speedrun challenges built from 13 NES games: original content, not a re-release of the [1990 competition cart](nes.md). |
 | Princess Peach: Showtime! | 2024 | Good-Feel | Nintendo | Action-adventure | 1 | No | **Stranded** | | Good-Feel developed it; Nintendo owns the character and the publishing rights. |
 | Super Mario Party Jamboree | 2024 | Nd Cube | Nintendo | Party | 1–4 | Yes | Ported | Switch 2 (2025, *Switch 2 Edition*) | |
 | The Legend of Zelda: Echoes of Wisdom | 2024 | Grezzo | Nintendo | Action-adventure | 1 | No | **Stranded** | | The first mainline Zelda with Zelda as the playable character. |

@@ -13,7 +13,7 @@
 
 The Playdate is a yellow 1-bit handheld with a **mechanical crank** on its side as a
 primary input. Panic, better known as a Mac software developer and the publisher of
-`Firewatch` and `Untitled Goose Game`, designed it as a deliberately small, complete
+`Firewatch` and `Untitled Goose Game`: designed it as a deliberately small, complete
 object, and distributed its first two seasons of games as a "Season" subscription
 delivered weekly over Wi-Fi.
 
@@ -44,7 +44,7 @@ rather than independently owned properties.
 |---|---|---|---|---|---|---|---|---|---|
 | Casual Birder | 2022 | Diego Garcia | Panic | Adventure | 1 | No | **Stranded** | | A Season 1 commission; photographing birds with a crank-operated camera. |
 | Crankin's Time Travel Adventure | 2022 | Keita Takahashi | Panic | Puzzle | 1 | No | **Stranded** | | By the creator of `Katamari Damacy`. The crank scrubs time forwards and backwards; the game is unplayable without one, and is the clearest demonstration of why this platform strands software. |
-| Executive Golf DX | 2022 | Nino Sarabutra | Panic | Sports | 1 | No | **Stranded** | | A Season 1 commission built around crank-controlled swing timing, Panic commissioned it rather than acquiring it, so there is no independent owner to port it. |
+| Executive Golf DX | 2022 | Nino Sarabutra | Panic | Sports | 1 | No | **Stranded** | | A Season 1 commission built around crank-controlled swing timing: Panic commissioned it rather than acquiring it, so there is no independent owner to port it. |
 | Lost Your Marbles | 2022 | Sos Sosowski | Panic | Narrative / action | 1 | No | **Stranded** | | A Season 1 commission; as with the rest of Season 1, Panic holds the publishing rights and has no platform to port to. |
 | Bloom | 2024 | RNG Party Games | Panic | Simulation | 1 | Yes | Ported | iOS, Android (2025) | A florist shop sim played in real time over weeks. One of the few Playdate titles to reach another platform, though mobile is not itself catalogued here. |
 | Mars After Midnight | 2024 | Lucas Pope | Panic | Simulation | 1 | No | **Stranded** | | By the creator of `Papers, Please` and `Return of the Obra Dinn`, both multiplatform. This one was built for the Playdate and has stayed there. |

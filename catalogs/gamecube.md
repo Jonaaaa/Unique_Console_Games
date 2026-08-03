@@ -67,13 +67,13 @@ What is left splits three ways:
 | Sonic Mega Collection | 2002 | Sonic Team | Sega | Compilation | 1–2 | No | Ported | PS2, Xbox, PC (2004, *Plus*) | |
 | Star Fox Adventures | 2002 | Rare | Nintendo | Action-adventure | 1 | No | **Stranded** | | Rare's last Nintendo game, released weeks before Microsoft bought the studio. Nintendo owns Star Fox; Microsoft owns Rare. Neither can reissue it alone. |
 | Super Mario Sunshine | 2002 | Nintendo EAD | Nintendo | Platformer | 1 | No | Ported | Switch (2020, *3D All-Stars*), Switch 2 (announced) | |
-| The Legend of Zelda: The Wind Waker | 2002 | Nintendo EAD | Nintendo | Action-adventure | 1 | No | Ported | Wii U (2013, *HD*), Switch 2 (2025, Nintendo Classics) | The Switch 2 release is the **GameCube original**, not the Wii U remaster; which remains stranded on Wii U. |
+| The Legend of Zelda: The Wind Waker | 2002 | Nintendo EAD | Nintendo | Action-adventure | 1 | No | Ported | Wii U (2013, *HD*), Switch 2 (2025, Nintendo Classics) | The Switch 2 release is the **GameCube original**, not the Wii U remaster, which remains stranded on Wii U. |
 | Baten Kaitos: Eternal Wings and the Lost Ocean | 2003 | Monolith Soft / tri-Crescendo | Namco | RPG | 1 | No | Ported | Switch, PS4/PS5, Xbox, PC (2023, *HD Remaster*) | |
 | Beyond Good & Evil | 2003 | Ubisoft Montpellier | Ubisoft | Action-adventure | 1 | No | Sim-ship | PS2, Xbox, PC (2003, same day), HD versions (2011) | |
 | Billy Hatcher and the Giant Egg | 2003 | Sonic Team | Sega | Platformer | 1–4 | No | **Stranded** | | No console release. PC version exists (PC (2006)) but PC is not a catalogued platform. |
 | Donkey Konga | 2003 | Namco | Nintendo | Rhythm | 1–4 | No | **Stranded** | | Requires the DK Bongos peripheral and carries a licensed tracklist, two independent blockers. |
 | Final Fantasy Crystal Chronicles | 2003 | Square Enix / Game Designers Studio | Nintendo | Action RPG | 1–4 | No | Ported | Switch, PS4, mobile (2020, *Remastered*) | Original multiplayer required a GBA per player; the remaster replaced it with online. |
-| F-Zero GX | 2003 | Amusement Vision / Sega | Nintendo | Racing | 1–4 | No | Ported | Switch 2 (2025, Nintendo Classics) | ⚠ [Contested](#contested), developed alongside the arcade *F-Zero AX*, which shares hardware and content. |
+| F-Zero GX | 2003 | Amusement Vision / Sega | Nintendo | Racing | 1–4 | No | Ported | Switch 2 (2025, Nintendo Classics) | ⚠ [Contested](#contested): developed alongside the arcade *F-Zero AX*, which shares hardware and content. |
 | Giftpia | 2003 | Skip Ltd. | Nintendo | Life sim | 1 | No | **Stranded** | | Japan-only; never localised despite a completed English build reportedly existing. |
 | Gotcha Force | 2003 | Capcom | Capcom | Action | 1–2 | No | **Stranded** | | A cult toy-battler with a devoted following and no reissue. |
 | Kirby Air Ride | 2003 | HAL Laboratory | Nintendo | Racing | 1–4 | No | **Stranded** | | *Kirby Air Riders* (Switch 2, 2025) is a sequel by the same director, not a port. |

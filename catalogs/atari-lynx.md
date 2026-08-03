@@ -47,11 +47,11 @@ and only a few Lynx titles have been picked up.
 | Chip's Challenge | 1989 | Epyx | Atari | Puzzle | 1 | No | Ported | PC, Amiga, ZX Spectrum (1990–91); Steam (2015, *Chip's Challenge 1*) | **A Lynx launch title that became a PC staple**: the reverse of the usual direction. Its later Windows bundling is why most people know it at all. |
 | Electrocop | 1989 | Epyx | Atari | Action | 1 | No | **Stranded** | | Launch title with a pseudo-3D corridor engine. Same Epyx rights problem. |
 | Gates of Zendocon | 1989 | Epyx | Atari | Shoot 'em up | 1 | No | **Stranded** | | A launch title. Epyx went bankrupt in 1993, leaving its Lynx catalogue without a clear owner. |
-| Warbirds | 1989 | Epyx | Atari | Flight combat | 1–6 | No | **Stranded** | | Six-player dogfighting over ComLynx, one of the earliest multi-unit handheld deathmatch games, and unreproducible without the cables. |
+| Warbirds | 1989 | Epyx | Atari | Flight combat | 1–6 | No | **Stranded** | | Six-player dogfighting over ComLynx: one of the earliest multi-unit handheld deathmatch games, and unreproducible without the cables. |
 | Klax | 1990 | Atari | Atari | Puzzle | 1 | No | Ported | *Atari 50* (2022), and many platforms | ⚠ [Contested](#contested), the arcade cabinet is out of scope, but home versions appeared across several platforms in the same window. |
 | Todd's Adventures in Slime World | 1990 | Epyx | Epyx | Action-platformer | 1–6 | No | Ported | Genesis (1992), PC | Its six-player co-op was Lynx-only; the Genesis version cut it. |
 | Zarlor Mercenary | 1990 | Epyx | Atari | Shoot 'em up | 1–4 | No | **Stranded** | | Four-player co-op shooter over ComLynx. |
-| Dracula the Undead | 1991 | Atari | Atari | Adventure | 1 | No | **Stranded** | | An adaptation of the Stoker novel, public domain, so the licence is not the barrier; obscurity is. |
+| Dracula the Undead | 1991 | Atari | Atari | Adventure | 1 | No | **Stranded** | | An adaptation of the Stoker novel: public domain, so the licence is not the barrier; obscurity is. |
 | Rampart | 1991 | Atari | Atari | Strategy | 1–2 | No | Ported | *Atari 50* (2022) | First home release on this platform, though other conversions followed quickly. |
 | Scrapyard Dog | 1991 | Atari | Atari | Platformer | 1 | No | **Stranded** | | Also on 7800. |
 | Turbo Sub | 1991 | Imagitec | Atari | Rail shooter | 1 | No | Ported | *Atari 50* (2022) | One of the few Lynx titles Atari has reissued. |
@@ -63,7 +63,7 @@ and only a few Lynx titles have been picked up.
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| Klax | 1990 | **Include** (`Ported`) | Under the arcade rule the first home release counts, and Atari owns the property outright; which is why it appears in *Atari 50*. | Home versions landed on Lynx, Genesis, NES, Amiga and others within months of each other, so no single platform is cleanly the debut. a multi-platform sim-ship. |
+| Klax | 1990 | **Include** (`Ported`) | Under the arcade rule the first home release counts, and Atari owns the property outright, which is why it appears in *Atari 50*. | Home versions landed on Lynx, Genesis, NES, Amiga and others within months of each other, so no single platform is cleanly the debut. a multi-platform sim-ship. |
 
 ## Excluded
 

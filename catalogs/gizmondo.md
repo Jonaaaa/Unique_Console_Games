@@ -50,7 +50,7 @@ constituency asking for one. `Ported` count of **zero**.
 | Title | Year | Why excluded |
 |---|---|---|
 | Richard Burns Rally, Colors, Hockey Rage 2006 | 2005 | Conversions of existing PC or console titles. |
-| Remaining released titles (~9) | 2005 | Licensed sports and franchise conversions with identical `Stranded` status; not separately tabled. |
+| Remaining released titles (~9) | 2005 | Licensed sports and franchise conversions with identical `Stranded` status, not separately tabled. |
 | Cancelled titles | 2005–06 | A substantial announced lineup was never released when the company failed. |
 | *(games with a later mobile port)* | | Mobile is not a catalogued platform. |
 

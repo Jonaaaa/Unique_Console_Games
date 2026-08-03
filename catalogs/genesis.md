@@ -110,7 +110,7 @@ likeness rights alongside everything else.
 
 ## Appendix: the tails
 
-- **Sports annuals (~120 titles).** EA's Genesis output, Madden, NHL, FIFA, PGA
+- **Sports annuals (~120 titles).** EA's Genesis output: Madden, NHL, FIFA, PGA
  Tour, built the platform's Western reputation and is almost entirely stranded on
  expired league and athlete licences.
 - **Licensed tie-ins (~180 titles).** Acclaim, LJN, Virgin, Sony Imagesoft. Marvel,

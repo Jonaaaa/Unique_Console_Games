@@ -58,7 +58,7 @@ Another platform here with a `Ported` count of **zero**.
 |---|---|---|
 | Built-in console games | 1978 | Fixed in ROM, not on removable media. |
 | Videopac+ G7400 enhanced titles | 1983 | A late European hardware revision with a handful of enhanced versions of existing games. |
-| K.C.'s Krazy Chase!, Munchkin sequels | 1982–83 | Qualify as debuts and are `Stranded`; not separately tabled. |
+| K.C.'s Krazy Chase!, Munchkin sequels | 1982–83 | Qualify as debuts and are `Stranded`, not separately tabled. |
 | *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on another home console still disqualifies. |
 
 ## Coverage gaps

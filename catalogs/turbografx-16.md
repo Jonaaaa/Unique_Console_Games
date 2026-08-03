@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Platform** | PC Engine (1987 JP) / TurboGrafx-16 (1989 int'l), incl. **CD-ROM²**, **Super CD-ROM²** and **Arcade Card** add-ons |
-| **Hardware revisions** | CoreGrafx, SuperGrafx, PC Engine GT / TurboExpress, PC Engine Duo / TurboDuo, LT. **SuperGrafx has 5 enhanced titles**, noted in-table; the handheld TurboExpress plays HuCards, which is BC. |
+| **Hardware revisions** | CoreGrafx, SuperGrafx, PC Engine GT / TurboExpress, PC Engine Duo / TurboDuo, LT. **SuperGrafx has 5 enhanced titles**: noted in-table; the handheld TurboExpress plays HuCards, which is BC. |
 | **Lifespan** | Oct 1987 – 1994 int'l / 1999 JP; ~10M units sold (~5.8M Japan) |
 | **Library size** | ~680 HuCard titles, ~450 CD-ROM² titles. **Roughly 85% Japan-only.** |
 | **Backward compat** | None outward. |
@@ -14,7 +14,7 @@
 
 Hudson Soft was the platform's driving force and was **absorbed into Konami in
 2012**. NEC's hardware business is gone. So the catalogue's rights now sit mostly
-with Konami, which has reissued selectively, Wii/Wii U/3DS Virtual Console, and
+with Konami, which has reissued selectively: Wii/Wii U/3DS Virtual Console, and
 the **TurboGrafx-16 Mini / PC Engine mini** (2020), which between them covered
 roughly 100 titles.
 
@@ -64,7 +64,7 @@ CD-ROM² catalogue, with no re-release of any kind.
 | Magical Chase | 1991 | Palsoft | Palsoft | Shoot 'em up | 1 | No | **Stranded** | | A cute-em-up with a **North American print run in the low hundreds**. Original carts regularly exceed $2,000, putting it among the most expensive commercially sold cartridges. Palsoft is long gone. |
 | Neutopia II | 1991 | Hudson Soft | Hudson Soft | Action-adventure | 1 | No | Ported | Wii Virtual Console | |
 | Air Zonk | 1992 | Red Company | Hudson Soft | Shoot 'em up | 1 | No | Ported | Wii Virtual Console, TurboGrafx-16 Mini | A cyberpunk Bonk spin-off. |
-| Cosmic Fantasy 2 | 1992 | Laser Soft | Working Designs | RPG | 1 | No | **Stranded** | | **CD-ROM².** One of the few Japanese PC Engine RPGs that *was* localised, by Working Designs, which dissolved in 2005, leaving the translation orphaned. |
+| Cosmic Fantasy 2 | 1992 | Laser Soft | Working Designs | RPG | 1 | No | **Stranded** | | **CD-ROM².** One of the few Japanese PC Engine RPGs that *was* localised, by Working Designs: which dissolved in 2005, leaving the translation orphaned. |
 | Gate of Thunder | 1992 | Red Company | Hudson Soft | Shoot 'em up | 1 | No | Ported | Wii Virtual Console, TurboGrafx-16 Mini | **Super CD-ROM².** Bundled with the TurboDuo and often cited as the platform's best shmup. |
 | Soldier Blade | 1992 | Hudson Soft | Hudson Soft | Shoot 'em up | 1 | No | Ported | Wii Virtual Console, TurboGrafx-16 Mini | |
 | Star Parodier | 1992 | Hudson Soft | Hudson Soft | Shoot 'em up | 1 | No | Ported | Wii Virtual Console, PC Engine mini | **Super CD-ROM².** A self-parody of Hudson's own *Star Soldier*. |
@@ -92,7 +92,7 @@ CD-ROM² catalogue, with no re-release of any kind.
 | R-Type | 1988 | Split across two HuCards, but earlier home conversions existed. |
 | Street Fighter II': Champion Edition | 1993 | The SNES version reached home first. |
 | Valis II / III | 1989–92 | PC-8801 and X68000 originals. |
-| Dracula X / Ginga Fukei Densetsu Sapphire | 1993–95 | Japanese titles of games already listed above, duplicate entries, not separate games. |
+| Dracula X / Ginga Fukei Densetsu Sapphire | 1993–95 | Japanese titles of games already listed above: duplicate entries, not separate games. |
 | Any Virtual Console / TurboGrafx-16 Mini release | | Re-releases by definition. |
 | *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on another home platform still disqualifies. |
 

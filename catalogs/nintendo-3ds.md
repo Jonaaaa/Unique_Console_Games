@@ -193,7 +193,7 @@ it stands today; it does not affect membership.
 | Etrian Odyssey Nexus | 2018 | Atlus | Atlus | Dungeon crawler | 1 | No | Stranded | | The final 3DS Etrian game and the series' send-off. |
 | Jake Hunter Detective Story: Ghost of the Dusk | 2018 | Arc System Works | Aksys | Visual novel | 1 | No | Stranded | | A late-life 3DS visual novel released in 2018 into an already-dead market. |
 | Persona Q2: New Cinema Labyrinth | 2018 | Atlus | Atlus | Dungeon crawler | 1 | No | Stranded | | Released in 2018 on dying hardware; never localised beyond that. |
-| WarioWare Gold | 2018 | Nintendo EPD / Intelligent Systems | Nintendo | Minigame collection | 1 | Dead (2024) | Stranded | | 300 microgames, full voice acting, the largest WarioWare ever made, and stranded. Many microgames use the microphone, gyro and touchscreen together. |
+| WarioWare Gold | 2018 | Nintendo EPD / Intelligent Systems | Nintendo | Minigame collection | 1 | Dead (2024) | Stranded | | 300 microgames, full voice acting: the largest WarioWare ever made, and stranded. Many microgames use the microphone, gyro and touchscreen together. |
 
 ## Contested
 
@@ -244,7 +244,7 @@ Mirai 1 & 2`, `GameCenter CX`, `Slime Mori Mori Dragon Quest 3`, `Theatrhythm
 Dragon Quest`, `Dragon Quest Monsters: Joker 3`, `Puyo Puyo Chronicle`,
 `Bakutsuri Bar Hunter`, the `Parascientific Escape` trilogy, and similar.
 
-These share the PSP's stranding cause, **the licence, not the hardware**. They
+These share the PSP's stranding cause: **the licence, not the hardware**. They
 are **not individually verified** and are excluded from the counts.
 
 **Category noise warning.** Wikipedia's `Nintendo 3DS-only games` category

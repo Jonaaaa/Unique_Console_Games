@@ -70,7 +70,7 @@ without a Western release of any kind.
 | Ninja Five-O | 2003 | Hudson Soft | Konami | Action-platformer | 1 | No | Ported | Switch, PS4/PS5, Xbox, PC (2024) | Tiny original print run made carts famously expensive; reissued in 2024. |
 | Summon Night: Swordcraft Story | 2003 | Flight-Plan | Banpresto / Atlus | Action RPG | 1–2 | No | **Stranded** | | Banpresto's rights moved to Bandai Namco while Atlus held the localisation; a split that has kept it locked. |
 | WarioWare, Inc.: Mega Microgame$! | 2003 | Nintendo R&D1 | Nintendo | Minigame collection | 1–2 | No | Ported | Wii U Virtual Console, NSO | |
-| Classic NES Series | 2004 | Nintendo | Nintendo | Compilation | 1–2 | No | **Stranded** | | Individually boxed GBA cartridges of single NES games, a re-release line, but each cartridge is a distinct product that first shipped on GBA and has never been reissued as such. |
+| Classic NES Series | 2004 | Nintendo | Nintendo | Compilation | 1–2 | No | **Stranded** | | Individually boxed GBA cartridges of single NES games: a re-release line, but each cartridge is a distinct product that first shipped on GBA and has never been reissued as such. |
 | Fire Emblem: The Sacred Stones | 2004 | Intelligent Systems | Nintendo | Tactical RPG | 1–2 | No | Ported | Wii U Virtual Console, NSO | |
 | Kirby & the Amazing Mirror | 2004 | Flagship / HAL | Nintendo | Platformer | 1–4 | No | Ported | Wii U Virtual Console, NSO | Four-player co-op needed four GBAs and four cartridges. |
 | Mario Golf: Advance Tour | 2004 | Camelot | Nintendo | Sports RPG | 1–4 | No | **Stranded** | | Its RPG mode linked to the GameCube game via cable. |

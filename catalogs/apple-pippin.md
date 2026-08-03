@@ -41,14 +41,14 @@ CD-ROM software that fails the debut test anyway. `Ported` count of **zero**.
 | Dragon Ball Z: Shin Saiyajin Zetsumetsu Keikaku Chikyū-hen | 1996 | Bandai | Bandai | Interactive video | 1 | No | **Stranded** | | A Pippin reworking of the Playdia release, and equally locked by the Dragon Ball licence. |
 | Gundam Tactics: Mobility Fleet 0079 | 1996 | Bandai | Bandai | Strategy | 1 | No | **Stranded** | | A Pippin-original Gundam strategy game, one of the few titles built for the platform rather than converted to it. |
 | Racing Days | 1996 | Bandai | Bandai | Racing | 1 | No | **Stranded** | | A Bandai-published Pippin original; Apple shut the programme down in 1997 and has never acknowledged the platform since. |
-| Super Marathon | 1996 | Bungie | Bungie | Compilation | 1–8 | No | **Stranded** | | *Marathon* and *Marathon 2* rebuilt for the Pippin, **Bungie's only console release before Halo**, five years before Xbox. The compilation is a Pippin debut; the Mac originals are not. |
+| Super Marathon | 1996 | Bungie | Bungie | Compilation | 1–8 | No | **Stranded** | | *Marathon* and *Marathon 2* rebuilt for the Pippin: **Bungie's only console release before Halo**, five years before Xbox. The compilation is a Pippin debut; the Mac originals are not. |
 | Ultraman Hyper Encyclopedia | 1996 | Bandai | Bandai | Reference | 1 | No | **Stranded** | | Characteristic of the platform: licensed reference software rather than a game. |
 
 ## Contested
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| The Pippin as a console | 1996 | **Include** | Sold as a TV-connected games and multimedia appliance by Bandai, with a controller and a dedicated retail software line. | It runs Mac OS and much of its library is Macintosh CD-ROM software, which makes it a cheap computer rather than a console, the same objection that applies to the [Amiga CD32](amiga-cd32.md) and [Atari 5200](atari-5200.md), both of which are included on the same reasoning. |
+| The Pippin as a console | 1996 | **Include** | Sold as a TV-connected games and multimedia appliance by Bandai, with a controller and a dedicated retail software line. | It runs Mac OS and much of its library is Macintosh CD-ROM software, which makes it a cheap computer rather than a console: the same objection that applies to the [Amiga CD32](amiga-cd32.md) and [Atari 5200](atari-5200.md), both of which are included on the same reasoning. |
 
 ## Excluded
 

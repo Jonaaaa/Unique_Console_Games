@@ -30,7 +30,7 @@ and never will be.
 
 The second cause is the same **commercial gravity** as the 3DS, only stronger: at
 101.63M the Wii's audience already owns its library. Nintendo has ported the Wii
-games that *don't* need the remote, `Super Mario Galaxy`, `Xenoblade Chronicles`,
+games that *don't* need the remote: `Super Mario Galaxy`, `Xenoblade Chronicles`,
 `Skyward Sword`, `Donkey Kong Country Returns`, and left the motion-defined ones
 where they are.
 
@@ -46,7 +46,7 @@ migrated.
 | Excite Truck | 2006 | Monster Games | Nintendo | Racing | 1–2 | No | **Stranded** | | Steered by tilting the remote sideways. |
 | The Legend of Zelda: Twilight Princess | 2006 | Nintendo EAD | Nintendo | Action-adventure | 1 | No | Ported | Wii U (2016, *HD*) | ⚠ [Contested](#contested), the Wii version shipped first, but the game was built for GameCube. |
 | Wii Play | 2006 | Nintendo EAD | Nintendo | Minigame collection | 1–2 | No | **Stranded** | | 28.02M, bundled with a spare Wii Remote. Nine tech-demo minigames. |
-| Wii Sports | 2006 | Nintendo EAD | Nintendo | Sports | 1–4 | No | **Stranded** | | **82.90M copies, the best-selling stranded game in existence**, and the fourth best-selling game ever. A pack-in built entirely around motion control. *Wii Sports Club* (Wii U) and *Nintendo Switch Sports* are separate games. |
+| Wii Sports | 2006 | Nintendo EAD | Nintendo | Sports | 1–4 | No | **Stranded** | | **82.90M copies: the best-selling stranded game in existence**, and the fourth best-selling game ever. A pack-in built entirely around motion control. *Wii Sports Club* (Wii U) and *Nintendo Switch Sports* are separate games. |
 | Battalion Wars 2 | 2007 | Kuju | Nintendo | RTS | 1 | Dead (2014) | **Stranded** | | As with the GameCube original, the series ended here. |
 | Endless Ocean | 2007 | Arika | Nintendo | Diving sim | 1–2 | Dead (2014) | **Stranded** | | *Luminous* (Switch, 2024) is a new entry, not a port. |
 | Mario Party 8 | 2007 | Hudson Soft | Nintendo | Party | 1–4 | No | **Stranded** | | Nd Cube's Wii entries are built on motion minigames; *Superstars* drew from the N64 and GameCube games instead. |

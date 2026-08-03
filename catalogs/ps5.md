@@ -15,7 +15,7 @@
  `Sackboy`, `Gran Turismo 7` and `Horizon Forbidden West` all launched on PS4 too.
  Those are `Sim-ship` entries appearing in **both** files.
 2. **PC porting.** Sony ships its first-party catalogue to Windows within a few years.
- PC is not a catalogued platform, so those games stay `Stranded`, purchasable, but
+ PC is not a catalogued platform, so those games stay `Stranded`: purchasable, but
  not on a second console.
 3. **BC absorbs the back catalogue.** A PS4 game running on PS5 is the PS4 game.
 
@@ -46,7 +46,7 @@ that lacks them, the same category as `Wii Sports` or `Drag x Drive`.
 
 | Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Notes |
 |---|---|---|---|---|---|---|---|---|---|
-| Astro's Playroom | 2020 | Team Asobi | Sony | Platformer | 1 | No | **Stranded** | | Pre-installed on every PS5. Built entirely around DualSense haptics and adaptive triggers, a controller demonstration in game form, and unportable for the same reason `1-2-Switch` is. |
+| Astro's Playroom | 2020 | Team Asobi | Sony | Platformer | 1 | No | **Stranded** | | Pre-installed on every PS5. Built entirely around DualSense haptics and adaptive triggers: a controller demonstration in game form, and unportable for the same reason `1-2-Switch` is. |
 | Marvel's Spider-Man: Miles Morales | 2020 | Insomniac | Sony | Action-adventure | 1 | No | Sim-ship | PS4 (2020, same day); PC (2022) | Also catalogued under [PS4](ps4.md). |
 | Sackboy: A Big Adventure | 2020 | Sumo Digital | Sony | Platformer | 1–4 | Dead | Sim-ship | PS4 (2020, same day); PC (2022) | Also catalogued under [PS4](ps4.md). |
 | Destruction AllStars | 2021 | Lucid Games | Sony | Vehicular combat | 1–16 | **Dead (2023)** | **Stranded** | | Online-only, given away through PS Plus, and **delisted in 2023 when its servers closed**, so the game no longer functions at all. Two years from release to delisting. |

@@ -6,7 +6,7 @@
 | **Hardware revisions** | No revisions with separate libraries. The 2020 **Game Gear Micro** is a plug-and-play reissue, not a platform. |
 | **Lifespan** | Oct 1990 – 1997; 10.62M units sold |
 | **Library size** | ~370 titles worldwide |
-| **Relationship to Master System** | The Game Gear is architecturally a portable Master System. Many titles shipped on both, where one came first, the other is a port. The Master Gear Converter plays SMS carts, which is BC. |
+| **Relationship to Master System** | The Game Gear is architecturally a portable Master System. Many titles shipped on both: where one came first, the other is a port. The Master Gear Converter plays SMS carts, which is BC. |
 | **Last verified** | 2026-07-29 |
 | **Coverage** | Marquee titles verified individually. Licensed and Japan-only tails summarised, not enumerated. |
 

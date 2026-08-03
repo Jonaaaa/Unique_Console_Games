@@ -13,7 +13,7 @@
 
 The V.Smile was a TV-connected cartridge console aimed at 3–7 year-olds, with a joystick
 controller and a library of licensed edutainment. It is included on the same basis as the
-[Sega Pico](sega-pico.md), TV-connected, removable media, dedicated software
+[Sega Pico](sega-pico.md): TV-connected, removable media, dedicated software
 line, and it fails to escape for the same reasons.
 
 ## Summary
@@ -47,7 +47,7 @@ games-preservation interest. `Ported` count of **zero**.
 
 | Title | Year | Why excluded |
 |---|---|---|
-| Remaining ~95 Smartridge titles | 2004–11 | Licensed children's edutainment with identical `Stranded` status; not separately tabled. |
+| Remaining ~95 Smartridge titles | 2004–11 | Licensed children's edutainment with identical `Stranded` status, not separately tabled. |
 | V.Smile Baby, V.Reader, InnoTab, Storio | 2007–14 | Successor toy platforms; noted here rather than given files, as their libraries follow the same pattern with the same zero-reissue status. |
 | Non-interactive Smartridge content | 2004–11 | Some cartridges are electronic storybooks with no game structure. |
 

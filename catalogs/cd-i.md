@@ -11,7 +11,7 @@
 
 ## ⚠ Is this a console?
 
-The CD-i was sold as a **home multimedia appliance**, encyclopaedias, music videos,
+The CD-i was sold as a **home multimedia appliance**: encyclopaedias, music videos,
 art collections, with games as one category among several. It attached to a TV, took
 a controller and ran software from discs, so it is included here; but roughly
 three-quarters of its catalogue is not games at all, and that portion is excluded.
@@ -51,7 +51,7 @@ re-license them and Philips has no reason to.
 | Zelda: The Wand of Gamelon | 1993 | Animation Magic | Philips | Action-platformer | 1 | No | **Stranded** | | The companion release, and **the first game in which Zelda herself is the playable character**, 31 years before `Echoes of Wisdom`. Historically significant and permanently locked. |
 | Burn:Cycle | 1994 | Trip Media | Philips | Adventure | 1 | No | **Stranded** | | The platform's most ambitious original title, a cyberpunk FMV thriller with a real-time countdown. A PC version followed, but PC is not a catalogued platform, so there is no second console for it. |
 | Hotel Mario | 1994 | Fantasy Factory | Philips | Puzzle-platformer | 1–2 | No | **Stranded** | | **The only Mario game not developed or published by Nintendo.** Made under the licence Philips obtained from the failed CD-ROM partnership. Nintendo has never acknowledged it, and its animated cutscenes became internet artefacts long after the game was forgotten. |
-| Mutant Rampage: Bodyslam | 1994 | Sony Imagesoft | Philips | Beat 'em up | 1–2 | No | **Stranded** | | A Sony Imagesoft beat 'em up on Philips hardware, a two-company arrangement neither side has revisited, and Philips left console publishing entirely. |
+| Mutant Rampage: Bodyslam | 1994 | Sony Imagesoft | Philips | Beat 'em up | 1–2 | No | **Stranded** | | A Sony Imagesoft beat 'em up on Philips hardware: a two-company arrangement neither side has revisited, and Philips left console publishing entirely. |
 | The Apprentice | 1994 | Asylum Software | Philips | Platformer | 1 | No | **Stranded** | | A competent original platformer, cited as the best game designed for the hardware. |
 | Zelda's Adventure | 1994 | Viridis | Philips | Action-adventure | 1 | No | **Stranded** | | The third and rarest CD-i Zelda, using digitised live-action photography and a top-down perspective. A different developer again, and the most obscure of the three. |
 | Escape from CyberCity | 1995 | Interweave | Philips | Rail shooter | 1 | No | **Stranded** | | Animated FMV shooter produced with a Japanese animation studio. |

@@ -5,7 +5,7 @@
 | **Platform** | Atari 7800 ProSystem (1986) |
 | **Lifespan** | Designed 1984, shelved, released May 1986 – 1992; ~3.77M units sold |
 | **Library size** | ~59 official titles |
-| **Backward compat** | Plays 2600 cartridges natively, the first console with built-in BC. That is BC, **not** another platform. |
+| **Backward compat** | Plays 2600 cartridges natively: the first console with built-in BC. That is BC, **not** another platform. |
 | **Last verified** | 2026-07-29 |
 | **Coverage** | Near-complete for debut titles. The library is small enough to cover properly. |
 
@@ -35,8 +35,8 @@ qualifies is the small set of 7800-original games, and those are stranded becaus
 platform sold under 4 million units into a market dominated by Nintendo, and because
 several of the licences involved were never Atari's.
 
-*Atari 50* (2022) rescued a handful, notably `Ninja Golf`, the platform's cult
-favourite; which shows the barrier is commercial interest rather than rights.
+*Atari 50* (2022) rescued a handful: notably `Ninja Golf`, the platform's cult
+favourite, which shows the barrier is commercial interest rather than rights.
 
 ---
 
@@ -48,7 +48,7 @@ favourite; which shows the barrier is commercial interest rather than rights.
 | Desert Falcon | 1987 | Atari | Atari | Isometric shooter | 1 | No | Ported | *Atari 50* (2022) | A 7800 original with an isometric perspective unusual for the hardware. |
 | Tank Command | 1988 | Froggo | Froggo | Vehicular action | 1 | No | **Stranded** | | Froggo was a budget publisher that folded; its catalogue has no owner. |
 | Alien Brigade | 1990 | Atari | Atari | Light-gun shooter | 1–2 | No | **Stranded** | | Requires the **XG-1 light gun**, which needs a CRT to function. Peripheral-locked in the same way as Nintendo's Zapper titles, and unreissuable on modern displays. |
-| Basketbrawl | 1990 | Atari | Atari | Sports | 1–2 | No | **Stranded** | | Also released on Lynx. A violent unlicensed basketball game, no league rights to clear, but no commercial interest either. |
+| Basketbrawl | 1990 | Atari | Atari | Sports | 1–2 | No | **Stranded** | | Also released on Lynx. A violent unlicensed basketball game: no league rights to clear, but no commercial interest either. |
 | Fatal Run | 1990 | Atari | Atari | Racing | 1 | No | **Stranded** | | Released for both 7800 and 2600, and the **2600 version is the largest 2600 cartridge ever produced** at 32KB. Neither has been reissued. |
 | Meltdown | 1990 | Atari | Atari | Light-gun shooter | 1–2 | No | **Stranded** | | XG-1 light gun again; CRT-dependent and never reissued. |
 | Midnight Mutants | 1990 | Radioactive Software | Atari | Action-adventure | 1 | No | **Stranded** | | Licensed the likeness of horror host **Grandpa Munster** (Al Lewis), a personal-likeness deal from 1990 that cannot realistically be re-cleared. The 7800's most ambitious game. |

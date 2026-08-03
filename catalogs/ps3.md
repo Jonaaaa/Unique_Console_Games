@@ -74,7 +74,7 @@ not "someone emulated it".
 | God of War III | 2010 | SCE Santa Monica | Sony | Action | 1 | No | Ported | PS4 (2015, *Remastered*) | |
 | Gran Turismo 5 | 2010 | Polyphony Digital | Sony | Racing | 1–16 | **Dead (2014)** | **Stranded** | | 11.95M. Its online services were shut down four years after launch, and the manufacturer-licensing wall means no reissue is plausible. Its DLC is unobtainable. |
 | Heavy Rain | 2010 | Quantic Dream | Sony | Interactive drama | 1 | No | Ported | PS4 (2016), PC (2019) | |
-| MLB 10: The Show | 2010 | SCE San Diego | Sony | Sports | 1–4 | Dead | **Stranded** | | Representative of the entire `MLB The Show` PS3 line, MLB, MLBPA and individual player licences, all expired annually by design. |
+| MLB 10: The Show | 2010 | SCE San Diego | Sony | Sports | 1–4 | Dead | **Stranded** | | Representative of the entire `MLB The Show` PS3 line: MLB, MLBPA and individual player licences, all expired annually by design. |
 | NieR | 2010 | Cavia | Square Enix | Action RPG | 1 | No | Sim-ship | Xbox 360 (2010, same day) | Cavia dissolved; `NieR Replicant ver.1.22` (2021) is a remake, not a port of this build. |
 | Red Dead Redemption | 2010 | Rockstar San Diego | Rockstar | Open-world action | 1–16 | Dead | Sim-ship | Xbox 360 (2010, same day); Switch, PS4 (2023) | Also catalogued under [Xbox 360](xbox-360.md). |
 | Catherine | 2011 | Atlus | Atlus | Puzzle / adventure | 1–2 | Dead | Ported | PC, PS4, Switch, Vita (2019, *Full Body*) | |

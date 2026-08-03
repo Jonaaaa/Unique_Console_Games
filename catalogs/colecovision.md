@@ -43,7 +43,7 @@ platform famous belong to Nintendo, Sega and Universal; none of whom would reiss
 |---|---|---|---|---|---|---|---|---|---|
 | Cosmic Avenger | 1982 | Universal | Coleco | Shoot 'em up | 1 | No | Ported | ColecoVision Flashback (2014) | First home release of the Universal cabinet. |
 | Donkey Kong | 1982 | Coleco | Coleco | Platformer | 1 | No | Sim-ship | Atari 2600, Intellivision (1982, same window) | The ColecoVision pack-in and the best of the three 1982 conversions. Also catalogued under [Atari 2600](atari-2600.md) and [Intellivision](intellivision.md). |
-| Smurf: Rescue in Gargamel's Castle | 1982 | Coleco | Coleco | Platformer | 1 | No | **Stranded** | | A launch title carrying the Peyo Smurfs licence, still actively managed today, which is exactly why a 1982 cartridge cannot be revived. |
+| Smurf: Rescue in Gargamel's Castle | 1982 | Coleco | Coleco | Platformer | 1 | No | **Stranded** | | A launch title carrying the Peyo Smurfs licence: still actively managed today, which is exactly why a 1982 cartridge cannot be revived. |
 | Venture | 1982 | Exidy | Coleco | Action | 1 | No | Ported | ColecoVision Flashback (2014) | First home release of the Exidy cabinet. |
 | War Room | 1983 | Coleco | Coleco | Strategy | 1–2 | No | **Stranded** | | A Cold War nuclear-strategy game released the year of *WarGames*. Coleco original; never reissued. |
 | 2010: The Graphics Action Game | 1984 | Coleco | Coleco | Action | 1 | No | **Stranded** | | A licensed tie-in to the *2010: The Year We Make Contact* film, released as Coleco was collapsing. |
@@ -77,7 +77,7 @@ platform famous belong to Nintendo, Sega and Universal; none of whom would reiss
  Intellivision versions simultaneously. Coleco's business was securing home rights,
  not making games.
 - **Coleco Adam titles.** The ColecoVision's computer expansion shared software with
- the console; where an Adam version came first, the game is excluded on the same
+ the console. Where an Adam version came first, the game is excluded on the same
  principle as PC-first titles.
 - **Homebrew (~100 titles).** Opcode Games and others still produce new ColecoVision
  cartridges, including a Japanese-market successor project. Out of scope.
