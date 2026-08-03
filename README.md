@@ -1,6 +1,6 @@
 # Unique Console Games
 
-Per-platform catalogues of the games each console **gave the world first** —
+Per-platform catalogues of the games each console **gave the world first**:
 titles that debuted on that platform and launched nowhere else. Whether a game
 later escaped to other systems is recorded, but it never removes the game: the
 debut is permanent.
@@ -78,7 +78,7 @@ debut is permanent.
 | [Panic Playdate](catalogs/playdate.md) | Apr 2022 – present | **6** | 5 | 1 |
 | [Nintendo Switch 2](catalogs/switch-2.md) | Jun 2025 – present | **9** | 6 | 0 +3 sim |
 
-**All 68 console and handheld platforms catalogued** — every TV-connected
+**All 68 console and handheld platforms catalogued**: every TV-connected
 and portable games system with a commercial software library, from the Magnavox Odyssey
 (1972) to the Switch 2 (2025). See [ROSTER.md](ROSTER.md) for what is included,
 excluded and folded in, and why.
@@ -99,20 +99,20 @@ the catalogues surface:
 | NES / SNES | **Dead licences.** Film, comic, cartoon and fast-food tie-ins written for one cartridge run, with no digital rights. Plus, on SNES, Satellaview broadcasts that no longer fully exist. |
 | N64 | **Sports and wrestling licences**, plus the Japan-only 64DD and its dead Randnet service. Its canon largely escaped via NSO and Rare Replay. |
 | TurboGrafx-16 | **Japan won, the West lost.** ~85% of the library never left Japan, and the CD/Arcade Card add-ons fragmented it further. |
-| Virtual Boy | **Was hardware — until 2026.** Nintendo solved a stereoscopic display problem by shipping a cardboard viewer with an NSO app, moving 14 of 24 entries to `Ported` in five months. |
+| Virtual Boy | **Was hardware, until 2026.** Nintendo solved a stereoscopic display problem by shipping a cardboard viewer with an NSO app, moving 14 of 24 entries to `Ported` in five months. |
 | Master System | **Brazil.** Tectoy kept manufacturing the hardware for decades and made Brazil-only games, including Sega titles reskinned around local properties. |
-| Genesis | **Dead third-party licences.** Sega reissues its own catalogue relentlessly, so what's left is Marvel, film and music tie-ins — plus the 32X, excluded from every collection. |
-| Game Gear | **Sega only reissued the Sonic games.** Everything else — including a from-scratch M2 `Gunstar Heroes` — was left behind. |
+| Genesis | **Dead third-party licences.** Sega reissues its own catalogue relentlessly, so what's left is Marvel, film and music tie-ins, plus the 32X, excluded from every collection. |
+| Game Gear | **Sega only reissued the Sonic games.** Everything else (including a from-scratch M2 `Gunstar Heroes`) was left behind. |
 | Saturn | **Emulation difficulty.** Eight processors make per-title reissue expensive, and two-thirds of the library never left Japan. |
 | Dreamcast | **Peripherals and dead servers.** VMU minigames, microphones and maracas can't be reproduced; SegaNet closed in 2003. |
 | GameCube | **Rights tangles** (Rare/Microsoft, Konami/Silicon Knights) and **peripheral dependency** (bongos, four linked GBAs). Skipped by Virtual Console entirely until Switch 2 in 2025. |
 | Wii | **The controller.** Motion, MotionPlus and the Balance Board defined the library; `Wii Sports` (82.9M) can't be ported without becoming a different game. WiiWare died with the Shop in 2019. |
 | Xbox / 360 | **Backward compatibility instead of re-release**, plus Kinect and licensed cars. Microsoft lets you run the old disc rather than selling a port, so nothing is technically re-released. |
-| Xbox One / Series | **PC was the escape hatch** — and PC isn't a catalogued platform. Microsoft's 2024 pivot to PlayStation is now moving titles out. |
+| Xbox One / Series | **PC was the escape hatch**, and PC isn't a catalogued platform. Microsoft's 2024 pivot to PlayStation is now moving titles out. |
 | Switch | **Policy, not obstacle.** Nintendo doesn't license its software to competing hardware, so every first-party exclusive is stranded by default. Peripherals (Ring-Con, Labo cardboard) do the rest. |
 | Wii U | **Hardware.** The GamePad's second screen cannot be reproduced on a single-screen console. |
 | PSP | **Licensing.** Anime tie-ins and licensed music tracklists whose rights are impractical to reassemble. |
-| Nintendo 3DS | **Commercial gravity — the inverse of the Wii U.** It sold 75.94M, so the audience already owns the library and there is little money in re-selling it. Stereoscopic 3D and StreetPass block the rest. |
+| Nintendo 3DS | **Commercial gravity, the inverse of the Wii U.** It sold 75.94M, so the audience already owns the library and there is little money in re-selling it. Stereoscopic 3D and StreetPass block the rest. |
 | PS Vita | **Studio closure.** Sony shut Bigbig, Zipper, Studio Liverpool and Guerrilla Cambridge, orphaning their games. One title (`TxK`) is stranded by injunction. |
 
 ## The ruleset
@@ -121,17 +121,17 @@ A game qualifies on **one** test: **did it debut here?** The platform must be th
 game's first release anywhere, and the only platform it launched on.
 
 Disqualified: ports, HD remasters, remakes, and any prior release on
-another **home** platform. **Arcades are out of scope** — a cabinet is not a
+another **home** platform. **Arcades are out of scope**; a cabinet is not a
 collectable device, so `Street Fighter II` counts as an SNES debut.
 
 **Compilations count.** A compilation is a new product and debuts where that product
-first shipped — `Super Mario All-Stars` is an SNES debut, while the NES games inside it
+first shipped; `Super Mario All-Stars` is an SNES debut, while the NES games inside it
 keep their own NES entries. A compilation is also a re-release vehicle for its contents,
 so both facts hold at once.
 
 Not disqualified: **same-day multiplatform launches** (recorded as `Sim-ship`, and
 listed in each platform's catalogue) or **later ports**. `Mario Kart 8` reaching Switch in 2017 does not
-remove it from the Wii U catalogue — it debuted there, and that is permanent.
+remove it from the Wii U catalogue; it debuted there, and that is permanent.
 Sequels don't count against a game either; `Splatoon 2` is a new game.
 
 ### Status
@@ -145,14 +145,14 @@ Exclusivity is recorded as an attribute, not used as a filter.
 
 Status decays one way. `Xenoblade Chronicles X` was stranded until March 2025,
 `The Wonderful 101` until 2020, `Persona 3 Portable` until 2023. Rows flip from
-`Stranded` to `Ported` — they are never deleted.
+`Stranded` to `Ported`; they are never deleted.
 
 Emulation never changes a status, and neither does backward compatibility: a Vita
 running a PSP game is running the PSP game. Only a build shipped *for* another
 console counts.
 
 **PC is not a catalogued platform.** A later PC port leaves a game `Stranded` (the
-PC release is noted, but `Also On` stays `—`); a same-day PC launch still counts as
+PC release is noted, but `Also On` stays empty); a same-day PC launch still counts as
 a console debut; but a game that appeared on **PC first** is excluded entirely.
 
 ## Working on this repo

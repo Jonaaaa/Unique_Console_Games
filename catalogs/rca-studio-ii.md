@@ -1,4 +1,4 @@
-# RCA Studio II — Unique Games Catalogue
+# RCA Studio II
 
 | | |
 |---|---|
@@ -7,12 +7,12 @@
 | **Library size** | 11 official cartridges |
 | **Backward compat** | None. |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | **Complete** — the entire commercial library is 11 cartridges. |
+| **Coverage** | **Complete**: the entire commercial library is 11 cartridges. |
 
 ## ⚠ Black and white, in 1977
 
 The Studio II launched the same year as the Atari 2600 with a **monochrome display, no
-joysticks and no sound beyond beeps** — input was two ten-key pads built into the
+joysticks and no sound beyond beeps**; input was two ten-key pads built into the
 console housing. It was obsolete on arrival and RCA withdrew it within two years.
 
 It matters historically for one reason: it ran on the **RCA 1802 processor**, and its
@@ -24,12 +24,12 @@ is eleven cartridges and none has ever been reissued.
 | | Count |
 |---|---|
 | **Debut games** | **4** |
-| — still `Stranded` | 4 |
-| — since `Ported` | 0 |
+| of which still `Stranded` | 4 |
+| of which since `Ported` | 0 |
 | **Contested** | 0 |
 
-**Why the Studio II strands games.** Nobody wants it. There is no licensing obstacle —
-RCA developed nearly everything in-house — but the platform sold in tiny numbers, ran
+**Why the Studio II strands games.** Nobody wants it. There is no licensing obstacle;
+RCA developed nearly everything in-house, but the platform sold in tiny numbers, ran
 in black and white, and its games are simple enough that reissuing them would have no
 audience. RCA exited consumer computing entirely.
 
@@ -64,5 +64,5 @@ Another `Ported` count of **zero**.
 
 Checked 2026-07-29.
 
-- [RCA Studio II — Wikipedia](https://en.wikipedia.org/wiki/RCA_Studio_II)
-- [RCA 1802 — Wikipedia](https://en.wikipedia.org/wiki/RCA_1802)
+- [RCA Studio II (Wikipedia)](https://en.wikipedia.org/wiki/RCA_Studio_II)
+- [RCA 1802 (Wikipedia)](https://en.wikipedia.org/wiki/RCA_1802)

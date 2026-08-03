@@ -1,4 +1,4 @@
-# Nokia N-Gage — Unique Games Catalogue
+# Nokia N-Gage
 
 | | |
 |---|---|
@@ -12,7 +12,7 @@
 ## ⚠ A phone that was also a handheld
 
 The N-Gage was a Symbian mobile phone sold as a game system, with games on MMC
-cartridges. It sold poorly — the original required removing the battery to change
+cartridges. It sold poorly, the original required removing the battery to change
 games, and you held it sideways to make calls, which was mocked at the time.
 
 It is included here because it took removable game media, had a dedicated games
@@ -25,8 +25,8 @@ and several titles were online-dependent on services that no longer exist.
 | | Count |
 |---|---|
 | **Debut games** | **8** |
-| — still `Stranded` | 8 |
-| — since `Ported` | 0 |
+| of which still `Stranded` | 8 |
+| of which since `Ported` | 0 |
 | **Contested** | 1 |
 
 **Why the N-Gage strands games.** Everything at once, and it is the second platform
@@ -45,8 +45,8 @@ here with **zero** ports:
 
 | Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Notes |
 |---|---|---|---|---|---|---|---|---|---|
-| Pocket Kingdom: Own the World | 2003 | Sumea | Nokia | Strategy RPG | 1–4 | **Dead (2010)** | **Stranded** | | Built entirely around N-Gage Arena — persistent online territory control. With the service gone the game does not function at all, in the same category as `Warhawk` on PS3. |
-| Ashen | 2004 | Torus Games | Nokia | FPS | 1–4 | Dead (2010) | **Stranded** | | The platform's technical showcase — a genuine 3D shooter on a 2004 phone. Widely regarded as the best N-Gage game and never reissued in any form. |
+| Pocket Kingdom: Own the World | 2003 | Sumea | Nokia | Strategy RPG | 1–4 | **Dead (2010)** | **Stranded** | | Built entirely around N-Gage Arena, persistent online territory control. With the service gone the game does not function at all, in the same category as `Warhawk` on PS3. |
+| Ashen | 2004 | Torus Games | Nokia | FPS | 1–4 | Dead (2010) | **Stranded** | | The platform's technical showcase, a genuine 3D shooter on a 2004 phone. Widely regarded as the best N-Gage game and never reissued in any form. |
 | Pathway to Glory | 2004 | Redlynx | Nokia | Tactical strategy | 1–4 | Dead (2010) | **Stranded** | | A WWII squad-tactics game by the studio that later made `Trials`. Critically the best-received N-Gage title; RedLynx was bought by Ubisoft, which has never revisited it. |
 | Glimmerati | 2005 | Bugbear | Nokia | Racing | 1–4 | Dead (2010) | **Stranded** | | By the studio behind `FlatOut` and `Wreckfest`. Bugbear survives under THQ Nordic; this does not. |
 | High Seize | 2005 | Ideaworks3D | Nokia | Strategy | 1–4 | Dead (2010) | **Stranded** | | One of the last dedicated N-Gage releases. |
@@ -58,7 +58,7 @@ here with **zero** ports:
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| The N-Gage as a platform | 2003 | **Include** | It used removable physical game media, had a dedicated first-party games library, and was marketed and sold as a competitor to the Game Boy Advance. Functionally a handheld console. | It is a mobile phone running Symbian, and mobile platforms are otherwise excluded entirely. If the N-Gage counts, the boundary with iOS and Android becomes harder to defend — the distinction drawn here is *removable physical media plus dedicated hardware buttons*. |
+| The N-Gage as a platform | 2003 | **Include** | It used removable physical game media, had a dedicated first-party games library, and was marketed and sold as a competitor to the Game Boy Advance. Functionally a handheld console. | It is a mobile phone running Symbian, and mobile platforms are otherwise excluded entirely. If the N-Gage counts, the boundary with iOS and Android becomes harder to defend; the distinction drawn here is *removable physical media plus dedicated hardware buttons*. |
 
 ## Excluded
 
@@ -71,7 +71,7 @@ here with **zero** ports:
 | N-Gage 2.0 service titles (2008–10) | 2008–10 | A separate Symbian software platform, not this hardware. Its titles were mobile-first and out of scope. |
 | *(games with a later PC or mobile port)* | | **Not `Ported`.** Neither PC nor mobile is a catalogued platform. |
 
-## Appendix — the tail
+## Appendix: the tail
 
 - **Franchise conversions (~40 titles).** The majority of the library: cut-down
  versions of console games from EA, Ubisoft, Activision and Sega. Excluded on
@@ -85,7 +85,7 @@ here with **zero** ports:
 
 ## Coverage gaps
 
-- 8 of ~60 titles — the original-software layer. The conversion majority is excluded
+- 8 of ~60 titles, the original-software layer. The conversion majority is excluded
  rather than uncatalogued.
 - The 2008–10 service library is out of scope.
 - Zero reissues, so these `Stranded` claims are stable.
@@ -94,7 +94,7 @@ here with **zero** ports:
 
 Checked 2026-07-29.
 
-- [List of N-Gage games — Wikipedia](https://en.wikipedia.org/wiki/List_of_N-Gage_games)
-- [Nokia N-Gage — Wikipedia](https://en.wikipedia.org/wiki/Nokia_N-Gage)
-- [N-Gage (service) — Wikipedia](https://en.wikipedia.org/wiki/N-Gage_(service)) — 2010 shutdown
-- [Pathway to Glory — Wikipedia](https://en.wikipedia.org/wiki/Pathway_to_Glory)
+- [List of N-Gage games (Wikipedia)](https://en.wikipedia.org/wiki/List_of_N-Gage_games)
+- [Nokia N-Gage (Wikipedia)](https://en.wikipedia.org/wiki/Nokia_N-Gage)
+- [N-Gage (service) (Wikipedia)](https://en.wikipedia.org/wiki/N-Gage_(service)), 2010 shutdown
+- [Pathway to Glory (Wikipedia)](https://en.wikipedia.org/wiki/Pathway_to_Glory)

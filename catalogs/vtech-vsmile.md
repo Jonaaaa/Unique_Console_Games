@@ -1,4 +1,4 @@
-# VTech V.Smile — Unique Games Catalogue
+# VTech V.Smile
 
 | | |
 |---|---|
@@ -13,20 +13,20 @@
 
 The V.Smile was a TV-connected cartridge console aimed at 3–7 year-olds, with a joystick
 controller and a library of licensed edutainment. It is included on the same basis as the
-[Sega Pico](sega-pico.md) — TV-connected, removable media, dedicated software
-line — and it fails to escape for the same reasons.
+[Sega Pico](sega-pico.md), TV-connected, removable media, dedicated software
+line, and it fails to escape for the same reasons.
 
 ## Summary
 
 | | Count |
 |---|---|
 | **Debut games** | **5** |
-| — still `Stranded` | 5 |
-| — since `Ported` | 0 |
+| of which still `Stranded` | 5 |
+| of which since `Ported` | 0 |
 | **Contested** | 0 |
 
-**Why the V.Smile strands games.** Every title is a **licensed children's property** —
-Disney, Nickelodeon, Sesame Street, Thomas the Tank Engine, Scooby-Doo — on hardware
+**Why the V.Smile strands games.** Every title is a **licensed children's property**:
+Disney, Nickelodeon, Sesame Street, Thomas the Tank Engine, Scooby-Doo, on hardware
 VTech discontinued. Those licences are live and worth more on current products; nobody
 will re-clear them for a 2005 edutainment cartridge. VTech still trades but has no
 games-preservation interest. `Ported` count of **zero**.
@@ -37,7 +37,7 @@ games-preservation interest. `Ported` count of **zero**.
 
 | Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Notes |
 |---|---|---|---|---|---|---|---|---|---|
-| Alphabet Park Adventure | 2004 | VTech | VTech | Edutainment | 1 | No | **Stranded** | | The pack-in title, and one of the few V.Smile releases without a third-party licence — yet still unreissued, because VTech has no route to distribute legacy software. |
+| Alphabet Park Adventure | 2004 | VTech | VTech | Edutainment | 1 | No | **Stranded** | | The pack-in title, and one of the few V.Smile releases without a third-party licence, yet still unreissued, because VTech has no route to distribute legacy software. |
 | Scooby-Doo! Funland Frenzy | 2005 | VTech | VTech | Edutainment | 1 | No | **Stranded** | | Warner licence. |
 | Winnie the Pooh: The Honey Hunt | 2005 | VTech | VTech | Edutainment | 1 | No | **Stranded** | | Disney licence. |
 | Cars: Rev It Up in Radiator Springs | 2006 | VTech | VTech | Edutainment | 1 | No | **Stranded** | | A Disney/Pixar licence, representative of the platform's dominant pattern. |
@@ -61,5 +61,5 @@ games-preservation interest. `Ported` count of **zero**.
 
 Checked 2026-07-29.
 
-- [VTech V.Smile — Wikipedia](https://en.wikipedia.org/wiki/V.Smile)
-- [VTech — Wikipedia](https://en.wikipedia.org/wiki/VTech)
+- [VTech V.Smile (Wikipedia)](https://en.wikipedia.org/wiki/V.Smile)
+- [VTech (Wikipedia)](https://en.wikipedia.org/wiki/VTech)

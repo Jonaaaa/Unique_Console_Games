@@ -1,13 +1,13 @@
-# Sony PlayStation 2 — Unique Games Catalogue
+# Sony PlayStation 2
 
 | | |
 |---|---|
 | **Platform** | PlayStation 2 (2000), PS2 Slim (2004) |
-| **Lifespan** | Mar 2000 – Jan 2013; **160.30M units sold — the best-selling console ever** |
+| **Lifespan** | Mar 2000 – Jan 2013; **160.30M units sold, the best-selling console ever** |
 | **Library size** | **~4 |
 | **Backward compat** | Plays PS1 discs. Early PS3 models play PS2 discs. Both are BC, **not** another platform. |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | **Deliberately partial.** ~50 marquee and interesting titles verified individually out of ~4,400. No claim to completeness is made — see [Coverage gaps](#coverage-gaps). |
+| **Coverage** | **Deliberately partial.** ~50 marquee and interesting titles verified individually out of ~4,400. No claim to completeness is made, see [Coverage gaps](#coverage-gaps). |
 
 ## ⚠ Read the coverage note before using the counts
 
@@ -19,7 +19,7 @@ platform.
 The important platform-level fact is the opposite of the Genesis: **Sony's PS2
 re-release programme is tiny.** The PS2-on-PS4 Classics line covered a few dozen
 titles, and PS Plus Premium adds a rotating handful. Against a 4,400-title library
-that is a rounding error — so for the PS2 as a whole, `Stranded` is the default
+that is a rounding error, so for the PS2 as a whole, `Stranded` is the default
 state and `Ported` is the exception.
 
 ## Summary *(of the selection, not the platform)*
@@ -27,8 +27,8 @@ state and `Ported` is the exception.
 | | Count |
 |---|---|
 | **Debut games** | **67** |
-| — still `Stranded` | 28 |
-| — since `Ported` | 33 |
+| of which still `Stranded` | 28 |
+| of which since `Ported` | 33 |
 | **Contested** | 2 |
 
 **Why the PS2 strands games.** Licensed music becomes the dominant cause for the
@@ -41,7 +41,7 @@ for the same reason.
 Three more causes:
 
 1. **Car licences.** `Gran Turismo 3` and `4` repeat the PS1 problem at greater
- scale — `GT4` sold 11.76M and has never been reissued.
+ scale, `GT4` sold 11.76M and has never been reissued.
 2. **Dissolved Japanese publishers.** Aruze/Nautilus (`Shadow Hearts`), Cavia
  (`Drakengard`) and others left orphaned catalogues with no clear rights holder.
 3. **Capcom and Konami's selective revivals.** `Haunting Ground` and `Rule of Rose`
@@ -59,7 +59,7 @@ Three more causes:
 | Final Fantasy X | 2001 | Square | Square | RPG | 1 | No | Ported | PS3, Vita, PS4, Switch, Xbox, PC (2013–19, *HD Remaster*) | |
 | Frequency | 2001 | Harmonix | Sony | Rhythm | 1–4 | No | **Stranded** | | Harmonix's debut, and the direct ancestor of *Guitar Hero* and *Rock Band*. Entirely licensed electronica; unreissuable. |
 | Gitaroo Man | 2001 | iNiS / Koei | Koei | Rhythm | 1–2 | No | Ported | PSP (2006, *Lives!*) | |
-| Gran Turismo 3: A-Spec | 2001 | Polyphony Digital | Sony | Racing | 1–2 | No | **Stranded** | | 14.89M — **the best-selling stranded game on this platform.** Same manufacturer-licensing wall as the PS1 games. |
+| Gran Turismo 3: A-Spec | 2001 | Polyphony Digital | Sony | Racing | 1–2 | No | **Stranded** | | 14.89M, **the best-selling stranded game on this platform.** Same manufacturer-licensing wall as the PS1 games. |
 | Grand Theft Auto III | 2001 | DMA Design | Rockstar | Open-world action | 1 | No | Ported | PC, Xbox, mobile, *Definitive Edition* (2021) | |
 | Ico | 2001 | Team Ico | Sony | Puzzle-adventure | 1 | No | Ported | PS3 (2011, *HD*) | |
 | Jak and Daxter: The Precursor Legacy | 2001 | Naughty Dog | Sony | Platformer | 1 | No | Ported | PS3 (2012, *HD*), PS4 | |
@@ -69,7 +69,7 @@ Three more causes:
 | Metal Gear Solid 2: Sons of Liberty | 2001 | KCEJ | Konami | Stealth action | 1 | No | Ported | Xbox, PC, *HD Collection*, *Master Collection* (2023) | |
 | Shadow Hearts | 2001 | Sacnoth | Aruze / Midway | RPG | 1 | No | **Stranded** | | Sacnoth became Nautilus and dissolved; Aruze exited games. The whole trilogy has no clear rights holder and none of it has ever been reissued. |
 | Silent Hill 2 | 2001 | Team Silent | Konami | Survival horror | 1 | No | Ported | Xbox, PC, *HD Collection*; PS5/PC (2024 remake) | |
-| Clock Tower 3 | 2002 | Capcom / Sunsoft | Capcom | Survival horror | 1 | No | **Stranded** | | Directed by Kinji Fukasaku, who died shortly after — a director credit that complicates reissue. |
+| Clock Tower 3 | 2002 | Capcom / Sunsoft | Capcom | Survival horror | 1 | No | **Stranded** | | Directed by Kinji Fukasaku, who died shortly after, a director credit that complicates reissue. |
 | Final Fantasy XI | 2002 | Square | Square Enix | MMORPG | 1–?? | Dead (2016) | Ported | PC (2002, same day); Xbox 360 (2006) | Square's first MMO. The PC version launched the same day, and under the PC rule that still makes this a PS2 debut. Its PS2 and Xbox 360 service ended in 2016; the game survives on PC only, so the console versions are gone. |
 | Grand Theft Auto: Vice City | 2002 | Rockstar North | Rockstar | Open-world action | 1 | No | Ported | PC, Xbox, mobile, *Definitive Edition* (2021) | Its licensed radio soundtrack was partially cut from later re-releases. |
 | Kingdom Hearts | 2002 | Square | Square / Disney | Action RPG | 1 | No | Ported | PS3, PS4, Xbox, Switch, PC (*HD 1.5 ReMIX* onward) | |
@@ -77,7 +77,7 @@ Three more causes:
 | Sly Cooper and the Thievius Raccoonus | 2002 | Sucker Punch | Sony | Platformer | 1 | No | Ported | PS3, Vita (2010–11, *HD*) | |
 | Suikoden III | 2002 | Konami | Konami | RPG | 1 | No | **Stranded** | | Konami remastered *Suikoden I & II* in 2025 and skipped this. The series' PS2 entries are all stranded. |
 | The Getaway | 2002 | Team Soho | Sony | Open-world action | 1 | No | **Stranded** | | A recreation of central London with licensed street layouts. Team Soho became Sony London, closed 2019. |
-| TimeSplitters 2 | 2002 | Free Radical | Eidos | FPS | 1–4 | No | **Stranded** | | ⚠ [Contested](#contested) — fully playable as a hidden unlockable inside *Homefront: The Revolution* (2016). |
+| TimeSplitters 2 | 2002 | Free Radical | Eidos | FPS | 1–4 | No | **Stranded** | | ⚠ [Contested](#contested), fully playable as a hidden unlockable inside *Homefront: The Revolution* (2016). |
 | Wild Arms 3 | 2002 | Media.Vision | Sony | RPG | 1 | No | **Stranded** | | Media.Vision moved on and the series ended in 2006; none of the PS2 entries have been reissued. |
 | Xenosaga Episode I | 2002 | Monolith Soft | Namco | RPG | 1 | No | **Stranded** | | Tetsuya Takahashi's follow-up to `Xenogears`. All three Xenosaga games are stranded, so his pre-Xenoblade work is entirely unavailable. |
 | Amplitude | 2003 | Harmonix | Sony | Rhythm | 1–4 | No | **Stranded** | | The 2016 PS4 *Amplitude* is a new game with original music, not a port. |
@@ -125,7 +125,7 @@ Three more causes:
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| TimeSplitters 2 | 2002 | **Include** (`Stranded`) | It has never been sold on another platform. Its appearance inside *Homefront: The Revolution* is an easter egg in someone else's game, not a release. | The full game is playable, in full, on PS4/Xbox One/PC via that unlockable — so it is available elsewhere and should be `Ported`. |
+| TimeSplitters 2 | 2002 | **Include** (`Stranded`) | It has never been sold on another platform. Its appearance inside *Homefront: The Revolution* is an easter egg in someone else's game, not a release. | The full game is playable, in full, on PS4/Xbox One/PC via that unlockable, so it is available elsewhere and should be `Ported`. |
 | Fatal Frame | 2001 | **Include** (`Ported`) | The PS2 version shipped first (Dec 2001) and the Xbox version followed in 2002, making this a debut with a later port. | The two releases are close enough that some sources treat them as one launch, which would make it a `Sim-ship` in both catalogues. |
 
 ## Excluded
@@ -144,13 +144,13 @@ Three more causes:
 | Any PS2 Classics / PS Plus Premium release | | Re-releases by definition. |
 | *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on another home platform still disqualifies. |
 
-## Appendix — the tails
+## Appendix: the tails
 
 - **Japan-only releases (~1,500 titles).** Visual novels, dating sims, licensed
  anime games, mahjong and pachinko. Effectively all stranded.
 - **Sports annuals (~400 titles).** Madden, FIFA, NBA Live, Pro Evolution, MLB,
  NCAA, plus the entire `SingStar` line. Stranded on league, athlete and music
- licences simultaneously — the most reliably unreleasable block on the platform.
+ licences simultaneously; the most reliably unreleasable block on the platform.
 - **Licensed film and TV tie-ins (~500 titles).** The PS2 era was the peak volume of
  the movie tie-in game.
 - **Budget and shovelware ranges.** Companies like Phoenix Games and Midas produced
@@ -171,10 +171,10 @@ not: the Japanese half of the library, sports, licensed tie-ins, and the budget 
 
 Checked 2026-07-29.
 
-- [List of PlayStation 2 games — Wikipedia](https://en.wikipedia.org/wiki/Lists_of_PlayStation_2_games)
-- [PlayStation 2 — Wikipedia](https://en.wikipedia.org/wiki/PlayStation_2) — sales figures
-- [Gran Turismo 3: A-Spec — Wikipedia](https://en.wikipedia.org/wiki/Gran_Turismo_3:_A-Spec)
-- [Haunting Ground — Wikipedia](https://en.wikipedia.org/wiki/Haunting_Ground)
-- [Rule of Rose — Wikipedia](https://en.wikipedia.org/wiki/Rule_of_Rose)
-- [Xenosaga — Wikipedia](https://en.wikipedia.org/wiki/Xenosaga)
-- [Burnout 3: Takedown — Wikipedia](https://en.wikipedia.org/wiki/Burnout_3:_Takedown)
+- [List of PlayStation 2 games (Wikipedia)](https://en.wikipedia.org/wiki/Lists_of_PlayStation_2_games)
+- [PlayStation 2 (Wikipedia)](https://en.wikipedia.org/wiki/PlayStation_2), sales figures
+- [Gran Turismo 3: A-Spec (Wikipedia)](https://en.wikipedia.org/wiki/Gran_Turismo_3:_A-Spec)
+- [Haunting Ground (Wikipedia)](https://en.wikipedia.org/wiki/Haunting_Ground)
+- [Rule of Rose (Wikipedia)](https://en.wikipedia.org/wiki/Rule_of_Rose)
+- [Xenosaga (Wikipedia)](https://en.wikipedia.org/wiki/Xenosaga)
+- [Burnout 3: Takedown (Wikipedia)](https://en.wikipedia.org/wiki/Burnout_3:_Takedown)

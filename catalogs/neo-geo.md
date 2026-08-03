@@ -1,4 +1,4 @@
-# SNK Neo Geo — Unique Games Catalogue
+# SNK Neo Geo
 
 | | |
 |---|---|
@@ -12,13 +12,13 @@
 ## ⚠ This platform tests the arcade rule harder than any other
 
 The Neo Geo is a unique case: SNK sold **the same games on the same hardware** in two
-forms — the **MVS** arcade board and the **AES** home cartridge — usually within days
+forms (the **MVS** arcade board and the **AES** home cartridge) usually within days
 of each other. The AES cart was a coin-op board in a home shell, at coin-op prices
 (carts routinely cost $200+).
 
 Under the rule that **arcades are out of scope**, the AES release is therefore
 the catalogued debut for essentially the whole library. That is the rule working as
-intended — a collector cannot shelve an MVS cabinet, and the AES cart is the home
+intended, a collector cannot shelve an MVS cabinet, and the AES cart is the home
 product, and worth
 stating plainly rather than letting it pass.
 
@@ -32,8 +32,8 @@ short list of genuine oddities.
 | | Count |
 |---|---|
 | **Debut games** | **23** |
-| — still `Stranded` | 5 |
-| — since `Ported` | 18 |
+| of which still `Stranded` | 5 |
+| of which since `Ported` | 18 |
 | **Contested** | 1 |
 
 **Why the Neo Geo strands games.** Almost nothing, which is the finding. SNK went
@@ -44,7 +44,7 @@ aggressively monetised. The exceptions are:
  `Samurai Shodown RPG` was a Neo Geo CD title co-developed outside SNK's core teams.
 2. **Neo Geo CD exclusives.** The CD add-on's own titles were skipped by the
  cartridge-focused reissue programme.
-3. **Print-run scarcity as a collecting fact rather than an availability one** —
+3. **Print-run scarcity as a collecting fact rather than an availability one**:
  `Kizuna Encounter`'s European AES cart is among the most valuable games ever
  made, even where the software itself has been reissued.
 
@@ -65,24 +65,24 @@ aggressively monetised. The exceptions are:
 | The King of Fighters '94 | 1994 | SNK | SNK | Fighting | 1–2 | No | Ported | *ACA NEOGEO*, Switch, PS4, Xbox, PC | Began the crossover series that defined SNK. |
 | Windjammers | 1994 | Data East | Data East | Sports | 1–2 | No | Ported | PS4, Vita (2017), Switch (2018), PC | Data East went bankrupt in 2003; the rights passed to Paon, which enabled the 2017 revival and a 2022 sequel. |
 | Crossed Swords II | 1995 | Alpha Denshi | SNK | Action RPG | 1–2 | No | **Stranded** | | **Neo Geo CD exclusive.** The first game reached AES carts and the reissue programme; this sequel was CD-only and was skipped entirely. |
-| Ironclad | 1996 | Saurus | SNK | Shoot 'em up | 1–2 | No | Ported | Wii Virtual Console (2010), *ACA NEOGEO* | **Neo Geo CD exclusive** that was later recovered — the counter-example to the two above. |
+| Ironclad | 1996 | Saurus | SNK | Shoot 'em up | 1–2 | No | Ported | Wii Virtual Console (2010), *ACA NEOGEO* | **Neo Geo CD exclusive** that was later recovered, the counter-example to the two above. |
 | Kizuna Encounter | 1996 | SNK | SNK | Fighting | 1–2 | No | **Stranded** | | The software is minor; the artefact is not. Its **European AES cartridge** is one of the rarest commercially sold games in existence, with confirmed sales above $10,000. Never included in SNK's reissue programme. |
 | Metal Slug | 1996 | Nazca | SNK | Run and gun | 1–2 | No | Ported | Almost every platform since; *Metal Slug Anthology*, *ACA NEOGEO* | Nazca's team was absorbed into SNK after this. |
 | Neo Turf Masters | 1996 | Nazca | SNK | Sports | 1–4 | No | Ported | *ACA NEOGEO*, Switch, PS4 | JP: *Big Tournament Golf*. |
-| Samurai Shodown RPG | 1997 | SNK / Sacnoth | SNK | RPG | 1 | No | **Stranded** | | **Neo Geo CD exclusive.** A full RPG spin-off, never officially localised and never reissued — the CD add-on's most substantial exclusive and its most thoroughly lost. |
+| Samurai Shodown RPG | 1997 | SNK / Sacnoth | SNK | RPG | 1 | No | **Stranded** | | **Neo Geo CD exclusive.** A full RPG spin-off, never officially localised and never reissued, the CD add-on's most substantial exclusive and its most thoroughly lost. |
 | Shock Troopers | 1997 | Saurus | SNK | Run and gun | 1–2 | No | Ported | *ACA NEOGEO*, Switch, PS4 | |
 | Blazing Star | 1998 | Yumekobo | SNK | Shoot 'em up | 1–2 | No | Ported | *ACA NEOGEO*, Switch, PS4, Xbox | |
 | The Last Blade 2 | 1998 | SNK | SNK | Fighting | 1–2 | No | Ported | *ACA NEOGEO*, Switch, PS4, PC | |
 | Garou: Mark of the Wolves | 1999 | SNK | SNK | Fighting | 1–2 | No | Ported | *ACA NEOGEO*, Switch, PS4, Xbox, PC, mobile | Widely considered SNK's best fighting game; a sequel finally arrived 26 years later. |
 | Big Bang Pro Wrestling | 2000 | Saurus | SNK | Wrestling | 1–2 | No | **Stranded** | | One of the very last AES releases, sold into a collapsing market as SNK headed for bankruptcy. Never reissued. |
-| Digger Man | 2000 | Kaz | Kaz | Action | 1 | No | **Stranded** | | An independently produced Neo Geo Pocket title sold in tiny numbers direct from the developer — effectively the platform's first homebrew commercial release. |
+| Digger Man | 2000 | Kaz | Kaz | Action | 1 | No | **Stranded** | | An independently produced Neo Geo Pocket title sold in tiny numbers direct from the developer, effectively the platform's first homebrew commercial release. |
 | Samurai Shodown V Special | 2004 | Yuki Enterprise | SNK Playmore | Fighting | 1–2 | No | Ported | *ACA NEOGEO*, *Samurai Shodown NeoGeo Collection* | **The final AES release**, fourteen years after launch. |
 
 ## Contested
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| The entire AES library | 1990–2004 | **Include** | Arcades are out of scope by rule, so the AES cartridge is the first *collectable home* release of each game. A collector buys AES carts, not MVS boards. | MVS and AES releases were near-simultaneous and often literally the same board. Someone could argue every Neo Geo game is an arcade title that happens to have a home SKU — which would empty this list. Recorded because it is the single largest rule-driven judgement here. |
+| The entire AES library | 1990–2004 | **Include** | Arcades are out of scope by rule, so the AES cartridge is the first *collectable home* release of each game. A collector buys AES carts, not MVS boards. | MVS and AES releases were near-simultaneous and often literally the same board. Someone could argue every Neo Geo game is an arcade title that happens to have a home SKU; which would empty this list. Recorded because it is the single largest rule-driven judgement here. |
 
 ## Excluded
 
@@ -91,18 +91,18 @@ aggressively monetised. The exceptions are:
 | Puzzle Bobble / Bust-A-Move | 1994 | Taito's arcade original had earlier home conversions on other platforms. |
 | Street Fighter-derived titles | | None on this platform; SNK's fighters are all original to it. |
 | Neo Geo CD versions of AES cartridge games | 1994–99 | Same-platform-family re-releases with load times added; the cart is the debut. |
-| Neo Geo Pocket / Pocket Color titles | 1998–2001 | Separate handheld platform — see [Neo Geo Pocket Color](neo-geo-pocket-color.md). |
+| Neo Geo Pocket / Pocket Color titles | 1998–2001 | Separate handheld platform, see [Neo Geo Pocket Color](neo-geo-pocket-color.md). |
 | Hyper Neo Geo 64 titles | 1997–99 | Arcade-only hardware with no home release at all. |
 | Any *ACA NEOGEO* / *40th Anniversary* / Neo Geo mini release | | Re-releases by definition. |
-| *(games with a simultaneous MVS arcade release)* | | **Not excluded.** Arcades are out of scope — see [Contested](#contested). |
+| *(games with a simultaneous MVS arcade release)* | | **Not excluded.** Arcades are out of scope, see [Contested](#contested). |
 
-## Appendix — the tails
+## Appendix: the tails
 
 - **Fighting-game sequels (~60 titles).** The `King of Fighters`, `Fatal Fury`,
  `Samurai Shodown`, `Art of Fighting` and `World Heroes` lines account for a large
  share of the library. Almost all have been reissued, several times over.
 - **Sports and mahjong titles (~30).** SNK avoided real league licences, using
- original teams instead — which is precisely why this block could be reissued when
+ original teams instead; which is precisely why this block could be reissued when
  equivalent blocks on other platforms could not. A rare case of licence-avoidance
  preserving a catalogue.
 - **Neo Geo CD exclusives (~10).** The stranded corner of the platform.
@@ -118,8 +118,8 @@ aggressively monetised. The exceptions are:
 
 Checked 2026-07-29.
 
-- [List of Neo Geo games — Wikipedia](https://en.wikipedia.org/wiki/List_of_Neo_Geo_games)
-- [Neo Geo (system) — Wikipedia](https://en.wikipedia.org/wiki/Neo_Geo_(system)) — MVS/AES relationship
-- [Neo Geo CD — Wikipedia](https://en.wikipedia.org/wiki/Neo_Geo_CD)
-- [Kizuna Encounter — Wikipedia](https://en.wikipedia.org/wiki/Kizuna_Encounter)
-- [ACA NEOGEO — Wikipedia](https://en.wikipedia.org/wiki/Hamster_Corporation)
+- [List of Neo Geo games (Wikipedia)](https://en.wikipedia.org/wiki/List_of_Neo_Geo_games)
+- [Neo Geo (system) (Wikipedia)](https://en.wikipedia.org/wiki/Neo_Geo_(system)), MVS/AES relationship
+- [Neo Geo CD (Wikipedia)](https://en.wikipedia.org/wiki/Neo_Geo_CD)
+- [Kizuna Encounter (Wikipedia)](https://en.wikipedia.org/wiki/Kizuna_Encounter)
+- [ACA NEOGEO (Wikipedia)](https://en.wikipedia.org/wiki/Hamster_Corporation)

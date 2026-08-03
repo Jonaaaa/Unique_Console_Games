@@ -1,12 +1,12 @@
-# Nintendo Switch — Unique Games Catalogue
+# Nintendo Switch
 
 | | |
 |---|---|
 | **Platform** | Nintendo Switch (2017), Switch Lite, Switch OLED |
-| **Hardware revisions** | Lite and OLED play the same library. **Switch Lite cannot play games requiring detached Joy-Con or TV mode** — a compatibility split, not a separate library. |
+| **Hardware revisions** | Lite and OLED play the same library. **Switch Lite cannot play games requiring detached Joy-Con or TV mode**, a compatibility split, not a separate library. |
 | **Lifespan** | Mar 2017 – present (superseded by Switch 2, Jun 2025); ~154M units sold |
 | **Library size** | 15,000+ titles, overwhelmingly eShop indies |
-| **Backward compat** | Switch 2 plays Switch cartridges and digital titles. That is BC, **not** another platform. **"Switch 2 Edition" upgrades are a different matter** — see below. |
+| **Backward compat** | Switch 2 plays Switch cartridges and digital titles. That is BC, **not** another platform. **"Switch 2 Edition" upgrades are a different matter**, see below. |
 | **Last verified** | 2026-07-29 |
 | **Coverage** | Nintendo first-party and major third-party exclusives verified individually. The eShop indie library is far too large to catalogue and is almost entirely multiplatform anyway. |
 
@@ -14,13 +14,13 @@
 
 **1. The console is still current**, so `Stranded` here is a snapshot rather than a settled fact. Nintendo is
 actively re-releasing Switch games as **Switch 2 Editions**, and each one flips a
-row from `Stranded` to `Ported` — a Switch 2 Edition is a distinct build sold
+row from `Stranded` to `Ported`; a Switch 2 Edition is a distinct build sold
 separately for different hardware, which is a re-release, not backward
 compatibility.
 
 **2. `Stranded` means something weaker here.** On the Saturn it means "nobody can
 reissue this". On Switch it mostly means "Nintendo does not put its games on other
-people's hardware" — a commercial policy, not an obstacle. `Super Mario Odyssey`
+people's hardware", a commercial policy, not an obstacle. `Super Mario Odyssey`
 is stranded in exactly the sense that every Mario game is. That is still the right
 answer for a collector, but it is not the same kind of fact.
 
@@ -29,9 +29,9 @@ answer for a collector, but it is not the same kind of fact.
 | | Count |
 |---|---|
 | **Debut games** | **51** |
-| — still `Stranded` | 41 |
-| — since `Ported` | 5 |
-| — `Sim-ship` | 5 |
+| of which still `Stranded` | 41 |
+| of which since `Ported` | 5 |
+| of which `Sim-ship` | 5 |
 | **Contested** | 1 |
 
 **Why the Switch strands games.** Almost entirely **policy**. Nintendo owns its
@@ -75,7 +75,7 @@ Two narrower causes do real work, though:
 | Animal Crossing: New Horizons | 2020 | Nintendo EPD | Nintendo | Life sim | 1–8 | Yes | **Stranded** | | **47.86M that is still stranded.** |
 | Hyrule Warriors: Age of Calamity | 2020 | Omega Force | Nintendo | Musou | 1–2 | No | **Stranded** | | Unlike the Wii U *Hyrule Warriors*, this one has not moved. |
 | Minecraft Dungeons | 2020 | Mojang | Microsoft | Action RPG | 1–4 | Yes | Sim-ship | Xbox One, PS4, PC (2020, same day) | Also catalogued under [Xbox One](xbox-one.md) and [PS4](ps4.md). |
-| Paper Mario: The Origami King | 2020 | Intelligent Systems | Nintendo | Adventure | 1 | No | **Stranded** | | Intelligent Systems is a Nintendo subsidiary — there is no third party who could port it. |
+| Paper Mario: The Origami King | 2020 | Intelligent Systems | Nintendo | Adventure | 1 | No | **Stranded** | | Intelligent Systems is a Nintendo subsidiary; there is no third party who could port it. |
 | Super Mario 3D All-Stars | 2020 | Nintendo EPD | Nintendo | Compilation | 1 | No | **Stranded** | | **Deliberately delisted.** Nintendo sold it for six months only and withdrew it in March 2021, so a compilation of three Mario games became unobtainable by design made unavailable on purpose while the console was current. |
 | Bravely Default II | 2021 | Claytechworks | Square Enix / Nintendo | RPG | 1 | No | **Stranded** | | No console release. PC version exists (PC (2021)) but PC is not a catalogued platform. |
 | Metroid Dread | 2021 | MercurySteam / Nintendo EPD | Nintendo | Action-adventure | 1 | No | **Stranded** | | MercurySteam worked for hire; Nintendo owns Metroid and has never placed it on other hardware. |
@@ -85,18 +85,18 @@ Two narrower causes do real work, though:
 | Kirby and the Forgotten Land | 2022 | HAL Laboratory | Nintendo | Platformer | 1–2 | Yes | Ported | Switch 2 (2025, *Switch 2 Edition*) | The Switch 2 Edition is a separate paid SKU, so this counts as a re-release. |
 | Mario Strikers: Battle League | 2022 | Next Level Games | Nintendo | Sports | 1–8 | Yes | **Stranded** | | Next Level Games was acquired outright by Nintendo in 2021. |
 | Nintendo Switch Sports | 2022 | Nintendo EPD | Nintendo | Sports | 1–4 | Yes | **Stranded** | | The Wii Sports lineage continues, and continues to be unportable. |
-| Pokémon Legends: Arceus | 2022 | Game Freak | Nintendo | RPG | 1 | Yes | **Stranded** | | Same Pokémon licensing position — console entries do not leave Nintendo platforms. |
+| Pokémon Legends: Arceus | 2022 | Game Freak | Nintendo | RPG | 1 | Yes | **Stranded** | | Same Pokémon licensing position; console entries do not leave Nintendo platforms. |
 | Pokémon Scarlet and Violet | 2022 | Game Freak | Nintendo | RPG | 1–4 | Yes | **Stranded** | | 26.62M. |
 | Splatoon 3 | 2022 | Nintendo EPD | Nintendo | Third-person shooter | 1–8 | Yes | **Stranded** | | Nintendo-owned IP developed in-house at EPD; its online services also tie it to Nintendo's infrastructure. |
 | Xenoblade Chronicles 3 | 2022 | Monolith Soft | Nintendo | RPG | 1 | No | **Stranded** | | As with *Xenoblade 2*, Monolith Soft is a Nintendo studio. |
 | Everybody 1-2-Switch! | 2023 | Nintendo EPD | Nintendo | Party | 2–100 | No | **Stranded** | | Uses phones as controllers. Released with no fanfare after a reportedly troubled development. |
 | Pikmin 4 | 2023 | Nintendo EPD | Nintendo | RTS | 1–2 | Yes | **Stranded** | | The series has never appeared on non-Nintendo hardware in 22 years. |
-| Super Mario Bros. Wonder | 2023 | Nintendo EPD | Nintendo | Platformer | 1–4 | Yes | **Stranded** | | Mario does not appear on competing platforms — the most absolute exclusivity in the industry. |
+| Super Mario Bros. Wonder | 2023 | Nintendo EPD | Nintendo | Platformer | 1–4 | Yes | **Stranded** | | Mario does not appear on competing platforms, the most absolute exclusivity in the industry. |
 | The Legend of Zelda: Tears of the Kingdom | 2023 | Nintendo EPD | Nintendo | Action-adventure | 1 | No | Ported | Switch 2 (2025, *Switch 2 Edition*) | |
 | Emio – The Smiling Man: Famicom Detective Club | 2024 | Nintendo / Mages | Nintendo | Visual novel | 1 | No | **Stranded** | | A sequel to a 1988 Famicom Disk System series, 36 years later. |
 | Endless Ocean Luminous | 2024 | Arika | Nintendo | Diving sim | 1–30 | Yes | **Stranded** | | A new entry rather than a port of the Wii games, which remain stranded. |
 | Mario & Luigi: Brothership | 2024 | Acquire | Nintendo | RPG | 1 | No | **Stranded** | | The first Mario & Luigi game since AlphaDream's bankruptcy. |
-| Nintendo World Championships: NES Edition | 2024 | Nintendo | Nintendo | Compilation | 1–8 | Yes | **Stranded** | | 150 speedrun challenges built from 13 NES games — original content, not a re-release of the [1990 competition cart](nes.md). |
+| Nintendo World Championships: NES Edition | 2024 | Nintendo | Nintendo | Compilation | 1–8 | Yes | **Stranded** | | 150 speedrun challenges built from 13 NES games, original content, not a re-release of the [1990 competition cart](nes.md). |
 | Princess Peach: Showtime! | 2024 | Good-Feel | Nintendo | Action-adventure | 1 | No | **Stranded** | | Good-Feel developed it; Nintendo owns the character and the publishing rights. |
 | Super Mario Party Jamboree | 2024 | Nd Cube | Nintendo | Party | 1–4 | Yes | Ported | Switch 2 (2025, *Switch 2 Edition*) | |
 | The Legend of Zelda: Echoes of Wisdom | 2024 | Grezzo | Nintendo | Action-adventure | 1 | No | **Stranded** | | The first mainline Zelda with Zelda as the playable character. |
@@ -108,7 +108,7 @@ Two narrower causes do real work, though:
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| Switch 2 Edition releases | 2025 | **Treat as `Ported`** | A Switch 2 Edition is a separately purchased build with its own store listing, targeting different hardware. By the same test — did someone ship a version *for* that platform — it is a re-release. | Switch 2 also plays the original cartridge directly, so a buyer might reasonably see the Edition as an optional upgrade patch rather than a new release. Under that reading these titles would stay `Stranded`. |
+| Switch 2 Edition releases | 2025 | **Treat as `Ported`** | A Switch 2 Edition is a separately purchased build with its own store listing, targeting different hardware. By the same test (did someone ship a version *for* that platform) it is a re-release. | Switch 2 also plays the original cartridge directly, so a buyer might reasonably see the Edition as an optional upgrade patch rather than a new release. Under that reading these titles would stay `Stranded`. |
 
 ## Excluded
 
@@ -126,12 +126,12 @@ Two narrower causes do real work, though:
 | The eShop indie library | | Out of scope: 15,000+ titles, overwhelmingly multiplatform. |
 | *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on another home platform still disqualifies. |
 
-## Appendix — why there is no long tail here
+## Appendix: why there is no long tail here
 
 The Switch has no shovelware or Japan-only appendix because its ~15,000 titles are dominated by
 **eShop indies that are multiplatform by default**. A modern indie ships on Switch,
 Steam, PlayStation and Xbox in the same window, so almost none of it qualifies as a
-Switch debut at all — and what does qualify is usually a timed exclusive that moves
+Switch debut at all, and what does qualify is usually a timed exclusive that moves
 within a year.
 
 The consequence is that the Switch's stranded library is **almost purely Nintendo
@@ -142,7 +142,7 @@ close to a list of Nintendo's own Switch output.
 
 - **Status is a snapshot, not a conclusion.** Switch 2 Editions are still being
  announced; expect `Ported` to grow.
-- Timed third-party exclusives are only spot-covered — several are one publisher
+- Timed third-party exclusives are only spot-covered; several are one publisher
  decision away from moving.
 - The eShop indie library is deliberately out of scope.
 
@@ -150,7 +150,7 @@ close to a list of Nintendo's own Switch output.
 
 Checked 2026-07-29.
 
-- [List of Nintendo Switch games — Wikipedia](https://en.wikipedia.org/wiki/List_of_Nintendo_Switch_games)
-- [List of best-selling Nintendo Switch video games — Wikipedia](https://en.wikipedia.org/wiki/List_of_best-selling_Nintendo_Switch_video_games) — sales figures
-- [Nintendo Labo — Wikipedia](https://en.wikipedia.org/wiki/Nintendo_Labo)
-- [Nintendo Switch 2 — Wikipedia](https://en.wikipedia.org/wiki/Nintendo_Switch_2) — Switch 2 Edition upgrades
+- [List of Nintendo Switch games (Wikipedia)](https://en.wikipedia.org/wiki/List_of_Nintendo_Switch_games)
+- [List of best-selling Nintendo Switch video games (Wikipedia)](https://en.wikipedia.org/wiki/List_of_best-selling_Nintendo_Switch_video_games), sales figures
+- [Nintendo Labo (Wikipedia)](https://en.wikipedia.org/wiki/Nintendo_Labo)
+- [Nintendo Switch 2 (Wikipedia)](https://en.wikipedia.org/wiki/Nintendo_Switch_2), Switch 2 Edition upgrades

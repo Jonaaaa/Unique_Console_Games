@@ -1,4 +1,4 @@
-# Sony PlayStation — Unique Games Catalogue
+# Sony PlayStation
 
 | | |
 |---|---|
@@ -13,7 +13,7 @@
 ## ⚠ The PS Plus Premium problem, again
 
 As with the [PSP](psp.md), Sony's PS Plus Premium Classics catalogue puts PS1 games
-on PS4 and PS5 as distinct store entries — a re-release, so it flips a row to
+on PS4 and PS5 as distinct store entries, a re-release, so it flips a row to
 `Ported`. The catalogue **rotates and expands with no published master list**, and
 availability varies by region.
 
@@ -25,14 +25,14 @@ Premium listing as of 2026-07-29*. Re-check before relying on it.
 | | Count |
 |---|---|
 | **Debut games** | **52** |
-| — still `Stranded` | 21 |
-| — since `Ported` | 31 |
+| of which still `Stranded` | 21 |
+| of which since `Ported` | 31 |
 | **Contested** | 1 |
 
 **Why the PS1 strands games.** On the PS1, **music and car licensing** becomes the dominant cause rather than film or comic rights.
 
 The console arrived with CD audio, and developers used it for licensed soundtracks.
-`Gran Turismo` combines that with hundreds of individually licensed real cars —
+`Gran Turismo` combines that with hundreds of individually licensed real cars,
 roughly the hardest re-release problem in existence, which is why the two
 best-selling PS1 games of all time have never been reissued in any form.
 
@@ -58,7 +58,7 @@ Two further causes:
 | Crash Bandicoot | 1996 | Naughty Dog | Sony | Platformer | 1 | No | Ported | PS4 (2017, *N. Sane Trilogy*), multiplatform | |
 | PaRappa the Rapper | 1996 | NanaOn-Sha | Sony | Rhythm | 1–2 | No | Ported | PSP (2007), PS4 (2017, *Remastered*) | |
 | Resident Evil | 1996 | Capcom | Capcom | Survival horror | 1 | No | Ported | Saturn, PC, GameCube (2002 remake), and onward | |
-| Tobal No. 1 | 1996 | DreamFactory | Square | Fighting | 1–2 | No | **Stranded** | | Character designs by Akira Toriyama — a licence Square cannot cheaply re-clear. |
+| Tobal No. 1 | 1996 | DreamFactory | Square | Fighting | 1–2 | No | **Stranded** | | Character designs by Akira Toriyama, a licence Square cannot cheaply re-clear. |
 | Tomb Raider | 1996 | Core Design | Eidos | Action-adventure | 1 | No | Ported | Saturn, PC, multiplatform (2024, *I–III Remastered*) | |
 | Twisted Metal 2 | 1996 | SingleTrac | Sony | Vehicular combat | 1–2 | No | Ported | PS3, PS Plus Premium | |
 | Wild Arms | 1996 | Media.Vision | Sony | RPG | 1 | No | Ported | PS Plus Premium | |
@@ -84,21 +84,21 @@ Two further causes:
 | Star Ocean: The Second Story | 1998 | tri-Ace | Enix | RPG | 1 | No | Ported | PSP (2008), multiplatform (2023, *The Second Story R*) | |
 | Tail Concerto | 1998 | CyberConnect2 | Bandai / Atlus | Action-adventure | 1 | No | **Stranded** | | CyberConnect2's debut; its spiritual sequel *Solatorobo* is stranded on DS. |
 | Tekken 3 | 1998 | Namco | Namco | Fighting | 1–2 | No | Ported | PS Plus Premium | First home version of the 1997 cabinet. |
-| Xenogears | 1998 | Square | Square | RPG | 1 | No | **Stranded** | | Tetsuya Takahashi's pre-Xenoblade epic. Square Enix has remastered or remade most of its PS1 RPG catalogue and never this — reportedly because of its unfinished second disc and its religious themes. |
+| Xenogears | 1998 | Square | Square | RPG | 1 | No | **Stranded** | | Tetsuya Takahashi's pre-Xenoblade epic. Square Enix has remastered or remade most of its PS1 RPG catalogue and never this, reportedly because of its unfinished second disc and its religious themes. |
 | Ape Escape | 1999 | SCE Japan Studio | Sony | Platformer | 1 | No | Ported | PSP (2005), PS3, PS Plus Premium | The first game to *require* the DualShock's analogue sticks. |
 | Chocobo Racing | 1999 | Square | Square | Racing | 1–2 | No | **Stranded** | | *Chocobo GP* (Switch, 2022) is a new game. |
 | Chrono Cross | 1999 | Square | Square | RPG | 1 | No | Ported | multiplatform (2022, *The Radical Dreamers Edition*) | |
 | Final Fantasy VIII | 1999 | Square | Square | RPG | 1 | No | Ported | PC, multiplatform (2019, *Remastered*) | |
 | Front Mission 3 | 1999 | Square | Square | Tactical RPG | 1 | No | **Stranded** | | The *1st Remake* and *2nd Remake* covered the SNES and PS1 predecessors; this one was skipped. |
-| Gran Turismo 2 | 1999 | Polyphony Digital | Sony | Racing | 1–2 | No | **Stranded** | | 11.98M — **the best-selling stranded PS1 game.** Same licensing wall as the first, with far more cars. |
+| Gran Turismo 2 | 1999 | Polyphony Digital | Sony | Racing | 1–2 | No | **Stranded** | | 11.98M, **the best-selling stranded PS1 game.** Same licensing wall as the first, with far more cars. |
 | Omega Boost | 1999 | Polyphony Digital | Sony | Mech shooter | 1 | No | **Stranded** | | Polyphony's only non-racing game. |
 | Racing Lagoon | 1999 | Square | Square | Racing RPG | 1 | No | **Stranded** | | Japan-only. A street-racing RPG; never localised or reissued. |
-| Silent Hill | 1999 | Team Silent | Konami | Survival horror | 1 | No | **Stranded** | | **Never re-released in any form.** Konami is actively remaking the series — *Silent Hill 2* got a 2024 remake — while the original remains available only on PS1 discs. |
+| Silent Hill | 1999 | Team Silent | Konami | Survival horror | 1 | No | **Stranded** | | **Never re-released in any form.** Konami is actively remaking the series (*Silent Hill 2* got a 2024 remake) while the original remains available only on PS1 discs. |
 | Syphon Filter | 1999 | Eidetic | 989 Studios | Stealth action | 1 | No | Ported | PS Plus Premium (2022) | Eidetic became Bend Studio. |
 | The Legend of Dragoon | 1999 | SCE Japan Studio | Sony | RPG | 1 | No | Ported | PS Plus Premium (2022) | |
 | Um Jammer Lammy | 1999 | NanaOn-Sha | Sony | Rhythm | 1–2 | No | **Stranded** | | The *PaRappa* sequel. Unlike PaRappa it was never remastered, because its soundtrack rights are more tangled. |
 | Valkyrie Profile | 1999 | tri-Ace | Enix | RPG | 1 | No | Ported | PSP (2006), multiplatform (2022, *Lenneth*) | |
-| Vib-Ribbon | 1999 | NanaOn-Sha | Sony | Rhythm | 1 | No | Ported | PS3 (2014) | Ran entirely from RAM so players could swap in their own audio CDs — a feature no re-release reproduces. |
+| Vib-Ribbon | 1999 | NanaOn-Sha | Sony | Rhythm | 1 | No | Ported | PS3 (2014) | Ran entirely from RAM so players could swap in their own audio CDs, a feature no re-release reproduces. |
 | Fear Effect | 2000 | Kronos | Eidos | Action-adventure | 1 | No | **Stranded** | | Cel-shaded horror with pre-rendered animated backgrounds. Kronos folded in 2000. |
 | Final Fantasy IX | 2000 | Square | Square | RPG | 1 | No | Ported | PC, PS4, Xbox, Switch, mobile (2016–19) | |
 | Mega Man Legends 2 | 2000 | Capcom | Capcom | Action-adventure | 1 | No | **Stranded** | | As with the first game, absent from every Mega Man Legacy Collection; *Legends 3* was cancelled in 2011. |
@@ -124,15 +124,15 @@ Two further causes:
 | Tactics Ogre / Ogre Battle (PS1) | 1996–98 | Ports of SNES originals. |
 | Metal Gear Solid: Integral / VR Missions | 1999 | Same-platform expanded re-releases. |
 | Resident Evil: Director's Cut | 1997 | Same-platform re-release. |
-| Persona 2: Eternal Punishment | 2000 | Qualifies and is `Stranded` outside Japan — its PSP remake was Japan-only. |
+| Persona 2: Eternal Punishment | 2000 | Qualifies and is `Stranded` outside Japan; its PSP remake was Japan-only. |
 | Any PS Plus Premium / PS3 Classics release | | Re-releases by definition. |
 | *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on another home platform still disqualifies. |
 
-## Appendix — the tails
+## Appendix: the tails
 
 - **Japan-only releases (~2,000 titles).** Roughly half the library. Visual novels,
  dating sims, mahjong, licensed anime RPGs and a deep shmup catalogue. Almost
- entirely stranded — no localisation history to build a re-release on.
+ entirely stranded, no localisation history to build a re-release on.
 - **Licensed film and sports tie-ins (~500 titles).** As on every platform, stranded
  on expired rights. The PS1 era added *music* licensing at scale for the first time.
 - **The "greatest hits" bargain tail.** The PS1's late-life budget range produced a
@@ -148,10 +148,10 @@ Two further causes:
 
 Checked 2026-07-29.
 
-- [List of PlayStation games — Wikipedia](https://en.wikipedia.org/wiki/Lists_of_PlayStation_games)
-- [Gran Turismo (1997 video game) — Wikipedia](https://en.wikipedia.org/wiki/Gran_Turismo_(1997_video_game)) — sales
-- [Gran Turismo 2 — Wikipedia](https://en.wikipedia.org/wiki/Gran_Turismo_2)
-- [Xenogears — Wikipedia](https://en.wikipedia.org/wiki/Xenogears)
-- [Parasite Eve (video game) — Wikipedia](https://en.wikipedia.org/wiki/Parasite_Eve_(video_game))
-- [Silent Hill (1999 video game) — Wikipedia](https://en.wikipedia.org/wiki/Silent_Hill_(1999_video_game))
-- [List: PS1 classics on PS Plus Premium — Destructoid](https://www.destructoid.com/playstation-plus-premium-ps1-ps2-psp-classics-playable-on-ps4-ps5-game-list/)
+- [List of PlayStation games (Wikipedia)](https://en.wikipedia.org/wiki/Lists_of_PlayStation_games)
+- [Gran Turismo (1997 video game) (Wikipedia)](https://en.wikipedia.org/wiki/Gran_Turismo_(1997_video_game)), sales
+- [Gran Turismo 2 (Wikipedia)](https://en.wikipedia.org/wiki/Gran_Turismo_2)
+- [Xenogears (Wikipedia)](https://en.wikipedia.org/wiki/Xenogears)
+- [Parasite Eve (video game) (Wikipedia)](https://en.wikipedia.org/wiki/Parasite_Eve_(video_game))
+- [Silent Hill (1999 video game) (Wikipedia)](https://en.wikipedia.org/wiki/Silent_Hill_(1999_video_game))
+- [List: PS1 classics on PS Plus Premium (Destructoid)](https://www.destructoid.com/playstation-plus-premium-ps1-ps2-psp-classics-playable-on-ps4-ps5-game-list/)

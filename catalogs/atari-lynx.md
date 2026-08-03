@@ -1,4 +1,4 @@
-# Atari Lynx — Unique Games Catalogue
+# Atari Lynx
 
 | | |
 |---|---|
@@ -12,7 +12,7 @@
 ## ⚠ The first colour handheld, and it lost anyway
 
 The Lynx shipped in 1989 with a **backlit colour LCD**, hardware sprite scaling and
-16-player link cabling — years ahead of the Game Boy technically. It sold ~3 million
+16-player link cabling, years ahead of the Game Boy technically. It sold ~3 million
 against the Game Boy's 118 million, because it cost twice as much and ate six AA
 batteries in four hours.
 
@@ -25,8 +25,8 @@ and only a few Lynx titles have been picked up.
 | | Count |
 |---|---|
 | **Debut games** | **15** |
-| — still `Stranded` | 10 |
-| — since `Ported` | 5 |
+| of which still `Stranded` | 10 |
+| of which since `Ported` | 5 |
 | **Contested** | 1 |
 
 **Why the Lynx strands games.** Two causes:
@@ -44,14 +44,14 @@ and only a few Lynx titles have been picked up.
 | Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Notes |
 |---|---|---|---|---|---|---|---|---|---|
 | Blue Lightning | 1989 | Epyx | Atari | Flight combat | 1 | No | **Stranded** | | Launch title; a scaling-sprite flight game built to show off the hardware. A Jaguar CD remake exists but is a separate game. |
-| Chip's Challenge | 1989 | Epyx | Atari | Puzzle | 1 | No | Ported | PC, Amiga, ZX Spectrum (1990–91); Steam (2015, *Chip's Challenge 1*) | **A Lynx launch title that became a PC staple** — the reverse of the usual direction. Its later Windows bundling is why most people know it at all. |
+| Chip's Challenge | 1989 | Epyx | Atari | Puzzle | 1 | No | Ported | PC, Amiga, ZX Spectrum (1990–91); Steam (2015, *Chip's Challenge 1*) | **A Lynx launch title that became a PC staple**: the reverse of the usual direction. Its later Windows bundling is why most people know it at all. |
 | Electrocop | 1989 | Epyx | Atari | Action | 1 | No | **Stranded** | | Launch title with a pseudo-3D corridor engine. Same Epyx rights problem. |
 | Gates of Zendocon | 1989 | Epyx | Atari | Shoot 'em up | 1 | No | **Stranded** | | A launch title. Epyx went bankrupt in 1993, leaving its Lynx catalogue without a clear owner. |
-| Warbirds | 1989 | Epyx | Atari | Flight combat | 1–6 | No | **Stranded** | | Six-player dogfighting over ComLynx — one of the earliest multi-unit handheld deathmatch games, and unreproducible without the cables. |
-| Klax | 1990 | Atari | Atari | Puzzle | 1 | No | Ported | *Atari 50* (2022), and many platforms | ⚠ [Contested](#contested) — the arcade cabinet is out of scope, but home versions appeared across several platforms in the same window. |
+| Warbirds | 1989 | Epyx | Atari | Flight combat | 1–6 | No | **Stranded** | | Six-player dogfighting over ComLynx, one of the earliest multi-unit handheld deathmatch games, and unreproducible without the cables. |
+| Klax | 1990 | Atari | Atari | Puzzle | 1 | No | Ported | *Atari 50* (2022), and many platforms | ⚠ [Contested](#contested), the arcade cabinet is out of scope, but home versions appeared across several platforms in the same window. |
 | Todd's Adventures in Slime World | 1990 | Epyx | Epyx | Action-platformer | 1–6 | No | Ported | Genesis (1992), PC | Its six-player co-op was Lynx-only; the Genesis version cut it. |
 | Zarlor Mercenary | 1990 | Epyx | Atari | Shoot 'em up | 1–4 | No | **Stranded** | | Four-player co-op shooter over ComLynx. |
-| Dracula the Undead | 1991 | Atari | Atari | Adventure | 1 | No | **Stranded** | | An adaptation of the Stoker novel — public domain, so the licence is not the barrier; obscurity is. |
+| Dracula the Undead | 1991 | Atari | Atari | Adventure | 1 | No | **Stranded** | | An adaptation of the Stoker novel, public domain, so the licence is not the barrier; obscurity is. |
 | Rampart | 1991 | Atari | Atari | Strategy | 1–2 | No | Ported | *Atari 50* (2022) | First home release on this platform, though other conversions followed quickly. |
 | Scrapyard Dog | 1991 | Atari | Atari | Platformer | 1 | No | **Stranded** | | Also on 7800. |
 | Turbo Sub | 1991 | Imagitec | Atari | Rail shooter | 1 | No | Ported | *Atari 50* (2022) | One of the few Lynx titles Atari has reissued. |
@@ -63,7 +63,7 @@ and only a few Lynx titles have been picked up.
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| Klax | 1990 | **Include** (`Ported`) | Under the arcade rule the first home release counts, and Atari owns the property outright — which is why it appears in *Atari 50*. | Home versions landed on Lynx, Genesis, NES, Amiga and others within months of each other, so no single platform is cleanly the debut. a multi-platform sim-ship. |
+| Klax | 1990 | **Include** (`Ported`) | Under the arcade rule the first home release counts, and Atari owns the property outright; which is why it appears in *Atari 50*. | Home versions landed on Lynx, Genesis, NES, Amiga and others within months of each other, so no single platform is cleanly the debut. a multi-platform sim-ship. |
 
 ## Excluded
 
@@ -76,10 +76,10 @@ and only a few Lynx titles have been picked up.
 | Any *Atari 50* release | | Re-releases by definition. |
 | *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on a home computer or console still disqualifies. |
 
-## Appendix — the tail
+## Appendix: the tail
 
 - **Arcade and computer conversions (~40 titles).** The bulk of the library, and
- nearly all fail the debut test — the Lynx was largely a machine for playing
+ nearly all fail the debut test; the Lynx was largely a machine for playing
  scaled-down versions of things you already owned.
 - **ComLynx multiplayer titles (~10).** Games designed around daisy-chained consoles.
  Unportable by design, and the reason several entries above are stranded rather
@@ -91,14 +91,14 @@ and only a few Lynx titles have been picked up.
 ## Coverage gaps
 
 - Complete for identifiable debuts among official releases.
-- Songbird's later releases of unreleased 1990s prototypes are not catalogued — they
+- Songbird's later releases of unreleased 1990s prototypes are not catalogued, they
  raise the same debut question as `Zero Racers` on Virtual Boy.
 
 ## Sources
 
 Checked 2026-07-29.
 
-- [List of Atari Lynx games — Wikipedia](https://en.wikipedia.org/wiki/List_of_Atari_Lynx_games)
-- [Atari Lynx — Wikipedia](https://en.wikipedia.org/wiki/Atari_Lynx) — hardware and ComLynx
-- [Chip's Challenge — Wikipedia](https://en.wikipedia.org/wiki/Chip%27s_Challenge)
-- [Epyx — Wikipedia](https://en.wikipedia.org/wiki/Epyx)
+- [List of Atari Lynx games (Wikipedia)](https://en.wikipedia.org/wiki/List_of_Atari_Lynx_games)
+- [Atari Lynx (Wikipedia)](https://en.wikipedia.org/wiki/Atari_Lynx), hardware and ComLynx
+- [Chip's Challenge (Wikipedia)](https://en.wikipedia.org/wiki/Chip%27s_Challenge)
+- [Epyx (Wikipedia)](https://en.wikipedia.org/wiki/Epyx)

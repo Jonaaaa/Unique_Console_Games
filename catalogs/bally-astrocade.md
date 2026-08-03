@@ -1,4 +1,4 @@
-# Bally Astrocade — Unique Games Catalogue
+# Bally Astrocade
 
 | | |
 |---|---|
@@ -24,8 +24,8 @@ software culture.
 | | Count |
 |---|---|
 | **Debut games** | **5** |
-| — still `Stranded` | 5 |
-| — since `Ported` | 0 |
+| of which still `Stranded` | 5 |
+| of which since `Ported` | 0 |
 | **Contested** | 0 |
 
 **Why the Astrocade strands games.** No surviving rights holder, three ownership
@@ -40,10 +40,10 @@ Another `Ported` count of **zero**.
 
 | Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Notes |
 |---|---|---|---|---|---|---|---|---|---|
-| Gunfight | 1978 | Bally | Bally | Shooter | 1–2 | No | **Stranded** | | A launch cartridge; first home version of Midway's cabinet, and Bally owned Midway at the time — a rights link that dissolved when the console was sold on. |
+| Gunfight | 1978 | Bally | Bally | Shooter | 1–2 | No | **Stranded** | | A launch cartridge; first home version of Midway's cabinet, and Bally owned Midway at the time, a rights link that dissolved when the console was sold on. |
 | The Incredible Wizard | 1980 | Bally | Bally | Maze | 1–2 | No | **Stranded** | | A licensed home conversion of `Wizard of Wor`; the best-regarded Astrocade game and the closest the platform had to a killer app. |
 | Astro Battle | 1981 | Astrovision | Astrovision | Shoot 'em up | 1 | No | **Stranded** | | A `Space Invaders` derivative renamed after Taito objected, which is a further bar to any reissue. |
-| Muncher | 1981 | Astrovision | Astrovision | Maze | 1 | No | **Stranded** | | An unlicensed `Pac-Man` clone, pulled under legal pressure — the same fate as `K.C. Munchkin!` on the Odyssey². |
+| Muncher | 1981 | Astrovision | Astrovision | Maze | 1 | No | **Stranded** | | An unlicensed `Pac-Man` clone, pulled under legal pressure, the same fate as `K.C. Munchkin!` on the Odyssey². |
 | Treasure Cove | 1982 | Astrocade | Astrocade | Action | 1 | No | **Stranded** | | One of the final releases before the company folded. |
 
 ## Excluded
@@ -65,5 +65,5 @@ Another `Ported` count of **zero**.
 
 Checked 2026-07-29.
 
-- [Bally Astrocade — Wikipedia](https://en.wikipedia.org/wiki/Bally_Astrocade)
-- [List of Bally Astrocade games — Wikipedia](https://en.wikipedia.org/wiki/List_of_Bally_Astrocade_games)
+- [Bally Astrocade (Wikipedia)](https://en.wikipedia.org/wiki/Bally_Astrocade)
+- [List of Bally Astrocade games (Wikipedia)](https://en.wikipedia.org/wiki/List_of_Bally_Astrocade_games)

@@ -1,8 +1,8 @@
-# Epoch Cassette Vision / Super Cassette Vision — Unique Games Catalogue
+# Epoch Cassette Vision / Super Cassette Vision
 
 | | |
 |---|---|
-| **Platform** | Epoch Cassette Vision (1981), **Super Cassette Vision** (1984) — Japan, plus a small French release |
+| **Platform** | Epoch Cassette Vision (1981), **Super Cassette Vision** (1984), Japan, plus a small French release |
 | **Lifespan** | Jul 1981 – 1987; ~400,000 Cassette Vision units |
 | **Library size** | 11 Cassette Vision titles, ~30 Super Cassette Vision titles |
 | **Backward compat** | The Super Cassette Vision is a new platform, not compatible with the original. |
@@ -12,7 +12,7 @@
 ## ⚠ Japan's best-selling console before the Famicom
 
 The Cassette Vision was **the top-selling home console in Japan until the Famicom
-arrived in 1983** — an achievement almost entirely forgotten outside Japan. Its
+arrived in 1983**, an achievement almost entirely forgotten outside Japan. Its
 successor, the Super Cassette Vision, launched in 1984 straight into the Famicom's path
 and lost.
 
@@ -24,14 +24,14 @@ are catalogued together because their libraries are small and share one cause.
 | | Count |
 |---|---|
 | **Debut games** | **6** |
-| — still `Stranded` | 6 |
-| — since `Ported` | 0 |
+| of which still `Stranded` | 6 |
+| of which since `Ported` | 0 |
 | **Contested** | 0 |
 
 **Why the Cassette Vision strands games.** Epoch remains a toy manufacturer with no
 games division and no reissue programme; the libraries are Japan-only; and the original
 Cassette Vision's cartridges contained **the console's actual CPU**, so each cartridge
-was effectively its own computer — a design nothing can emulate straightforwardly.
+was effectively its own computer; a design nothing can emulate straightforwardly.
 `Ported` count of **zero**.
 
 ---
@@ -40,11 +40,11 @@ was effectively its own computer — a design nothing can emulate straightforwar
 
 | Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Notes |
 |---|---|---|---|---|---|---|---|---|---|
-| Kikori no Yosaku | 1981 | Epoch | Epoch | Action | 1–2 | No | **Stranded** | | A launch title for the original Cassette Vision. Its cartridge contains the system's processor — the console itself was little more than a power supply and video output, so the "game" and the hardware are inseparable. |
-| Astro Command | 1982 | Epoch | Epoch | Shoot 'em up | 1 | No | **Stranded** | | An Epoch original for the Cassette Vision, whose cartridges each contained the system's CPU — hardware and game are inseparable, and Epoch has no games division to reissue it. |
+| Kikori no Yosaku | 1981 | Epoch | Epoch | Action | 1–2 | No | **Stranded** | | A launch title for the original Cassette Vision. Its cartridge contains the system's processor; the console itself was little more than a power supply and video output, so the "game" and the hardware are inseparable. |
+| Astro Command | 1982 | Epoch | Epoch | Shoot 'em up | 1 | No | **Stranded** | | An Epoch original for the Cassette Vision, whose cartridges each contained the system's CPU; hardware and game are inseparable, and Epoch has no games division to reissue it. |
 | Battle Vader | 1982 | Epoch | Epoch | Shoot 'em up | 1 | No | **Stranded** | | An unlicensed `Space Invaders` derivative, which is a further bar to any reissue. |
-| Pole Position II | 1984 | Epoch | Epoch | Racing | 1 | No | **Stranded** | | **Super Cassette Vision.** A Namco licence, on a Japan-only console that lost to the Famicom — the licence has been re-sold many times since without ever including this build. |
-| Boulder Dash | 1985 | Epoch | Epoch | Puzzle | 1 | No | **Stranded** | | **Super Cassette Vision.** A licensed conversion of the 1984 computer game, so it fails the debut test — listed to show the platform's licensing pattern. |
+| Pole Position II | 1984 | Epoch | Epoch | Racing | 1 | No | **Stranded** | | **Super Cassette Vision.** A Namco licence, on a Japan-only console that lost to the Famicom; the licence has been re-sold many times since without ever including this build. |
+| Boulder Dash | 1985 | Epoch | Epoch | Puzzle | 1 | No | **Stranded** | | **Super Cassette Vision.** A licensed conversion of the 1984 computer game, so it fails the debut test, listed to show the platform's licensing pattern. |
 | Professional Baseball | 1985 | Epoch | Epoch | Sports | 1–2 | No | **Stranded** | | **Super Cassette Vision.** Japanese league branding from 1985, long expired. |
 
 ## Excluded
@@ -67,5 +67,5 @@ was effectively its own computer — a design nothing can emulate straightforwar
 
 Checked 2026-07-29.
 
-- [Epoch Cassette Vision — Wikipedia](https://en.wikipedia.org/wiki/Epoch_Cassette_Vision)
-- [Super Cassette Vision — Wikipedia](https://en.wikipedia.org/wiki/Super_Cassette_Vision)
+- [Epoch Cassette Vision (Wikipedia)](https://en.wikipedia.org/wiki/Epoch_Cassette_Vision)
+- [Super Cassette Vision (Wikipedia)](https://en.wikipedia.org/wiki/Super_Cassette_Vision)

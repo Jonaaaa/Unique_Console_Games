@@ -1,4 +1,4 @@
-# Platform roster — what is covered, and what is not
+# Platform roster: what is covered, and what is not
 
 This file exists because completeness was once **claimed without a checkable basis**,
 and PS4 and PS5 turned out to be missing. Every console and handheld considered is
@@ -13,7 +13,7 @@ first-party catalogue.
 
 ## Folded into a parent platform
 
-Add-ons and peripherals do not get their own files — their software is catalogued in the
+Add-ons and peripherals do not get their own files; their software is catalogued in the
 host platform's file, marked in the Notes column.
 
 | Add-on | Folded into |
@@ -30,9 +30,9 @@ host platform's file, marked in the Notes column.
 | PSVR, PSVR2 | [ps4.md](catalogs/ps4.md), [ps5.md](catalogs/ps5.md) |
 | Kinect | [xbox-360.md](catalogs/xbox-360.md), [xbox-one.md](catalogs/xbox-one.md) |
 | Vectrex 3D Imager | [vectrex.md](catalogs/vectrex.md) |
-| Game Boy Player, Super Game Boy, Transfer Pak | Backward compatibility — not catalogued |
+| Game Boy Player, Super Game Boy, Transfer Pak | Backward compatibility, not catalogued |
 
-## Hardware revisions — no separate files
+## Hardware revisions: no separate files
 
 These play identical libraries and have **no exclusive software**, so a catalogue for
 them would be empty: Game Boy Pocket / Light, GBA SP / Micro, DS Lite, DSi (DSiWare is
@@ -47,20 +47,20 @@ GBC has ~570 exclusive "black cartridge" titles.
 
 | System | Reason |
 |---|---|
-| Dedicated / single-game consoles (Home Pong, Odyssey 100–4000, Coleco Telstar, tabletop LCD units) | No removable media and no software library — one fixed game per unit. |
+| Dedicated / single-game consoles (Home Pong, Odyssey 100–4000, Coleco Telstar, tabletop LCD units) | No removable media and no software library, one fixed game per unit. |
 | Game & Watch, Tiger handhelds, LCD tabletops | Single-game devices. Nintendo's Game & Watch reissues are compilations, not a platform. |
 | Evercade, Analogue Pocket, retro "mini" consoles, Polymega | **Re-release platforms by definition.** Their libraries are compilations of games that debuted elsewhere, which fails the debut test for every title. They appear as `Also On` targets instead. |
 | Steam Deck, ROG Ally, Nvidia Shield, Ouya, Amazon Fire TV | PC or Android devices. PC is not a catalogued platform, and Android titles are mobile-first. |
 | Tapwave Zodiac, N-Gage 2.0 service | Palm OS and Symbian software platforms. The **original N-Gage hardware** is included (removable media, dedicated buttons); its 2008 download service is not. |
 | iOS, Android | Mobile. Noted in `Also On` where relevant but never catalogued. |
-| Amstrad GX4000 | Included in principle but **not yet written** — see Pending. |
-| Gizmondo, Nuon, Xavix, LeapFrog, VTech, Didj | Included in principle but **not yet written** — see Pending. |
-| Arcade hardware (MVS, Hyper Neo Geo 64, Naomi, Triforce, System 246) | Arcades are out of scope by rule — a cabinet is not a collectable home device. |
+| Amstrad GX4000 | Included in principle but **not yet written**, see Pending. |
+| Gizmondo, Nuon, Xavix, LeapFrog, VTech, Didj | Included in principle but **not yet written**, see Pending. |
+| Arcade hardware (MVS, Hyper Neo Geo 64, Naomi, Triforce, System 246) | Arcades are out of scope by rule; a cabinet is not a collectable home device. |
 | Cloud-only services (Stadia, Luna, GeForce Now) | No hardware library; games debut on other platforms. |
 | Intellivision Amico | Announced but never properly shipped; no library exists. |
-| Sega Nomad, PC Engine GT / TurboExpress, Genesis Nomad | Portable revisions playing the parent library — backward compatibility. |
+| Sega Nomad, PC Engine GT / TurboExpress, Genesis Nomad | Portable revisions playing the parent library, backward compatibility. |
 
-## Previously pending — now written
+## Previously pending: now written
 
 All items formerly listed here have catalogues:
 
@@ -78,17 +78,17 @@ All items formerly listed here have catalogues:
 | SSD Company XaviXPORT (2004) | [xavix.md](catalogs/xavix.md) |
 
 **Three files cover more than one platform**, because each system involved has under
-~15 titles and an identical stranding cause — splitting them would repeat the same
+~15 titles and an identical stranding cause; splitting them would repeat the same
 page. The decision is recorded in each file's Contested section:
 [early-japanese-consoles.md](catalogs/early-japanese-consoles.md) (3 systems),
 [leapfrog.md](catalogs/leapfrog.md) (3 systems),
 [epoch-cassette-vision.md](catalogs/epoch-cassette-vision.md) (2 systems).
 
-**Remaining known gaps:** Mega Duck / Cougar Boy and Bit Corporation Gamate — two more
+**Remaining known gaps:** Mega Duck / Cougar Boy and Bit Corporation Gamate, two more
 early-90s budget handhelds in the same family as the Watara Supervision, with the same
 lost-attribution problem. Documented here rather than silently omitted.
 
 ## How to keep this honest
 
 When adding a platform, add a row here too. When claiming the roster is complete, the
-claim should be checkable against this file — not asserted from memory.
+claim should be checkable against this file, not asserted from memory.

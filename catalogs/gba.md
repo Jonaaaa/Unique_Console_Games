@@ -1,4 +1,4 @@
-# Game Boy Advance — Unique Games Catalogue
+# Game Boy Advance
 
 | | |
 |---|---|
@@ -20,14 +20,14 @@ collections all count as releases on another platform. NSO's GBA library is
 | | Count |
 |---|---|
 | **Debut games** | **41** |
-| — still `Stranded` | 19 |
-| — since `Ported` | 22 |
+| of which still `Stranded` | 19 |
+| of which since `Ported` | 22 |
 | **Contested** | 2 |
 
 **Why the GBA strands games.** The GBA repeats the Game Boy's defining trick and
 makes it worse: **hardware inside the cartridge**. `WarioWare: Twisted!` has a
 gyroscope. `Boktai` has a *photometric light sensor* and requires real sunlight to
-recharge your weapon — a game whose central mechanic is literally going outside.
+recharge your weapon, a game whose central mechanic is literally going outside.
 Neither has ever been re-released, and neither can be without lying about what the
 game is.
 
@@ -68,9 +68,9 @@ without a Western release of any kind.
 | Fire Emblem | 2003 | Intelligent Systems | Nintendo | Tactical RPG | 1–2 | No | Ported | Wii U Virtual Console, NSO | The series' first Western release. |
 | Mario & Luigi: Superstar Saga | 2003 | AlphaDream | Nintendo | RPG | 1 | No | Ported | 3DS (2017 remake) | AlphaDream went bankrupt in 2019. |
 | Ninja Five-O | 2003 | Hudson Soft | Konami | Action-platformer | 1 | No | Ported | Switch, PS4/PS5, Xbox, PC (2024) | Tiny original print run made carts famously expensive; reissued in 2024. |
-| Summon Night: Swordcraft Story | 2003 | Flight-Plan | Banpresto / Atlus | Action RPG | 1–2 | No | **Stranded** | | Banpresto's rights moved to Bandai Namco while Atlus held the localisation — a split that has kept it locked. |
+| Summon Night: Swordcraft Story | 2003 | Flight-Plan | Banpresto / Atlus | Action RPG | 1–2 | No | **Stranded** | | Banpresto's rights moved to Bandai Namco while Atlus held the localisation; a split that has kept it locked. |
 | WarioWare, Inc.: Mega Microgame$! | 2003 | Nintendo R&D1 | Nintendo | Minigame collection | 1–2 | No | Ported | Wii U Virtual Console, NSO | |
-| Classic NES Series | 2004 | Nintendo | Nintendo | Compilation | 1–2 | No | **Stranded** | | Individually boxed GBA cartridges of single NES games — a re-release line, but each cartridge is a distinct product that first shipped on GBA and has never been reissued as such. |
+| Classic NES Series | 2004 | Nintendo | Nintendo | Compilation | 1–2 | No | **Stranded** | | Individually boxed GBA cartridges of single NES games, a re-release line, but each cartridge is a distinct product that first shipped on GBA and has never been reissued as such. |
 | Fire Emblem: The Sacred Stones | 2004 | Intelligent Systems | Nintendo | Tactical RPG | 1–2 | No | Ported | Wii U Virtual Console, NSO | |
 | Kirby & the Amazing Mirror | 2004 | Flagship / HAL | Nintendo | Platformer | 1–4 | No | Ported | Wii U Virtual Console, NSO | Four-player co-op needed four GBAs and four cartridges. |
 | Mario Golf: Advance Tour | 2004 | Camelot | Nintendo | Sports RPG | 1–4 | No | **Stranded** | | Its RPG mode linked to the GameCube game via cable. |
@@ -79,10 +79,10 @@ without a Western release of any kind.
 | The Legend of Zelda: The Minish Cap | 2004 | Flagship / Capcom | Nintendo | Action-adventure | 1 | No | Ported | Wii U Virtual Console, NSO | |
 | WarioWare: Twisted! | 2004 | Nintendo R&D1 | Nintendo | Minigame collection | 1 | No | **Stranded** | | A **gyroscope in the cartridge**; every microgame is played by rotating the console. Never re-released, and the one WarioWare that cannot be. Never released in PAL territories at all. |
 | Drill Dozer | 2005 | Game Freak | Nintendo | Platformer | 1 | No | Ported | Wii U Virtual Console | The cartridge has a rumble motor; the Virtual Console release lost it. |
-| Gunstar Super Heroes | 2005 | Treasure | Sega | Run and gun | 1 | No | **Stranded** | | A sequel to the Genesis *Gunstar Heroes*, which itself is widely re-released — this one is not. |
+| Gunstar Super Heroes | 2005 | Treasure | Sega | Run and gun | 1 | No | **Stranded** | | A sequel to the Genesis *Gunstar Heroes*, which itself is widely re-released; this one is not. |
 | Mario Tennis: Power Tour | 2005 | Camelot | Nintendo | Sports RPG | 1–4 | No | **Stranded** | | Camelot's handheld sports RPGs have never been reissued, and its link features assumed GBA hardware. |
 | Mother 3 | 2006 | Brownie Brown / HAL | Nintendo | RPG | 1 | No | Ported | NSO (Japan, 2024) | Japan-only for 18 years. Its NSO release is **Japan-only**, so outside Japan it remains effectively stranded and has never been officially translated. |
-| Rhythm Tengoku | 2006 | Nintendo SPD | Nintendo | Rhythm | 1 | No | **Stranded** | | Japan-only. The first Rhythm Heaven game, never localised and never re-released — the arcade version is a separate product. |
+| Rhythm Tengoku | 2006 | Nintendo SPD | Nintendo | Rhythm | 1 | No | **Stranded** | | Japan-only. The first Rhythm Heaven game, never localised and never re-released; the arcade version is a separate product. |
 | Yggdra Union | 2006 | Sting | Sting / Atlus | Tactical RPG | 1 | No | Ported | PSP (2008), iOS | |
 
 ## Contested
@@ -105,7 +105,7 @@ without a Western release of any kind.
 | Mario Pinball Land | 2004 | Qualifies and is `Stranded`. |
 | Any Wii U Virtual Console / NSO / collection release | | Re-releases by definition. |
 
-## Appendix — the tails
+## Appendix: the tails
 
 - **Licensed tie-ins (~400 titles).** The GBA overlapped the peak of the film
  tie-in handheld game: Harry Potter, Lord of the Rings, Shrek, Spider-Man, Finding
@@ -126,8 +126,8 @@ without a Western release of any kind.
 
 Checked 2026-07-29.
 
-- [List of Game Boy Advance games — Wikipedia](https://en.wikipedia.org/wiki/List_of_Game_Boy_Advance_games)
-- [Boktai: The Sun Is in Your Hand — Wikipedia](https://en.wikipedia.org/wiki/Boktai:_The_Sun_Is_in_Your_Hand)
-- [WarioWare: Twisted! — Wikipedia](https://en.wikipedia.org/wiki/WarioWare:_Twisted!)
-- [Mother 3 — Wikipedia](https://en.wikipedia.org/wiki/Mother_3)
-- [List of Nintendo Switch Online games — Wikipedia](https://en.wikipedia.org/wiki/List_of_Nintendo_Switch_Online_games)
+- [List of Game Boy Advance games (Wikipedia)](https://en.wikipedia.org/wiki/List_of_Game_Boy_Advance_games)
+- [Boktai: The Sun Is in Your Hand (Wikipedia)](https://en.wikipedia.org/wiki/Boktai:_The_Sun_Is_in_Your_Hand)
+- [WarioWare: Twisted! (Wikipedia)](https://en.wikipedia.org/wiki/WarioWare:_Twisted!)
+- [Mother 3 (Wikipedia)](https://en.wikipedia.org/wiki/Mother_3)
+- [List of Nintendo Switch Online games (Wikipedia)](https://en.wikipedia.org/wiki/List_of_Nintendo_Switch_Online_games)

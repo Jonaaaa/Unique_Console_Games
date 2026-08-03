@@ -1,4 +1,4 @@
-# Sega Genesis / Mega Drive — Unique Games Catalogue
+# Sega Genesis / Mega Drive
 
 | | |
 |---|---|
@@ -22,17 +22,17 @@ Origins*, and per-series collections. **Most of the Genesis canon reads as
 | | Count |
 |---|---|
 | **Debut games** | **47** |
-| — still `Stranded` | 14 |
-| — since `Ported` | 32 |
+| of which still `Stranded` | 14 |
+| of which since `Ported` | 32 |
 | **Contested** | 1 |
 
 **Why the Genesis strands games.** Almost entirely **dead licences**, as on NES and
-SNES — but with one difference that makes it sharper. Sega owns and reissues its own
+SNES, but with one difference that makes it sharper. Sega owns and reissues its own
 catalogue aggressively, so anything Sega-published has escaped. What remains is
 third-party licensed work: Marvel's `X-Men` games, Acclaim's film tie-ins, `Michael Jackson's Moonwalker`.
 
 The add-ons add a second cause. The **32X** sold poorly and its ~40 games were
-never included in any Sega collection — `Knuckles' Chaotix` is a mainline Sonic-
+never included in any Sega collection; `Knuckles' Chaotix` is a mainline Sonic-
 family game that has never been reissued **because it only runs on a 32X**. The
 **Sega CD** has a further wrinkle: its full-motion-video games carry actor
 likeness rights alongside everything else.
@@ -57,7 +57,7 @@ likeness rights alongside everything else.
 | Landstalker | 1992 | Climax | Sega | Action RPG | 1 | No | Ported | Sega collections | |
 | Lunar: The Silver Star | 1992 | Game Arts | Working Designs | RPG | 1 | No | Ported | PS1, PSP, Switch/PS4/PC (2024, *Remastered*) | **Sega CD.** |
 | Night Trap | 1992 | Digital Pictures | Sega | Interactive movie | 1 | No | Ported | PS4, Xbox One, Switch, PC (2017, *25th Anniversary*) | **Sega CD.** Triggered the US Senate hearings that created the ESRB. |
-| Sewer Shark | 1992 | Digital Pictures | Sony Imagesoft | Rail shooter | 1 | No | **Stranded** | | **Sega CD.** Full-motion video with paid actors — likeness rights on top of everything else. |
+| Sewer Shark | 1992 | Digital Pictures | Sony Imagesoft | Rail shooter | 1 | No | **Stranded** | | **Sega CD.** Full-motion video with paid actors, likeness rights on top of everything else. |
 | Shining Force | 1992 | Climax / Sonic! SP | Sega | Tactical RPG | 1 | No | Ported | Sega collections, GBA (2004 remake) | |
 | Sonic the Hedgehog 2 | 1992 | Sonic Team / STI | Sega | Platformer | 1–2 | No | Ported | *Sonic Origins*, Sega collections, Switch Online | |
 | Streets of Rage 2 | 1992 | Sega / Ancient | Sega | Beat 'em up | 1–2 | No | Ported | Sega collections, Mega Drive Mini, Switch Online | |
@@ -65,9 +65,9 @@ likeness rights alongside everything else.
 | Ground Zero: Texas | 1993 | Digital Pictures | Sega | Interactive movie | 1 | No | **Stranded** | | **Sega CD.** Same likeness-rights problem. |
 | Gunstar Heroes | 1993 | Treasure | Sega | Run and gun | 1–2 | No | Ported | Sega collections, Mega Drive Mini, Switch Online, Steam | Treasure's debut. |
 | Jurassic Park | 1993 | BlueSky | Sega | Action | 1 | No | **Stranded** | | Universal film licence. |
-| Mortal Kombat | 1993 | Probe / Sculptured | Acclaim | Fighting | 1–2 | No | Sim-ship | SNES, Game Gear, Master System (1993, same day) | "Mortal Monday" — a coordinated same-day launch across four platforms. Unlike the SNES build, the Genesis version kept the blood via a code. |
+| Mortal Kombat | 1993 | Probe / Sculptured | Acclaim | Fighting | 1–2 | No | Sim-ship | SNES, Game Gear, Master System (1993, same day) | "Mortal Monday", a coordinated same-day launch across four platforms. Unlike the SNES build, the Genesis version kept the blood via a code. |
 | Phantasy Star IV | 1993 | Sega | Sega | RPG | 1 | No | Ported | Sega collections, Switch Online | |
-| Ranger-X | 1993 | Gau Entertainment | Sega | Run and gun | 1 | No | **Stranded** | | Technically extraordinary — a mech and a solar-powered motorbike acting as one unit. Absent from every Sega collection. |
+| Ranger-X | 1993 | Gau Entertainment | Sega | Run and gun | 1 | No | **Stranded** | | Technically extraordinary, a mech and a solar-powered motorbike acting as one unit. Absent from every Sega collection. |
 | Rocket Knight Adventures | 1993 | Konami | Konami | Action-platformer | 1 | No | Ported | Switch, PS4/PS5, Xbox, PC (2024, *Re-Sparked!*) | Was stranded for 31 years; Konami collected it with both *Sparkster* games in 2024. |
 | Shinobi III: Return of the Ninja Master | 1993 | Sega | Sega | Action-platformer | 1 | No | Ported | Sega collections, Switch Online | |
 | Sonic CD | 1993 | Sega CS / Sonic Team | Sega | Platformer | 1 | No | Ported | *Sonic Origins*, mobile, PC, many collections | **Sega CD.** Its two soundtracks (JP/EU vs US) still ship as a toggle. |
@@ -79,8 +79,8 @@ likeness rights alongside everything else.
 | Dynamite Headdy | 1994 | Treasure | Sega | Platformer | 1 | No | Ported | Sega collections, Switch Online | |
 | Earthworm Jim | 1994 | Shiny | Playmates | Platformer | 1 | No | Ported | SNES (1995), Saturn, PS1, PC, and many later collections | Debuted on Genesis; the SNES version followed a year later. |
 | Pulseman | 1994 | Game Freak | Sega | Platformer | 1 | No | Ported | Wii Virtual Console, 3DS Virtual Console | Game Freak's pre-Pokémon work; Japan-only originally. |
-| Sonic & Knuckles | 1994 | Sonic Team / STI | Sega | Platformer | 1–2 | No | Ported | *Sonic Origins*, Sega collections | Its lock-on cartridge physically combined with *Sonic 3* — a hardware trick no re-release reproduces. |
-| Sonic the Hedgehog 3 | 1994 | Sonic Team / STI | Sega | Platformer | 1–2 | No | Ported | *Sonic Origins* (2022), Sega collections | ⚠ [Contested](#contested) — its soundtrack's disputed authorship forced *Origins* to replace several tracks. |
+| Sonic & Knuckles | 1994 | Sonic Team / STI | Sega | Platformer | 1–2 | No | Ported | *Sonic Origins*, Sega collections | Its lock-on cartridge physically combined with *Sonic 3*, a hardware trick no re-release reproduces. |
+| Sonic the Hedgehog 3 | 1994 | Sonic Team / STI | Sega | Platformer | 1–2 | No | Ported | *Sonic Origins* (2022), Sega collections | ⚠ [Contested](#contested), its soundtrack's disputed authorship forced *Origins* to replace several tracks. |
 | Zero Tolerance | 1994 | Technopop | Accolade | FPS | 1–2 | No | **Stranded** | | A full FPS on Genesis hardware, with a link-cable two-player mode. |
 | Alien Soldier | 1995 | Treasure | Sega | Run and gun | 1 | No | Ported | Sega collections, Mega Drive Mini | Japan/PAL-only originally. |
 | Comix Zone | 1995 | Sega Technical Institute | Sega | Beat 'em up | 1 | No | Ported | Sega collections, Mega Drive Mini, Switch Online | |
@@ -95,7 +95,7 @@ likeness rights alongside everything else.
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| Sonic the Hedgehog 3 | 1994 | **Include** (`Ported`) | It debuted on Genesis and is available in *Sonic Origins*, so `Ported` is correct. | The *Origins* release replaced several music tracks whose authorship is disputed. The original soundtrack has never been legally reissued, so the game as it shipped is still stranded — the same shape as `Mike Tyson's Punch-Out!!` on NES. |
+| Sonic the Hedgehog 3 | 1994 | **Include** (`Ported`) | It debuted on Genesis and is available in *Sonic Origins*, so `Ported` is correct. | The *Origins* release replaced several music tracks whose authorship is disputed. The original soundtrack has never been legally reissued, so the game as it shipped is still stranded, the same shape as `Mike Tyson's Punch-Out!!` on NES. |
 
 ## Excluded
 
@@ -108,10 +108,10 @@ likeness rights alongside everything else.
 | Any Sega Genesis Classics / Mega Drive Mini / Switch Online release | | Re-releases by definition. |
 | *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on another home platform still disqualifies. |
 
-## Appendix — the tails
+## Appendix: the tails
 
-- **Sports annuals (~120 titles).** EA's Genesis output — Madden, NHL, FIFA, PGA
- Tour — built the platform's Western reputation and is almost entirely stranded on
+- **Sports annuals (~120 titles).** EA's Genesis output, Madden, NHL, FIFA, PGA
+ Tour, built the platform's Western reputation and is almost entirely stranded on
  expired league and athlete licences.
 - **Licensed tie-ins (~180 titles).** Acclaim, LJN, Virgin, Sony Imagesoft. Marvel,
  DC and film licences dominate; almost all stranded.
@@ -133,9 +133,9 @@ likeness rights alongside everything else.
 
 Checked 2026-07-29.
 
-- [List of Sega Genesis games — Wikipedia](https://en.wikipedia.org/wiki/List_of_Sega_Genesis_games)
-- [List of Sega CD games — Wikipedia](https://en.wikipedia.org/wiki/List_of_Sega_CD_games)
-- [List of 32X games — Wikipedia](https://en.wikipedia.org/wiki/List_of_32X_games)
-- [Michael Jackson's Moonwalker — Wikipedia](https://en.wikipedia.org/wiki/Michael_Jackson%27s_Moonwalker)
-- [Knuckles' Chaotix — Wikipedia](https://en.wikipedia.org/wiki/Knuckles%27_Chaotix)
-- [Sonic Origins — Wikipedia](https://en.wikipedia.org/wiki/Sonic_Origins)
+- [List of Sega Genesis games (Wikipedia)](https://en.wikipedia.org/wiki/List_of_Sega_Genesis_games)
+- [List of Sega CD games (Wikipedia)](https://en.wikipedia.org/wiki/List_of_Sega_CD_games)
+- [List of 32X games (Wikipedia)](https://en.wikipedia.org/wiki/List_of_32X_games)
+- [Michael Jackson's Moonwalker (Wikipedia)](https://en.wikipedia.org/wiki/Michael_Jackson%27s_Moonwalker)
+- [Knuckles' Chaotix (Wikipedia)](https://en.wikipedia.org/wiki/Knuckles%27_Chaotix)
+- [Sonic Origins (Wikipedia)](https://en.wikipedia.org/wiki/Sonic_Origins)

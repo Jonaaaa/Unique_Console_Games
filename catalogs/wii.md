@@ -1,28 +1,28 @@
-# Nintendo Wii — Unique Games Catalogue
+# Nintendo Wii
 
 | | |
 |---|---|
 | **Platform** | Nintendo Wii (2006), Wii Family Edition, Wii mini |
 | **Lifespan** | Nov 2006 – 2013; **101.63M units sold** |
 | **Library size** | ~1,600 retail titles, plus ~350 WiiWare |
-| **Wii Shop closed** | 30 Jan 2019 — WiiWare purchases cannot be redownloaded |
+| **Wii Shop closed** | 30 Jan 2019, WiiWare purchases cannot be redownloaded |
 | **Online** | WiiConnect24 ended Jun 2013; online play ended May 2014 |
 | **Backward compat** | Plays GameCube discs (original models only). That is BC, **not** another platform. |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | First-party and notable third-party titles verified individually. The casual/licensed tail — the largest of any home console — is summarised, not enumerated. |
+| **Coverage** | First-party and notable third-party titles verified individually. The casual/licensed tail (the largest of any home console) is summarised, not enumerated. |
 
 ## Summary
 
 | | Count |
 |---|---|
 | **Debut games** | **51** |
-| — still `Stranded` | 37 |
-| — since `Ported` | 14 |
+| of which still `Stranded` | 37 |
+| of which since `Ported` | 14 |
 | **Contested** | 1 |
 
 **Why the Wii strands games.** The Wii is the clearest case here of a
 platform stranded by its **controller**. The Wii Remote's motion sensing, the
-Nunchuk, MotionPlus, the Balance Board and the Zapper were not accessories — they
+Nunchuk, MotionPlus, the Balance Board and the Zapper were not accessories, they
 were the reason the console sold 101 million units. Games built to that brief cannot
 be ported without being redesigned into different games, which is why `Wii Sports`
 (82.9M copies, the fourth best-selling game of all time) has never been re-released
@@ -30,8 +30,8 @@ and never will be.
 
 The second cause is the same **commercial gravity** as the 3DS, only stronger: at
 101.63M the Wii's audience already owns its library. Nintendo has ported the Wii
-games that *don't* need the remote — `Super Mario Galaxy`, `Xenoblade Chronicles`,
-`Skyward Sword`, `Donkey Kong Country Returns` — and left the motion-defined ones
+games that *don't* need the remote, `Super Mario Galaxy`, `Xenoblade Chronicles`,
+`Skyward Sword`, `Donkey Kong Country Returns`, and left the motion-defined ones
 where they are.
 
 Third: **WiiWare is gone.** The Wii Shop closed in January 2019 and nothing was
@@ -44,9 +44,9 @@ migrated.
 | Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Notes |
 |---|---|---|---|---|---|---|---|---|---|
 | Excite Truck | 2006 | Monster Games | Nintendo | Racing | 1–2 | No | **Stranded** | | Steered by tilting the remote sideways. |
-| The Legend of Zelda: Twilight Princess | 2006 | Nintendo EAD | Nintendo | Action-adventure | 1 | No | Ported | Wii U (2016, *HD*) | ⚠ [Contested](#contested) — the Wii version shipped first, but the game was built for GameCube. |
+| The Legend of Zelda: Twilight Princess | 2006 | Nintendo EAD | Nintendo | Action-adventure | 1 | No | Ported | Wii U (2016, *HD*) | ⚠ [Contested](#contested), the Wii version shipped first, but the game was built for GameCube. |
 | Wii Play | 2006 | Nintendo EAD | Nintendo | Minigame collection | 1–2 | No | **Stranded** | | 28.02M, bundled with a spare Wii Remote. Nine tech-demo minigames. |
-| Wii Sports | 2006 | Nintendo EAD | Nintendo | Sports | 1–4 | No | **Stranded** | | **82.90M copies — the best-selling stranded game in existence**, and the fourth best-selling game ever. A pack-in built entirely around motion control. *Wii Sports Club* (Wii U) and *Nintendo Switch Sports* are separate games. |
+| Wii Sports | 2006 | Nintendo EAD | Nintendo | Sports | 1–4 | No | **Stranded** | | **82.90M copies, the best-selling stranded game in existence**, and the fourth best-selling game ever. A pack-in built entirely around motion control. *Wii Sports Club* (Wii U) and *Nintendo Switch Sports* are separate games. |
 | Battalion Wars 2 | 2007 | Kuju | Nintendo | RTS | 1 | Dead (2014) | **Stranded** | | As with the GameCube original, the series ended here. |
 | Endless Ocean | 2007 | Arika | Nintendo | Diving sim | 1–2 | Dead (2014) | **Stranded** | | *Luminous* (Switch, 2024) is a new entry, not a port. |
 | Mario Party 8 | 2007 | Hudson Soft | Nintendo | Party | 1–4 | No | **Stranded** | | Nd Cube's Wii entries are built on motion minigames; *Superstars* drew from the N64 and GameCube games instead. |
@@ -55,15 +55,15 @@ migrated.
 | No More Heroes | 2007 | Grasshopper Manufacture | Marvelous / Ubisoft | Action | 1 | No | Ported | Switch, PC (2020–21), PS4, Xbox | Suda51's remote-gesture finishing moves were remapped for the ports. |
 | Super Mario Galaxy | 2007 | Nintendo EAD | Nintendo | Platformer | 1–2 | No | Ported | Switch (2020, *3D All-Stars*), Switch (2025, *Galaxy 1+2*) | |
 | Super Paper Mario | 2007 | Intelligent Systems | Nintendo | Platformer / RPG | 1 | No | **Stranded** | | The series' most experimental entry; never reissued. |
-| Wii Fit | 2007 | Nintendo EAD | Nintendo | Fitness | 1 | No | **Stranded** | | 22.67M. Requires the Balance Board — a peripheral no other platform has. |
+| Wii Fit | 2007 | Nintendo EAD | Nintendo | Fitness | 1 | No | **Stranded** | | 22.67M. Requires the Balance Board, a peripheral no other platform has. |
 | Zack & Wiki: Quest for Barbaros' Treasure | 2007 | Capcom | Capcom | Puzzle adventure | 1 | No | **Stranded** | | Every puzzle is solved with a physical remote gesture. |
 | Animal Crossing: City Folk | 2008 | Nintendo EAD | Nintendo | Life sim | 1–4 | Dead (2014) | **Stranded** | | The only mainline Animal Crossing on a home console before *New Horizons*. |
-| Boom Blox | 2008 | EA Los Angeles | EA | Puzzle | 1–4 | No | **Stranded** | | Co-designed with Steven Spielberg — a personal-credit arrangement that complicates reissue. |
-| Captain Rainbow | 2008 | Skip Ltd. | Nintendo | Action-adventure | 1 | No | **Stranded** | | Japan-only. Stars Nintendo's forgotten characters (Little Mac, Birdo, Lip) — an internal-IP tangle that guarantees it never returns. |
+| Boom Blox | 2008 | EA Los Angeles | EA | Puzzle | 1–4 | No | **Stranded** | | Co-designed with Steven Spielberg, a personal-credit arrangement that complicates reissue. |
+| Captain Rainbow | 2008 | Skip Ltd. | Nintendo | Action-adventure | 1 | No | **Stranded** | | Japan-only. Stars Nintendo's forgotten characters (Little Mac, Birdo, Lip), an internal-IP tangle that guarantees it never returns. |
 | Disaster: Day of Crisis | 2008 | Monolith Soft | Nintendo | Action | 1 | No | **Stranded** | | PAL/Japan only; never released in North America. |
 | Fatal Frame IV: Mask of the Lunar Eclipse | 2008 | Grasshopper / Tecmo | Nintendo | Survival horror | 1 | No | Ported | PS4/PS5, Xbox, Switch, PC (2023, *Remaster*) | Japan-only for 15 years; the remaster was its first Western release. |
 | LostWinds | 2008 | Frontier Developments | Frontier | Platformer | 1 | No | Ported | iOS (2009), PC, Switch (2018) | **WiiWare.** One of the few WiiWare titles to escape before the Shop closed. |
-| Mario Kart Wii | 2008 | Nintendo EAD | Nintendo | Racing | 1–12 | Dead (2014) | **Stranded** | | **37.38M — the best-selling stranded racing game.** Bundled with the Wii Wheel. |
+| Mario Kart Wii | 2008 | Nintendo EAD | Nintendo | Racing | 1–12 | Dead (2014) | **Stranded** | | **37.38M, the best-selling stranded racing game.** Bundled with the Wii Wheel. |
 | Mario Super Sluggers | 2008 | Namco Bandai | Nintendo | Sports | 1–4 | No | **Stranded** | | Never released in PAL territories. |
 | Super Smash Bros. Brawl | 2008 | Sora Ltd. | Nintendo | Fighting | 1–4 | Dead (2014) | **Stranded** | | 13.32M. Its Subspace Emissary campaign exists in no other Smash game and has never been reissued. |
 | Wario Land: Shake It! | 2008 | Good-Feel | Nintendo | Platformer | 1 | No | **Stranded** | | The last Wario Land game. |
@@ -71,7 +71,7 @@ migrated.
 | Excitebots: Trick Racing | 2009 | Monster Games | Nintendo | Racing | 1–2 | Dead (2014) | **Stranded** | | North America only, in tiny numbers. |
 | Little King's Story | 2009 | Cing / Town Factory | Marvelous / XSEED | Strategy | 1 | No | Ported | PSP (2012), PC, Switch (2019–20) | |
 | MadWorld | 2009 | PlatinumGames | Sega | Beat 'em up | 1 | No | **Stranded** | | PlatinumGames' monochrome ultraviolence; the only one of its four early games never reissued. |
-| Metroid Prime Trilogy | 2009 | Retro Studios | Nintendo | Compilation | 1–4 | No | **Stranded** | | Prime 1 and 2 rebuilt with Wii pointer controls plus Prime 3. *Metroid Prime Remastered* (Switch, 2023) covered only the first game, so this package — and the Wii control scheme for Prime 1 and 2 — remains Wii-only. |
+| Metroid Prime Trilogy | 2009 | Retro Studios | Nintendo | Compilation | 1–4 | No | **Stranded** | | Prime 1 and 2 rebuilt with Wii pointer controls plus Prime 3. *Metroid Prime Remastered* (Switch, 2023) covered only the first game, so this package (and the Wii control scheme for Prime 1 and 2) remains Wii-only. |
 | Muramasa: The Demon Blade | 2009 | Vanillaware | Marvelous / XSEED | Action RPG | 1 | No | Ported | Vita (2013, *Rebirth*) | |
 | New Super Mario Bros. Wii | 2009 | Nintendo EAD | Nintendo | Platformer | 1–4 | No | **Stranded** | | 30.32M. The only mainline New Super Mario Bros. game never re-released. |
 | Punch-Out!! | 2009 | Next Level Games | Nintendo | Sports | 1–2 | No | **Stranded** | | The series' last entry, 15 years on. |
@@ -79,10 +79,10 @@ migrated.
 | Wii Sports Resort | 2009 | Nintendo EAD | Nintendo | Sports | 1–4 | No | **Stranded** | | 33.14M. Required MotionPlus, so it is doubly peripheral-locked. |
 | Donkey Kong Country Returns | 2010 | Retro Studios | Nintendo | Platformer | 1–2 | No | Ported | 3DS (2013), Switch (2025, *HD*) | |
 | Kirby's Epic Yarn | 2010 | Good-Feel / HAL | Nintendo | Platformer | 1–2 | No | Ported | 3DS (2019, *Extra Epic Yarn*) | |
-| Metroid: Other M | 2010 | Team Ninja / Nintendo SPD | Nintendo | Action-adventure | 1 | No | **Stranded** | | Controlled by holding the remote NES-style and pointing at the screen to shoot — a scheme with no modern analogue. |
+| Metroid: Other M | 2010 | Team Ninja / Nintendo SPD | Nintendo | Action-adventure | 1 | No | **Stranded** | | Controlled by holding the remote NES-style and pointing at the screen to shoot, a scheme with no modern analogue. |
 | Sonic Colors | 2010 | Sonic Team | Sega | Platformer | 1 | No | Ported | Multiplatform (2021, *Ultimate*) | |
 | Super Mario All-Stars: 25th Anniversary Edition | 2010 | Nintendo | Nintendo | Compilation | 1–2 | No | **Stranded** | | A limited-run reissue of the SNES compilation with a soundtrack CD and booklet, sold for a few months only. The disc itself has never been reissued. |
-| Super Mario Galaxy 2 | 2010 | Nintendo EAD | Nintendo | Platformer | 1–2 | No | Ported | Switch (2025, *Galaxy 1+2*) | Was stranded for 15 years — omitted from *3D All-Stars* in 2020. |
+| Super Mario Galaxy 2 | 2010 | Nintendo EAD | Nintendo | Platformer | 1–2 | No | Ported | Switch (2025, *Galaxy 1+2*) | Was stranded for 15 years, omitted from *3D All-Stars* in 2020. |
 | Tatsunoko vs. Capcom: Ultimate All-Shooters | 2010 | Eighting | Capcom | Fighting | 1–2 | Dead (2014) | **Stranded** | | A Capcom crossover with Tatsunoko's anime roster. The anime licence expired and cannot realistically be renewed. |
 | Trauma Team | 2010 | Atlus | Atlus | Simulation | 1–2 | No | **Stranded** | | The last Trauma Center game; six specialisms, all motion-controlled. |
 | Wii Party | 2010 | Nd Cube | Nintendo | Party | 1–4 | No | **Stranded** | | 9.35M. |
@@ -99,7 +99,7 @@ migrated.
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| The Legend of Zelda: Twilight Princess | 2006 | **Include** (`Ported`) | The Wii version released first — 19 Nov 2006 versus 12 Dec for GameCube — so by date it debuted here. | It was developed as a GameCube game and mirrored for the Wii late in production. The GameCube build is the original, which would move this to the [GameCube](gamecube.md) catalogue. Both files reference it; only this one counts it. |
+| The Legend of Zelda: Twilight Princess | 2006 | **Include** (`Ported`) | The Wii version released first (19 Nov 2006 versus 12 Dec for GameCube) so by date it debuted here. | It was developed as a GameCube game and mirrored for the Wii late in production. The GameCube build is the original, which would move this to the [GameCube](gamecube.md) catalogue. Both files reference it; only this one counts it. |
 
 ## Excluded
 
@@ -114,16 +114,16 @@ migrated.
 | Any Virtual Console release | | Re-releases by definition. |
 | *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on another home platform still disqualifies. |
 
-## Appendix — the tails
+## Appendix: the tails
 
 - **Casual and licensed shovelware (~900 titles).** The Wii's install base produced
  the largest low-budget tail of any home console: minigame compilations, fitness
  titles, film tie-ins, *Imagine*-style franchises and party games. Almost all
- permanently stranded, and almost none worth collecting — but they are the bulk of
+ permanently stranded, and almost none worth collecting, but they are the bulk of
  the library by count.
 - **WiiWare (~350 titles).** The Wii Shop closed 30 Jan 2019 and nothing was
- migrated. WiiWare originals that never escaped — including Nintendo's own
- *Art Style* series and `Excitebike: World Rally` — are unavailable by any legal
+ migrated. WiiWare originals that never escaped; including Nintendo's own
+ *Art Style* series and `Excitebike: World Rally`, are unavailable by any legal
  means. The same shape as DSiWare, and equally lost.
 - **Peripheral-dependent titles.** Beyond the entries above, a long list of games
  require the Balance Board, Wii Zapper, MotionPlus, Wii Speak microphone, or the
@@ -142,8 +142,8 @@ migrated.
 
 Checked 2026-07-29.
 
-- [List of Wii games — Wikipedia](https://en.wikipedia.org/wiki/List_of_Wii_games)
-- [List of WiiWare games — Wikipedia](https://en.wikipedia.org/wiki/List_of_WiiWare_games)
-- [Wii Sports — Wikipedia](https://en.wikipedia.org/wiki/Wii_Sports) — sales figures
-- [Wii Shop Channel — Wikipedia](https://en.wikipedia.org/wiki/Wii_Shop_Channel) — 2019 closure
-- [Operation Rainfall — Wikipedia](https://en.wikipedia.org/wiki/Operation_Rainfall)
+- [List of Wii games (Wikipedia)](https://en.wikipedia.org/wiki/List_of_Wii_games)
+- [List of WiiWare games (Wikipedia)](https://en.wikipedia.org/wiki/List_of_WiiWare_games)
+- [Wii Sports (Wikipedia)](https://en.wikipedia.org/wiki/Wii_Sports), sales figures
+- [Wii Shop Channel (Wikipedia)](https://en.wikipedia.org/wiki/Wii_Shop_Channel), 2019 closure
+- [Operation Rainfall (Wikipedia)](https://en.wikipedia.org/wiki/Operation_Rainfall)

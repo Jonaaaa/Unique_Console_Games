@@ -1,4 +1,4 @@
-# Tiger Game.com — Unique Games Catalogue
+# Tiger Game.com
 
 | | |
 |---|---|
@@ -11,8 +11,8 @@
 
 ## ⚠ A touchscreen handheld in 1997
 
-The Game.com was the **first handheld console with a touchscreen** — operated with a
-stylus — and the first with internet connectivity, via a modem sleeve that could load
+The Game.com was the **first handheld console with a touchscreen**, operated with a
+stylus, and the first with internet connectivity, via a modem sleeve that could load
 text-only web pages. It arrived four years before the GBA and seven before the DS, from
 Tiger Electronics, a company otherwise known for single-game LCD toys.
 
@@ -25,8 +25,8 @@ conversions.
 | | Count |
 |---|---|
 | **Debut games** | **4** |
-| — still `Stranded` | 4 |
-| — since `Ported` | 0 |
+| of which still `Stranded` | 4 |
+| of which since `Ported` | 0 |
 | **Contested** | 0 |
 
 **Why the Game.com strands games.** Tiger was absorbed into Hasbro, which discontinued
@@ -41,9 +41,9 @@ no re-release would reproduce faithfully. `Ported` count of **zero**.
 | Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Notes |
 |---|---|---|---|---|---|---|---|---|---|
 | Lights Out | 1997 | Tiger Electronics | Tiger | Puzzle | 1 | No | **Stranded** | | A pack-in title adapted from Tiger's own handheld electronic toy, and one of the few Game.com games designed around the stylus rather than converted to it. |
-| Fighters Megamix | 1998 | Tiger Electronics | Tiger | Fighting | 1–2 | No | **Stranded** | | A Game.com-original interpretation rather than a conversion of the Saturn game of the same name — which is itself stranded, on [Saturn](saturn.md). |
-| Henry | 1998 | Tiger Electronics | Tiger | Puzzle | 1 | No | **Stranded** | | A stylus-drawn puzzle game built specifically for the touchscreen — the platform's clearest demonstration of why it existed, and unportable without one. |
-| Indy 500 | 1998 | Tiger Electronics | Tiger | Racing | 1 | No | **Stranded** | | Carries the Indianapolis 500 licence, which is still actively managed — a bar to reissue on top of everything else. |
+| Fighters Megamix | 1998 | Tiger Electronics | Tiger | Fighting | 1–2 | No | **Stranded** | | A Game.com-original interpretation rather than a conversion of the Saturn game of the same name; which is itself stranded, on [Saturn](saturn.md). |
+| Henry | 1998 | Tiger Electronics | Tiger | Puzzle | 1 | No | **Stranded** | | A stylus-drawn puzzle game built specifically for the touchscreen, the platform's clearest demonstration of why it existed, and unportable without one. |
+| Indy 500 | 1998 | Tiger Electronics | Tiger | Racing | 1 | No | **Stranded** | | Carries the Indianapolis 500 licence, which is still actively managed, a bar to reissue on top of everything else. |
 
 ## Excluded
 
@@ -65,5 +65,5 @@ no re-release would reproduce faithfully. `Ported` count of **zero**.
 
 Checked 2026-07-29.
 
-- [Tiger Game.com — Wikipedia](https://en.wikipedia.org/wiki/Tiger_Game.com)
-- [Tiger Electronics — Wikipedia](https://en.wikipedia.org/wiki/Tiger_Electronics)
+- [Tiger Game.com (Wikipedia)](https://en.wikipedia.org/wiki/Tiger_Game.com)
+- [Tiger Electronics (Wikipedia)](https://en.wikipedia.org/wiki/Tiger_Electronics)

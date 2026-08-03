@@ -1,4 +1,4 @@
-# Microsoft Xbox One — Unique Games Catalogue
+# Microsoft Xbox One
 
 | | |
 |---|---|
@@ -16,14 +16,14 @@ up front:
 
 **1. Day-one PC releases don't rescue anything.** From 2016 onward Microsoft shipped
 essentially all first-party software to Windows on release day. Under the PC rule
-those games stay `Stranded` — a PC build is not a second console. So `Sunset
+those games stay `Stranded`; a PC build is not a second console. So `Sunset
 Overdrive`, `Quantum Break`, `Gears of War 4` and `Killer Instinct` are all
 `Stranded` despite being trivially purchasable on Steam.
 
 **2. Microsoft started porting to PlayStation in 2024.** This is the one platform
 here whose owner reversed its exclusivity policy mid-retirement. `Sea of
 Thieves`, `Grounded`, `Pentiment` and others reached PS5 and Switch, which flips
-them to `Ported` — and more are still moving.
+them to `Ported`, and more are still moving.
 
 The combination means Xbox One's `Stranded` count is high, but less stable than any
 other retired platform's.
@@ -33,9 +33,9 @@ other retired platform's.
 | | Count |
 |---|---|
 | **Debut games** | **32** |
-| — still `Stranded` | 22 |
-| — since `Ported` | 7 |
-| — `Sim-ship` | 3 |
+| of which still `Stranded` | 22 |
+| of which since `Ported` | 7 |
+| of which `Sim-ship` | 3 |
 | **Contested** | 1 |
 
 **Why the Xbox One strands games.** Chiefly **because PC was the escape hatch**, and
@@ -44,7 +44,7 @@ PC does not count here. Beyond that:
 1. **Kinect, again.** `Kinect Sports Rivals` and `Fantasia: Music Evolved` need
  hardware discontinued in 2017.
 2. **Forza's licence clock.** As on 360, the Xbox One Forza games have been delisted
- as car and music licences expired — `Forza Horizon 2` and `3` are gone from sale.
+ as car and music licences expired; `Forza Horizon 2` and `3` are gone from sale.
 3. **`Halo 5: Guardians`** is the outlier: the only mainline Halo never released on
  PC and never included in *The Master Chief Collection*.
 
@@ -58,7 +58,7 @@ PC does not count here. Beyond that:
 | Forza Motorsport 5 | 2013 | Turn 10 | Microsoft | Racing | 1–16 | Dead | **Stranded** | | Launch title, since **delisted** as licences expired. |
 | Killer Instinct | 2013 | Double Helix / Iron Galaxy | Microsoft | Fighting | 1–2 | Yes | **Stranded** | | Launch title. The SNES and N64 *Killer Instinct* games are also stranded, each for a different reason. PC version exists. |
 | Ryse: Son of Rome | 2013 | Crytek | Microsoft | Action | 1–2 | Dead | **Stranded** | | Launch title. A PC version shipped in 2014; no other console. |
-| Fantasia: Music Evolved | 2014 | Harmonix | Disney | Rhythm | 1–2 | No | **Stranded** | | Kinect **plus** a Disney licence **plus** licensed music — three independent walls, the most over-locked entry on the platform. |
+| Fantasia: Music Evolved | 2014 | Harmonix | Disney | Rhythm | 1–2 | No | **Stranded** | | Kinect **plus** a Disney licence **plus** licensed music, three independent walls, the most over-locked entry on the platform. |
 | Forza Horizon 2 | 2014 | Playground Games | Microsoft | Racing | 1–12 | Dead | **Stranded** | | Delisted in 2018. |
 | Halo: The Master Chief Collection | 2014 | 343 Industries | Microsoft | Compilation | 1–24 | Yes | **Stranded** | | Its `Halo 2: Anniversary` remaster is exclusive to this package. A PC version exists (2019–20) but PC is not a catalogued platform, so there is no second console for it. |
 | Kinect Sports Rivals | 2014 | Rare | Microsoft | Sports | 1–2 | Dead | **Stranded** | | Rare's last Kinect game before *Sea of Thieves*. Needs hardware discontinued in 2017. |
@@ -73,7 +73,7 @@ PC does not count here. Beyond that:
 | ReCore | 2016 | Comcept / Armature | Microsoft | Action-adventure | 1 | No | **Stranded** | | Keiji Inafune's Microsoft-published project. PC version 2016. |
 | Cuphead | 2017 | Studio MDHR | Studio MDHR | Run and gun | 1–2 | No | Ported | Switch (2019), PS4 (2020), PC | |
 | Halo Wars 2 | 2017 | Creative Assembly | Microsoft | RTS | 1–6 | Yes | **Stranded** | | PC version day-one. |
-| Sea of Thieves | 2018 | Rare | Microsoft | Action-adventure | 1–24 | Yes | Ported | PS5 (2024), PC | **The first Microsoft first-party game released on a PlayStation console** — the moment the policy changed. |
+| Sea of Thieves | 2018 | Rare | Microsoft | Action-adventure | 1–24 | Yes | Ported | PS5 (2024), PC | **The first Microsoft first-party game released on a PlayStation console**: the moment the policy changed. |
 | State of Decay 2 | 2018 | Undead Labs | Microsoft | Survival | 1–4 | Yes | **Stranded** | | PC version day-one. |
 | Crackdown 3 | 2019 | Sumo Digital | Microsoft | Open-world action | 1–2 | Dead | **Stranded** | | Announced in 2014, delayed repeatedly; its cloud-destruction multiplayer servers are gone. The whole Crackdown series is stranded. |
 | Gears 5 | 2019 | The Coalition | Microsoft | Third-person shooter | 1–10 | Yes | **Stranded** | | PC version day-one. |
@@ -91,7 +91,7 @@ PC does not count here. Beyond that:
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| Halo 5: Guardians | 2015 | **Include** (`Stranded`) | Never on PC, never in *MCC*, never on another console — unambiguously stranded, and so for a flagship first-party game. | Its multiplayer is still live and it is playable via BC on Series X\|S, so a buyer might not experience it as stranded at all. Status here tracks re-release, not availability. |
+| Halo 5: Guardians | 2015 | **Include** (`Stranded`) | Never on PC, never in *MCC*, never on another console, unambiguously stranded, and so for a flagship first-party game. | Its multiplayer is still live and it is playable via BC on Series X\|S, so a buyer might not experience it as stranded at all. Status here tracks re-release, not availability. |
 
 ## Excluded
 
@@ -101,11 +101,11 @@ PC does not count here. Beyond that:
 | Phantom Dust HD, Voodoo Vince Remastered | 2017 | Remasters of original Xbox games. |
 | Age of Empires: Definitive Edition line | 2018–21 | Remasters of PC originals. |
 | Hellblade: Senua's Sacrifice | 2018 | PS4 and PC original (2017). |
-| Microsoft Flight Simulator | 2021 | PC original (2020) — the console version followed a year later. |
+| Microsoft Flight Simulator | 2021 | PC original (2020), the console version followed a year later. |
 | Any Xbox / 360 BC titles | | Backward compatibility, not a re-release. |
-| *(games with a later or day-one PC port)* | | **Not `Ported`.** PC is not a catalogued platform — the game stays `Stranded` with the PC release noted. |
+| *(games with a later or day-one PC port)* | | **Not `Ported`.** PC is not a catalogued platform; the game stays `Stranded` with the PC release noted. |
 
-## Appendix — the tails
+## Appendix: the tails
 
 - **Multiplatform third-party releases.** The overwhelming majority of the Xbox One
  library shipped on PS4 the same day, so it does not qualify as an Xbox debut at all.
@@ -128,8 +128,8 @@ PC does not count here. Beyond that:
 
 Checked 2026-07-29.
 
-- [List of Xbox One games — Wikipedia](https://en.wikipedia.org/wiki/Lists_of_Xbox_One_games)
-- [Halo 5: Guardians — Wikipedia](https://en.wikipedia.org/wiki/Halo_5:_Guardians)
-- [Sea of Thieves — Wikipedia](https://en.wikipedia.org/wiki/Sea_of_Thieves) — PS5 release
-- [Forza Horizon 3 — Wikipedia](https://en.wikipedia.org/wiki/Forza_Horizon_3) — delisting
-- [Bleeding Edge — Wikipedia](https://en.wikipedia.org/wiki/Bleeding_Edge_(video_game))
+- [List of Xbox One games (Wikipedia)](https://en.wikipedia.org/wiki/Lists_of_Xbox_One_games)
+- [Halo 5: Guardians (Wikipedia)](https://en.wikipedia.org/wiki/Halo_5:_Guardians)
+- [Sea of Thieves (Wikipedia)](https://en.wikipedia.org/wiki/Sea_of_Thieves), PS5 release
+- [Forza Horizon 3 (Wikipedia)](https://en.wikipedia.org/wiki/Forza_Horizon_3), delisting
+- [Bleeding Edge (Wikipedia)](https://en.wikipedia.org/wiki/Bleeding_Edge_(video_game))

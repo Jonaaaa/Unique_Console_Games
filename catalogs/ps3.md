@@ -1,4 +1,4 @@
-# Sony PlayStation 3 — Unique Games Catalogue
+# Sony PlayStation 3
 
 | | |
 |---|---|
@@ -15,23 +15,23 @@
 | | Count |
 |---|---|
 | **Debut games** | **60** |
-| — still `Stranded` | 31 |
-| — since `Ported` | 19 |
-| — `Sim-ship` | 10 |
+| of which still `Stranded` | 31 |
+| of which since `Ported` | 19 |
+| of which `Sim-ship` | 10 |
 | **Contested** | 2 |
 
 **Why the PS3 strands games.** On the PS3 the dominant cause becomes **the games were services**. This generation normalised online
 infrastructure, downloadable content and licensed-music integration, and all three
 decay:
 
-1. **Dead servers.** `Warhawk` and `Starhawk` were online-only — with the servers
+1. **Dead servers.** `Warhawk` and `Starhawk` were online-only, with the servers
  gone, the discs do not function as games at all. `LittleBigPlanet`'s servers
  closed permanently in 2021, taking millions of user-created levels with them.
 2. **Delisting rather than closure.** Sony reversed the 2021 store shutdown, but
  individual titles have been pulled as music and film licences lapsed. A game can
  be unavailable while the storefront is still open.
 3. **Sony's own studio closures.** Evolution Studios, Zipper, Studio Liverpool,
- Japan Studio and Sony London were all shut down, orphaning their catalogues —
+ Japan Studio and Sony London were all shut down, orphaning their catalogues,
  the same pattern as the Vita, one generation earlier.
 
 The **Cell processor** adds a technical barrier on top: PS3 architecture is famously
@@ -50,23 +50,23 @@ not "someone emulated it".
 | flOw | 2007 | Thatgamecompany | Sony | Ambient | 1–2 | No | Ported | PS4, Vita, PC, iOS | |
 | Folklore | 2007 | Game Republic | Sony | Action RPG | 1 | No | **Stranded** | | Game Republic closed in 2011. |
 | Heavenly Sword | 2007 | Ninja Theory | Sony | Action | 1 | No | **Stranded** | | Sony declined a sequel; the studio became Ninja Theory and moved to Microsoft. |
-| Lair | 2007 | Factor 5 | Sony | Action | 1 | No | **Stranded** | | Motion-controlled dragon flight via Sixaxis tilt. Factor 5 collapsed in 2009 — the same studio as the stranded `Rogue Squadron` games. |
+| Lair | 2007 | Factor 5 | Sony | Action | 1 | No | **Stranded** | | Motion-controlled dragon flight via Sixaxis tilt. Factor 5 collapsed in 2009, the same studio as the stranded `Rogue Squadron` games. |
 | Ratchet & Clank Future: Tools of Destruction | 2007 | Insomniac | Sony | Platformer | 1 | No | **Stranded** | | The PS3 "Future" trilogy is the only part of the Ratchet series never collected or remastered. |
 | Uncharted: Drake's Fortune | 2007 | Naughty Dog | Sony | Action-adventure | 1 | No | Ported | PS4 (2015, *The Nathan Drake Collection*) | |
-| Warhawk | 2007 | Incognito | Sony | Vehicular shooter | 1–32 | **Dead (2019)** | **Stranded** | | **Online-only.** With the servers gone the disc has no single-player content — it is not merely stranded, it is non-functional. |
+| Warhawk | 2007 | Incognito | Sony | Vehicular shooter | 1–32 | **Dead (2019)** | **Stranded** | | **Online-only.** With the servers gone the disc has no single-player content; it is not merely stranded, it is non-functional. |
 | Echochrome | 2008 | Japan Studio | Sony | Puzzle | 1 | No | Sim-ship | PSP (2008, same day) | Also catalogued under [PSP](psp.md). An Escher-inspired perspective puzzler. |
 | LittleBigPlanet | 2008 | Media Molecule | Sony | Platformer / creation | 1–4 | **Dead (2021)** | **Stranded** | | Its entire point was community level sharing. Sony took the servers down permanently in 2021 after sustained abuse, deleting roughly 10 million user levels. The game that remains is a fraction of what shipped. |
-| Metal Gear Solid 4: Guns of the Patriots | 2008 | Kojima Productions | Konami | Stealth action | 1–16 | Dead | **Stranded** | | ⚠ [Contested](#contested) — announced for *Master Collection Vol. 2*, but its Cell-specific engine has made it the hardest Metal Gear game to move. |
+| Metal Gear Solid 4: Guns of the Patriots | 2008 | Kojima Productions | Konami | Stealth action | 1–16 | Dead | **Stranded** | | ⚠ [Contested](#contested), announced for *Master Collection Vol. 2*, but its Cell-specific engine has made it the hardest Metal Gear game to move. |
 | Siren: Blood Curse | 2008 | SCE Japan Studio | Sony | Survival horror | 1 | No | **Stranded** | | Episodic PSN release; Japan Studio was dissolved in 2021. |
 | Uncharted 2 multiplayer, PlayStation Home | 2008–15 | Sony | Sony | Service | | Dead (2015) | **Stranded** | | `PlayStation Home` was a persistent social space with purchasable content. Closed Mar 2015; everything bought inside it is gone. Included because users paid for software they can no longer access. |
 | Valkyria Chronicles | 2008 | Sega | Sega | Tactical RPG | 1 | No | Ported | PC (2014), PS4 (2016), Switch (2018) | |
 | White Knight Chronicles | 2008 | Level-5 | Sony | RPG | 1–6 | Dead (2015) | **Stranded** | | Its GeoNet online hub was central to the design and shut down in 2015, so the game cannot be experienced as shipped. |
 | Wipeout HD | 2008 | Studio Liverpool | Sony | Racing | 1–8 | Dead | Ported | PS4 (2017, *Omega Collection*) | Studio Liverpool was closed in 2012; the compilation preserved it. |
 | 3D Dot Game Heroes | 2009 | Silicon Studio | From Software / Atlus | Action-adventure | 1 | No | **Stranded** | | A voxel Zelda homage; its parody-adjacent design makes reissue awkward. |
-| Demon's Souls | 2009 | FromSoftware | Sony / Atlus | Action RPG | 1–4 | Dead (2018) | Ported | PS5 (2020 remake) | The remake is a rebuild by Bluepoint — the original PS3 version has never been re-released. |
+| Demon's Souls | 2009 | FromSoftware | Sony / Atlus | Action RPG | 1–4 | Dead (2018) | Ported | PS5 (2020 remake) | The remake is a rebuild by Bluepoint; the original PS3 version has never been re-released. |
 | Flower | 2009 | Thatgamecompany | Sony | Ambient | 1 | No | Ported | PS4, Vita, PC, iOS (2013–19) | |
 | God of War Collection | 2009 | Bluepoint Games | Sony | Compilation | 1 | No | Ported | Vita (2014) | |
-| inFamous | 2009 | Sucker Punch | Sony | Open-world action | 1 | No | **Stranded** | | Neither `inFamous` nor `inFamous 2` has ever been remastered — unusual for a Sony first-party series of this profile. |
+| inFamous | 2009 | Sucker Punch | Sony | Open-world action | 1 | No | **Stranded** | | Neither `inFamous` nor `inFamous 2` has ever been remastered, unusual for a Sony first-party series of this profile. |
 | Killzone 2 | 2009 | Guerrilla Games | Sony | FPS | 1–32 | Dead (2018) | **Stranded** | | Guerrilla moved to *Horizon* and the series was abandoned. |
 | Ratchet & Clank Future: A Crack in Time | 2009 | Insomniac | Sony | Platformer | 1 | No | **Stranded** | | The PS3 Future trilogy is the only part of the Ratchet series never collected or remastered. |
 | Uncharted 2: Among Thieves | 2009 | Naughty Dog | Sony | Action-adventure | 1–10 | Dead | Ported | PS4 (2015, *Nathan Drake Collection*) | |
@@ -74,7 +74,7 @@ not "someone emulated it".
 | God of War III | 2010 | SCE Santa Monica | Sony | Action | 1 | No | Ported | PS4 (2015, *Remastered*) | |
 | Gran Turismo 5 | 2010 | Polyphony Digital | Sony | Racing | 1–16 | **Dead (2014)** | **Stranded** | | 11.95M. Its online services were shut down four years after launch, and the manufacturer-licensing wall means no reissue is plausible. Its DLC is unobtainable. |
 | Heavy Rain | 2010 | Quantic Dream | Sony | Interactive drama | 1 | No | Ported | PS4 (2016), PC (2019) | |
-| MLB 10: The Show | 2010 | SCE San Diego | Sony | Sports | 1–4 | Dead | **Stranded** | | Representative of the entire `MLB The Show` PS3 line — MLB, MLBPA and individual player licences, all expired annually by design. |
+| MLB 10: The Show | 2010 | SCE San Diego | Sony | Sports | 1–4 | Dead | **Stranded** | | Representative of the entire `MLB The Show` PS3 line, MLB, MLBPA and individual player licences, all expired annually by design. |
 | NieR | 2010 | Cavia | Square Enix | Action RPG | 1 | No | Sim-ship | Xbox 360 (2010, same day) | Cavia dissolved; `NieR Replicant ver.1.22` (2021) is a remake, not a port of this build. |
 | Red Dead Redemption | 2010 | Rockstar San Diego | Rockstar | Open-world action | 1–16 | Dead | Sim-ship | Xbox 360 (2010, same day); Switch, PS4 (2023) | Also catalogued under [Xbox 360](xbox-360.md). |
 | Catherine | 2011 | Atlus | Atlus | Puzzle / adventure | 1–2 | Dead | Ported | PC, PS4, Switch, Vita (2019, *Full Body*) | |
@@ -93,7 +93,7 @@ not "someone emulated it".
 | The Unfinished Swan | 2012 | Giant Sparrow | Sony | Puzzle-adventure | 1 | No | Ported | PS4, Vita (2014), PC, iOS (2020) | |
 | Tokyo Jungle | 2012 | Crispy's / Japan Studio | Sony | Survival | 1–2 | No | **Stranded** | | Play as animals surviving a depopulated Tokyo. Japan Studio dissolved in 2021. |
 | Twisted Metal | 2012 | Eat Sleep Play | Sony | Vehicular combat | 1–16 | Dead (2019) | **Stranded** | | The series' last entry; David Jaffe's studio wound down afterwards. |
-| Wonderbook: Book of Spells | 2012 | SCE London | Sony | Augmented reality | 1 | No | **Stranded** | | **Unreproducible without three discontinued items.** Requires the PlayStation Move controller, the PlayStation Eye camera, *and* a physical printed book the camera reads — plus a J.K. Rowling writing credit. Sony London closed in 2019. |
+| Wonderbook: Book of Spells | 2012 | SCE London | Sony | Augmented reality | 1 | No | **Stranded** | | **Unreproducible without three discontinued items.** Requires the PlayStation Move controller, the PlayStation Eye camera, *and* a physical printed book the camera reads, plus a J.K. Rowling writing credit. Sony London closed in 2019. |
 | Yakuza 5 | 2012 | Sega | Sega | Action-adventure | 1 | No | Ported | PS4 (2015), PC, Xbox (2021, *Remastered*) | |
 | Beyond: Two Souls | 2013 | Quantic Dream | Sony | Interactive drama | 1–2 | No | Ported | PS4 (2015), PC (2019) | |
 | Dragon's Crown | 2013 | Vanillaware | Atlus | Beat 'em up / RPG | 1–4 | Dead | Sim-ship | PS Vita (2013, same day), PS4 (2018, *Pro*) | Also catalogued under [PS Vita](ps-vita.md). |
@@ -110,8 +110,8 @@ not "someone emulated it".
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| Metal Gear Solid 4 | 2008 | **Include** (`Stranded`) | It has not shipped on any other platform. Its Cell-specific engine is the reason — the same technical wall that kept Sony from re-releasing the generation. | It was announced as part of *Master Collection Vol. 2*. If that has shipped in a region I have not verified, this should read `Ported`. Flagged rather than guessed. |
-| PlayStation Home | 2008 | **Include** (`Stranded`) | Users purchased software and content inside it, and all of it is permanently inaccessible — the strongest possible case of stranding. | It is a service and a social space rather than a game, which is normally excluded (`Wii Karaoke U`, `Wii U Panorama View`). Included because paid content was lost; the call is arguable. |
+| Metal Gear Solid 4 | 2008 | **Include** (`Stranded`) | It has not shipped on any other platform. Its Cell-specific engine is the reason, the same technical wall that kept Sony from re-releasing the generation. | It was announced as part of *Master Collection Vol. 2*. If that has shipped in a region I have not verified, this should read `Ported`. Flagged rather than guessed. |
+| PlayStation Home | 2008 | **Include** (`Stranded`) | Users purchased software and content inside it, and all of it is permanently inaccessible, the strongest possible case of stranding. | It is a service and a social space rather than a game, which is normally excluded (`Wii Karaoke U`, `Wii U Panorama View`). Included because paid content was lost; the call is arguable. |
 
 ## Excluded
 
@@ -125,14 +125,14 @@ not "someone emulated it".
 | Any PS2 Classics / PS Plus release | | Re-releases by definition. |
 | *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on another home platform still disqualifies. |
 
-## Appendix — the tails
+## Appendix: the tails
 
 - **Sports annuals (~250 titles).** `MLB The Show`, Madden, FIFA, NBA 2K, NHL, plus
  the PS3 `SingStar` line. Every one carries league, athlete and music licences that
  expired on a yearly cycle. The most stranded block here.
 - **Music-game peripherals.** `Guitar Hero`, `Rock Band`, `DJ Hero` and `SingStar`
  need both plastic instruments and licensed tracklists. Their downloadable song
- catalogues have been progressively delisted — content buyers paid for and lost.
+ catalogues have been progressively delisted, content buyers paid for and lost.
 - **PSN-only downloads (~700 titles).** Many small PS3 digital releases have been
  individually delisted even though the store stayed open.
 - **Move and PlayStation Eye titles.** Beyond `Wonderbook`, a range of games need
@@ -144,16 +144,16 @@ not "someone emulated it".
 - Individual PSN delistings are not tracked title by title; the store remaining open
  does not mean a given game is still purchasable.
 - `Metal Gear Solid 4`'s status needs re-verification against *Master Collection
- Vol. 2* — see [Contested](#contested).
+ Vol. 2*, see [Contested](#contested).
 
 ## Sources
 
 Checked 2026-07-29.
 
-- [List of PlayStation 3 games — Wikipedia](https://en.wikipedia.org/wiki/Lists_of_PlayStation_3_games)
-- [LittleBigPlanet — Wikipedia](https://en.wikipedia.org/wiki/LittleBigPlanet) — 2021 server shutdown
-- [Warhawk (2007 video game) — Wikipedia](https://en.wikipedia.org/wiki/Warhawk_(2007_video_game))
-- [Puppeteer — Wikipedia](https://en.wikipedia.org/wiki/Puppeteer_(video_game))
-- [Wonderbook: Book of Spells — Wikipedia](https://en.wikipedia.org/wiki/Wonderbook:_Book_of_Spells)
-- [PlayStation Home — Wikipedia](https://en.wikipedia.org/wiki/PlayStation_Home) — 2015 closure
-- [Gran Turismo 5 — Wikipedia](https://en.wikipedia.org/wiki/Gran_Turismo_5)
+- [List of PlayStation 3 games (Wikipedia)](https://en.wikipedia.org/wiki/Lists_of_PlayStation_3_games)
+- [LittleBigPlanet (Wikipedia)](https://en.wikipedia.org/wiki/LittleBigPlanet), 2021 server shutdown
+- [Warhawk (2007 video game) (Wikipedia)](https://en.wikipedia.org/wiki/Warhawk_(2007_video_game))
+- [Puppeteer (Wikipedia)](https://en.wikipedia.org/wiki/Puppeteer_(video_game))
+- [Wonderbook: Book of Spells (Wikipedia)](https://en.wikipedia.org/wiki/Wonderbook:_Book_of_Spells)
+- [PlayStation Home (Wikipedia)](https://en.wikipedia.org/wiki/PlayStation_Home), 2015 closure
+- [Gran Turismo 5 (Wikipedia)](https://en.wikipedia.org/wiki/Gran_Turismo_5)

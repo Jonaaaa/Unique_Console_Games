@@ -1,4 +1,4 @@
-# Watara Supervision — Unique Games Catalogue
+# Watara Supervision
 
 | | |
 |---|---|
@@ -25,8 +25,8 @@ was a hardware manufacturer rather than a games company, and Watara left the mar
 | | Count |
 |---|---|
 | **Debut games** | **4** |
-| — still `Stranded` | 4 |
-| — since `Ported` | 0 |
+| of which still `Stranded` | 4 |
+| of which since `Ported` | 0 |
 | **Contested** | 1 |
 
 **Why the Supervision strands games.** There is no rights holder to ask. Watara was a
@@ -41,7 +41,7 @@ even if someone wanted to. `Ported` count of **zero**.
 | Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Notes |
 |---|---|---|---|---|---|---|---|---|---|
 | Crystball | 1992 | Watara | Watara | Puzzle | 1 | No | **Stranded** | | A pack-in title. Watara commissioned its launch software without crediting developers, so there is no identifiable author or rights holder. |
-| Journey to the West | 1992 | Watara | Watara | Action-platformer | 1 | No | **Stranded** | | Based on the classical Chinese novel — public domain, so the licence is not the barrier; the total absence of a rights holder is. |
+| Journey to the West | 1992 | Watara | Watara | Action-platformer | 1 | No | **Stranded** | | Based on the classical Chinese novel, public domain, so the licence is not the barrier; the total absence of a rights holder is. |
 | Tennis Pro 92 | 1992 | Watara | Watara | Sports | 1–2 | No | **Stranded** | | Supported link-cable two-player, unusual for a budget handheld of the era. |
 | Chimera | 1993 | Watara | Watara | Shoot 'em up | 1 | No | **Stranded** | | One of the platform's better-regarded originals. |
 
@@ -49,7 +49,7 @@ even if someone wanted to. `Ported` count of **zero**.
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| The Supervision library generally | 1992–96 | **Include the originals only** | The platform sold commercially worldwide with ~70 retail cartridges, several of which are original games. | A large share of the library is unlicensed clone material — Tetris, Pac-Man and Game Boy derivatives under other names. Those are excluded, but the boundary is fuzzy and documentation is too thin to draw it confidently in every case. |
+| The Supervision library generally | 1992–96 | **Include the originals only** | The platform sold commercially worldwide with ~70 retail cartridges, several of which are original games. | A large share of the library is unlicensed clone material, Tetris, Pac-Man and Game Boy derivatives under other names. Those are excluded, but the boundary is fuzzy and documentation is too thin to draw it confidently in every case. |
 
 ## Excluded
 
@@ -69,4 +69,4 @@ even if someone wanted to. `Ported` count of **zero**.
 
 Checked 2026-07-29.
 
-- [Watara Supervision — Wikipedia](https://en.wikipedia.org/wiki/Watara_Supervision)
+- [Watara Supervision (Wikipedia)](https://en.wikipedia.org/wiki/Watara_Supervision)

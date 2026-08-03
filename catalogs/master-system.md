@@ -1,4 +1,4 @@
-# Sega Master System — Unique Games Catalogue
+# Sega Master System
 
 | | |
 |---|---|
@@ -14,18 +14,18 @@
 | | Count |
 |---|---|
 | **Debut games** | **30** |
-| — still `Stranded` | 22 |
-| — since `Ported` | 8 |
+| of which still `Stranded` | 22 |
+| of which since `Ported` | 8 |
 | **Contested** | 1 |
 
 **Why the Master System strands games.** Two causes.
 
 1. **Sega's own re-release strategy skipped it.** Sega has repackaged the Genesis
- endlessly — *Genesis Classics*, the Mega Drive Mini, Switch Online — while the
+ endlessly (*Genesis Classics*, the Mega Drive Mini, Switch Online) while the
  Master System got a much thinner selection. Its library is dominated by 8-bit
  versions of games whose 16-bit counterparts are the ones Sega reissues.
 2. **Brazil.** Tectoy licensed the hardware and kept manufacturing it for decades,
- producing **Brazil-only games** — including licensed conversions rebuilt around
+ producing **Brazil-only games**, including licensed conversions rebuilt around
  local properties. These were never sold outside Brazil, never re-released, and
  several exist only as Portuguese-language cartridges.
 
@@ -50,14 +50,14 @@
 | Asterix | 1991 | Sega | Sega | Platformer | 1–2 | No | **Stranded** | | Licence held by Les Éditions Albert René; Europe-only. |
 | Golden Axe Warrior | 1991 | Sega | Sega | Action RPG | 1 | No | **Stranded** | | A full Zelda-style RPG using Golden Axe's setting. Omitted from every Golden Axe collection because it is nothing like the beat 'em ups. |
 | Mônica no Castelo do Dragão | 1991 | Tectoy | Tectoy | Platformer | 1 | No | **Stranded** | | **Brazil-only.** *Wonder Boy in Monster Land* rebuilt around the Brazilian comic *Turma da Mônica*. |
-| Sonic the Hedgehog | 1991 | Ancient | Sega | Platformer | 1 | No | Ported | Sega collections, Game Gear | ⚠ [Contested](#contested) — a **completely different game** from the Genesis original, built by Yuzo Koshiro's studio. |
+| Sonic the Hedgehog | 1991 | Ancient | Sega | Platformer | 1 | No | Ported | Sega collections, Game Gear | ⚠ [Contested](#contested), a **completely different game** from the Genesis original, built by Yuzo Koshiro's studio. |
 | Land of Illusion Starring Mickey Mouse | 1992 | Sega | Sega | Platformer | 1 | No | **Stranded** | | Disney licence. The 8-bit *Illusion* games are separate designs from the Genesis ones. |
 | Master of Darkness | 1992 | SIMS | Sega | Action-platformer | 1 | No | **Stranded** | | A Castlevania-alike Sega made because it could not license Castlevania. Never reissued. |
 | Ecco the Dolphin | 1993 | Novotrade | Sega | Action-adventure | 1 | No | Ported | Sega collections | The 8-bit version is a distinct build. |
 | Micro Machines | 1993 | Codemasters | Codemasters | Racing | 1–2 | No | **Stranded** | | The Micro Machines toy licence has changed hands repeatedly. |
 | Power Strike II | 1993 | Compile | Sega | Shoot 'em up | 1 | No | **Stranded** | | PAL-only. Compile's follow-up to *Aleste*; original carts are extremely scarce. |
 | Sonic Chaos | 1993 | Aspect | Sega | Platformer | 1 | No | Ported | Sega collections | |
-| Streets of Rage II | 1993 | Sega / Ancient | Sega | Beat 'em up | 1 | No | **Stranded** | | The 8-bit build is a separate, heavily reworked game — and unlike the Genesis version, it has never been reissued. |
+| Streets of Rage II | 1993 | Sega / Ancient | Sega | Beat 'em up | 1 | No | **Stranded** | | The 8-bit build is a separate, heavily reworked game, and unlike the Genesis version, it has never been reissued. |
 | The Ottifants | 1993 | Graftgold | Sega | Platformer | 1 | No | **Stranded** | | Licensed from a German cartoon; Europe-only. |
 | Turma da Mônica em: O Resgate | 1993 | Tectoy | Tectoy | Platformer | 1 | No | **Stranded** | | **Brazil-only.** A reskin of *Wonder Boy III*. |
 | Sonic the Hedgehog: Triple Trouble | 1994 | Aspect | Sega | Platformer | 1 | No | Ported | Sega collections (as a Game Gear title) | |
@@ -70,7 +70,7 @@
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| Sonic the Hedgehog (8-bit) | 1991 | **Include** | An entirely separate game — different levels, engine, physics and developer (Ancient, not Sonic Team) — that happens to share a title with the Genesis game. | It shipped as "the Master System version of Sonic", and the Game Gear release followed within weeks, which reads as a sim-ship of one product. |
+| Sonic the Hedgehog (8-bit) | 1991 | **Include** | An entirely separate game (different levels, engine, physics and developer (Ancient, not Sonic Team)) that happens to share a title with the Genesis game. | It shipped as "the Master System version of Sonic", and the Game Gear release followed within weeks, which reads as a sim-ship of one product. |
 
 ## Excluded
 
@@ -83,12 +83,12 @@
 | Any Sega Ages / Genesis Classics / Mini release | | Re-releases by definition. |
 | *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts as the debut. A prior release on another home platform still disqualifies. |
 
-## Appendix — the tails
+## Appendix: the tails
 
 - **Tectoy Brazil (~100 titles).** Sega licensed the Master System to Tectoy, which
  kept producing hardware and software for decades. Its output includes original
  games and licensed reskins built for Brazilian properties. **This is the most
- reliably stranded block on the platform** — never distributed internationally,
+ reliably stranded block on the platform**, never distributed internationally,
  never digitised, and often Portuguese-only.
 - **Japanese Mark III / SG-1000 tail (~80 titles).** Largely arcade conversions and
  early Sega originals.
@@ -105,7 +105,7 @@
 
 Checked 2026-07-29.
 
-- [List of Master System games — Wikipedia](https://en.wikipedia.org/wiki/List_of_Master_System_games)
-- [Tectoy — Wikipedia](https://en.wikipedia.org/wiki/Tectoy)
-- [Sonic the Hedgehog (8-bit video game) — Wikipedia](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_(8-bit_video_game))
-- [Golden Axe Warrior — Wikipedia](https://en.wikipedia.org/wiki/Golden_Axe_Warrior)
+- [List of Master System games (Wikipedia)](https://en.wikipedia.org/wiki/List_of_Master_System_games)
+- [Tectoy (Wikipedia)](https://en.wikipedia.org/wiki/Tectoy)
+- [Sonic the Hedgehog (8-bit video game) (Wikipedia)](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_(8-bit_video_game))
+- [Golden Axe Warrior (Wikipedia)](https://en.wikipedia.org/wiki/Golden_Axe_Warrior)

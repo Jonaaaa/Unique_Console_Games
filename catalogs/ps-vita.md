@@ -1,26 +1,26 @@
-# PlayStation Vita — Unique Games Catalogue
+# PlayStation Vita
 
 | | |
 |---|---|
 | **Platform** | Sony PlayStation Vita (PCH-1000 / PCH-2000) |
 | **Lifespan** | Dec 2011 (JP) – Mar 2019 (production ended); ~16M units sold |
 | **Store status** | **Open.** Sony announced closure in Mar 2021 and reversed the decision six weeks later. |
-| **Backward compat** | Plays PSP, PS1 and PS Minis digitally; PlayStation TV plays most Vita games. Neither counts as another platform — see the [BC rule](../RULES.md#backward-compatibility-is-not-another-platform). |
+| **Backward compat** | Plays PSP, PS1 and PS Minis digitally; PlayStation TV plays most Vita games. Neither counts as another platform, see the [BC rule](../RULES.md#backward-compatibility-is-not-another-platform). |
 | **Category spine** | 79 titles tagged `Category:PlayStation Vita-only games` on Wikipedia (fetched 2026-07-29) |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | Western and notable Japanese releases verified individually. Japanese visual-novel and licensed-anime tie-ins are listed in the [Appendix](#appendix--the-japanese-tie-in-tail) but not individually verified. |
+| **Coverage** | Western and notable Japanese releases verified individually. Japanese visual-novel and licensed-anime tie-ins are listed in the [Appendix](#appendix-the-japanese-tie-in-tail) but not individually verified. |
 
 ## Summary
 
 | | Count |
 |---|---|
 | **Debut games** | **59** |
-| — still `Stranded` | 37 |
-| — since `Ported` | 14 |
-| — `Sim-ship` | 8 |
+| of which still `Stranded` | 37 |
+| of which since `Ported` | 14 |
+| of which `Sim-ship` | 8 |
 | **Contested** | 1 |
 
-**Why the Vita strands games.** The Wii U stranded games through hardware — the
+**Why the Vita strands games.** The Wii U stranded games through hardware, the
 GamePad could not be emulated on a single screen. The Vita's causes are commercial
 and legal instead. Sony's own first-party Vita studios were shut down (Bend moved
 to *Days Gone*, Zipper Interactive closed in 2012, Guerrilla Cambridge in 2017),
@@ -30,7 +30,7 @@ analog sticks port fine; nobody was left who wanted to do it.
 The result is that the Vita's stranded entries skew toward **franchise entries nobody wants to
 revisit** (`Call of Duty: Black Ops: Declassified`), **games whose studio no longer
 exists** (`Unit 13`, `Uncharted: Golden Abyss`), and **one game blocked by
-litigation** (`TxK`). Where a Vita game had commercial value, it usually escaped —
+litigation** (`TxK`). Where a Vita game had commercial value, it usually escaped:
 `Gravity Rush`, `Freedom Wars`, `Wipeout 2048`, and `Persona 4 Golden` all did.
 
 ---
@@ -44,8 +44,8 @@ Every game that debuted on this platform and launched nowhere else. `Status` rec
 | Army Corps of Hell | 2011 | Entersphere | Square Enix | Action / strategy | 1–4 | Dead | Stranded | | Launch title. |
 | Little Deviants | 2011 | Bigbig Studios | SCE | Minigame collection | 1–2 | No | Stranded | | Launch title built to demo the rear touch pad. Bigbig was closed by Sony in 2012. |
 | Shinobido 2: Revenge of Zen | 2011 | Acquire | Namco Bandai | Stealth action | 1 | Dead | Stranded | | Launch title. Series ended here. |
-| Touch My Katamari | 2011 | Namco Bandai | Namco Bandai | Puzzle / action | 1 | No | Stranded | | Launch title. The only Katamari game not re-released — *Reroll* and *Damacy Rolling Live* both revive PS2-era entries instead. |
-| Uncharted: Golden Abyss | 2011 | Bend Studio | SCE | Action-adventure | 1 | No | Stranded | | Launch title and the Vita's showcase. Absent from *The Nathan Drake Collection*, which remastered only the three PS3 games — the most conspicuous omission in the catalogue. |
+| Touch My Katamari | 2011 | Namco Bandai | Namco Bandai | Puzzle / action | 1 | No | Stranded | | Launch title. The only Katamari game not re-released, *Reroll* and *Damacy Rolling Live* both revive PS2-era entries instead. |
+| Uncharted: Golden Abyss | 2011 | Bend Studio | SCE | Action-adventure | 1 | No | Stranded | | Launch title and the Vita's showcase. Absent from *The Nathan Drake Collection*, which remastered only the three PS3 games, the most conspicuous omission in the catalogue. |
 | Assassin's Creed III: Liberation | 2012 | Ubisoft Sofia | Ubisoft | Action-adventure | 1 | No | Ported | PS3, Xbox 360, PC (2014, *Liberation HD*), Switch (2019) | |
 | Call of Duty: Black Ops: Declassified | 2012 | Nihilistic Software | Activision | FPS | 1–8 | Dead | Stranded | | The only Call of Duty never re-released in any form. Nihilistic renamed itself and then closed. |
 | Chronovolt | 2012 | Playbox / Team Junkfish | Zen Studios | Puzzle | 1 | No | Stranded | | A launch-window puzzle game from a studio that has since focused entirely on pinball. |
@@ -78,12 +78,12 @@ Every game that debuted on this platform and launched nowhere else. `Status` rec
 | Killzone: Mercenary | 2013 | Guerrilla Cambridge | SCE | FPS | 1–8 | Dead (2018) | Stranded | | Widely rated the best-looking Vita game. Guerrilla Cambridge was closed in 2017; the Killzone series has been dormant since. |
 | Sly Cooper: Thieves in Time | 2013 | Sanzaru Games | Sony | Platformer | 1 | No | Sim-ship | PS3 (2013, same day) | Also catalogued under [PS3](ps3.md). Cross-buy; the series has been dormant since. |
 | Soul Sacrifice | 2013 | SCE Japan Studio / Marvelous | SCE | Action RPG | 1–4 | Dead | Stranded | | *Soul Sacrifice Delta* (2014) is a same-platform expanded re-release, so both remain Vita-only. |
-| Tearaway | 2013 | Media Molecule | SCE | Platformer | 1 | No | Ported | PS4 (2015, *Unfolded*) | ⚠ [Contested](#contested) — *Unfolded* rebuilds the game around a DualShock 4 because the original's controls were rear-pad-specific. |
+| Tearaway | 2013 | Media Molecule | SCE | Platformer | 1 | No | Ported | PS4 (2015, *Unfolded*) | ⚠ [Contested](#contested), *Unfolded* rebuilds the game around a DualShock 4 because the original's controls were rear-pad-specific. |
 | The Legend of Heroes: Trails of Cold Steel | 2013 | Nihon Falcom | Falcom / XSEED | JRPG | 1 | No | Sim-ship | PS3 (2013, same day), PC (2017), PS4 (2019), Switch (2022) | |
 | Toukiden: The Age of Demons | 2013 | Omega Force | Tecmo Koei | Hunting action | 1–4 | Dead | Ported | PS4 (2015, as *Toukiden Kiwami*) | |
-| Valhalla Knights 3 | 2013 | K2 | Marvelous | Action RPG | 1–4 | Dead | Stranded | | K2's series ended here, and the earlier entries were PSP-only — so the whole line is stranded across two dead handhelds. |
+| Valhalla Knights 3 | 2013 | K2 | Marvelous | Action RPG | 1–4 | Dead | Stranded | | K2's series ended here, and the earlier entries were PSP-only, so the whole line is stranded across two dead handhelds. |
 | Corpse Party: Blood Drive | 2014 | Team GrisGris / 5pb. | XSEED | Horror adventure | 1 | No | Ported | PC (2019), Switch (2019) | |
-| Destiny of Spirits | 2014 | Q Entertainment | SCE | Strategy RPG | 1 | **Dead (2015)** | Stranded | | Free-to-play and online-only. Servers closed 30 Mar 2015, ~13 months after launch. **Unplayable even on working hardware** — fully lost. |
+| Destiny of Spirits | 2014 | Q Entertainment | SCE | Strategy RPG | 1 | **Dead (2015)** | Stranded | | Free-to-play and online-only. Servers closed 30 Mar 2015, ~13 months after launch. **Unplayable even on working hardware**, fully lost. |
 | Ecolibrium | 2014 | SCE Studio Liverpool team | SCE | Ecosystem sim | 1 | Dead | Stranded | | Free-to-play. Sony's last Liverpool-adjacent project before the studio's closure. |
 | Freedom Wars | 2014 | SCE Japan Studio / Dimps / Shift | SCE | Action RPG | 1–8 | Dead | Ported | PS4, PS5, Switch, PC (2025, *Remastered*) | Was stranded until 10 Jan 2025. |
 | Murasaki Baby | 2014 | Ovosonico | SCE | Puzzle / horror | 1 | No | Stranded | | Controlled entirely by dragging a balloon string on the front screen and manipulating the world via the rear pad. |
@@ -91,7 +91,7 @@ Every game that debuted on this platform and launched nowhere else. `Status` rec
 | Phantasy Star Nova | 2014 | Tri-Ace | Sega | Action RPG | 1–4 | Dead | Stranded | | Japan-only. |
 | PlayStation Vita Pets | 2014 | Spiral House | SCE | Virtual pet | 1 | Dead | Stranded | | Uses the camera and microphone for interaction; Sony has never revisited the virtual-pet concept. |
 | Sword Art Online: Hollow Fragment | 2014 | Aquria | Bandai Namco | Action RPG | 1–2 | Dead | Ported | PS4 (2015), PC (2017) | |
-| TxK | 2014 | Llamasoft | Llamasoft | Tube shooter | 1 | No | Stranded | | **Stranded by litigation, not hardware.** PC, PS4 and Android versions were finished or planned when Atari claimed it infringed *Tempest 2000*. Jeff Minter was blocked from shipping them. The dispute later settled and the design was reworked into *Tempest 4000* (2018) — a different game under Atari's licence, so TxK itself remains Vita-only. |
+| TxK | 2014 | Llamasoft | Llamasoft | Tube shooter | 1 | No | Stranded | | **Stranded by litigation, not hardware.** PC, PS4 and Android versions were finished or planned when Atari claimed it infringed *Tempest 2000*. Jeff Minter was blocked from shipping them. The dispute later settled and the design was reworked into *Tempest 4000* (2018), a different game under Atari's licence, so TxK itself remains Vita-only. |
 | Digimon Story: Cyber Sleuth | 2015 | Media.Vision | Bandai Namco | JRPG | 1 | No | Ported | PS4 (2016), Switch, PC (2019) | Japanese Vita debut; the West got the PS4 version alongside. |
 | Looney Tunes Galactic Sports | 2015 | Virtual Toys | Sony | Sports | 1–4 | Dead | Stranded | | PAL-only; licensed. |
 | MonsterBag | 2015 | IguanaBee | Sony Santa Monica | Puzzle | 1 | No | Stranded | | A small IguanaBee puzzle game that Sony published and then left behind. |
@@ -103,7 +103,7 @@ Every game that debuted on this platform and launched nowhere else. `Status` rec
 
 ## Contested
 
-Under the debut rule most former disputes resolved themselves — a later port no
+Under the debut rule most former disputes resolved themselves, a later port no
 longer threatens membership, so the only question left is *"is this a debut or a
 port?"*.
 
@@ -127,9 +127,9 @@ to `Ported`; *Delta* is a same-platform re-release and never affected anything.
 | Minecraft: PlayStation Vita Edition | 2014 | Port of the 2011 PC game. |
 | Everybody's Golf / Hot Shots Golf: World Invitational | 2011 | Also on PS3 (2012). |
 | Any PSP, PS1 or PS Minis title played on Vita | | Backward compatibility, not a Vita release. |
-| *(same-day multiplatform launches)* | | **No longer excluded** — they now appear in the main table as `Sim-ship`. Only *later* ports are excluded. |
+| *(same-day multiplatform launches)* | | **No longer excluded**: they now appear in the main table as `Sim-ship`. Only *later* ports are excluded. |
 
-## Appendix — the Japanese tie-in tail
+## Appendix: the Japanese tie-in tail
 
 Roughly half the `Vita-only` category is Japanese visual novels, idol games and
 licensed anime tie-ins that never left Japan and never left the platform. These are
@@ -157,20 +157,20 @@ Do not treat category membership as a title list without filtering.
 ## Coverage gaps
 
 - The Japanese visual-novel and idol-game tail is characterised in the
- [Appendix](#appendix--the-japanese-tie-in-tail), not enumerated.
+ [Appendix](#appendix-the-japanese-tie-in-tail), not enumerated.
 - Wikipedia's `PlayStation Vita-only games` category contains ~20 non-game franchise
  articles; those were filtered out rather than imported.
 - The Vita store remains open after Sony reversed its 2021 closure, but individual
- titles have been delisted — availability is not tracked title by title.
+ titles have been delisted; availability is not tracked title by title.
 
 ## Sources
 
 Checked 2026-07-29.
 
-- [Category:PlayStation Vita-only games — Wikipedia](https://en.wikipedia.org/wiki/Category:PlayStation_Vita-only_games) — 79-entry spine
-- [TxK — Wikipedia](https://en.wikipedia.org/wiki/TxK)
-- [Jeff Minter accuses Atari of "bullying" over blocked TxK release — PC Gamer](https://www.pcgamer.com/jeff-minter-accuses-atari-of-bullying-over-blocked-txk-release/)
-- [Atari Lawyers Demand Vita Game TxK is Removed — GameSpot](https://www.gamespot.com/articles/atari-lawyers-demand-vita-game-txk-is-removed/1100-6426001/)
-- [TxK's PC port cancelled due to Atari copyright claim — PCGamesN](https://www.pcgamesn.com/txks-pc-port-has-been-cancelled-due-to-a-copyright-violation-claim-from-atari)
-- [Freedom Wars Remastered — Bandai Namco](https://www.bandainamcoent.com/news/freedom-wars-remastered-coming-to-pc-and-consoles-january-2025)
-- [Freedom Wars — Wikipedia](https://en.wikipedia.org/wiki/Freedom_Wars)
+- [Category:PlayStation Vita-only games (Wikipedia)](https://en.wikipedia.org/wiki/Category:PlayStation_Vita-only_games), 79-entry spine
+- [TxK (Wikipedia)](https://en.wikipedia.org/wiki/TxK)
+- [Jeff Minter accuses Atari of "bullying" over blocked TxK release (PC Gamer)](https://www.pcgamer.com/jeff-minter-accuses-atari-of-bullying-over-blocked-txk-release/)
+- [Atari Lawyers Demand Vita Game TxK is Removed (GameSpot)](https://www.gamespot.com/articles/atari-lawyers-demand-vita-game-txk-is-removed/1100-6426001/)
+- [TxK's PC port cancelled due to Atari copyright claim (PCGamesN)](https://www.pcgamesn.com/txks-pc-port-has-been-cancelled-due-to-a-copyright-violation-claim-from-atari)
+- [Freedom Wars Remastered (Bandai Namco)](https://www.bandainamcoent.com/news/freedom-wars-remastered-coming-to-pc-and-consoles-january-2025)
+- [Freedom Wars (Wikipedia)](https://en.wikipedia.org/wiki/Freedom_Wars)

@@ -1,4 +1,4 @@
-# SNK Neo Geo Pocket / Color — Unique Games Catalogue
+# SNK Neo Geo Pocket / Color
 
 | | |
 |---|---|
@@ -14,14 +14,14 @@
 | | Count |
 |---|---|
 | **Debut games** | **17** |
-| — still `Stranded` | 6 |
-| — since `Ported` | 11 |
+| of which still `Stranded` | 6 |
+| of which since `Ported` | 11 |
 | **Contested** | 0 |
 
 **Why the Neo Geo Pocket strands games.** Very little, and for a specific reason:
 **SNK's 2020–21 reissue programme was complete.** Roughly a dozen NGPC
 titles were released individually on Switch, plus the *Neo Geo Pocket Color
-Selection Vol. 1 and 2* compilations — an thorough rescue of a handheld
+Selection Vol. 1 and 2* compilations, an thorough rescue of a handheld
 that sold 2 million units and died in under three years.
 
 What remains stranded is stranded because SNK **does not own it alone**:
@@ -29,7 +29,7 @@ What remains stranded is stranded because SNK **does not own it alone**:
 1. **The Capcom crossovers.** `SNK vs. Capcom: Card Fighters' Clash` needs Capcom's
  roster rights. Its sibling `Match of the Millennium` was reissued because Capcom
  agreed; the card game was not.
-2. **`Sonic the Hedgehog Pocket Adventure`** needs Sega — an SNK-developed Sonic
+2. **`Sonic the Hedgehog Pocket Adventure`** needs Sega, an SNK-developed Sonic
  game is a licensing arrangement neither company has renewed.
 3. **Japan-only oddities** with no series behind them.
 
@@ -43,14 +43,14 @@ What remains stranded is stranded because SNK **does not own it alone**:
 | Baseball Stars Color | 1999 | SNK | SNK | Sports | 1–2 | No | **Stranded** | | Original teams rather than licensed ones, but no series demand behind it. |
 | Biomotor Unitron | 1999 | Yumekobo | SNK | RPG | 1–2 | No | Ported | Switch (2021, *NGPC Selection Vol. 2*) | A mech-customisation dungeon RPG. |
 | Dark Arms: Beast Buster 1999 | 1999 | SNK | SNK | Action RPG | 1 | No | Ported | Switch (2021, *NGPC Selection Vol. 2*) | |
-| Faselei! | 1999 | Sacnoth | SNK | Tactical RPG | 1 | No | Ported | Switch (2021, *NGPC Selection Vol. 2*) | From the `Shadow Hearts` team — whose console output remains stranded, making this the only accessible Sacnoth game of the era. |
+| Faselei! | 1999 | Sacnoth | SNK | Tactical RPG | 1 | No | Ported | Switch (2021, *NGPC Selection Vol. 2*) | From the `Shadow Hearts` team; whose console output remains stranded, making this the only accessible Sacnoth game of the era. |
 | Fatal Fury: First Contact | 1999 | SNK | SNK | Fighting | 1–2 | No | Ported | Switch (2020), *NGPC Selection Vol. 1* | |
 | Ganbare Neo Poke-kun | 1999 | SNK | SNK | Virtual pet | 1 | No | **Stranded** | | Japan-only. A Tamagotchi-style mascot toy tied to the hardware's own branding, with minigames; never localised or reissued. |
 | King of Fighters R-2 | 1999 | SNK | SNK | Fighting | 1–2 | No | Ported | Switch (2021, *NGPC Selection Vol. 2*) | |
-| Metal Slug: 1st Mission | 1999 | SNK | SNK | Run and gun | 1 | No | Ported | Switch (2020), *NGPC Selection Vol. 1* | Not a port of the arcade game — an original handheld entry with its own levels. |
+| Metal Slug: 1st Mission | 1999 | SNK | SNK | Run and gun | 1 | No | Ported | Switch (2020), *NGPC Selection Vol. 1* | Not a port of the arcade game, an original handheld entry with its own levels. |
 | Puzzle Link 2 | 1999 | Yumekobo | SNK | Puzzle | 1–2 | No | Ported | Switch (2021, *NGPC Selection Vol. 2*) | |
-| SNK vs. Capcom: Card Fighters' Clash | 1999 | SNK | SNK | Card battler | 1–2 | No | **Stranded** | | Two versions (SNK Cardfighter's and Capcom Cardfighter's) with different decks. Widely regarded as the platform's best game and **never reissued** — the Capcom character licence covers a full trading-card roster, which is a far larger clearance job than a fighting-game guest list. |
-| SNK vs. Capcom: The Match of the Millennium | 1999 | SNK | SNK | Fighting | 1–2 | No | Ported | Switch (2021), *NGPC Selection Vol. 1* | Its reissue required Capcom's cooperation, which was granted — unlike the card game below. |
+| SNK vs. Capcom: Card Fighters' Clash | 1999 | SNK | SNK | Card battler | 1–2 | No | **Stranded** | | Two versions (SNK Cardfighter's and Capcom Cardfighter's) with different decks. Widely regarded as the platform's best game and **never reissued**, the Capcom character licence covers a full trading-card roster, which is a far larger clearance job than a fighting-game guest list. |
+| SNK vs. Capcom: The Match of the Millennium | 1999 | SNK | SNK | Fighting | 1–2 | No | Ported | Switch (2021), *NGPC Selection Vol. 1* | Its reissue required Capcom's cooperation, which was granted, unlike the card game below. |
 | Sonic the Hedgehog Pocket Adventure | 1999 | Dimps | SNK | Platformer | 1 | No | **Stranded** | | An SNK-developed Sonic game built by the future Dimps team. Absent from *Sonic Origins*, *Sonic Gems* and SNK's own collections, because it needs both companies to agree. |
 | Big Bang Pro Wrestling | 2000 | Saurus | SNK | Wrestling | 1–2 | No | **Stranded** | | A late release into a dying platform, as SNK approached bankruptcy. |
 | Fantastic Night Dreams: Cotton | 2000 | Success | SNK | Shoot 'em up | 1 | No | Ported | Switch, PS4 (2021, *Cotton Guardian Force* era reissues) | The Cotton series was revived in 2021, which pulled the handheld entry along with it. |
@@ -61,12 +61,12 @@ What remains stranded is stranded because SNK **does not own it alone**:
 
 | Title | Year | Why excluded |
 |---|---|---|
-| Neo Geo Pocket Color versions of AES games | 1999–2000 | Where a title is a straight conversion of a Neo Geo cartridge game, the AES release is the debut — see [Neo Geo](neo-geo.md). |
+| Neo Geo Pocket Color versions of AES games | 1999–2000 | Where a title is a straight conversion of a Neo Geo cartridge game, the AES release is the debut, see [Neo Geo](neo-geo.md). |
 | Pac-Man, Puyo Pop, Bust-A-Move Pocket | 1999–2000 | Conversions of games that debuted on earlier home platforms. |
-| Any *NGPC Selection* / Switch reissue | 2020–21 | Re-releases by definition — they are what moved most of this library to `Ported`. |
+| Any *NGPC Selection* / Switch reissue | 2020–21 | Re-releases by definition; they are what moved most of this library to `Ported`. |
 | *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. |
 
-## Appendix — the tail
+## Appendix: the tail
 
 - **Japan-only releases (~30 titles).** Mahjong, pachinko, `Dive Alert` variants and
  licensed tie-ins. Mostly stranded, but low-value.
@@ -82,7 +82,7 @@ What remains stranded is stranded because SNK **does not own it alone**:
 
 Checked 2026-07-29.
 
-- [List of Neo Geo Pocket Color games — Wikipedia](https://en.wikipedia.org/wiki/List_of_Neo_Geo_Pocket_Color_games)
-- [Neo Geo Pocket Color — Wikipedia](https://en.wikipedia.org/wiki/Neo_Geo_Pocket_Color)
-- [SNK vs. Capcom: Card Fighters' Clash — Wikipedia](https://en.wikipedia.org/wiki/SNK_vs._Capcom:_Card_Fighters%27_Clash)
-- [Sonic the Hedgehog Pocket Adventure — Wikipedia](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_Pocket_Adventure)
+- [List of Neo Geo Pocket Color games (Wikipedia)](https://en.wikipedia.org/wiki/List_of_Neo_Geo_Pocket_Color_games)
+- [Neo Geo Pocket Color (Wikipedia)](https://en.wikipedia.org/wiki/Neo_Geo_Pocket_Color)
+- [SNK vs. Capcom: Card Fighters' Clash (Wikipedia)](https://en.wikipedia.org/wiki/SNK_vs._Capcom:_Card_Fighters%27_Clash)
+- [Sonic the Hedgehog Pocket Adventure (Wikipedia)](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_Pocket_Adventure)

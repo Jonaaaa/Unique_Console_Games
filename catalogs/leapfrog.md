@@ -1,4 +1,4 @@
-# LeapFrog Leapster / Didj / LeapTV — Unique Games Catalogue
+# LeapFrog Leapster / Didj / LeapTV
 
 | | |
 |---|---|
@@ -7,7 +7,7 @@
 | **Library size** | ~70 Leapster titles, ~30 Didj, ~30 LeapTV |
 | **Backward compat** | Later Leapster models play earlier cartridges. BC, **not** another platform. |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | Representative titles across the line. **Multiple platforms in one file** — see the note. |
+| **Coverage** | Representative titles across the line. **Multiple platforms in one file**, see the note. |
 
 ## ⚠ Why the LeapFrog line shares one file
 
@@ -21,7 +21,7 @@ They are included on the same basis as the [Sega Pico](sega-pico.md) and
 software catalogue. The `Notes` column identifies which system each title belongs to.
 
 **Didj is the interesting one.** LeapFrog marketed it as a *games* handheld rather than a
-toy, with real platformers built on licensed properties — the closest this category comes
+toy, with real platformers built on licensed properties; the closest this category comes
 to a conventional console.
 
 ## Summary
@@ -29,8 +29,8 @@ to a conventional console.
 | | Count |
 |---|---|
 | **Debut games** | **6** |
-| — still `Stranded` | 6 |
-| — since `Ported` | 0 |
+| of which still `Stranded` | 6 |
+| of which since `Ported` | 0 |
 | **Contested** | 1 |
 
 **Why LeapFrog strands games.** Licensed children's properties on discontinued
@@ -44,18 +44,18 @@ since aged out. `Ported` count of **zero**.
 
 | Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Notes |
 |---|---|---|---|---|---|---|---|---|---|
-| Letter Factory | 2003 | LeapFrog | LeapFrog | Edutainment | 1 | No | **Stranded** | | **Leapster.** A launch title and LeapFrog's own property rather than a licence — yet still unreissued, because the company left cartridge hardware entirely. |
+| Letter Factory | 2003 | LeapFrog | LeapFrog | Edutainment | 1 | No | **Stranded** | | **Leapster.** A launch title and LeapFrog's own property rather than a licence, yet still unreissued, because the company left cartridge hardware entirely. |
 | Dora the Explorer: Wildlife Rescue | 2004 | LeapFrog | LeapFrog | Edutainment | 1 | No | **Stranded** | | **Leapster.** Nickelodeon licence. |
-| Nicktoons: Android Invasion | 2008 | LeapFrog | LeapFrog | Platformer | 1 | No | **Stranded** | | **Didj.** A genuine platformer rather than an activity collection, which is what made Didj distinct — and it carries a Nickelodeon licence. |
-| Star Wars Jedi Math | 2008 | LeapFrog | LeapFrog | Edutainment | 1 | No | **Stranded** | | **Didj.** A **Lucasfilm licence used to teach arithmetic**, now Disney-owned — an unreissuable combination. |
+| Nicktoons: Android Invasion | 2008 | LeapFrog | LeapFrog | Platformer | 1 | No | **Stranded** | | **Didj.** A genuine platformer rather than an activity collection, which is what made Didj distinct, and it carries a Nickelodeon licence. |
+| Star Wars Jedi Math | 2008 | LeapFrog | LeapFrog | Edutainment | 1 | No | **Stranded** | | **Didj.** A **Lucasfilm licence used to teach arithmetic**, now Disney-owned, an unreissuable combination. |
 | Disney Princess: Pathway to Adventure | 2014 | LeapFrog | LeapFrog | Edutainment | 1 | No | **Stranded** | | **LeapTV.** Motion-controlled, so it depends on a discontinued camera peripheral as well as the Disney licence. |
-| Sonic Boom: Kinetic Cabinet | 2015 | LeapFrog | LeapFrog | Edutainment | 1 | No | **Stranded** | | **LeapTV.** A **Sonic game on a LeapFrog console** — Sega licensed the character for children's edutainment. Absent from every Sonic collection, like the [Sega Pico](sega-pico.md) titles, and for the same reason. |
+| Sonic Boom: Kinetic Cabinet | 2015 | LeapFrog | LeapFrog | Edutainment | 1 | No | **Stranded** | | **LeapTV.** A **Sonic game on a LeapFrog console**, Sega licensed the character for children's edutainment. Absent from every Sonic collection, like the [Sega Pico](sega-pico.md) titles, and for the same reason. |
 
 ## Contested
 
 | Title | Year | Verdict | Case for one file | Case against |
 |---|---|---|---|---|
-| Grouping Leapster, Didj and LeapTV | 2003–16 | **One file** | One company, one continuous product line, overlapping licensed catalogues, identical stranding cause. Three files would triple the page count without adding information. | They are different hardware with incompatible media — Didj in particular was marketed as a games handheld, not a toy, and deserves standalone treatment. Recorded so the decision is visible. |
+| Grouping Leapster, Didj and LeapTV | 2003–16 | **One file** | One company, one continuous product line, overlapping licensed catalogues, identical stranding cause. Three files would triple the page count without adding information. | They are different hardware with incompatible media; Didj in particular was marketed as a games handheld, not a toy, and deserves standalone treatment. Recorded so the decision is visible. |
 
 ## Excluded
 
@@ -75,6 +75,6 @@ since aged out. `Ported` count of **zero**.
 
 Checked 2026-07-29.
 
-- [Leapster — Wikipedia](https://en.wikipedia.org/wiki/Leapster)
-- [LeapFrog Didj — Wikipedia](https://en.wikipedia.org/wiki/Didj)
-- [LeapTV — Wikipedia](https://en.wikipedia.org/wiki/LeapTV)
+- [Leapster (Wikipedia)](https://en.wikipedia.org/wiki/Leapster)
+- [LeapFrog Didj (Wikipedia)](https://en.wikipedia.org/wiki/Didj)
+- [LeapTV (Wikipedia)](https://en.wikipedia.org/wiki/LeapTV)

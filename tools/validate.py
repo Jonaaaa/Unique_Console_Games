@@ -35,7 +35,7 @@ SEPARATOR_RE = re.compile(r"^\|[\s:|-]+\|$")
 # A pipe that is not backslash-escaped. "Xbox Series X\|S" is a literal pipe in
 # a cell, not a column break.
 CELL_SPLIT_RE = re.compile(r"(?<!\\)\|")
-H1_RE = re.compile(r"^#\s+(.*?)\s+—\s+Unique Games Catalogue\s*$")
+H1_RE = re.compile(r"^#\s+(\S.*?)\s*$")
 DEBUT_COUNT_RE = re.compile(r"\|\s*\*\*Debut games\*\*\s*\|\s*\*{0,2}(\d+)")
 # Markdown links to a path, ignoring anchors-only and absolute URLs.
 LINK_RE = re.compile(r"\[[^\]]*\]\((?!https?://|#)([^)#]+)(#[^)]*)?\)")
@@ -100,6 +100,15 @@ def check_file(path: Path) -> list[str]:
         if not cells[0].strip():
             problems.append(f"{rel}:{lineno}: empty title")
 
+        # Status and Also On have to agree. Nothing enforced this before, and
+        # the documentation had drifted to describe a placeholder character the
+        # data has never actually used.
+        if status == "Stranded" and cells[8]:
+            problems.append(f"{rel}:{lineno}: Stranded but Also On is "
+                            f"{cells[8][:30]!r}, expected empty")
+        if status in ("Ported", "Sim-ship") and not cells[8]:
+            problems.append(f"{rel}:{lineno}: {status} but Also On is empty")
+
     if rows == 0:
         problems.append(f"{rel}: debut table has no rows")
 
@@ -111,6 +120,29 @@ def check_file(path: Path) -> list[str]:
         problems.append(
             f"{rel}: Summary says {declared[0]} debut games, table has {rows}")
 
+    return problems
+
+
+def check_glued(path: Path) -> list[str]:
+    """A table row must end at its final pipe.
+
+    Anything after it is prose or a heading that the writer meant to put on the
+    next line. GitHub folds it into the last cell, so the section heading
+    disappears from the outline and the paragraph is displayed as table data.
+    Checked in every markdown file, not only the catalogues: the ruleset carries
+    the same tables and drifted the same way.
+    """
+    problems = []
+    rel = path.relative_to(ROOT)
+    for i, line in enumerate(path.read_text(encoding="utf-8").splitlines(), 1):
+        line = line.rstrip()
+        if not line.startswith("|") or line.endswith("|"):
+            continue
+        tail = line.rsplit("|", 1)[1].strip()
+        if not tail:
+            continue
+        kind = "heading" if tail.startswith("#") else "text"
+        problems.append(f"{rel}:{i}: {kind} runs past the end of a table row: {tail[:40]!r}")
     return problems
 
 
@@ -157,6 +189,8 @@ def main() -> int:
     problems: list[str] = []
     for path in catalogs:
         problems += check_file(path)
+    for path in catalogs + docs:
+        problems += check_glued(path)
     problems += check_links(catalogs + docs)
 
     if problems:

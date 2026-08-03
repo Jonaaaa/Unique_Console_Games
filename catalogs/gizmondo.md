@@ -1,4 +1,4 @@
-# Tiger Telematics Gizmondo — Unique Games Catalogue
+# Tiger Telematics Gizmondo
 
 | | |
 |---|---|
@@ -13,7 +13,7 @@
 
 The Gizmondo was a Windows CE handheld with GPS, a camera and GPRS, sold at £229 with an
 ad-supported cheaper tier. Tiger Telematics collapsed in **February 2006** with reported
-losses around $300 million, and its executives were subsequently convicted of fraud —
+losses around $300 million, and its executives were subsequently convicted of fraud,
 one of them a former member of a Swedish organised-crime group.
 
 Its library is 14 games. Every one is stranded, and the reason is total: the
@@ -25,12 +25,12 @@ developers were paid contractors with no retained rights.
 | | Count |
 |---|---|
 | **Debut games** | **5** |
-| — still `Stranded` | 5 |
-| — since `Ported` | 0 |
+| of which still `Stranded` | 5 |
+| of which since `Ported` | 0 |
 | **Contested** | 0 |
 
 **Why the Gizmondo strands games.** Corporate collapse, comprehensively. There is no
-successor entity, no rights holder and no archive — and with ~25,000 units sold, no
+successor entity, no rights holder and no archive, and with ~25,000 units sold, no
 constituency asking for one. `Ported` count of **zero**.
 
 ---
@@ -39,11 +39,11 @@ constituency asking for one. `Ported` count of **zero**.
 
 | Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Notes |
 |---|---|---|---|---|---|---|---|---|---|
-| Chicane: Street Racing | 2005 | Gizmondo Studios | Gizmondo Studios | Racing | 1 | No | **Stranded** | | Used the handheld's GPS for real-world location features — a hardware dependency on top of the rights problem. |
+| Chicane: Street Racing | 2005 | Gizmondo Studios | Gizmondo Studios | Racing | 1 | No | **Stranded** | | Used the handheld's GPS for real-world location features, a hardware dependency on top of the rights problem. |
 | Momma Can I Mow The Lawn? | 2005 | Gizmondo Studios | Gizmondo Studios | Action | 1 | No | **Stranded** | | One of the last releases before the February 2006 collapse, shipped in tiny numbers. Original cartridges are now collector items purely for the company's notoriety. |
 | Point of Destruction | 2005 | Gizmondo Studios | Gizmondo Studios | Shoot 'em up | 1 | No | **Stranded** | | An in-house Gizmondo Studios shooter; the studio was wound up with the parent company in Feb 2006 and its assets went into insolvency. |
 | Sticky Balls | 2005 | Gizmondo Studios | Gizmondo Studios | Puzzle | 1 | No | **Stranded** | | A launch title; Gizmondo Studios was wound up with the parent company. |
-| Trailblazer | 2005 | Warthog | Gizmondo Studios | Racing | 1 | No | **Stranded** | | A launch title, and a remake of a 1986 home computer game — included because this build was made for the Gizmondo, though the lineage weakens the claim. |
+| Trailblazer | 2005 | Warthog | Gizmondo Studios | Racing | 1 | No | **Stranded** | | A launch title, and a remake of a 1986 home computer game; included because this build was made for the Gizmondo, though the lineage weakens the claim. |
 
 ## Excluded
 
@@ -64,5 +64,5 @@ constituency asking for one. `Ported` count of **zero**.
 
 Checked 2026-07-29.
 
-- [Gizmondo — Wikipedia](https://en.wikipedia.org/wiki/Gizmondo)
-- [Tiger Telematics — Wikipedia](https://en.wikipedia.org/wiki/Tiger_Telematics)
+- [Gizmondo (Wikipedia)](https://en.wikipedia.org/wiki/Gizmondo)
+- [Tiger Telematics (Wikipedia)](https://en.wikipedia.org/wiki/Tiger_Telematics)

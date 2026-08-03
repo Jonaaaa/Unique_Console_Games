@@ -1,13 +1,13 @@
-# Magnavox Odyssey — Unique Games Catalogue
+# Magnavox Odyssey
 
 | | |
 |---|---|
-| **Platform** | Magnavox Odyssey (1972) — **the first home video game console** |
+| **Platform** | Magnavox Odyssey (1972), **the first home video game console** |
 | **Lifespan** | Sep 1972 – 1975; ~350,000 units sold |
 | **Library size** | 28 games across 12 interchangeable circuit cards |
 | **Backward compat** | None. Nothing is compatible with it. |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | **Complete.** All 28 games catalogued as a single group — see the note below. |
+| **Coverage** | **Complete.** All 28 games catalogued as a single group, see the note below. |
 
 ## ⚠ Why there is one entry, not 28
 
@@ -16,7 +16,7 @@ the console generated three white dots and a line, and the "games" were plastic
 **screen overlays** taped to your television, plus dice, cards, poker chips and score
 sheets in the box. The twelve circuit cards only reconfigured which dots moved.
 
-So there is nothing to port, and nothing that could be ported — the game exists in the
+So there is nothing to port, and nothing that could be ported, the game exists in the
 overlay and the boardgame components, not in the machine. Every one of the 28 titles is
 `Stranded` absolutely: **no emulator can reproduce them either**, because the missing part was never electronic.
 
@@ -28,12 +28,12 @@ software, and there were none.
 | | Count |
 |---|---|
 | **Debut games** | **1** |
-| — still `Stranded` | 1 |
-| — since `Ported` | 0 |
+| of which still `Stranded` | 1 |
+| of which since `Ported` | 0 |
 | **Contested** | 1 |
 
 **Why the Odyssey strands games.** It is not licensing, hardware dependency or dead
-servers — it is that the games were never digital. This is the only platform in the
+servers; it is that the games were never digital. This is the only platform in the
 repo where the stranding cause is **the absence of software**.
 
 ---
@@ -42,7 +42,7 @@ repo where the stranding cause is **the absence of software**.
 
 | Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Notes |
 |---|---|---|---|---|---|---|---|---|---|
-| The Odyssey game library (28 titles, 12 cards) | 1972 | Ralph Baer / Sanders Associates | Magnavox | Various | 1–2 | No | **Stranded** | | Includes `Table Tennis` — which Nolan Bushnell saw demonstrated before Atari made `Pong`, leading to a patent settlement that funded Magnavox for years. The games require the physical overlays, dice and score pads; without them the console shows only moving dots. Nothing has ever been re-released, and nothing can be. |
+| The Odyssey game library (28 titles, 12 cards) | 1972 | Ralph Baer / Sanders Associates | Magnavox | Various | 1–2 | No | **Stranded** | | Includes `Table Tennis`, which Nolan Bushnell saw demonstrated before Atari made `Pong`, leading to a patent settlement that funded Magnavox for years. The games require the physical overlays, dice and score pads; without them the console shows only moving dots. Nothing has ever been re-released, and nothing can be. |
 
 ## Contested
 
@@ -55,7 +55,7 @@ repo where the stranding cause is **the absence of software**.
 | Title | Year | Why excluded |
 |---|---|---|
 | Odyssey series successors (100, 200, 300, 2000…) | 1975–78 | Dedicated single-purpose consoles with fixed built-in games and no interchangeable media. |
-| Magnavox Odyssey² | 1978 | A separate, programmable console — see [Odyssey²](magnavox-odyssey-2.md). |
+| Magnavox Odyssey² | 1978 | A separate, programmable console, see [Odyssey²](magnavox-odyssey-2.md). |
 | Pong (Atari) | 1972 | A different product on different hardware; the arcade cabinet is out of scope and Atari's *Home Pong* (1975) is a dedicated console. |
 
 ## Coverage gaps
@@ -67,5 +67,5 @@ repo where the stranding cause is **the absence of software**.
 
 Checked 2026-07-29.
 
-- [Magnavox Odyssey — Wikipedia](https://en.wikipedia.org/wiki/Magnavox_Odyssey)
-- [Ralph H. Baer — Wikipedia](https://en.wikipedia.org/wiki/Ralph_H._Baer)
+- [Magnavox Odyssey (Wikipedia)](https://en.wikipedia.org/wiki/Magnavox_Odyssey)
+- [Ralph H. Baer (Wikipedia)](https://en.wikipedia.org/wiki/Ralph_H._Baer)

@@ -1,19 +1,19 @@
-# PlayStation Portable — Unique Games Catalogue
+# PlayStation Portable
 
 | | |
 |---|---|
 | **Platform** | Sony PlayStation Portable (PSP-1000 → PSP-E1000, PSP Go) |
 | **Lifespan** | Dec 2004 (JP) – 2014 (production ended); ~80M units sold |
 | **Store status** | **Closed.** PSP storefront shut 2016; PSP purchases via PS3/Vita ended 2021. |
-| **Backward compat** | PSP titles run on PS Vita and PS TV. That is BC, **not** another platform — see the [BC rule](../RULES.md#backward-compatibility-is-not-another-platform). |
+| **Backward compat** | PSP titles run on PS Vita and PS TV. That is BC, **not** another platform, see the [BC rule](../RULES.md#backward-compatibility-is-not-another-platform). |
 | **Category spine** | 268 titles tagged `Category:PlayStation Portable-only games` on Wikipedia (fetched 2026-07-29) |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | Notable Western and Japanese releases verified individually. The Japanese licensed-anime tail is not individually verified. **`Stranded` status here is less stable than on any other platform — see the warning below.** |
+| **Coverage** | Notable Western and Japanese releases verified individually. The Japanese licensed-anime tail is not individually verified. **`Stranded` status here is less stable than on any other platform, see the warning below.** |
 
 ## ⚠ The PS Plus Premium problem
 
 On the PSP, **`Stranded` status cannot be treated as settled**. Sony's PS Plus Premium Classics catalogue includes PSP titles that run
-on PS4 and PS5 as distinct, downloadable store entries — which is a re-release on
+on PS4 and PS5 as distinct, downloadable store entries; which is a re-release on
 another platform, not backward compatibility, so it flips a game to `Ported`. The
 catalogue **rotates monthly**, Sony publishes no fixed list, and availability
 varies by region.
@@ -32,15 +32,15 @@ Consequences:
 | | Count |
 |---|---|
 | **Debut games** | **66** |
-| — still `Stranded` | 36 |
-| — since `Ported` | 28 |
-| — `Sim-ship` | 2 |
+| of which still `Stranded` | 36 |
+| of which since `Ported` | 28 |
+| of which `Sim-ship` | 2 |
 | **Contested** | 0 |
 
 **Why the PSP strands games.** Unlike the Wii U (hardware) and the Vita (studio
 closures and litigation), the PSP's stranding cause is mostly **licensing and
 Japanese-market gravity**. Its exclusives skew heavily toward anime tie-ins,
-rhythm games with licensed tracklists, and Japan-only strategy RPGs — categories
+rhythm games with licensed tracklists, and Japan-only strategy RPGs, categories
 where re-release rights are expensive or impossible to reassemble. Where a PSP
 game was a wholly owned first-party or major-publisher property, it has usually
 escaped: God of War, Metal Gear, Final Fantasy Tactics, Persona, Patapon, LocoRoco
@@ -66,7 +66,7 @@ Every game that debuted on this platform and launched nowhere else. `Status` rec
 | Pursuit Force | 2005 | Bigbig Studios | SCE | Vehicular action | 1 | No | Stranded | | Bigbig was closed by Sony in 2012. |
 | Untold Legends: Brotherhood of the Blade | 2005 | Climax | Sony Online | Action RPG | 1–4 | Dead | Ported | Mobile | PSP launch title. |
 | Wipeout Pure | 2005 | SCE Studio Liverpool | SCE | Racing | 1–8 | Dead | Stranded | | Launch title. *WipEout Omega Collection* took the PS3 and Vita entries but not this one. |
-| Brave Story: New Traveler | 2006 | Game Republic | XSEED | JRPG | 1 | No | Stranded | | Adapted from Miyuki Miyabe's novel — a literary licence that blocks any reissue. |
+| Brave Story: New Traveler | 2006 | Game Republic | XSEED | JRPG | 1 | No | Stranded | | Adapted from Miyuki Miyabe's novel; a literary licence that blocks any reissue. |
 | Daxter | 2006 | Ready at Dawn | SCE | Platformer | 1 | No | Stranded | | Best-selling PSP platformer; excluded from every Jak & Daxter collection. |
 | Death Jr. II: Root of Evil | 2006 | Backbone | Eidos | Action-platformer | 1–2 | No | Ported | Wii (2008) | |
 | Every Extend Extra | 2006 | Q Entertainment | Bandai Namco | Puzzle / shooter | 1 | No | Stranded | | Tetsuya Mizuguchi chain-explosion shooter. The Xbox 360 *Every Extend Extra Extreme* is a separate game. |
@@ -94,7 +94,7 @@ Every game that debuted on this platform and launched nowhere else. `Status` rec
 | Phantasy Star Portable | 2008 | Alfa System | Sega | Action RPG | 1–4 | Dead | Stranded | | Built around ad-hoc local multiplayer, and Sega's Phantasy Star attention has moved entirely to *Online*. |
 | Prinny: Can I Really Be the Hero? | 2008 | Nippon Ichi | NIS America | Platformer | 1 | No | Ported | Switch, PS4 (2020, *Prinny 1•2*) | |
 | Secret Agent Clank | 2008 | High Impact Games | SCE | Platformer | 1 | No | Ported | PS2 (2009) | |
-| What Did I Do to Deserve This, My Lord!? | 2008 | Acquire | NIS America | Dungeon management | 1 | No | Stranded | | PAL: *Holy Invasion of Privacy, Badman!* — renamed after a trademark dispute. |
+| What Did I Do to Deserve This, My Lord!? | 2008 | Acquire | NIS America | Dungeon management | 1 | No | Stranded | | PAL: *Holy Invasion of Privacy, Badman!*, renamed after a trademark dispute. |
 | Boku no Natsuyasumi 4 | 2009 | Millennium Kitchen | SCE | Life sim | 1 | No | Stranded | | Japan-only. The whole series is stranded outside Japan. |
 | Disgaea Infinite | 2009 | Nippon Ichi | NIS America | Visual novel | 1 | No | Stranded | | The only Disgaea title never re-released. |
 | Gran Turismo | 2009 | Polyphony Digital | SCE | Racing | 1–4 | Dead | Stranded | | 800 cars, no career mode. Polyphony has never revisited it. |
@@ -116,9 +116,9 @@ Every game that debuted on this platform and launched nowhere else. `Status` rec
 | Valkyria Chronicles II | 2010 | Sega | Sega | Tactical RPG | 1–2 | Dead | Stranded | | The only numbered Valkyria game never re-released; *Valkyria Chronicles III* (2011, Japan-only) is likewise stranded and never officially localised. |
 | Z.H.P.: Unlosing Ranger vs. Darkdeath Evilman | 2010 | Nippon Ichi | NIS America | Roguelike | 1 | No | Stranded | | A Nippon Ichi roguelike that never joined the Disgaea reissue programme. |
 | Dissidia 012 Final Fantasy | 2011 | Square Enix | Square Enix | Fighting | 1–2 | Dead | Stranded | | *Dissidia NT* (2018) is a separate arcade-derived game, not a port of either PSP title. |
-| Final Fantasy IV: The Complete Collection | 2011 | Matrix Software | Square Enix | Compilation | 1 | Dead | **Stranded** | | *FFIV*, its *The After Years* sequel, and **Interlude** — a new chapter written for this release and available nowhere else. The compilation has never been reissued. |
-| Grand Knights History | 2011 | Vanillaware | Marvelous | Tactical RPG | 1–4 | Dead | Stranded | | Japan-only. The only Vanillaware game never localised or re-released — a planned English release was cancelled. |
-| Gungnir | 2011 | Sting | Atlus | Tactical RPG | 1 | No | Stranded | | Sting's Dept. Heaven series is largely stranded — only `Riviera` and `Yggdra Union` ever escaped. |
+| Final Fantasy IV: The Complete Collection | 2011 | Matrix Software | Square Enix | Compilation | 1 | Dead | **Stranded** | | *FFIV*, its *The After Years* sequel, and **Interlude**, a new chapter written for this release and available nowhere else. The compilation has never been reissued. |
+| Grand Knights History | 2011 | Vanillaware | Marvelous | Tactical RPG | 1–4 | Dead | Stranded | | Japan-only. The only Vanillaware game never localised or re-released; a planned English release was cancelled. |
+| Gungnir | 2011 | Sting | Atlus | Tactical RPG | 1 | No | Stranded | | Sting's Dept. Heaven series is largely stranded, only `Riviera` and `Yggdra Union` ever escaped. |
 | Patapon 3 | 2011 | Japan Studio | SCE | Rhythm / strategy | 1–4 | Dead | Ported | PS4, PS5 (18 Feb 2025) | Was stranded until Feb 2025. |
 
 ## Contested
@@ -149,10 +149,10 @@ None outstanding. Under the debut rule every former dispute resolved:
 | Final Fantasy Tactics: The War of the Lions | 2007 | Enhanced port of the 1997 PS1 game. Substantial rework, but not a debut. |
 | Tactics Ogre: Let Us Cling Together | 2010 | Remake of the 1995 SNES game. |
 | Any PS1 Classic or PS Minis title played on PSP | | Backward compatibility / re-release, not a PSP original. |
-| *(same-day multiplatform launches)* | | **No longer excluded** — they now appear in the main table as `Sim-ship`. Only *later* ports are excluded. |
-| *(games with an earlier arcade release)* | | **No longer excluded.** Arcades are out of scope — a cabinet is not a collectable home device — so the first *home* release counts as the debut. A prior release on another **home** console still disqualifies. |
+| *(same-day multiplatform launches)* | | **No longer excluded**: they now appear in the main table as `Sim-ship`. Only *later* ports are excluded. |
+| *(games with an earlier arcade release)* | | **No longer excluded.** Arcades are out of scope (a cabinet is not a collectable home device) so the first *home* release counts as the debut. A prior release on another **home** console still disqualifies. |
 
-## Appendix — the Japanese licensed tail
+## Appendix: the Japanese licensed tail
 
 The bulk of the 268-title `PlayStation Portable-only games` category is Japanese:
 anime and light-novel tie-ins (`.hack//Link`, `Baka and Test`,
@@ -182,9 +182,9 @@ Full spine: [`Category:PlayStation Portable-only games`](https://en.wikipedia.or
 
 Checked 2026-07-29.
 
-- [Category:PlayStation Portable-only games — Wikipedia](https://en.wikipedia.org/wiki/Category:PlayStation_Portable-only_games) — 268-entry spine
-- [List: All PS1, PS2, and PSP classics on PS Plus Premium — Destructoid](https://www.destructoid.com/playstation-plus-premium-ps1-ps2-psp-classics-playable-on-ps4-ps5-game-list/)
-- [PS Plus Premium Games List 2026 — PlatPrices](https://platprices.com/blog/45-ps-plus-premium-games-list) — rotating catalogue, checked per-title
-- [Patapon 3 — PlayStation Store](https://store.playstation.com/en-us/concept/10007599) — PS4/PS5 release 18 Feb 2025
-- [Patapon 1+2 Replay announced for PC and consoles — Sportskeeda](https://www.sportskeeda.com/esports/news-patapon-1-2-replay-announced-pc-consoles)
-- [Patapon 2 — Wikipedia](https://en.wikipedia.org/wiki/Patapon_2)
+- [Category:PlayStation Portable-only games (Wikipedia)](https://en.wikipedia.org/wiki/Category:PlayStation_Portable-only_games), 268-entry spine
+- [List: All PS1, PS2, and PSP classics on PS Plus Premium (Destructoid)](https://www.destructoid.com/playstation-plus-premium-ps1-ps2-psp-classics-playable-on-ps4-ps5-game-list/)
+- [PS Plus Premium Games List 2026 (PlatPrices)](https://platprices.com/blog/45-ps-plus-premium-games-list), rotating catalogue, checked per-title
+- [Patapon 3 (PlayStation Store)](https://store.playstation.com/en-us/concept/10007599), PS4/PS5 release 18 Feb 2025
+- [Patapon 1+2 Replay announced for PC and consoles (Sportskeeda)](https://www.sportskeeda.com/esports/news-patapon-1-2-replay-announced-pc-consoles)
+- [Patapon 2 (Wikipedia)](https://en.wikipedia.org/wiki/Patapon_2)

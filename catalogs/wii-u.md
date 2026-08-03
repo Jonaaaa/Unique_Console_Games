@@ -1,4 +1,4 @@
-# Nintendo Wii U — Unique Games Catalogue
+# Nintendo Wii U
 
 | | |
 |---|---|
@@ -8,27 +8,27 @@
 | **Online services ended** | 8 Apr 2024 |
 | **Library size** | 792 releases total (Wikipedia list, parsed 2026-07-29) |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | Retail and notable eShop titles individually verified. The ~150-title micro-publisher tail is covered by publisher block in the [Appendix](#appendix--the-eshop-long-tail), not individually verified. |
+| **Coverage** | Retail and notable eShop titles individually verified. The ~150-title micro-publisher tail is covered by publisher block in the [Appendix](#appendix-the-eshop-long-tail), not individually verified. |
 
 ## Summary
 
 | | Count |
 |---|---|
 | **Debut games** | **79** |
-| — still `Stranded` | 43 |
-| — since `Ported` | 29 |
-| — `Sim-ship` | 7 |
+| of which still `Stranded` | 43 |
+| of which since `Ported` | 29 |
+| of which `Sim-ship` | 7 |
 | **Contested** | 2 |
 
 **Why the Wii U strands games.** Almost every stranded entry is stuck for the same
 structural reason: the GamePad. The Wii U shipped a second screen with a gyroscope,
 a camera, NFC, and its own speaker, and Nintendo spent the generation proving the
-thing was necessary. Games built to that brief — asymmetric 1-vs-4 party design,
-touch-drawing platformers, dual-screen cockpit sims — cannot be ported to a
+thing was necessary. Games built to that brief, asymmetric 1-vs-4 party design,
+touch-drawing platformers, dual-screen cockpit sims, cannot be ported to a
 single-screen console without being redesigned into a different game. That is why
 `Nintendo Land`, `Star Fox Zero`, `Kirby and the Rainbow Curse`, and
 `Affordable Space Adventures` have never moved, while `Mario Kart 8` and
-`Super Mario 3D World` — games that merely *ran* on Wii U — all did.
+`Super Mario 3D World` (games that merely *ran* on Wii U) all did.
 
 The second cause is dead servers. `Splatoon` is a fully functional single-player-optional
 game whose entire point died on 8 Apr 2024 and whose sequels replaced it commercially.
@@ -54,15 +54,15 @@ Every game that debuted on this platform and launched nowhere else. `Status` rec
 | SiNG Party | 2012 | Nintendo SPD / FreeStyleGames | Nintendo | Music / karaoke | 1–8 | No | Stranded | | Launch title, NA/PAL only. Needs the GamePad as a lyrics-facing mic display. Licensed tracklist makes a re-release near-impossible. |
 | Tank! Tank! Tank! | 2012 | Namco Bandai | Namco Bandai | Vehicular action | 1–4 | No | **Stranded** | | Launch title, and the first home release of the 2009 arcade game. |
 | Your Shape: Fitness Evolved 2013 | 2012 | Blue Byte | Ubisoft | Fitness | 1–2 | No | Stranded | | Launch title, NA/PAL only. Series ended here. |
-| ZombiU | 2012 | Ubisoft Montpellier | Ubisoft | Survival horror | 1–2 (asym.) | No | Ported | PS4, Xbox One, PC (2015, as *ZOMBI*) | The port cut the asymmetric multiplayer entirely — the GamePad survival-inventory scanner is Wii U-only in practice. |
+| ZombiU | 2012 | Ubisoft Montpellier | Ubisoft | Survival horror | 1–2 (asym.) | No | Ported | PS4, Xbox One, PC (2015, as *ZOMBI*) | The port cut the asymmetric multiplayer entirely; the GamePad survival-inventory scanner is Wii U-only in practice. |
 | Dr. Luigi | 2013 | Arika | Nintendo | Puzzle | 1–4 | Dead (2024) | Stranded | | Dr. Mario variant with L-shaped pills. Never reissued. |
 | Game & Wario | 2013 | Intelligent Systems / Nintendo SPD | Nintendo | Minigame collection | 1–5 | No | Stranded | | Every microgame is a GamePad gimmick; unportable by construction. |
 | Lego City Undercover | 2013 | TT Fusion | Nintendo / WB | Open-world action | 1 | No | Ported | PS4, Xbox One, Switch, PC (2017) | The 2017 port added co-op and dropped the GamePad communicator. |
-| Mario & Sonic at the Sochi 2014 Olympic Winter Games | 2013 | Sega | Nintendo | Sports | 1–4 | Dead (2024) | Stranded | | The only entry in the series with **no** handheld counterpart — Wii U-only, unlike the Rio 2016 game. |
-| NES Remix | 2013 | indieszero / Nintendo EAD | Nintendo | Minigame collection | 1 | Dead (2024) | Stranded | | ⚠ [Contested](#contested) — *Ultimate NES Remix* (3DS) recompiles some of its content. |
+| Mario & Sonic at the Sochi 2014 Olympic Winter Games | 2013 | Sega | Nintendo | Sports | 1–4 | Dead (2024) | Stranded | | The only entry in the series with **no** handheld counterpart, Wii U-only, unlike the Rio 2016 game. |
+| NES Remix | 2013 | indieszero / Nintendo EAD | Nintendo | Minigame collection | 1 | Dead (2024) | Stranded | | ⚠ [Contested](#contested), *Ultimate NES Remix* (3DS) recompiles some of its content. |
 | New Super Luigi U | 2013 | Nintendo EAD | Nintendo | Platformer | 1–5 | No | Ported | Switch (2019, in *NSMBU Deluxe*) | Standalone retail release as well as DLC. |
 | Pikmin 3 | 2013 | Nintendo EAD | Nintendo | RTS / strategy | 1–2 | No | Ported | Switch (2020, *Deluxe*) | |
-| Pokémon Rumble U | 2013 | Ambrella | Pokémon Co. / Nintendo | Action | 1–4 | No | Stranded | | eShop-only. First Nintendo game to use NFC figures — needed the GamePad's reader and a line of dedicated Rumble U toys. Unportable without the toys. |
+| Pokémon Rumble U | 2013 | Ambrella | Pokémon Co. / Nintendo | Action | 1–4 | No | Stranded | | eShop-only. First Nintendo game to use NFC figures, needed the GamePad's reader and a line of dedicated Rumble U toys. Unportable without the toys. |
 | Rayman Legends | 2013 | Ubisoft Montpellier | Ubisoft | Platformer | 1–5 | No | Sim-ship | PS3, Xbox 360, PC (2013, same day), Vita (2013), PS4/XB1 (2014), Switch (2017) | Originally a Wii U exclusive; delayed and widened to a simultaneous multiplatform launch. |
 | Sonic Lost World | 2013 | Sonic Team | Sega | Platformer | 1 | Dead (2024) | Sim-ship | 3DS (2013, same day), PC (2015) | The Wii U and 3DS builds are different games sharing a title, launched together. |
 | Super Mario 3D World | 2013 | Nintendo EAD | Nintendo | Platformer | 1–4 | No | Ported | Switch (2021, + *Bowser's Fury*) | |
@@ -79,21 +79,21 @@ Every game that debuted on this platform and launched nowhere else. `Status` rec
 | Just Dance Wii U | 2014 | Ubisoft Paris | Nintendo | Music / dance | 1–4 | No | Stranded | | Japan-only, Nintendo-published entry. Every other Just Dance is multiplatform; this SKU is not. |
 | Mario Kart 8 | 2014 | Nintendo EAD | Nintendo | Racing | 1–12 | Dead (2024) | Ported | Switch (2017, *Deluxe*) | The best-selling Wii U game; *Deluxe* went on to outsell the entire Wii U library several times over. |
 | Meme Run | 2014 | Ninja Pig Studios | Ninja Pig Studios | Endless runner | 1 | No | Stranded | | eShop-only. "Trollface" endless runner, pulled from sale after a copyright claim. |
-| NES Remix 2 | 2014 | indieszero / Nintendo EAD | Nintendo | Minigame collection | 1 | Dead (2024) | Stranded | | ⚠ [Contested](#contested) — same reasoning as *NES Remix*. |
+| NES Remix 2 | 2014 | indieszero / Nintendo EAD | Nintendo | Minigame collection | 1 | Dead (2024) | Stranded | | ⚠ [Contested](#contested), same reasoning as *NES Remix*. |
 | Pushmo World | 2014 | Intelligent Systems | Nintendo | Puzzle | 1 | Dead (2024) | Stranded | | PAL: *Pullblox World*. 250 levels. The 3DS line continued separately with *Stretchmo*. |
 | Shovel Knight | 2014 | Yacht Club Games | Yacht Club Games | Action-platformer | 1 | No | Sim-ship | 3DS, PC (2014, same day), then almost every platform | |
 | Sonic Boom: Rise of Lyric | 2014 | Big Red Button | Sega | Action-adventure | 1–2 | No | Stranded | | Locked to Wii U by Sega's three-game Nintendo exclusivity deal; shipped in a broken state and was never revisited. |
 | Stealth Inc 2: A Game of Clones | 2014 | Curve Studios | Curve Digital | Puzzle-platformer | 1–4 | No | Ported | PS4, PS3, Vita, PC (2015), Switch (2018) | Wii U timed exclusive for about a year. |
-| Super Smash Bros. for Wii U | 2014 | Sora Ltd. / Bandai Namco | Nintendo | Fighting | 1–8 | Dead (2024) | Stranded | | ⚠ [Contested](#contested) — separate build from the 3DS twin; 8-Player Smash and Smash Tour exist nowhere else. |
+| Super Smash Bros. for Wii U | 2014 | Sora Ltd. / Bandai Namco | Nintendo | Fighting | 1–8 | Dead (2024) | Stranded | | ⚠ [Contested](#contested), separate build from the 3DS twin; 8-Player Smash and Smash Tour exist nowhere else. |
 | Taiko no Tatsujin: Tokumori! | 2014 | Bandai Namco Studios | Bandai Namco | Rhythm | 1–4 | No | Stranded | | Japan-only. TaTaCon peripheral + licensed tracklist. |
 | The Letter | 2014 | TreeFall Studios | TreeFall Studios | Adventure / horror | 1 | No | Ported | PS4, PC (2022, *Classic Edition*) | Built in ~2 months; a notorious eShop low point. Escaped the Wii U eight years later. |
-| Affordable Space Adventures | 2015 | KnapNok Games / Nifflas | Nintendo | Puzzle / stealth | 1–3 (asym.) | No | Stranded | | The GamePad is the ship's engineering console — throttle, scanner and power management. Its developers have described it as unportable. |
-| amiibo tap: Nintendo's Greatest Bits | 2015 | Nintendo | Nintendo | Compilation | 1 | Dead (2024) | **Stranded** | | A free download that unlocked short excerpts of NES and SNES games by scanning amiibo — playable slices rather than full games, which is unusual enough to be its own product. Requires amiibo and a dead eShop. |
+| Affordable Space Adventures | 2015 | KnapNok Games / Nifflas | Nintendo | Puzzle / stealth | 1–3 (asym.) | No | Stranded | | The GamePad is the ship's engineering console, throttle, scanner and power management. Its developers have described it as unportable. |
+| amiibo tap: Nintendo's Greatest Bits | 2015 | Nintendo | Nintendo | Compilation | 1 | Dead (2024) | **Stranded** | | A free download that unlocked short excerpts of NES and SNES games by scanning amiibo, playable slices rather than full games, which is unusual enough to be its own product. Requires amiibo and a dead eShop. |
 | Animal Crossing: amiibo Festival | 2015 | Nd Cube | Nintendo | Board game | 1–4 | No | Stranded | | Cannot be played without amiibo figures. |
 | Art Academy: Home Studio | 2015 | Headstrong Games | Nintendo | Art / edutainment | 1 | Dead (2024) | Stranded | | PAL: *Art Academy: Atelier*. Stylus-driven; sharing features died with the servers. |
-| Cube Life: Island Survival | 2015 | Cypronia | Cypronia | Survival sandbox | 1 | No | Ported | PC (2018), Switch (2020), PS4 (2021) — as *HD* | Voxel survival sandbox; one of the few eShop titles to sell well enough to justify a port. |
-| Devil's Third | 2015 | Valhalla Game Studios | Nintendo (console) | Action / shooter | 1–16 | Dead (2016) | **Stranded** | | Tomonobu Itagaki's last console game. *Devil's Third Online* was a separate free-to-play, multiplayer-only PC build — no campaign, not cross-compatible, since discontinued. The full game remains Wii U-only. Console servers died 28 Dec 2016, barely a year after launch. No console release. PC version exists (PC (2016, Japan/Asia only)) but PC is not a catalogued platform. |
-| FAST Racing NEO | 2015 | Shin'en | Shin'en | Racing | 1–8 | Dead | Ported | Switch (2017, as *FAST RMX*) | ⚠ [Contested](#contested) — renamed, rebuilt, extra tracks. |
+| Cube Life: Island Survival | 2015 | Cypronia | Cypronia | Survival sandbox | 1 | No | Ported | PC (2018), Switch (2020), PS4 (2021), as *HD* | Voxel survival sandbox; one of the few eShop titles to sell well enough to justify a port. |
+| Devil's Third | 2015 | Valhalla Game Studios | Nintendo (console) | Action / shooter | 1–16 | Dead (2016) | **Stranded** | | Tomonobu Itagaki's last console game. *Devil's Third Online* was a separate free-to-play, multiplayer-only PC build, no campaign, not cross-compatible, since discontinued. The full game remains Wii U-only. Console servers died 28 Dec 2016, barely a year after launch. No console release. PC version exists (PC (2016, Japan/Asia only)) but PC is not a catalogued platform. |
+| FAST Racing NEO | 2015 | Shin'en | Shin'en | Racing | 1–8 | Dead | Ported | Switch (2017, as *FAST RMX*) | ⚠ [Contested](#contested), renamed, rebuilt, extra tracks. |
 | Kirby and the Rainbow Curse | 2015 | HAL Laboratory | Nintendo | Action / platformer | 1–4 | No | Stranded | | PAL: *Kirby and the Rainbow Paintbrush*. Movement is entirely stylus-drawn on the GamePad. |
 | Mario Party 10 | 2015 | Nd Cube | Nintendo | Party | 1–5 | No | Stranded | | Bowser Party mode is 4-vs-1 with Bowser on the GamePad. |
 | Mario Tennis: Ultra Smash | 2015 | Camelot | Nintendo | Sports | 1–4 | Dead (2024) | Stranded | | Content-thin; *Mario Tennis Aces* replaced it rather than porting it. |
@@ -102,35 +102,35 @@ Every game that debuted on this platform and launched nowhere else. `Status` rec
 | Runbow | 2015 | 13AM Games | 13AM Games | Party / platformer | 1–9 | Dead | Ported | 3DS (2016), PC (2016), Switch (2017), PS4 (2018) | Nine-player local was a Wii U-only party trick. |
 | Splatoon | 2015 | Nintendo EAD | Nintendo | Third-person shooter | 1–8 | Dead (2024) | Stranded | | New IP, 4.9M sold, now unplayable online. Sequels are new games, not ports. |
 | Super Destronaut | 2015 | Petite Games | Petite Games | Shoot 'em up | 1–2 | No | Ported | PS4, Xbox One, Switch, Vita (2018, *DX*) | Ratalaika handled the multiplatform re-release. |
-| Super Mario Maker | 2015 | Nintendo EAD | Nintendo | Level creator / platformer | 1 | Dead (2024) | Ported | 3DS (2016) | ⚠ [Contested](#contested) — the 3DS port strips course uploading and online entirely. Course sharing died with the servers on both. |
+| Super Mario Maker | 2015 | Nintendo EAD | Nintendo | Level creator / platformer | 1 | Dead (2024) | Ported | 3DS (2016) | ⚠ [Contested](#contested), the 3DS port strips course uploading and online entirely. Course sharing died with the servers on both. |
 | Swords & Soldiers II | 2015 | Ronimo Games | Ronimo Games | Side-scrolling strategy | 1–2 | No | Ported | PS4, Switch, PC (2018, *Shawarmageddon*) | Wii U exclusive for three years. |
 | Taiko no Tatsujin: Atsumete ☆ Tomodachi Daisakusen! | 2015 | Bandai Namco Studios | Bandai Namco | Rhythm | 1–4 | No | Stranded | | Japan-only. Last Wii U Taiko game. |
-| Temple of Yog | 2015 | ChudChud Industries | ChudChud Industries | Roguelike | 1–5 (asym.) | Dead | Stranded | | eShop-only. GamePad player builds the dungeon in real time while TV players run it — an asymmetric design with no single-screen equivalent. |
+| Temple of Yog | 2015 | ChudChud Industries | ChudChud Industries | Roguelike | 1–5 (asym.) | Dead | Stranded | | eShop-only. GamePad player builds the dungeon in real time while TV players run it, an asymmetric design with no single-screen equivalent. |
 | Tokyo Mirage Sessions ♯FE | 2015 | Atlus | Nintendo | JRPG | 1 | No | Ported | Switch (2020, *Encore*) | Fire Emblem × Shin Megami Tensei. JP Dec 2015, West Jun 2016. |
-| Typoman | 2015 | Brainseed Factory | Headup Games | Puzzle-platformer | 1 | No | Ported | PC, PS4, Xbox One (2016), Switch (2017) — as *Revised* | |
+| Typoman | 2015 | Brainseed Factory | Headup Games | Puzzle-platformer | 1 | No | Ported | PC, PS4, Xbox One (2016), Switch (2017), as *Revised* | |
 | Xenoblade Chronicles X | 2015 | Monolith Soft | Nintendo | Open-world RPG | 1–32 | Dead (2024) | Ported | Switch (2025, *Definitive Edition*) | Was stranded until 30 Mar 2025. |
 | Yo-kai Watch Dance: Just Dance Special Version | 2015 | Ubisoft Paris / Level-5 | Nintendo / Level-5 | Music / dance | 1–4 | No | Stranded | | Japan-only. Double licensing lock: Just Dance engine + Yo-kai Watch IP + licensed music. |
-| Yoshi's Woolly World | 2015 | Good-Feel | Nintendo | Platformer | 1–2 | No | Ported | 3DS (2017, *Poochy & Yoshi's Woolly World*) | Frequently miscounted as stranded because it never reached Switch — but the 3DS port disqualifies it. |
-| Lost Reavers | 2016 | Bandai Namco Studios | Bandai Namco | Co-op action | 1–4 | Dead (2018) | Stranded | | Free-to-play, online-only 4-player looter. JP beta ran 2015 as *Project Treasure*. Servers closed Jan 2018 — the game is now **unplayable even on a working Wii U**, the only entry here that is fully lost. |
-| Mario & Sonic at the Rio 2016 Olympic Games | 2016 | Sega Sports R&D | Sega / Nintendo | Sports | 1–4 | Dead (2024) | Stranded | | Wii U build only. The 3DS game and the arcade game share the name but are separate products — see [Contested](#contested). |
+| Yoshi's Woolly World | 2015 | Good-Feel | Nintendo | Platformer | 1–2 | No | Ported | 3DS (2017, *Poochy & Yoshi's Woolly World*) | Frequently miscounted as stranded because it never reached Switch, but the 3DS port disqualifies it. |
+| Lost Reavers | 2016 | Bandai Namco Studios | Bandai Namco | Co-op action | 1–4 | Dead (2018) | Stranded | | Free-to-play, online-only 4-player looter. JP beta ran 2015 as *Project Treasure*. Servers closed Jan 2018; the game is now **unplayable even on a working Wii U**, the only entry here that is fully lost. |
+| Mario & Sonic at the Rio 2016 Olympic Games | 2016 | Sega Sports R&D | Sega / Nintendo | Sports | 1–4 | Dead (2024) | Stranded | | Wii U build only. The 3DS game and the arcade game share the name but are separate products, see [Contested](#contested). |
 | Mini Mario & Friends: amiibo Challenge | 2016 | Nintendo Software Technology | Nintendo | Puzzle-platformer | 1 | No | Sim-ship | 3DS (2016, same day) | Free download requiring amiibo. |
 | Paper Mario: Color Splash | 2016 | Intelligent Systems | Nintendo | RPG / adventure | 1 | No | Stranded | | Card battles are played on the GamePad touch screen. Best-regarded of the divisive modern Paper Marios. |
 | Pokkén Tournament | 2016 | Bandai Namco | Nintendo | Fighting | 1–2 | Dead (2024) | Ported | Switch (2017, *DX*) | First home release of the 2015 Japanese cabinet. |
 | Star Fox Guard | 2016 | PlatinumGames / Nintendo EPD | Nintendo | Tower defence | 1 | No | Stranded | | Bundled with *Star Fox Zero*; 12 simultaneous camera feeds need two screens. |
 | Star Fox Zero | 2016 | PlatinumGames / Nintendo EPD | Nintendo | Rail shooter | 1–2 (asym.) | No | Stranded | | Cockpit view on GamePad + gyro aiming. The control scheme *is* the game, which is exactly why it can't leave. The 2026 Switch 2 *Star Fox* is a **Star Fox 64** reimagining, not this. |
 | Star Ghost | 2016 | Squarehead Games | Squarehead Games | Shoot 'em up | 1 | No | Stranded | | eShop-only, NA/EU. One-button roguelike shooter from a two-person studio that dissolved after it. |
-| The Legend of Zelda: Breath of the Wild | 2017 | Nintendo EPD | Nintendo | Action-adventure | 1 | No | Sim-ship | Switch (2017, same day) | The Wii U's final first-party release and the Switch's launch title — the same game, shipped to both on 3 Mar 2017. |
+| The Legend of Zelda: Breath of the Wild | 2017 | Nintendo EPD | Nintendo | Action-adventure | 1 | No | Sim-ship | Switch (2017, same day) | The Wii U's final first-party release and the Switch's launch title; the same game, shipped to both on 3 Mar 2017. |
 
 ## Contested
 
-Under the debut rule most former disputes resolved themselves — a later port no
+Under the debut rule most former disputes resolved themselves, a later port no
 longer threatens membership, so the only question left is *"is this a debut or a
 port?"*.
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
 | Super Smash Bros. for Wii U | 2014 | **Include** | It is a separate build, not a version: different stages, different modes (8-Player Smash, Smash Tour), different engine target. Nothing named this exists on any other platform. | *Super Smash Bros. for Nintendo 3DS* shipped first (Sep 2014 JP) under the same product line, so the Wii U release is the second half of one product rather than a debut. |
-| Mario & Sonic at the Rio 2016 Olympic Games | 2016 | **Include** | The Wii U build has never appeared elsewhere and has its own event roster. | The 3DS game of the same name shipped first (Feb 2016 JP), and an *Arcade Edition* also exists — both are separate products, but the shared title muddies the debut claim. |
+| Mario & Sonic at the Rio 2016 Olympic Games | 2016 | **Include** | The Wii U build has never appeared elsewhere and has its own event roster. | The 3DS game of the same name shipped first (Feb 2016 JP), and an *Arcade Edition* also exists; both are separate products, but the shared title muddies the debut claim. |
 
 **Resolved by the rule change:** *Super Mario Maker*, *NES Remix*, *NES Remix 2*
 and *FAST Racing NEO* are no longer contested. All four debuted on Wii U; that
@@ -144,14 +144,14 @@ conflate *not on Switch* with *exclusive*. Recorded so they are not re-added.
 
 | Title | Year | Why excluded |
 |---|---|---|
-| The Legend of Zelda: The Wind Waker HD | 2013 | Remaster of a 2002 GameCube game. Fails the debut test — the game debuted elsewhere. The GameCube original is on Switch 2 via NSO; the HD version is not, which is a separate fact. |
+| The Legend of Zelda: The Wind Waker HD | 2013 | Remaster of a 2002 GameCube game. Fails the debut test, the game debuted elsewhere. The GameCube original is on Switch 2 via NSO; the HD version is not, which is a separate fact. |
 | The Legend of Zelda: Twilight Princess HD | 2016 | Remaster of a 2006 GameCube/Wii game. Same reasoning. |
 | Bayonetta | 2014 (Wii U) | Port of the 2009 Xbox 360/PS3 game. |
 | Monster Hunter 3 Ultimate | 2012 | Enhanced re-release of *Monster Hunter Tri* (Wii, 2010); also on 3DS. |
 | Tekken Tag Tournament 2: Wii U Edition | 2012 | Port of the 2011 arcade / 2012 console game. |
-| ZombiU | 2012 | **Not excluded** — it debuted on Wii U and is in the main table as `Ported`. Listed here only because listicles put it in the "stranded" bucket. |
+| ZombiU | 2012 | **Not excluded**: it debuted on Wii U and is in the main table as `Ported`. Listed here only because listicles put it in the "stranded" bucket. |
 | Watch Dogs | 2014 | Multiplatform. |
-| Deus Ex: Human Revolution — Director's Cut | 2013 | Re-release of a 2011 multiplatform game. |
+| Deus Ex: Human Revolution, Director's Cut | 2013 | Re-release of a 2011 multiplatform game. |
 | Sonic & All-Stars Racing Transformed | 2012 | Multiplatform. |
 | Wii U Panorama View | 2013 | Video application, not a game. |
 | Wii Karaoke U | 2013 | Subscription service application, not a game. |
@@ -159,18 +159,18 @@ conflate *not on Switch* with *exclusive*. Recorded so they are not re-added.
 | Word Search / Word Puzzles / Word Logic by POWGI | 2015–16 | Lightwood's word-game line shipped Wii U + 3DS day-and-date, later Switch/PS4/Vita. |
 | Color Zen / Color Zen Kids | 2014 | **iOS first** (2013). |
 | Electronic Super Joy: Groove City | 2015 | PC first (2014). |
-| Unepic, Abyss, Spy Chameleon, Funk of Titans, 99Seconds | 2013–15 | EnjoyUp catalogue — PC-first or 3DS-first, or multiplatform. |
+| Unepic, Abyss, Spy Chameleon, Funk of Titans, 99Seconds | 2013–15 | EnjoyUp catalogue, PC-first or 3DS-first, or multiplatform. |
 | Nintendo eShop Virtual Console (all) | | Re-releases by definition. |
 
 ---
-| *(same-day multiplatform launches)* | | **No longer excluded** — they now appear in the main table as `Sim-ship`. Only *later* ports are excluded. |
-| *(games with an earlier arcade release)* | | **No longer excluded.** Arcades are out of scope — a cabinet is not a collectable home device — so the first *home* release counts as the debut. A prior release on another **home** console still disqualifies. |
+| *(same-day multiplatform launches)* | | **No longer excluded**: they now appear in the main table as `Sim-ship`. Only *later* ports are excluded. |
+| *(games with an earlier arcade release)* | | **No longer excluded.** Arcades are out of scope (a cabinet is not a collectable home device) so the first *home* release counts as the debut. A prior release on another **home** console still disqualifies. |
 
-## Appendix — the eShop long tail
+## Appendix: the eShop long tail
 
 The Wii U library is **792 releases** (Wikipedia's list, parsed 2026-07-29). Beyond
 the titles tabled above, roughly 150 of those come from a dozen micro-publishers who
-released almost exclusively on the Wii U eShop via Nintendo Web Framework — the
+released almost exclusively on the Wii U eShop via Nintendo Web Framework, the
 HTML5/JavaScript toolkit that made Wii U publishing cheap. Almost none of
 this tail was ever ported anywhere.
 
@@ -181,25 +181,25 @@ from the counts in the [Summary](#summary).
 
 | Publisher | Titles | Status | Basis |
 |---|---|---|---|
-| **RCMADIAX** | 33 | **Stranded — high confidence** | Nintendo **denied RCMADIAX a Switch development licence in Feb 2018**. The entire catalogue is locked to Wii U. |
-| **Skunk Software** | 14 | Stranded — likely | Video poker / edutainment micro-publisher. No releases on any later platform found. |
-| **nuGAME / nuGame** | 15 | Stranded — likely | Breakout clones and *RTO* series. No later-platform presence found. |
-| **RandomSpin** | 11 | Stranded — likely | Wii U-only budget catalogue. |
-| **Ultra Dolphin Revolution** | 10 | Stranded — likely | *Shadow Archer* / *Space Hunted* / *Assistant* series, Wii U only. |
+| **RCMADIAX** | 33 | **Stranded, high confidence** | Nintendo **denied RCMADIAX a Switch development licence in Feb 2018**. The entire catalogue is locked to Wii U. |
+| **Skunk Software** | 14 | Stranded, likely | Video poker / edutainment micro-publisher. No releases on any later platform found. |
+| **nuGAME / nuGame** | 15 | Stranded, likely | Breakout clones and *RTO* series. No later-platform presence found. |
+| **RandomSpin** | 11 | Stranded, likely | Wii U-only budget catalogue. |
+| **Ultra Dolphin Revolution** | 10 | Stranded, likely | *Shadow Archer* / *Space Hunted* / *Assistant* series, Wii U only. |
 | **Petite Games** | 9 | **Mixed** | *Super Destronaut* → PS4/XB1/Switch/Vita via Ratalaika (now `Ported`). Others appear stranded. |
-| **Cypronia** | 9 | **Mixed** | *Cube Life: Island Survival* → PC/Switch/PS4 (now `Ported`). *Color Zen* was **iOS-first** (excluded — fails the debut test). |
+| **Cypronia** | 9 | **Mixed** | *Cube Life: Island Survival* → PC/Switch/PS4 (now `Ported`). *Color Zen* was **iOS-first** (excluded, fails the debut test). |
 | **Nitrolic Games** | 8 | **Mixed** | *Citadale* series continued onto Switch; others appear stranded. |
 | **TreeFall Studios** | 7 | **Mixed** | *The Letter* → PS4/PC 2022 (now `Ported`). Remainder appear stranded. |
 | **EnjoyUp Games** | 15 | **Mostly excluded** | Largely multiplatform or 3DS-first (*Unepic* is PC-first, *Abyss* is 3DS-first, *99Seconds*, *Spy Chameleon*, *Funk of Titans* all multiplatform). Few if any qualify. |
 | **Lightwood Games (POWGI)** | 6 | **Excluded** | Word puzzle line shipped Wii U + 3DS day-and-date, and later Switch/PS4/Vita. Fails the debut test. |
-| **Nostatic Software** | 5 | Stranded — likely | Also published on 3DS, but the Wii U titles appear specific to the platform. |
+| **Nostatic Software** | 5 | Stranded, likely | Also published on 3DS, but the Wii U titles appear specific to the platform. |
 | **Yazar Media Group** | 5 | **Mixed** | *Electronic Super Joy: Groove City* is PC-first (excluded). *Cutie Pets* line appears stranded. |
-| **Tacs Games** | 4 | Stranded — likely | *Octocopter*, *Quadcopter Pilot Challenge*, *Factotum*, *Radiantflux*. |
-| **Thornbury Software** | 3 | Stranded — likely | *Archery*, *Shooting Range*, *A Day at the Carnival*. |
+| **Tacs Games** | 4 | Stranded, likely | *Octocopter*, *Quadcopter Pilot Challenge*, *Factotum*, *Radiantflux*. |
+| **Thornbury Software** | 3 | Stranded, likely | *Archery*, *Shooting Range*, *A Day at the Carnival*. |
 | **Intropy Games** | 3 | **Mixed** | *Astral Breakers* reached Switch. |
-| **Brave Rock Games** | 3 | Stranded — likely | Fairy-tale adventure trio. |
+| **Brave Rock Games** | 3 | Stranded, likely | Fairy-tale adventure trio. |
 
-### RCMADIAX — the fully stranded catalogue
+### RCMADIAX: the fully stranded catalogue
 
 The one block with a documented, categorical cause rather than an inferred one. All 33:
 
@@ -242,12 +242,12 @@ Framework budget titles.
 Stated explicitly so the catalogue does not read as more complete than it is:
 
 - **Micro-publisher tail.** The ~150 titles in the
- [Appendix](#appendix--the-eshop-long-tail) are assessed by publisher, not
+ [Appendix](#appendix-the-eshop-long-tail) are assessed by publisher, not
  title-by-title. Only the RCMADIAX block has a documented categorical cause; the
  rest are researched judgements and are excluded from the headline counts.
 - **Japan-only releases.** The Taiko, Just Dance and Yo-kai Watch Wii U SKUs are
  covered; a systematic sweep of the Japanese eShop has not been done.
-- **Wii U Virtual Console.** Deliberately out of scope — re-releases by definition.
+- **Wii U Virtual Console.** Deliberately out of scope, re-releases by definition.
 - **Server status.** `Dead (2024)` reflects the 8 Apr 2024 shutdown of Wii U online
  services. Some titles had features die earlier (`Devil's Third`, Dec 2016).
 
@@ -255,21 +255,21 @@ Stated explicitly so the catalogue does not read as more complete than it is:
 
 Checked 2026-07-29.
 
-- [List of Wii U games — Wikipedia](https://en.wikipedia.org/wiki/List_of_Wii_U_games) — release spine; does **not** mark exclusivity
-- [Potential Switch Port Round-Up: The Wii U Games That Haven't Come To Switch — Nintendo Life](https://www.nintendolife.com/guides/potential-switch-port-round-up-the-wii-u-games-that-havent-come-to-switch)
-- [Wii U games that still haven't been ported to Nintendo Switch — Nintendo Everything](https://nintendoeverything.com/wii-u-games-that-still-havent-been-ported-to-switch/)
-- [10 Wii U Exclusives to Download Before They Disappear Forever — Retro Dodo](https://retrododo.com/wii-u-exclusives-to-download/)
-- [Affordable Space Adventures — Wikipedia](https://en.wikipedia.org/wiki/Affordable_Space_Adventures)
-- [Devil's Third — Wikipedia](https://en.wikipedia.org/wiki/Devil%27s_Third)
-- [Devil's Third servers officially shut down — Siliconera](https://www.siliconera.com/devils-third-servers-officially-shut-online-play/)
-- [Xenoblade Chronicles X coming to Switch March 30 2025 — TipRanks](https://www.tipranks.com/news/the-fly/nintendo-says-xenoblade-chronicles-x-coming-to-switch-march-30-2025)
-- [Every Nintendo Game Announced for 2026 — DualShockers](https://www.dualshockers.com/every-nintendo-game-announced-2026/) — confirms the 2026 *Star Fox* is a Star Fox 64 reimagining, not *Star Fox Zero*
-- [8 Best Wii U Games That Never Came To Switch — TheGamer](https://www.thegamer.com/best-wii-u-games-never-came-nintendo-switch/)
-- [Category:Wii U-only games — Wikipedia](https://en.wikipedia.org/wiki/Category:Wii_U-only_games) — 35-title curated spine used to seed the catalogue
-- [Wii U Publisher RCMADIAX Has Been Denied Switch Development License — My Nintendo News](https://mynintendonews.com/2018/02/10/wii-u-publisher-rcmadiax-has-been-denied-switch-development-license/) — basis for the RCMADIAX block
-- [Interview: RCMADIAX's Michael Aschenbrener — Nintendo Life](https://www.nintendolife.com/news/2016/02/interview_rcmadiaxs_michael_aschenbrener_reflects_on_his_development_experience_and_moving_forward)
-- [All Wii U-Exclusive Games to Get Before the eShop Closes — Nintendo Wire](https://nintendowire.com/guides/wii-u/exclusive-games/) — includes several non-exclusives; used as leads only
-- [23 Best Wii U eShop Games — Nintendo Life](https://www.nintendolife.com/guides/23-best-wii-u-eshop-games-you-should-get-before-theyre-gone-forever)
-- [Cube Life: Island Survival — Wikipedia](https://en.wikipedia.org/wiki/Cube_Life:_Island_Survival)
-- [Super Destronaut DX review — Nintendo Life](https://www.nintendolife.com/reviews/switch-eshop/super_destronaut_dx)
-- [The Letter (video game) — Wikipedia](https://en.wikipedia.org/wiki/The_Letter_(video_game))
+- [List of Wii U games (Wikipedia)](https://en.wikipedia.org/wiki/List_of_Wii_U_games), release spine; does **not** mark exclusivity
+- [Potential Switch Port Round-Up: The Wii U Games That Haven't Come To Switch (Nintendo Life)](https://www.nintendolife.com/guides/potential-switch-port-round-up-the-wii-u-games-that-havent-come-to-switch)
+- [Wii U games that still haven't been ported to Nintendo Switch (Nintendo Everything)](https://nintendoeverything.com/wii-u-games-that-still-havent-been-ported-to-switch/)
+- [10 Wii U Exclusives to Download Before They Disappear Forever (Retro Dodo)](https://retrododo.com/wii-u-exclusives-to-download/)
+- [Affordable Space Adventures (Wikipedia)](https://en.wikipedia.org/wiki/Affordable_Space_Adventures)
+- [Devil's Third (Wikipedia)](https://en.wikipedia.org/wiki/Devil%27s_Third)
+- [Devil's Third servers officially shut down (Siliconera)](https://www.siliconera.com/devils-third-servers-officially-shut-online-play/)
+- [Xenoblade Chronicles X coming to Switch March 30 2025 (TipRanks)](https://www.tipranks.com/news/the-fly/nintendo-says-xenoblade-chronicles-x-coming-to-switch-march-30-2025)
+- [Every Nintendo Game Announced for 2026 (DualShockers)](https://www.dualshockers.com/every-nintendo-game-announced-2026/), confirms the 2026 *Star Fox* is a Star Fox 64 reimagining, not *Star Fox Zero*
+- [8 Best Wii U Games That Never Came To Switch (TheGamer)](https://www.thegamer.com/best-wii-u-games-never-came-nintendo-switch/)
+- [Category:Wii U-only games (Wikipedia)](https://en.wikipedia.org/wiki/Category:Wii_U-only_games), 35-title curated spine used to seed the catalogue
+- [Wii U Publisher RCMADIAX Has Been Denied Switch Development License (My Nintendo News)](https://mynintendonews.com/2018/02/10/wii-u-publisher-rcmadiax-has-been-denied-switch-development-license/), basis for the RCMADIAX block
+- [Interview: RCMADIAX's Michael Aschenbrener (Nintendo Life)](https://www.nintendolife.com/news/2016/02/interview_rcmadiaxs_michael_aschenbrener_reflects_on_his_development_experience_and_moving_forward)
+- [All Wii U-Exclusive Games to Get Before the eShop Closes (Nintendo Wire)](https://nintendowire.com/guides/wii-u/exclusive-games/), includes several non-exclusives; used as leads only
+- [23 Best Wii U eShop Games (Nintendo Life)](https://www.nintendolife.com/guides/23-best-wii-u-eshop-games-you-should-get-before-theyre-gone-forever)
+- [Cube Life: Island Survival (Wikipedia)](https://en.wikipedia.org/wiki/Cube_Life:_Island_Survival)
+- [Super Destronaut DX review (Nintendo Life)](https://www.nintendolife.com/reviews/switch-eshop/super_destronaut_dx)
+- [The Letter (video game) (Wikipedia)](https://en.wikipedia.org/wiki/The_Letter_(video_game))

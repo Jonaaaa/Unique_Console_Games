@@ -1,4 +1,4 @@
-# Game Boy Color — Unique Games Catalogue
+# Game Boy Color
 
 | | |
 |---|---|
@@ -16,18 +16,18 @@
 | | Count |
 |---|---|
 | **Debut games** | **17** |
-| — still `Stranded` | 11 |
-| — since `Ported` | 6 |
+| of which still `Stranded` | 11 |
+| of which since `Ported` | 6 |
 | **Contested** | 1 |
 
 **Why the Game Boy Color strands games.** The GBC inherits the Game Boy's defining
-problem — **hardware inside the cartridge** — and its two worst cases are here:
+problem (**hardware inside the cartridge**) and its two worst cases are here:
 `Kirby Tilt 'n' Tumble` contains an accelerometer, and `Pokémon Pinball` contains a
 rumble motor and its own AAA battery. Neither can be reproduced by a software
 re-release, and neither has ever been attempted.
 
 The second cause is that the GBC launched into the Game Boy Advance's shadow.
-Titles from 2001–02 — `Shantae`, `Resident Evil Gaiden`, `Alone in the Dark` —
+Titles from 2001–02, `Shantae`, `Resident Evil Gaiden`, and `Alone in the Dark`
 shipped into a market that had already moved on, sold almost nothing, and became
 expensive collector cartridges rather than re-release candidates.
 
@@ -40,9 +40,9 @@ the only games in either series absent from *Rare Replay*.
 
 | Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Notes |
 |---|---|---|---|---|---|---|---|---|---|
-| Tetris DX | 1998 | Nintendo R&D1 | Nintendo | Puzzle | 1–2 | No | **Stranded** | | ⚠ [Contested](#contested) — a GBC-enhanced *Tetris*, so a port; but its save system and modes are original. The Tetris licence has since moved to The Tetris Company, blocking reissue. |
+| Tetris DX | 1998 | Nintendo R&D1 | Nintendo | Puzzle | 1–2 | No | **Stranded** | | ⚠ [Contested](#contested), a GBC-enhanced *Tetris*, so a port; but its save system and modes are original. The Tetris licence has since moved to The Tetris Company, blocking reissue. |
 | Conker's Pocket Tales | 1999 | Rare | Rare | Action-adventure | 1 | No | **Stranded** | | Rare's only Game Boy Color game. Omitted from *Rare Replay*, and the only Conker title never reissued. |
-| Harvest Moon 2 GBC | 1999 | Victor Interactive | Natsume | Farming sim | 1 | No | **Stranded** | | Caught in the Harvest Moon / Story of Seasons brand split — Natsume kept the name, Marvelous kept the series, and neither holds a clean path to reissue. |
+| Harvest Moon 2 GBC | 1999 | Victor Interactive | Natsume | Farming sim | 1 | No | **Stranded** | | Caught in the Harvest Moon / Story of Seasons brand split, Natsume kept the name, Marvelous kept the series, and neither holds a clean path to reissue. |
 | Pokémon Pinball | 1999 | Jupiter | Nintendo | Pinball | 1 | No | **Stranded** | | The cartridge contains a rumble motor and its own AAA battery. No re-release can reproduce it, and it has never been attempted. |
 | Survival Kids | 1999 | Konami | Konami | Survival | 1 | No | **Stranded** | | The ancestor of *Lost in Blue*. Never reissued. |
 | Kirby Tilt 'n' Tumble | 2000 | HAL Laboratory | Nintendo | Puzzle | 1 | No | **Stranded** | | An accelerometer in the cartridge; the whole game is played by physically tilting the console. Never re-released, and unreleasable. |
@@ -62,20 +62,20 @@ the only games in either series absent from *Rare Replay*.
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| Tetris DX | 1998 | **Include** (`Stranded`) | Adds save files, a scoring system, a versus mode and colour — a distinct GBC product. | It is fundamentally *Tetris* on the same hardware line, so an enhanced re-release rather than a debut. |
+| Tetris DX | 1998 | **Include** (`Stranded`) | Adds save files, a scoring system, a versus mode and colour, a distinct GBC product. | It is fundamentally *Tetris* on the same hardware line, so an enhanced re-release rather than a debut. |
 
 ## Excluded
 
 | Title | Year | Why excluded |
 |---|---|---|
-| Pokémon Gold and Silver | 1999 | **Dual-mode** — runs on an original Game Boy. Catalogued under [Game Boy](game-boy.md). |
+| Pokémon Gold and Silver | 1999 | **Dual-mode**: runs on an original Game Boy. Catalogued under [Game Boy](game-boy.md). |
 | Wario Land II | 1998 | Dual-mode; catalogued under Game Boy. |
 | Super Mario Bros. Deluxe | 1999 | Enhanced port of the 1985 NES game. |
 | Dragon Warrior I & II / III | 2000 | Ports of NES originals. |
 | Any 3DS Virtual Console / NSO / collection release | | Re-releases by definition. |
 | *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. A prior release on another home platform still disqualifies. |
 
-## Appendix — the tail
+## Appendix: the tail
 
 - **Licensed tie-ins (~200 titles).** The GBC's late library is dominated by film,
  cartoon and toy licences from THQ, Ubi Soft and Activision. Almost all stranded.
@@ -93,7 +93,7 @@ the only games in either series absent from *Rare Replay*.
 
 Checked 2026-07-29.
 
-- [List of Game Boy Color games — Wikipedia](https://en.wikipedia.org/wiki/List_of_Game_Boy_Color_games)
-- [Kirby Tilt 'n' Tumble — Wikipedia](https://en.wikipedia.org/wiki/Kirby_Tilt_%27n%27_Tumble)
-- [Resident Evil Gaiden — Wikipedia](https://en.wikipedia.org/wiki/Resident_Evil_Gaiden)
-- [Conker's Pocket Tales — Wikipedia](https://en.wikipedia.org/wiki/Conker%27s_Pocket_Tales)
+- [List of Game Boy Color games (Wikipedia)](https://en.wikipedia.org/wiki/List_of_Game_Boy_Color_games)
+- [Kirby Tilt 'n' Tumble (Wikipedia)](https://en.wikipedia.org/wiki/Kirby_Tilt_%27n%27_Tumble)
+- [Resident Evil Gaiden (Wikipedia)](https://en.wikipedia.org/wiki/Resident_Evil_Gaiden)
+- [Conker's Pocket Tales (Wikipedia)](https://en.wikipedia.org/wiki/Conker%27s_Pocket_Tales)
