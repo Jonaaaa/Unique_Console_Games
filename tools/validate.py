@@ -123,6 +123,53 @@ def check_file(path: Path) -> list[str]:
     return problems
 
 
+def check_rules(path: Path) -> list[str]:
+    """Two rules the ruleset states and nothing was checking.
+
+    R5: `Sim-ship` means the same day, not the same year. A row that says
+    "same window" is admitting it does not meet the rule, and three of them
+    have sat that way since the first pass.
+
+    And a file must not argue with itself: if the Contested table records a
+    verdict of Exclude, the game cannot also be sitting in the debut table.
+    """
+    problems: list[str] = []
+    rel = path.relative_to(ROOT)
+    text = path.read_text(encoding="utf-8")
+    lines = text.splitlines()
+
+    starts = [i for i, l in enumerate(lines) if l.startswith(DEBUT_HEADER)]
+    if not starts:
+        return problems
+
+    debut: set[str] = set()
+    for lineno, line in enumerate(lines[starts[0] + 2:], start=starts[0] + 3):
+        if not line.startswith("|"):
+            break
+        cells = [c.strip() for c in CELL_SPLIT_RE.split(line)[1:-1]]
+        if len(cells) != EXPECTED_CELLS:
+            continue
+        title = re.sub(r"[*`]", "", cells[0]).strip()
+        debut.add(title.lower())
+        status = re.sub(r"[*`]", "", cells[7]).strip()
+        if status == "Sim-ship" and "same day" not in cells[8].lower():
+            problems.append(f"{rel}:{lineno}: {title!r} is Sim-ship but Also On says "
+                            f"{cells[8][:40]!r}; the rule is same day, not same year")
+
+    section = re.search(r"^## Contested\n(.*?)(?=^## |\Z)", text, re.S | re.M)
+    if section:
+        for line in section.group(1).splitlines():
+            if not line.startswith("|") or SEPARATOR_RE.match(line.strip()):
+                continue
+            cells = [c.strip() for c in CELL_SPLIT_RE.split(line)[1:-1]]
+            if len(cells) >= 3 and "exclude" in re.sub(r"[*`]", "", cells[2]).lower():
+                title = re.sub(r"[*`]", "", cells[0]).strip()
+                if title.lower() in debut:
+                    problems.append(f"{rel}: Contested says exclude {title!r}, but it is "
+                                    f"in the debut table")
+    return problems
+
+
 def check_glued(path: Path) -> list[str]:
     """A table row must end at its final pipe.
 
@@ -189,6 +236,7 @@ def main() -> int:
     problems: list[str] = []
     for path in catalogs:
         problems += check_file(path)
+        problems += check_rules(path)
     for path in catalogs + docs:
         problems += check_glued(path)
     problems += check_links(catalogs + docs)

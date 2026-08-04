@@ -11,15 +11,15 @@ debut is permanent.
 |---|---|---|---|---|
 | [Magnavox Odyssey](catalogs/magnavox-odyssey.md) | Sep 1972 – 1975 | **1** | 1 | 0 |
 | [Fairchild Channel F](catalogs/fairchild-channel-f.md) | Nov 1976 – 1983 | **6** | 6 | 0 |
-| [Atari 2600](catalogs/atari-2600.md) | Sep 1977 – 1992 | **22** | 7 | 14 +1 sim |
+| [Atari 2600](catalogs/atari-2600.md) | Sep 1977 – 1992 | **22** | 7 | 15 |
 | [RCA Studio II](catalogs/rca-studio-ii.md) | Jan 1977 – 1979 | **4** | 4 | 0 |
 | [Bally Astrocade](catalogs/bally-astrocade.md) | 1978 – 1983 | **5** | 5 | 0 |
 | [Magnavox Odyssey²](catalogs/magnavox-odyssey-2.md) | 1978 – 1984 | **7** | 7 | 0 |
 | [Casio PV-1000, Bandai Super Vision 8000, Gakken TV Boy](catalogs/early-japanese-consoles.md) | 1979 – 1984 | **6** | 6 | 0 |
-| [Mattel Intellivision](catalogs/intellivision.md) | 1979 – 1990 | **14** | 6 | 7 +1 sim |
+| [Mattel Intellivision](catalogs/intellivision.md) | 1979 – 1990 | **13** | 6 | 7 |
 | [Epoch Cassette Vision / Super Cassette Vision](catalogs/epoch-cassette-vision.md) | Jul 1981 – 1987 | **6** | 6 | 0 |
 | [Atari 5200](catalogs/atari-5200.md) | Nov 1982 – 1984 | **7** | 5 | 2 |
-| [ColecoVision](catalogs/colecovision.md) | Aug 1982 – 1985 | **10** | 7 | 2 +1 sim |
+| [ColecoVision](catalogs/colecovision.md) | Aug 1982 – 1985 | **9** | 7 | 2 |
 | [GCE Vectrex](catalogs/vectrex.md) | Nov 1982 – early 1984 | **8** | 8 | 0 |
 | [Nintendo Entertainment System / Famicom](catalogs/nes.md) | Jul 1983 (JP) – 1995 (NA) / 2003 (JP) | **61** | 26 | 34 +1 sim |
 | [Sega SG-1000](catalogs/sg-1000.md) | Jul 1983 – 1985 | **10** | 9 | 1 |
@@ -83,7 +83,7 @@ and portable games system with a commercial software library, from the Magnavox 
 (1972) to the Switch 2 (2025). See [ROSTER.md](ROSTER.md) for what is included,
 excluded and folded in, and why.
 
-**1,731 debut games. 1017 still stranded.**
+**1,729 debut games. 1017 still stranded.**
 
 
 **Hardware revisions are not platforms.** Game Boy Pocket/Light, GBA SP/Micro,
