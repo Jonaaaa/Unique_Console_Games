@@ -37,7 +37,7 @@ games each, sold as a collector's joke about the console's unreadable screen.
 | Ax Battler: A Legend of Golden Axe | 1991 | Sega | Sega | Action RPG | 1 | No | **Stranded** |  |  | Sold | A side-scrolling RPG in the Golden Axe setting, omitted from Golden Axe collections. |
 | Crystal Warriors | 1991 | Sega | Sega | Tactical RPG | 1–2 | No | **Stranded** |  |  | Sold | A Fire Emblem-style tactics game Sega never revisited. |
 | Dragon Crystal | 1991 | Sega | Sega | Roguelike | 1 | No | **Stranded** |  |  | Sold | An early Sega roguelike, omitted from collections that overwhelmingly favour Genesis titles. |
-| Fantasy Zone Gear | 1991 | Sanritsu | Sega | Shoot 'em up | 1 | No | **Stranded** |  |  | Sold | An original entry, not a conversion. |
+| Fantasy Zone Gear | 1991 | Sanritsu | Sega | Shoot 'em up | 1 | No | **Stranded** |  |  | Sold | An original entry, not a conversion. A cute-em-up built for the handheld rather than converted from the arcade game, which is why it qualifies. |
 | Halley Wars | 1991 | Taito | Taito | Shoot 'em up | 1 | No | **Stranded** |  |  | Sold | A Taito-published handheld shmup absent from every Taito collection. |
 | Popils | 1991 | Tengen | Sega | Puzzle | 1 | No | **Stranded** |  |  | Sold | Designed by Tetris creator Alexey Pajitnov. |
 | The GG Shinobi | 1991 | Sega | Sega | Action-platformer | 1 | No | **Stranded** |  |  | Sold | An original Shinobi built for the handheld, with four swappable ninja. Widely rated the platform's best non-Sonic game. |
@@ -45,22 +45,22 @@ games each, sold as a collector's joke about the console's unreadable screen.
 | Sonic the Hedgehog 2 | 1992 | Aspect | Sega | Platformer | 1 | No | Ported | *Sonic Gems Collection*, *Sonic Origins Plus* (2023) |  | Sold | An entirely different game from the Genesis *Sonic 2*, sharing only the name. |
 | The GG Shinobi II: The Silent Fury | 1992 | Sega | Sega | Action-platformer | 1 | No | **Stranded** |  |  | Sold | Sega's Shinobi collections cover the arcade and Genesis games; both handheld originals were left out. |
 | Dr. Robotnik's Mean Bean Machine | 1993 | Compile | Sega | Puzzle | 1–2 | No | Ported | *Sonic Origins Plus* (2023) |  | Sold | A `Puyo Puyo` reskin using the Sonic cartoon's cast, and how most Westerners met the puzzle game. Sega-owned, so its collections carry it. |
-| Land of Illusion Starring Mickey Mouse | 1993 | Sega | Sega | Platformer | 1 | No | **Stranded** |  |  | Sold | Disney licence. |
+| Land of Illusion Starring Mickey Mouse | 1993 | Sega | Sega | Platformer | 1 | No | **Stranded** |  |  | Sold | Disney licence. A platformer in Sega's well-regarded Mickey line, and the Disney licence is the obstacle. |
 | Mortal Kombat | 1993 | Probe | Acclaim | Fighting | 1–2 | No | Sim-ship | SNES, Genesis, Master System (1993, same day) |  | Sold | Part of the "Mortal Monday" four-platform launch. |
 | Shining Force: The Sword of Hajya | 1993 | Sonic! Software Planning | Sega | Tactical RPG | 1 | No | **Stranded** |  |  | Sold | A full Shining Force entry, absent from every Shining collection. |
 | Sonic Chaos | 1993 | Aspect | Sega | Platformer | 1 | No | Ported | *Sonic Origins Plus* (2023) |  | Sold | ⚠ [Contested](#contested), released on Master System in the same window. |
 | Vampire: Master of Darkness | 1993 | SIMS | Sega | Action-platformer | 1 | No | **Stranded** |  |  | Sold | SIMS' Castlevania-alike; the Master System version is stranded too, so neither build is available. |
 | Coca-Cola Kid | 1994 | Aspect | Sega | Platformer | 1 | No | **Stranded** |  | Japanese | Sold | Japan-only. A **Coca-Cola advergame**; the licence makes reissue impossible and the game is a genuine curiosity. |
-| Sonic Drift | 1994 | Sega | Sega | Racing | 1 | No | Ported | *Sonic Origins Plus* (2023) | Japanese | Sold | Japan-only originally. |
-| Sonic the Hedgehog: Triple Trouble | 1994 | Aspect | Sega | Platformer | 1 | No | Ported | *Sonic Origins Plus* (2023) |  | Sold | The best-regarded 8-bit Sonic. |
+| Sonic Drift | 1994 | Sega | Sega | Racing | 1 | No | Ported | *Sonic Origins Plus* (2023) | Japanese | Sold | Japan-only originally. A kart racer with the Sonic cast, and the first of two. |
+| Sonic the Hedgehog: Triple Trouble | 1994 | Aspect | Sega | Platformer | 1 | No | Ported | *Sonic Origins Plus* (2023) |  | Sold | The best-regarded 8-bit Sonic. The largest of the 8-bit Sonic games, with vehicle sections, and Sega-owned so its collections carry it. |
 | Gunstar Heroes | 1995 | M2 | Sega | Run and gun | 1 | No | **Stranded** |  |  | Sold | A **from-scratch Game Gear game** by M2, not a port of the Genesis original, and unlike that game, never reissued. |
-| Legend of Illusion Starring Mickey Mouse | 1995 | Aspect | Sega | Platformer | 1 | No | **Stranded** |  |  | Sold | Disney licence. |
+| Legend of Illusion Starring Mickey Mouse | 1995 | Aspect | Sega | Platformer | 1 | No | **Stranded** |  |  | Sold | Disney licence. The last of the Illusion games, held by the same Disney licence as the others. |
 | Ristar | 1995 | Sega | Sega | Platformer | 1 | No | **Stranded** |  |  | Sold | The 8-bit *Ristar* is a separate game from the Genesis one; only the Genesis version is reissued. |
 | Shining Force Gaiden: Final Conflict | 1995 | Sonic! Software Planning | Sega | Tactical RPG | 1 | No | **Stranded** |  | Japanese | Sold | Japan-only. Closes a plot thread the Western releases never opened. |
 | Sonic Drift 2 | 1995 | Sega | Sega | Racing | 1 | No | Ported | *Sonic Origins Plus* (2023) |  | Sold | A kart racer with the Sonic cast, made for the handheld. Included in `Sonic Origins Plus`. |
 | Sonic Labyrinth | 1995 | Minato Giken | Sega | Puzzle / action | 1 | No | Ported | *Sonic Gems Collection*, *Sonic Origins Plus* |  | Sold | An isometric Sonic who cannot run, considered the worst Sonic game. |
 | Tails Adventure | 1995 | Aspect | Sega | Action-adventure | 1 | No | Ported | *Sonic Gems Collection*, *Sonic Origins Plus* |  | Sold | A slow, Metroid-style game starring Tails, nothing like a Sonic title. |
-| Tails' Skypatrol | 1995 | Sims | Sega | Shoot 'em up | 1 | No | Ported | *Sonic Gems Collection*, *Sonic Origins Plus* | Japanese | Sold | Japan-only originally. |
+| Tails' Skypatrol | 1995 | Sims | Sega | Shoot 'em up | 1 | No | Ported | *Sonic Gems Collection*, *Sonic Origins Plus* | Japanese | Sold | Japan-only originally. A one-button flying game starring Tails alone, and the oddest thing on the handheld. |
 | Baku Baku Animal | 1996 | Sega | Sega | Puzzle | 1–2 | No | Ported | Saturn, Sega collections |  | Sold | A falling-block puzzler where animals eat their matching food. Ported to Saturn and collected since. |
 | Madou Monogatari I | 1996 | Compile | Compile | Dungeon crawler | 1 | No | **Stranded** |  | Japanese | Sold | Japan-only. The series that *Puyo Puyo* spun out of. |
 | Panzer Dragoon Mini | 1996 | Sega | Sega | Rail shooter | 1 | No | **Stranded** |  | Japanese | Sold | Japan-only. The only handheld Panzer Dragoon, and the only entry untouched by the 2020 remake wave. |

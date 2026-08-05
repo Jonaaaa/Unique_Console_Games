@@ -56,9 +56,9 @@ Two narrower causes do real work, though:
 | 1-2-Switch | 2017 | Nintendo EPD | Nintendo | Party | 2 | No | **Stranded** |  |  | Sold | Launch title. Played by looking at your opponent rather than the screen, using HD Rumble. Unportable by design. |
 | Arms | 2017 | Nintendo EPD | Nintendo | Fighting | 1–4 | Yes | **Stranded** |  |  | Sold | A new IP built around motion-controlled punching; Nintendo has not returned to it. |
 | Mario + Rabbids Kingdom Battle | 2017 | Ubisoft Milan / Paris | Ubisoft | Tactical RPG | 1–2 | No | **Stranded** |  |  | Sold | A Ubisoft game that cannot leave, because half its cast is Nintendo's. |
-| Snipperclips | 2017 | SFB Games | Nintendo | Puzzle | 1–4 | No | **Stranded** |  |  | Sold | Launch eShop title. |
-| Splatoon 2 | 2017 | Nintendo EPD | Nintendo | Third-person shooter | 1–8 | Yes | **Stranded** |  |  | Sold | 13.60M. |
-| Super Mario Odyssey | 2017 | Nintendo EPD | Nintendo | Platformer | 1–2 | No | **Stranded** |  |  | Sold | 28.90M. |
+| Snipperclips | 2017 | SFB Games | Nintendo | Puzzle | 1–4 | No | **Stranded** |  |  | Sold | Launch eShop title. A two-player puzzle game about cutting each other into shapes, sold on the eShop at launch and first-party throughout. |
+| Splatoon 2 | 2017 | Nintendo EPD | Nintendo | Third-person shooter | 1–8 | Yes | **Stranded** |  |  | Sold | 13.60M. A team shooter about covering ground in ink rather than eliminating opponents. Nintendo-published, so it stays. |
+| Super Mario Odyssey | 2017 | Nintendo EPD | Nintendo | Platformer | 1–2 | No | **Stranded** |  |  | Sold | 28.90M. A 3D platformer built on capturing enemies to use their abilities, and the generation's flagship. First-party. |
 | The Legend of Zelda: Breath of the Wild | 2017 | Nintendo EPD | Nintendo | Action-adventure | 1 | No | Sim-ship | Wii U (2017, same day) |  | Sold | Launch title, and simultaneously the Wii U's final first-party release. Also catalogued under [Wii U](wii-u.md). |
 | Xenoblade Chronicles 2 | 2017 | Monolith Soft | Nintendo | RPG | 1 | No | **Stranded** |  |  | Sold | Monolith Soft is wholly owned by Nintendo, so its output never appears on competing hardware. |
 | Kirby Star Allies | 2018 | HAL Laboratory | Nintendo | Platformer | 1–4 | Yes | **Stranded** |  |  | Sold | No Kirby game has ever released on non-Nintendo hardware in the series' 33-year history. |
@@ -70,10 +70,10 @@ Two narrower causes do real work, though:
 | Cadence of Hyrule | 2019 | Brace Yourself Games | Nintendo | Rhythm roguelike | 1–2 | No | **Stranded** |  |  | Sold | *Crypt of the NecroDancer* is multiplatform; this one cannot follow it because it is a Zelda game. |
 | Fire Emblem: Three Houses | 2019 | Intelligent Systems / Koei Tecmo | Nintendo | Tactical RPG | 1 | No | **Stranded** |  |  | Sold | Nintendo owns the series outright; the Koei Tecmo co-development does not create an external rights holder. |
 | Luigi's Mansion 3 | 2019 | Next Level Games | Nintendo | Action-adventure | 1–2 | Yes | **Stranded** |  |  | Sold | Nintendo acquired Next Level Games in 2021. |
-| Pokémon Sword and Shield | 2019 | Game Freak | Nintendo | RPG | 1–4 | Yes | **Stranded** |  |  | Sold | 26.71M. |
+| Pokémon Sword and Shield | 2019 | Game Freak | Nintendo | RPG | 1–4 | Yes | **Stranded** |  |  | Sold | 26.71M. The eighth generation, and the first mainline entry on a home console. The Pokémon Company licenses nothing to competing hardware. |
 | Ring Fit Adventure | 2019 | Nintendo EPD | Nintendo | Fitness RPG | 1–2 | No | **Stranded** |  |  | Sold | Requires the Ring-Con and leg strap. The Wii Fit problem, one generation on. |
 | Yoshi's Crafted World | 2019 | Good-Feel | Nintendo | Platformer | 1–2 | No | **Stranded** |  |  | Sold | Good-Feel developed it, but Nintendo owns Yoshi and does not license the character out. |
-| Animal Crossing: New Horizons | 2020 | Nintendo EPD | Nintendo | Life sim | 1–8 | Yes | **Stranded** |  |  | Sold | **47.86M that is still stranded.** |
+| Animal Crossing: New Horizons | 2020 | Nintendo EPD | Nintendo | Life sim | 1–8 | Yes | **Stranded** |  |  | Sold | **47.86M that is still stranded.** Island terraforming and crafting, and the best-selling entry in its series by a wide margin. First-party. |
 | Hyrule Warriors: Age of Calamity | 2020 | Omega Force | Nintendo | Musou | 1–2 | No | **Stranded** |  |  | Sold | Unlike the Wii U *Hyrule Warriors*, this one has not moved. |
 | Minecraft Dungeons | 2020 | Mojang | Microsoft | Action RPG | 1–4 | Yes | Sim-ship | Xbox One, PS4, PC (2020, same day) |  | Sold | Also catalogued under [Xbox One](xbox-one.md) and [PS4](ps4.md). |
 | Paper Mario: The Origami King | 2020 | Intelligent Systems | Nintendo | Adventure | 1 | No | **Stranded** |  |  | Sold | Intelligent Systems is a Nintendo subsidiary; there is no third party who could port it. |
@@ -87,7 +87,7 @@ Two narrower causes do real work, though:
 | Mario Strikers: Battle League | 2022 | Next Level Games | Nintendo | Sports | 1–8 | Yes | **Stranded** |  |  | Sold | Next Level Games was acquired outright by Nintendo in 2021. |
 | Nintendo Switch Sports | 2022 | Nintendo EPD | Nintendo | Sports | 1–4 | Yes | **Stranded** |  |  | Sold | The Wii Sports lineage continues, and continues to be unportable. |
 | Pokémon Legends: Arceus | 2022 | Game Freak | Nintendo | RPG | 1 | Yes | **Stranded** |  |  | Sold | Same Pokémon licensing position; console entries do not leave Nintendo platforms. |
-| Pokémon Scarlet and Violet | 2022 | Game Freak | Nintendo | RPG | 1–4 | Yes | **Stranded** |  |  | Sold | 26.62M. |
+| Pokémon Scarlet and Violet | 2022 | Game Freak | Nintendo | RPG | 1–4 | Yes | **Stranded** |  |  | Sold | 26.62M. The ninth generation, and the first fully open-world one. Same licensing position as every other entry. |
 | Splatoon 3 | 2022 | Nintendo EPD | Nintendo | Third-person shooter | 1–8 | Yes | **Stranded** |  |  | Sold | Nintendo-owned IP developed in-house at EPD; its online services also tie it to Nintendo's infrastructure. |
 | Xenoblade Chronicles 3 | 2022 | Monolith Soft | Nintendo | RPG | 1 | No | **Stranded** |  |  | Sold | As with *Xenoblade 2*, Monolith Soft is a Nintendo studio. |
 | Everybody 1-2-Switch! | 2023 | Nintendo EPD | Nintendo | Party | 2–100 | No | **Stranded** |  |  | Sold | Uses phones as controllers. Released with no fanfare after a reportedly troubled development. |

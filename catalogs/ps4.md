@@ -67,20 +67,20 @@ Two narrower causes do real work:
 | Nioh | 2017 | Team Ninja | Sony / Koei Tecmo | Action RPG | 1–3 | Yes | **Stranded** |  |  | Sold | PC followed in 2017 and PS5 in 2021 (same family). No other console. |
 | Astro Bot Rescue Mission | 2018 | Team Asobi | Sony | Platformer (VR) | 1 | No | **Stranded** |  |  | Sold | **PSVR-exclusive.** Requires the original PlayStation VR headset, which Sony discontinued, peripheral-locked in the same way as `Wii Fit` or `Wonderbook`. |
 | Detroit: Become Human | 2018 | Quantic Dream | Sony | Interactive drama | 1 | No | **Stranded** |  |  | Sold | PC in 2019. Quantic Dream has since self-published elsewhere, but this Sony-published title has not moved. |
-| God of War | 2018 | SCE Santa Monica | Sony | Action-adventure | 1 | No | **Stranded** |  |  | Sold | PC in 2022; no second console. |
+| God of War | 2018 | SCE Santa Monica | Sony | Action-adventure | 1 | No | **Stranded** |  |  | Sold | PC in 2022; no second console. The Norse reboot, told in one unbroken camera shot, and the entry that redefined the series. Sony-owned; PC is as far as it goes. |
 | Marvel's Spider-Man | 2018 | Insomniac | Sony | Action-adventure | 1 | No | **Stranded** |  |  | Sold | PS5 remaster (2020) and PC (2022), but no other console, and the **Marvel licence** means Sony could not put it on Nintendo or Xbox hardware even if it wanted to. |
-| Concrete Genie | 2019 | PixelOpus | Sony | Adventure | 1 | No | **Stranded** |  |  | Sold | PixelOpus was closed by Sony in 2023. |
+| Concrete Genie | 2019 | PixelOpus | Sony | Adventure | 1 | No | **Stranded** |  |  | Sold | PixelOpus was closed by Sony in 2023. A game about painting a dying harbour town back to life, and the studio was closed by Sony in 2023. |
 | Days Gone | 2019 | Bend Studio | Sony | Action-adventure | 1 | No | **Stranded** |  |  | Sold | PC in 2021 and a PS5 remaster in 2025; no other console. Sony declined a sequel. |
 | Death Stranding | 2019 | Kojima Productions | Sony | Action-adventure | 1 | Yes | Ported | PC (2020); Xbox Series (2025, *Director's Cut*) |  | Sold | Kojima Productions retained rights, which is why this reached Microsoft hardware while Sony's own titles did not. |
 | Dreams | 2020 | Media Molecule | Sony | Creation | 1–4 | **Dead (2024)** | **Stranded** |  |  | Sold | A game-creation platform whose entire value was the community. Sony ended live support in 2024, and Media Molecule was restructured. Millions of user creations exist only inside a service in wind-down, the same shape as `LittleBigPlanet` one generation earlier. |
 | Ghost of Tsushima | 2020 | Sucker Punch | Sony | Action-adventure | 1–3 | Yes | **Stranded** |  |  | Sold | PC in 2024 and a PS5 director's cut; no other console. |
 | Marvel's Spider-Man: Miles Morales | 2020 | Insomniac | Sony | Action-adventure | 1 | No | Sim-ship | PS5 (2020, same day); PC (2022) |  | Sold | Cross-gen launch, also catalogued under [PS5](ps5.md). |
 | Minecraft Dungeons | 2020 | Mojang | Microsoft | Action RPG | 1–4 | Yes | Sim-ship | Xbox One, Switch, PC (2020, same day) |  | Sold | Also catalogued under [Xbox One](xbox-one.md) and [Switch](switch.md). |
-| Sackboy: A Big Adventure | 2020 | Sumo Digital | Sony | Platformer | 1–4 | Dead | Sim-ship | PS5 (2020, same day); PC (2022) |  | Sold | Also catalogued under [PS5](ps5.md). |
+| Sackboy: A Big Adventure | 2020 | Sumo Digital | Sony | Platformer | 1–4 | Dead | Sim-ship | PS5 (2020, same day); PC (2022) |  | Sold | Also catalogued under [PS5](ps5.md). A 3D platformer using the `LittleBigPlanet` character, launched the same day on PS5. |
 | The Last of Us Part II | 2020 | Naughty Dog | Sony | Action-adventure | 1 | No | **Stranded** |  |  | Sold | A PS5 remaster (2024) and PC (2025), both within the family or off-console. |
-| God of War Ragnarök | 2022 | SCE Santa Monica | Sony | Action-adventure | 1 | No | Sim-ship | PS5 (2022, same day); PC (2024) |  | Sold | Also catalogued under [PS5](ps5.md). |
+| God of War Ragnarök | 2022 | SCE Santa Monica | Sony | Action-adventure | 1 | No | Sim-ship | PS5 (2022, same day); PC (2024) |  | Sold | Also catalogued under [PS5](ps5.md). The conclusion of the Norse arc, launched the same day on PS5. |
 | Gran Turismo 7 | 2022 | Polyphony Digital | Sony | Racing | 1–20 | Yes | Sim-ship | PS5 (2022, same day) |  | Sold | Also catalogued under [PS5](ps5.md). The last major cross-gen PS4 release. |
-| Horizon Forbidden West | 2022 | Guerrilla Games | Sony | Action RPG | 1 | No | Sim-ship | PS5 (2022, same day); PC (2024) |  | Sold | Also catalogued under [PS5](ps5.md). |
+| Horizon Forbidden West | 2022 | Guerrilla Games | Sony | Action RPG | 1 | No | Sim-ship | PS5 (2022, same day); PC (2024) |  | Sold | Also catalogued under [PS5](ps5.md). An open-world action role-playing game against robotic animals, co-launched on PS5. |
 
 ## Contested
 

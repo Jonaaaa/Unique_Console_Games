@@ -59,7 +59,7 @@ PC does not count here. Beyond that:
 | Killer Instinct | 2013 | Double Helix / Iron Galaxy | Microsoft | Fighting | 1–2 | Yes | **Stranded** |  |  | Sold | Launch title. The SNES and N64 *Killer Instinct* games are also stranded, each for a different reason. PC version exists. |
 | Ryse: Son of Rome | 2013 | Crytek | Microsoft | Action | 1–2 | Dead | **Stranded** |  |  | Sold | Launch title. A PC version shipped in 2014; no other console. |
 | Fantasia: Music Evolved | 2014 | Harmonix | Disney | Rhythm | 1–2 | No | **Stranded** |  |  | Sold | Kinect **plus** a Disney licence **plus** licensed music: three independent walls, the most over-locked entry on the platform. |
-| Forza Horizon 2 | 2014 | Playground Games | Microsoft | Racing | 1–12 | Dead | **Stranded** |  |  | Sold | Delisted in 2018. |
+| Forza Horizon 2 | 2014 | Playground Games | Microsoft | Racing | 1–12 | Dead | **Stranded** |  |  | Sold | Delisted in 2018. An open-world racer in southern Europe; its car and music licences expired, which is what delisted it. |
 | Halo: The Master Chief Collection | 2014 | 343 Industries | Microsoft | Compilation | 1–24 | Yes | **Stranded** |  |  | Sold | Its `Halo 2: Anniversary` remaster is exclusive to this package. A PC version exists (2019–20) but PC is not a catalogued platform, so there is no second console for it. |
 | Kinect Sports Rivals | 2014 | Rare | Microsoft | Sports | 1–2 | Dead | **Stranded** |  |  | Sold | Rare's last Kinect game before *Sea of Thieves*. Needs hardware discontinued in 2017. |
 | Sunset Overdrive | 2014 | Insomniac | Microsoft | Action | 1–8 | Dead | **Stranded** |  |  | Sold | Insomniac was later bought by **Sony**, which makes a re-release of a Microsoft-published game awkward. PC version 2018. |
@@ -72,14 +72,14 @@ PC does not count here. Beyond that:
 | Quantum Break | 2016 | Remedy | Microsoft | Action | 1 | No | **Stranded** |  |  | Sold | Its live-action episodes were streamed, which complicates any reissue. PC version 2016. |
 | ReCore | 2016 | Comcept / Armature | Microsoft | Action-adventure | 1 | No | **Stranded** |  |  | Sold | Keiji Inafune's Microsoft-published project. PC version 2016. |
 | Cuphead | 2017 | Studio MDHR | Studio MDHR | Run and gun | 1–2 | No | Ported | Switch (2019), PS4 (2020), PC |  | Sold | A boss-rush run-and-gun drawn as a 1930s cartoon, cel by cel. Its exclusivity lapsed and it reached everything. |
-| Halo Wars 2 | 2017 | Creative Assembly | Microsoft | RTS | 1–6 | Yes | **Stranded** |  |  | Sold | PC version day-one. |
+| Halo Wars 2 | 2017 | Creative Assembly | Microsoft | RTS | 1–6 | Yes | **Stranded** |  |  | Sold | PC version day-one. A real-time strategy game in the Halo setting, built for a controller. Microsoft-published, so PC is the only other platform. |
 | Sea of Thieves | 2018 | Rare | Microsoft | Action-adventure | 1–24 | Yes | Ported | PS5 (2024), PC |  | Sold | **The first Microsoft first-party game released on a PlayStation console**: the moment the policy changed. |
-| State of Decay 2 | 2018 | Undead Labs | Microsoft | Survival | 1–4 | Yes | **Stranded** |  |  | Sold | PC version day-one. |
+| State of Decay 2 | 2018 | Undead Labs | Microsoft | Survival | 1–4 | Yes | **Stranded** |  |  | Sold | PC version day-one. An open-world survival game about managing a community of survivors who die permanently. Microsoft owns the studio. |
 | Crackdown 3 | 2019 | Sumo Digital | Microsoft | Open-world action | 1–2 | Dead | **Stranded** |  |  | Sold | Announced in 2014, delayed repeatedly; its cloud-destruction multiplayer servers are gone. The whole Crackdown series is stranded. |
-| Gears 5 | 2019 | The Coalition | Microsoft | Third-person shooter | 1–10 | Yes | **Stranded** |  |  | Sold | PC version day-one. |
+| Gears 5 | 2019 | The Coalition | Microsoft | Third-person shooter | 1–10 | Yes | **Stranded** |  |  | Sold | PC version day-one. The fifth mainline entry, and the first with open areas between its corridors. First-party. |
 | Battletoads | 2020 | Dlala Studios | Microsoft | Beat 'em up | 1–3 | No | **Stranded** |  |  | Sold | The series' revival. PC version day-one; unlike the NES original it is not in *Rare Replay*. |
 | Bleeding Edge | 2020 | Ninja Theory | Microsoft | Multiplayer brawler | 1–8 | **Dead (2024)** | **Stranded** |  |  | Sold | Support ended within a year and servers closed in 2024. Online-only, so the game no longer functions. |
-| Grounded | 2020 | Obsidian | Microsoft | Survival | 1–4 | Yes | Ported | PS5, Switch (2024), PC |  | Sold | Part of the 2024 multiplatform wave. |
+| Grounded | 2020 | Obsidian | Microsoft | Survival | 1–4 | Yes | Ported | PS5, Switch (2024), PC |  | Sold | Part of the 2024 multiplatform wave. A survival game at insect scale in a suburban garden, and one of the titles Microsoft's 2024 policy change carried to other consoles. |
 | Minecraft Dungeons | 2020 | Mojang | Microsoft | Action RPG | 1–4 | Yes | Sim-ship | PS4, Switch, PC (2020, same day) |  | Sold | A rare Microsoft title that launched multiplatform on day one rather than staying on Xbox. |
 | Ori and the Will of the Wisps | 2020 | Moon Studios | Microsoft | Platformer | 1 | No | Ported | Switch (2020), PC |  | Sold | A hand-painted exploration platformer, larger and more combat-focused than the first. Ported to Switch. |
 | Tell Me Why | 2020 | Dontnod | Microsoft | Adventure | 1 | No | **Stranded** |  |  | Backup | PC version day-one; delisted from sale in 2024 and made temporarily free. |
