@@ -209,6 +209,7 @@ One table per platform, identical columns everywhere so files stay diff-able.
 | `Status` | `Stranded`, `Ported`, or `Sim-ship`. |
 | `Also On` | Empty when stranded. Otherwise every platform with year: `Switch (2017), PC (2020)`. For `Sim-ship`, list the co-launch platforms and mark them, e.g. `Switch (2017, same day)`. |
 | `Language` | The language the game shipped in, where it is known and worth stating. Japan-only releases are `Japanese`. Leave empty rather than assuming; an empty cell means unrecorded, not English. |
+| `Availability` | `Sold` if an ordinary public channel still carries it, including the second-hand market. `Backup` if none does. See [Availability](#availability-whether-it-can-still-be-bought). |
 | `Notes` | **Required.** At least one sentence saying what the release is and why its `Status` is what it is: the hardware dependency, licence, studio closure or dead server that stranded it, or what carried it off the platform. Not review commentary. See [Notes](#notes). |
 
 Sort by Year, then Title. Keep everything in **one** table; status is a column,
@@ -245,6 +246,34 @@ A reason of four words is fine when four words are the whole reason. "PC
 original.", "Backward compatibility." and "Re-releases by definition." each name
 the rule that disqualifies the title, which is all this column is for. Length is
 not the measure; naming the rule is.
+
+## Availability: whether it can still be bought
+
+`Status` says whether a game ever left this platform. `Availability` says
+whether you can still get it, which is a different question with a different
+answer, and the two are independent: a `Ported` game can be delisted everywhere
+and a `Stranded` one can be in print on cartridge.
+
+| Value | Meaning |
+|---|---|
+| `Sold` | Obtainable through an ordinary public channel: a current store listing, a subscription that carries it, or a second-hand disc or cartridge. |
+| `Backup` | Not obtainable through any of those. The remaining route is a backup of media you already own, or a homebrew or community release. |
+
+**Anything that shipped on physical media is `Sold`.** Discs and cartridges
+change hands constantly, and a game you can buy used is not
+preservation-dependent however expensive or obscure it is. Price is not the
+test, and neither is whether its servers still run.
+
+That keeps `Backup` narrow. It is for releases that only ever existed as a
+download and are no longer distributed: the eShop-only Nintendo 3DS and Wii U
+titles that went down with their storefront, DSiWare, `Concord` and
+`Destruction AllStars`, `Ape Quest`. Thirty rows out of 1,755. `Gran Turismo 5`,
+`Too Human` and the delisted `Forza` games are **not** in that set, because all
+of them shipped on a disc and the notes explain the delisting instead.
+
+This repo's position is unchanged by recording the state. It links to nothing,
+names no source, and explains no method. That a game has stopped being
+distributed is a fact about distribution; what a reader does with it is theirs.
 
 ## Notes
 

@@ -40,9 +40,9 @@ repo where the stranding cause is **the absence of software**.
 
 ## Debut games
 
-| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Notes |
-|---|---|---|---|---|---|---|---|---|---|---|
-| The Odyssey game library (28 titles, 12 cards) | 1972 | Ralph Baer / Sanders Associates | Magnavox | Various | 1–2 | No | **Stranded** | | | Includes `Table Tennis`: which Nolan Bushnell saw demonstrated before Atari made `Pong`, leading to a patent settlement that funded Magnavox for years. The games require the physical overlays, dice and score pads; without them the console shows only moving dots. Nothing has ever been re-released, and nothing can be. |
+| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Availability | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| The Odyssey game library (28 titles, 12 cards) | 1972 | Ralph Baer / Sanders Associates | Magnavox | Various | 1–2 | No | **Stranded** |  |  | Sold | Includes `Table Tennis`: which Nolan Bushnell saw demonstrated before Atari made `Pong`, leading to a patent settlement that funded Magnavox for years. The games require the physical overlays, dice and score pads; without them the console shows only moving dots. Nothing has ever been re-released, and nothing can be. |
 
 ## Contested
 

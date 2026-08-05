@@ -38,13 +38,13 @@ Another `Ported` count of **zero**.
 
 ## Debut games
 
-| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Notes |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Gunfight | 1978 | Bally | Bally | Shooter | 1–2 | No | **Stranded** | | | A launch cartridge; first home version of Midway's cabinet, and Bally owned Midway at the time, a rights link that dissolved when the console was sold on. |
-| The Incredible Wizard | 1980 | Bally | Bally | Maze | 1–2 | No | **Stranded** | | | A licensed home conversion of `Wizard of Wor`; the best-regarded Astrocade game and the closest the platform had to a killer app. |
-| Astro Battle | 1981 | Astrovision | Astrovision | Shoot 'em up | 1 | No | **Stranded** | | | A `Space Invaders` derivative renamed after Taito objected, which is a further bar to any reissue. |
-| Muncher | 1981 | Astrovision | Astrovision | Maze | 1 | No | **Stranded** | | | An unlicensed `Pac-Man` clone, pulled under legal pressure, the same fate as `K.C. Munchkin!` on the Odyssey². |
-| Treasure Cove | 1982 | Astrocade | Astrocade | Action | 1 | No | **Stranded** | | | One of the final releases before the company folded. |
+| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Availability | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Gunfight | 1978 | Bally | Bally | Shooter | 1–2 | No | **Stranded** |  |  | Sold | A launch cartridge; first home version of Midway's cabinet, and Bally owned Midway at the time, a rights link that dissolved when the console was sold on. |
+| The Incredible Wizard | 1980 | Bally | Bally | Maze | 1–2 | No | **Stranded** |  |  | Sold | A licensed home conversion of `Wizard of Wor`; the best-regarded Astrocade game and the closest the platform had to a killer app. |
+| Astro Battle | 1981 | Astrovision | Astrovision | Shoot 'em up | 1 | No | **Stranded** |  |  | Sold | A `Space Invaders` derivative renamed after Taito objected, which is a further bar to any reissue. |
+| Muncher | 1981 | Astrovision | Astrovision | Maze | 1 | No | **Stranded** |  |  | Sold | An unlicensed `Pac-Man` clone, pulled under legal pressure, the same fate as `K.C. Munchkin!` on the Odyssey². |
+| Treasure Cove | 1982 | Astrocade | Astrocade | Action | 1 | No | **Stranded** |  |  | Sold | One of the final releases before the company folded. |
 
 ## Excluded
 

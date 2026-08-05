@@ -42,19 +42,19 @@ favourite, which shows the barrier is commercial interest rather than rights.
 
 ## Debut games
 
-| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Notes |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Food Fight | 1986 | General Computer Corp. | Atari | Action | 1 | No | Ported | *Atari 50* (2022), Atari Flashback | | A launch title and the first home release of the 1983 cabinet. |
-| Desert Falcon | 1987 | Atari | Atari | Isometric shooter | 1 | No | Ported | *Atari 50* (2022) | | A 7800 original with an isometric perspective unusual for the hardware. |
-| Tank Command | 1988 | Froggo | Froggo | Vehicular action | 1 | No | **Stranded** | | | Froggo was a budget publisher that folded; its catalogue has no owner. |
-| Alien Brigade | 1990 | Atari | Atari | Light-gun shooter | 1–2 | No | **Stranded** | | | Requires the **XG-1 light gun**, which needs a CRT to function. Peripheral-locked in the same way as Nintendo's Zapper titles, and unreissuable on modern displays. |
-| Basketbrawl | 1990 | Atari | Atari | Sports | 1–2 | No | **Stranded** | | | Also released on Lynx. A violent unlicensed basketball game: no league rights to clear, but no commercial interest either. |
-| Fatal Run | 1990 | Atari | Atari | Racing | 1 | No | **Stranded** | | | Released for both 7800 and 2600, and the **2600 version is the largest 2600 cartridge ever produced** at 32KB. Neither has been reissued. |
-| Meltdown | 1990 | Atari | Atari | Light-gun shooter | 1–2 | No | **Stranded** | | | XG-1 light gun again; CRT-dependent and never reissued. |
-| Midnight Mutants | 1990 | Radioactive Software | Atari | Action-adventure | 1 | No | **Stranded** | | | Licensed the likeness of horror host **Grandpa Munster** (Al Lewis), a personal-likeness deal from 1990 that cannot realistically be re-cleared. The 7800's most ambitious game. |
-| Motor Psycho | 1990 | Atari | Atari | Racing | 1–2 | No | Ported | *Atari 50* (2022) | | A late 7800 original that made the anniversary collection. |
-| Ninja Golf | 1990 | Blue Sky Software | Atari | Action / sports | 1 | No | Ported | *Atari 50* (2022) | | The platform's cult classic: golf where you then fight ninjas along the fairway. Atari owns it outright, which is why it was the 7800 title chosen for *Atari 50*. |
-| Scrapyard Dog | 1990 | Atari | Atari | Platformer | 1 | No | **Stranded** | | | Also on Lynx. One of the last 7800 releases. |
+| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Availability | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Food Fight | 1986 | General Computer Corp. | Atari | Action | 1 | No | Ported | *Atari 50* (2022), Atari Flashback |  | Sold | A launch title and the first home release of the 1983 cabinet. |
+| Desert Falcon | 1987 | Atari | Atari | Isometric shooter | 1 | No | Ported | *Atari 50* (2022) |  | Sold | A 7800 original with an isometric perspective unusual for the hardware. |
+| Tank Command | 1988 | Froggo | Froggo | Vehicular action | 1 | No | **Stranded** |  |  | Sold | Froggo was a budget publisher that folded; its catalogue has no owner. |
+| Alien Brigade | 1990 | Atari | Atari | Light-gun shooter | 1–2 | No | **Stranded** |  |  | Sold | Requires the **XG-1 light gun**, which needs a CRT to function. Peripheral-locked in the same way as Nintendo's Zapper titles, and unreissuable on modern displays. |
+| Basketbrawl | 1990 | Atari | Atari | Sports | 1–2 | No | **Stranded** |  |  | Sold | Also released on Lynx. A violent unlicensed basketball game: no league rights to clear, but no commercial interest either. |
+| Fatal Run | 1990 | Atari | Atari | Racing | 1 | No | **Stranded** |  |  | Sold | Released for both 7800 and 2600, and the **2600 version is the largest 2600 cartridge ever produced** at 32KB. Neither has been reissued. |
+| Meltdown | 1990 | Atari | Atari | Light-gun shooter | 1–2 | No | **Stranded** |  |  | Sold | XG-1 light gun again; CRT-dependent and never reissued. |
+| Midnight Mutants | 1990 | Radioactive Software | Atari | Action-adventure | 1 | No | **Stranded** |  |  | Sold | Licensed the likeness of horror host **Grandpa Munster** (Al Lewis), a personal-likeness deal from 1990 that cannot realistically be re-cleared. The 7800's most ambitious game. |
+| Motor Psycho | 1990 | Atari | Atari | Racing | 1–2 | No | Ported | *Atari 50* (2022) |  | Sold | A late 7800 original that made the anniversary collection. |
+| Ninja Golf | 1990 | Blue Sky Software | Atari | Action / sports | 1 | No | Ported | *Atari 50* (2022) |  | Sold | The platform's cult classic: golf where you then fight ninjas along the fairway. Atari owns it outright, which is why it was the 7800 title chosen for *Atari 50*. |
+| Scrapyard Dog | 1990 | Atari | Atari | Platformer | 1 | No | **Stranded** |  |  | Sold | Also on Lynx. One of the last 7800 releases. |
 
 ## Excluded
 

@@ -44,17 +44,17 @@ re-license them and Philips has no reason to.
 
 ## Debut games
 
-| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Notes |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Link: The Faces of Evil | 1993 | Animation Magic | Philips | Action-platformer | 1 | No | **Stranded** | | | One of two non-Nintendo Zelda games. Its hand-animated cutscenes were produced by a Russian studio on a minimal budget. |
-| Voyeur | 1993 | Interweave | Philips | FMV adventure | 1 | No | Ported | 3DO, Saturn, PC (1994–96) | | Full-motion video with professional actors including Robert Culp. Escaped because Philips licensed it outward. |
-| Zelda: The Wand of Gamelon | 1993 | Animation Magic | Philips | Action-platformer | 1 | No | **Stranded** | | | The companion release, and **the first game in which Zelda herself is the playable character**, 31 years before `Echoes of Wisdom`. Historically significant and permanently locked. |
-| Burn:Cycle | 1994 | Trip Media | Philips | Adventure | 1 | No | **Stranded** | | | The platform's most ambitious original title, a cyberpunk FMV thriller with a real-time countdown. A PC version followed, but PC is not a catalogued platform, so there is no second console for it. |
-| Hotel Mario | 1994 | Fantasy Factory | Philips | Puzzle-platformer | 1–2 | No | **Stranded** | | | **The only Mario game not developed or published by Nintendo.** Made under the licence Philips obtained from the failed CD-ROM partnership. Nintendo has never acknowledged it, and its animated cutscenes became internet artefacts long after the game was forgotten. |
-| Mutant Rampage: Bodyslam | 1994 | Sony Imagesoft | Philips | Beat 'em up | 1–2 | No | **Stranded** | | | A Sony Imagesoft beat 'em up on Philips hardware: a two-company arrangement neither side has revisited, and Philips left console publishing entirely. |
-| The Apprentice | 1994 | Asylum Software | Philips | Platformer | 1 | No | **Stranded** | | | A competent original platformer, cited as the best game designed for the hardware. |
-| Zelda's Adventure | 1994 | Viridis | Philips | Action-adventure | 1 | No | **Stranded** | | | The third and rarest CD-i Zelda, using digitised live-action photography and a top-down perspective. A different developer again, and the most obscure of the three. |
-| Escape from CyberCity | 1995 | Interweave | Philips | Rail shooter | 1 | No | **Stranded** | | | Animated FMV shooter produced with a Japanese animation studio. |
+| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Availability | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Link: The Faces of Evil | 1993 | Animation Magic | Philips | Action-platformer | 1 | No | **Stranded** |  |  | Sold | One of two non-Nintendo Zelda games. Its hand-animated cutscenes were produced by a Russian studio on a minimal budget. |
+| Voyeur | 1993 | Interweave | Philips | FMV adventure | 1 | No | Ported | 3DO, Saturn, PC (1994–96) |  | Sold | Full-motion video with professional actors including Robert Culp. Escaped because Philips licensed it outward. |
+| Zelda: The Wand of Gamelon | 1993 | Animation Magic | Philips | Action-platformer | 1 | No | **Stranded** |  |  | Sold | The companion release, and **the first game in which Zelda herself is the playable character**, 31 years before `Echoes of Wisdom`. Historically significant and permanently locked. |
+| Burn:Cycle | 1994 | Trip Media | Philips | Adventure | 1 | No | **Stranded** |  |  | Sold | The platform's most ambitious original title, a cyberpunk FMV thriller with a real-time countdown. A PC version followed, but PC is not a catalogued platform, so there is no second console for it. |
+| Hotel Mario | 1994 | Fantasy Factory | Philips | Puzzle-platformer | 1–2 | No | **Stranded** |  |  | Sold | **The only Mario game not developed or published by Nintendo.** Made under the licence Philips obtained from the failed CD-ROM partnership. Nintendo has never acknowledged it, and its animated cutscenes became internet artefacts long after the game was forgotten. |
+| Mutant Rampage: Bodyslam | 1994 | Sony Imagesoft | Philips | Beat 'em up | 1–2 | No | **Stranded** |  |  | Sold | A Sony Imagesoft beat 'em up on Philips hardware: a two-company arrangement neither side has revisited, and Philips left console publishing entirely. |
+| The Apprentice | 1994 | Asylum Software | Philips | Platformer | 1 | No | **Stranded** |  |  | Sold | A competent original platformer, cited as the best game designed for the hardware. |
+| Zelda's Adventure | 1994 | Viridis | Philips | Action-adventure | 1 | No | **Stranded** |  |  | Sold | The third and rarest CD-i Zelda, using digitised live-action photography and a top-down perspective. A different developer again, and the most obscure of the three. |
+| Escape from CyberCity | 1995 | Interweave | Philips | Rail shooter | 1 | No | **Stranded** |  |  | Sold | Animated FMV shooter produced with a Japanese animation studio. |
 
 ## Contested
 

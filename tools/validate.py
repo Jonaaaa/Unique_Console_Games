@@ -26,11 +26,14 @@ CATALOGS = ROOT / "catalogs"
 
 DEBUT_HEADER = (
     "| Title | Year | Developer | Publisher | Genre | Players | Online "
-    "| Status | Also On | Language | Notes |"
+    "| Status | Also On | Language | Availability | Notes |"
 )
-EXPECTED_CELLS = 11
+EXPECTED_CELLS = 12
 EXCLUDED_HEADER = "| Title | Year | Why excluded |"
 VALID_STATUS = {"Stranded", "Ported", "Sim-ship"}
+# Whether it can still be bought, which is a different question from
+# whether it ever left the platform. See RULES.md#availability-whether-it-can-still-be-bought.
+VALID_AVAILABILITY = {"Sold", "Backup"}
 
 SEPARATOR_RE = re.compile(r"^\|[\s:|-]+\|$")
 # A pipe that is not backslash-escaped. "Xbox Series X\|S" is a literal pipe in
@@ -111,6 +114,10 @@ def check_file(path: Path) -> list[str]:
         # Status and Also On have to agree. Nothing enforced this before, and
         # the documentation had drifted to describe a placeholder character the
         # data has never actually used.
+        availability = re.sub(r"[*`]", "", cells[10]).strip()
+        if availability not in VALID_AVAILABILITY:
+            problems.append(f"{rel}:{lineno}: availability {availability!r} is not one of "
+                            f"{', '.join(sorted(VALID_AVAILABILITY))}")
         if status == "Stranded" and cells[8]:
             problems.append(f"{rel}:{lineno}: Stranded but Also On is "
                             f"{cells[8][:30]!r}, expected empty")
@@ -201,7 +208,7 @@ def check_notes(path: Path) -> tuple[int, int]:
         cells = [c.strip() for c in CELL_SPLIT_RE.split(line)[1:-1]]
         if len(cells) != EXPECTED_CELLS:
             continue
-        note = cells[10]
+        note = cells[11]
         if not note:
             missing += 1
         elif len(note) < 40:

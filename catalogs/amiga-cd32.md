@@ -40,12 +40,12 @@ programme, and the developers involved are mostly gone.
 
 ## Debut games
 
-| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Notes |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Diggers | 1993 | Millennium Interactive | Commodore | Strategy | 1 | No | **Stranded** | | | The CD32 pack-in. Millennium became Computer Artworks and folded in 2003. |
-| Labyrinth of Time | 1993 | Terra Nova | Electronic Arts | Adventure | 1 | No | **Stranded** | | | A first-person adventure released on CD32 alongside PC. Later PC re-releases exist, but PC is not a catalogued platform. |
-| Liberation: Captive II | 1993 | Byte Engineers | Mindscape | RPG | 1 | No | **Stranded** | | | An ambitious 3D CD32 release; the developer no longer exists. |
-| Microcosm | 1993 | Psygnosis | Psygnosis | Rail shooter | 1 | No | **Stranded** | | | ⚠ [Contested](#contested): a CD32 launch title built to showcase CD video, with Sega CD and PC versions in the same window. Psygnosis was absorbed into Sony and closed in 2012. |
+| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Availability | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Diggers | 1993 | Millennium Interactive | Commodore | Strategy | 1 | No | **Stranded** |  |  | Sold | The CD32 pack-in. Millennium became Computer Artworks and folded in 2003. |
+| Labyrinth of Time | 1993 | Terra Nova | Electronic Arts | Adventure | 1 | No | **Stranded** |  |  | Sold | A first-person adventure released on CD32 alongside PC. Later PC re-releases exist, but PC is not a catalogued platform. |
+| Liberation: Captive II | 1993 | Byte Engineers | Mindscape | RPG | 1 | No | **Stranded** |  |  | Sold | An ambitious 3D CD32 release; the developer no longer exists. |
+| Microcosm | 1993 | Psygnosis | Psygnosis | Rail shooter | 1 | No | **Stranded** |  |  | Sold | ⚠ [Contested](#contested): a CD32 launch title built to showcase CD video, with Sega CD and PC versions in the same window. Psygnosis was absorbed into Sony and closed in 2012. |
 
 ## Contested
 

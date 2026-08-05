@@ -42,16 +42,16 @@ Another platform with a `Ported` count of **zero**.
 
 ## Debut games
 
-| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Notes |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Mine Storm | 1982 | John Hall | GCE | Shoot 'em up | 1 | No | **Stranded** | | | Built into every console's ROM rather than sold separately; an `Asteroids` variant that is the game most Vectrex owners played. Its later `Mine Storm II` cartridge existed only to fix a level-13 crash bug. |
-| Scramble | 1982 | GCE | GCE | Shoot 'em up | 1 | No | **Stranded** | | | Licensed from Konami's cabinet; the licence has long since lapsed. |
-| Star Trek: The Motion Picture | 1982 | GCE | GCE | Space combat | 1 | No | **Stranded** | | | A Paramount film licence on a dead vector console, locked by two rights holders on dead hardware. |
-| 3D Mine Storm | 1983 | GCE | GCE | Shoot 'em up | 1 | No | **Stranded** | | | Requires the **Vectrex 3D Imager**, a spinning-disc stereoscopic headset released in 1983. The peripheral was discontinued almost immediately and is now vanishingly rare: doubly stranded, by display and by accessory. |
-| Fortress of Narzod | 1983 | GCE | GCE | Shoot 'em up | 1 | No | **Stranded** | | | A GCE original that needs the vector display, and Milton Bradley shut the platform down months after it shipped. |
-| Pole Position | 1983 | GCE | GCE | Racing | 1 | No | **Stranded** | | | A Namco licence, and one of the last official releases before Milton Bradley shut the platform down. |
-| Spike | 1983 | GCE | GCE | Platformer | 1 | No | **Stranded** | | | **The first console game with in-game speech**, using the Vectrex's audio hardware for spoken dialogue. Also one of the few titles with a named character, positioned as a mascot. |
-| Web Wars | 1983 | GCE | GCE | Shoot 'em up | 1 | No | **Stranded** | | | Uses the vector display for a scaling tunnel effect that raster hardware of the era could not do at all. |
+| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Availability | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Mine Storm | 1982 | John Hall | GCE | Shoot 'em up | 1 | No | **Stranded** |  |  | Sold | Built into every console's ROM rather than sold separately; an `Asteroids` variant that is the game most Vectrex owners played. Its later `Mine Storm II` cartridge existed only to fix a level-13 crash bug. |
+| Scramble | 1982 | GCE | GCE | Shoot 'em up | 1 | No | **Stranded** |  |  | Sold | Licensed from Konami's cabinet; the licence has long since lapsed. |
+| Star Trek: The Motion Picture | 1982 | GCE | GCE | Space combat | 1 | No | **Stranded** |  |  | Sold | A Paramount film licence on a dead vector console, locked by two rights holders on dead hardware. |
+| 3D Mine Storm | 1983 | GCE | GCE | Shoot 'em up | 1 | No | **Stranded** |  |  | Sold | Requires the **Vectrex 3D Imager**, a spinning-disc stereoscopic headset released in 1983. The peripheral was discontinued almost immediately and is now vanishingly rare: doubly stranded, by display and by accessory. |
+| Fortress of Narzod | 1983 | GCE | GCE | Shoot 'em up | 1 | No | **Stranded** |  |  | Sold | A GCE original that needs the vector display, and Milton Bradley shut the platform down months after it shipped. |
+| Pole Position | 1983 | GCE | GCE | Racing | 1 | No | **Stranded** |  |  | Sold | A Namco licence, and one of the last official releases before Milton Bradley shut the platform down. |
+| Spike | 1983 | GCE | GCE | Platformer | 1 | No | **Stranded** |  |  | Sold | **The first console game with in-game speech**, using the Vectrex's audio hardware for spoken dialogue. Also one of the few titles with a named character, positioned as a mascot. |
+| Web Wars | 1983 | GCE | GCE | Shoot 'em up | 1 | No | **Stranded** |  |  | Sold | Uses the vector display for a scaling tunnel effect that raster hardware of the era could not do at all. |
 
 ## Contested
 

@@ -39,11 +39,11 @@ were small British studios that mostly folded during the early-90s consolidation
 
 ## Debut games
 
-| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Notes |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Burnin' Rubber | 1990 | Ocean Software | Amstrad | Racing | 1–2 | No | **Stranded** | | | The pack-in title, and one of the few games written for the enhanced Plus hardware rather than converted to it. Ocean was absorbed by Infogrames in 1996. |
-| Navy Seals | 1990 | Ocean Software | Ocean | Action | 1 | No | **Stranded** | | | ⚠ A cartridge version built for the Plus hardware alongside the CPC release; the enhanced build is GX4000-specific. |
-| Plotting | 1990 | Ocean Software | Ocean | Puzzle | 1 | No | **Stranded** | | | A Taito arcade licence on a European console that sold 15,000 units, the licence outlived the hardware by decades. |
+| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Availability | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Burnin' Rubber | 1990 | Ocean Software | Amstrad | Racing | 1–2 | No | **Stranded** |  |  | Sold | The pack-in title, and one of the few games written for the enhanced Plus hardware rather than converted to it. Ocean was absorbed by Infogrames in 1996. |
+| Navy Seals | 1990 | Ocean Software | Ocean | Action | 1 | No | **Stranded** |  |  | Sold | ⚠ A cartridge version built for the Plus hardware alongside the CPC release; the enhanced build is GX4000-specific. |
+| Plotting | 1990 | Ocean Software | Ocean | Puzzle | 1 | No | **Stranded** |  |  | Sold | A Taito arcade licence on a European console that sold 15,000 units, the licence outlived the hardware by decades. |
 
 ## Excluded
 

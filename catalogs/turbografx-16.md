@@ -45,37 +45,37 @@ CD-ROM² catalogue, with no re-release of any kind.
 
 ## Debut games
 
-| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Notes |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Alien Crush | 1988 | Compile | Naxat Soft | Pinball | 1 | No | Ported | Wii Virtual Console, PC Engine mini | | Biomechanical pinball; the series continued on Nintendo hardware. |
-| Blazing Lazers | 1989 | Compile | NEC | Shoot 'em up | 1 | No | Ported | Wii Virtual Console, TurboGrafx-16 Mini | | JP: *Gunhed*, a film tie-in, the Western rename dropped the licence. |
-| Bonk's Adventure | 1989 | Red Company / Atlus | Hudson Soft | Platformer | 1 | No | Ported | Wii Virtual Console, TurboGrafx-16 Mini | | JP: *PC Genjin*. The platform's mascot, now a Konami-owned character with no series. |
-| Dungeon Explorer | 1989 | Atlus | Hudson Soft | Action RPG | 1–5 | No | Ported | Wii Virtual Console, TurboGrafx-16 Mini | | **Five-player co-op** via the TurboTap multitap, unusual for 1989 and the reason it is remembered. |
-| Keith Courage in Alpha Zones | 1989 | Alfa System | NEC | Action-platformer | 1 | No | Ported | TurboGrafx-16 Mini (2020) | | The North American pack-in, and widely blamed for the platform's US launch reception. |
-| Military Madness | 1989 | Hudson Soft | NEC | Turn-based strategy | 1–2 | No | Ported | Wii Virtual Console, TurboGrafx-16 Mini | | JP: *Nectaris*. |
-| Neutopia | 1989 | Hudson Soft | Hudson Soft | Action-adventure | 1 | No | Ported | Wii Virtual Console, TurboGrafx-16 Mini | | An direct Zelda homage. |
-| The Legendary Axe | 1989 | Victor Musical Industries | NEC | Action-platformer | 1 | No | Ported | TurboGrafx-16 Mini (2020) |  | A side-scrolling action game and the platform's Western launch showpiece. Reached the TurboGrafx-16 Mini and Virtual Console. |
-| Ys Book I & II | 1989 | Alfa System | NEC / Hudson | Compilation | 1 | No | Ported | Many later Ys collections and remasters | | **CD-ROM².** A landmark release, the first console game with Redbook CD audio and full voice acting. The compilation debuted here; the two PC-8801 games inside it did not. |
-| Devil's Crush | 1990 | Compile | Naxat Soft | Pinball | 1 | No | Ported | Wii Virtual Console, TurboGrafx-16 Mini | | The `Alien Crush` follow-up, and the better-regarded of the two. |
-| Splatterhouse | 1990 | Namco | Namco | Beat 'em up | 1 | No | Ported | Wii Virtual Console | | The first home version of the 1988 cabinet, with the gore intact where the Genesis version was censored. |
-| 1941: Counter Attack | 1991 | Capcom / Hudson | NEC Avenue | Shoot 'em up | 1 | No | **Stranded** | | | **Super CD-ROM².** The home conversion has never been reissued; Capcom's collections use the arcade builds instead. |
-| Bonk's Revenge | 1991 | Red Company | Hudson Soft | Platformer | 1 | No | Ported | Wii Virtual Console, TurboGrafx-16 Mini |  | The mascot platformer's sequel, built on headbutting enemies. Reissued on Wii Virtual Console. |
-| Coryoon | 1991 | Naxat Soft | Naxat Soft | Shoot 'em up | 1 | No | **Stranded** | | Japanese | Japan-only. Naxat's assets passed through several holders, leaving no clear owner. |
-| Magical Chase | 1991 | Palsoft | Palsoft | Shoot 'em up | 1 | No | **Stranded** | | | A cute-em-up with a **North American print run in the low hundreds**. Original carts regularly exceed $2,000, putting it among the most expensive commercially sold cartridges. Palsoft is long gone. |
-| Neutopia II | 1991 | Hudson Soft | Hudson Soft | Action-adventure | 1 | No | Ported | Wii Virtual Console |  | A top-down action-adventure closely modelled on `The Legend of Zelda`. Wii Virtual Console carried it. |
-| Air Zonk | 1992 | Red Company | Hudson Soft | Shoot 'em up | 1 | No | Ported | Wii Virtual Console, TurboGrafx-16 Mini | | A cyberpunk Bonk spin-off. |
-| Cosmic Fantasy 2 | 1992 | Laser Soft | Working Designs | RPG | 1 | No | **Stranded** | | | **CD-ROM².** One of the few Japanese PC Engine RPGs that *was* localised, by Working Designs: which dissolved in 2005, leaving the translation orphaned. |
-| Gate of Thunder | 1992 | Red Company | Hudson Soft | Shoot 'em up | 1 | No | Ported | Wii Virtual Console, TurboGrafx-16 Mini | | **Super CD-ROM².** Bundled with the TurboDuo and often cited as the platform's best shmup. |
-| Soldier Blade | 1992 | Hudson Soft | Hudson Soft | Shoot 'em up | 1 | No | Ported | Wii Virtual Console, TurboGrafx-16 Mini |  | A vertical shoot 'em up, and the best-regarded of Hudson's `Soldier` series. Reissued on Wii Virtual Console. |
-| Star Parodier | 1992 | Hudson Soft | Hudson Soft | Shoot 'em up | 1 | No | Ported | Wii Virtual Console, PC Engine mini | | **Super CD-ROM².** A self-parody of Hudson's own *Star Soldier*. |
-| Tengai Makyou II: Manjimaru | 1992 | Red Company | Hudson Soft | RPG | 1 | No | **Stranded** | | Japanese | **Super CD-ROM².** A 30-hour voiced RPG, one of the largest games of its generation, and **never localised**. The whole `Tengai Makyou` line is stranded, the deepest single hole in the platform's catalogue. |
-| Bomberman '94 | 1993 | Hudson Soft | Hudson Soft | Action | 1–5 | No | Ported | Wii Virtual Console, PC Engine mini | | Five-player via multitap. |
-| Castlevania: Rondo of Blood | 1993 | Konami | Konami | Action-platformer | 1 | No | Ported | PSP (2007, in *The Dracula X Chronicles*), *Castlevania Requiem* (PS4, 2018) | Japanese | **Super CD-ROM².** Japan-only for 14 years; now among the best-served games on the platform because Konami owns it outright. |
-| Lords of Thunder | 1993 | Red Company | Hudson Soft | Shoot 'em up | 1 | No | Ported | Wii Virtual Console, TurboGrafx-16 Mini | | **Super CD-ROM².** Its Redbook heavy-metal soundtrack is the draw and survived the reissues intact. |
-| Riot Zone | 1993 | Westone | Hudson Soft | Beat 'em up | 1–2 | No | **Stranded** | | | **CD-ROM².** A localisation of Westone's *Crest of Wolf*; Westone went bankrupt in 2014. |
-| Sylphia | 1993 | Compile | Tonkin House | Shoot 'em up | 1 | No | **Stranded** | | | **CD-ROM².** Compile went bankrupt in 1998 and its non-Puyo catalogue has never been reassembled. |
-| Dynastic Hero | 1994 | Westone | NEC | Action-adventure | 1 | No | **Stranded** | | | **Super CD-ROM².** A reskin of `Wonder Boy in Monster World` with insect characters, made to sidestep the Sega-associated branding. Two rights holders and a defunct developer. |
-| Sapphire | 1995 | Hudson Soft | Hudson Soft | Shoot 'em up | 1 | No | **Stranded** | | | **Arcade Card exclusive**: it needs both a Super CD-ROM² drive *and* the Arcade Card expansion, sold to a tiny installed base in 1995. Original discs trade in the thousands and it has never been reissued in any form. The most hardware-gated release on the platform. |
+| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Availability | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Alien Crush | 1988 | Compile | Naxat Soft | Pinball | 1 | No | Ported | Wii Virtual Console, PC Engine mini |  | Sold | Biomechanical pinball; the series continued on Nintendo hardware. |
+| Blazing Lazers | 1989 | Compile | NEC | Shoot 'em up | 1 | No | Ported | Wii Virtual Console, TurboGrafx-16 Mini |  | Sold | JP: *Gunhed*, a film tie-in, the Western rename dropped the licence. |
+| Bonk's Adventure | 1989 | Red Company / Atlus | Hudson Soft | Platformer | 1 | No | Ported | Wii Virtual Console, TurboGrafx-16 Mini |  | Sold | JP: *PC Genjin*. The platform's mascot, now a Konami-owned character with no series. |
+| Dungeon Explorer | 1989 | Atlus | Hudson Soft | Action RPG | 1–5 | No | Ported | Wii Virtual Console, TurboGrafx-16 Mini |  | Sold | **Five-player co-op** via the TurboTap multitap, unusual for 1989 and the reason it is remembered. |
+| Keith Courage in Alpha Zones | 1989 | Alfa System | NEC | Action-platformer | 1 | No | Ported | TurboGrafx-16 Mini (2020) |  | Sold | The North American pack-in, and widely blamed for the platform's US launch reception. |
+| Military Madness | 1989 | Hudson Soft | NEC | Turn-based strategy | 1–2 | No | Ported | Wii Virtual Console, TurboGrafx-16 Mini |  | Sold | JP: *Nectaris*. |
+| Neutopia | 1989 | Hudson Soft | Hudson Soft | Action-adventure | 1 | No | Ported | Wii Virtual Console, TurboGrafx-16 Mini |  | Sold | An direct Zelda homage. |
+| The Legendary Axe | 1989 | Victor Musical Industries | NEC | Action-platformer | 1 | No | Ported | TurboGrafx-16 Mini (2020) |  | Sold | A side-scrolling action game and the platform's Western launch showpiece. Reached the TurboGrafx-16 Mini and Virtual Console. |
+| Ys Book I & II | 1989 | Alfa System | NEC / Hudson | Compilation | 1 | No | Ported | Many later Ys collections and remasters |  | Sold | **CD-ROM².** A landmark release, the first console game with Redbook CD audio and full voice acting. The compilation debuted here; the two PC-8801 games inside it did not. |
+| Devil's Crush | 1990 | Compile | Naxat Soft | Pinball | 1 | No | Ported | Wii Virtual Console, TurboGrafx-16 Mini |  | Sold | The `Alien Crush` follow-up, and the better-regarded of the two. |
+| Splatterhouse | 1990 | Namco | Namco | Beat 'em up | 1 | No | Ported | Wii Virtual Console |  | Sold | The first home version of the 1988 cabinet, with the gore intact where the Genesis version was censored. |
+| 1941: Counter Attack | 1991 | Capcom / Hudson | NEC Avenue | Shoot 'em up | 1 | No | **Stranded** |  |  | Sold | **Super CD-ROM².** The home conversion has never been reissued; Capcom's collections use the arcade builds instead. |
+| Bonk's Revenge | 1991 | Red Company | Hudson Soft | Platformer | 1 | No | Ported | Wii Virtual Console, TurboGrafx-16 Mini |  | Sold | The mascot platformer's sequel, built on headbutting enemies. Reissued on Wii Virtual Console. |
+| Coryoon | 1991 | Naxat Soft | Naxat Soft | Shoot 'em up | 1 | No | **Stranded** |  | Japanese | Sold | Japan-only. Naxat's assets passed through several holders, leaving no clear owner. |
+| Magical Chase | 1991 | Palsoft | Palsoft | Shoot 'em up | 1 | No | **Stranded** |  |  | Sold | A cute-em-up with a **North American print run in the low hundreds**. Original carts regularly exceed $2,000, putting it among the most expensive commercially sold cartridges. Palsoft is long gone. |
+| Neutopia II | 1991 | Hudson Soft | Hudson Soft | Action-adventure | 1 | No | Ported | Wii Virtual Console |  | Sold | A top-down action-adventure closely modelled on `The Legend of Zelda`. Wii Virtual Console carried it. |
+| Air Zonk | 1992 | Red Company | Hudson Soft | Shoot 'em up | 1 | No | Ported | Wii Virtual Console, TurboGrafx-16 Mini |  | Sold | A cyberpunk Bonk spin-off. |
+| Cosmic Fantasy 2 | 1992 | Laser Soft | Working Designs | RPG | 1 | No | **Stranded** |  |  | Sold | **CD-ROM².** One of the few Japanese PC Engine RPGs that *was* localised, by Working Designs: which dissolved in 2005, leaving the translation orphaned. |
+| Gate of Thunder | 1992 | Red Company | Hudson Soft | Shoot 'em up | 1 | No | Ported | Wii Virtual Console, TurboGrafx-16 Mini |  | Sold | **Super CD-ROM².** Bundled with the TurboDuo and often cited as the platform's best shmup. |
+| Soldier Blade | 1992 | Hudson Soft | Hudson Soft | Shoot 'em up | 1 | No | Ported | Wii Virtual Console, TurboGrafx-16 Mini |  | Sold | A vertical shoot 'em up, and the best-regarded of Hudson's `Soldier` series. Reissued on Wii Virtual Console. |
+| Star Parodier | 1992 | Hudson Soft | Hudson Soft | Shoot 'em up | 1 | No | Ported | Wii Virtual Console, PC Engine mini |  | Sold | **Super CD-ROM².** A self-parody of Hudson's own *Star Soldier*. |
+| Tengai Makyou II: Manjimaru | 1992 | Red Company | Hudson Soft | RPG | 1 | No | **Stranded** |  | Japanese | Sold | **Super CD-ROM².** A 30-hour voiced RPG, one of the largest games of its generation, and **never localised**. The whole `Tengai Makyou` line is stranded, the deepest single hole in the platform's catalogue. |
+| Bomberman '94 | 1993 | Hudson Soft | Hudson Soft | Action | 1–5 | No | Ported | Wii Virtual Console, PC Engine mini |  | Sold | Five-player via multitap. |
+| Castlevania: Rondo of Blood | 1993 | Konami | Konami | Action-platformer | 1 | No | Ported | PSP (2007, in *The Dracula X Chronicles*), *Castlevania Requiem* (PS4, 2018) | Japanese | Sold | **Super CD-ROM².** Japan-only for 14 years; now among the best-served games on the platform because Konami owns it outright. |
+| Lords of Thunder | 1993 | Red Company | Hudson Soft | Shoot 'em up | 1 | No | Ported | Wii Virtual Console, TurboGrafx-16 Mini |  | Sold | **Super CD-ROM².** Its Redbook heavy-metal soundtrack is the draw and survived the reissues intact. |
+| Riot Zone | 1993 | Westone | Hudson Soft | Beat 'em up | 1–2 | No | **Stranded** |  |  | Sold | **CD-ROM².** A localisation of Westone's *Crest of Wolf*; Westone went bankrupt in 2014. |
+| Sylphia | 1993 | Compile | Tonkin House | Shoot 'em up | 1 | No | **Stranded** |  |  | Sold | **CD-ROM².** Compile went bankrupt in 1998 and its non-Puyo catalogue has never been reassembled. |
+| Dynastic Hero | 1994 | Westone | NEC | Action-adventure | 1 | No | **Stranded** |  |  | Sold | **Super CD-ROM².** A reskin of `Wonder Boy in Monster World` with insect characters, made to sidestep the Sega-associated branding. Two rights holders and a defunct developer. |
+| Sapphire | 1995 | Hudson Soft | Hudson Soft | Shoot 'em up | 1 | No | **Stranded** |  |  | Sold | **Arcade Card exclusive**: it needs both a Super CD-ROM² drive *and* the Arcade Card expansion, sold to a tiny installed base in 1995. Original discs trade in the thousands and it has never been reissued in any form. The most hardware-gated release on the platform. |
 
 ## Contested
 

@@ -42,14 +42,14 @@ since aged out. `Ported` count of **zero**.
 
 ## Debut games
 
-| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Notes |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Letter Factory | 2003 | LeapFrog | LeapFrog | Edutainment | 1 | No | **Stranded** | | | **Leapster.** A launch title and LeapFrog's own property rather than a licence, yet still unreissued, because the company left cartridge hardware entirely. |
-| Dora the Explorer: Wildlife Rescue | 2004 | LeapFrog | LeapFrog | Edutainment | 1 | No | **Stranded** | | | **Leapster.** Nickelodeon licence. |
-| Nicktoons: Android Invasion | 2008 | LeapFrog | LeapFrog | Platformer | 1 | No | **Stranded** | | | **Didj.** A genuine platformer rather than an activity collection, which is what made Didj distinct, and it carries a Nickelodeon licence. |
-| Star Wars Jedi Math | 2008 | LeapFrog | LeapFrog | Edutainment | 1 | No | **Stranded** | | | **Didj.** A **Lucasfilm licence used to teach arithmetic**, now Disney-owned, an unreissuable combination. |
-| Disney Princess: Pathway to Adventure | 2014 | LeapFrog | LeapFrog | Edutainment | 1 | No | **Stranded** | | | **LeapTV.** Motion-controlled, so it depends on a discontinued camera peripheral as well as the Disney licence. |
-| Sonic Boom: Kinetic Cabinet | 2015 | LeapFrog | LeapFrog | Edutainment | 1 | No | **Stranded** | | | **LeapTV.** A **Sonic game on a LeapFrog console**, Sega licensed the character for children's edutainment. Absent from every Sonic collection, like the [Sega Pico](sega-pico.md) titles, and for the same reason. |
+| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Availability | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Letter Factory | 2003 | LeapFrog | LeapFrog | Edutainment | 1 | No | **Stranded** |  |  | Sold | **Leapster.** A launch title and LeapFrog's own property rather than a licence, yet still unreissued, because the company left cartridge hardware entirely. |
+| Dora the Explorer: Wildlife Rescue | 2004 | LeapFrog | LeapFrog | Edutainment | 1 | No | **Stranded** |  |  | Sold | **Leapster.** Nickelodeon licence. |
+| Nicktoons: Android Invasion | 2008 | LeapFrog | LeapFrog | Platformer | 1 | No | **Stranded** |  |  | Sold | **Didj.** A genuine platformer rather than an activity collection, which is what made Didj distinct, and it carries a Nickelodeon licence. |
+| Star Wars Jedi Math | 2008 | LeapFrog | LeapFrog | Edutainment | 1 | No | **Stranded** |  |  | Sold | **Didj.** A **Lucasfilm licence used to teach arithmetic**, now Disney-owned, an unreissuable combination. |
+| Disney Princess: Pathway to Adventure | 2014 | LeapFrog | LeapFrog | Edutainment | 1 | No | **Stranded** |  |  | Sold | **LeapTV.** Motion-controlled, so it depends on a discontinued camera peripheral as well as the Disney licence. |
+| Sonic Boom: Kinetic Cabinet | 2015 | LeapFrog | LeapFrog | Edutainment | 1 | No | **Stranded** |  |  | Sold | **LeapTV.** A **Sonic game on a LeapFrog console**, Sega licensed the character for children's edutainment. Absent from every Sonic collection, like the [Sega Pico](sega-pico.md) titles, and for the same reason. |
 
 ## Contested
 

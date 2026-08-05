@@ -83,7 +83,8 @@ and portable games system with a commercial software library, from the Magnavox 
 (1972) to the Switch 2 (2025). See [ROSTER.md](ROSTER.md) for what is included,
 excluded and folded in, and why.
 
-**1,755 debut games. 1,027 still stranded.**
+**1,755 debut games. 1,027 still stranded.** Thirty of them can no longer be
+bought through any public channel, marked `Backup` in the `Availability` column.
 
 
 **Hardware revisions are not platforms.** Game Boy Pocket/Light, GBA SP/Micro,

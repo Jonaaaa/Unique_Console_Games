@@ -48,16 +48,16 @@ practice, a platform with no reissues of any kind.
 
 ## Debut games
 
-| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Notes |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Hello Kitty titles (various) | 1994–2003 | Sega | Sega | Edutainment | 1 | No | **Stranded** | | | Sanrio licences across a dozen Pico releases. Live licence, dead platform, hardware-dependent software. |
-| Richard Scarry's Busytown | 1994 | Sega | Sega | Edutainment | 1 | No | **Stranded** | | | Licensed from the Scarry estate. |
-| Sonic the Hedgehog's Gameworld | 1994 | Sega | Sega | Edutainment | 1 | No | **Stranded** | | | **A mainline-character Sonic game that has never been reissued or acknowledged.** Sega has reissued essentially every other Sonic title across its collections; this one is absent because it needs the Pico's tablet and book hardware to function. |
-| Tails and the Music Maker | 1994 | Sega | Sega | Music / edutainment | 1 | No | **Stranded** | | | A Tails-led music toy. The only Tails-starring game outside the Game Gear `Tails Adventure` line, and equally stranded. |
-| A Year at Pooh Corner | 1995 | Sega | Sega | Edutainment | 1 | No | **Stranded** | | | A Disney licence on Sega hardware; an arrangement neither company would reconstruct. |
-| Ecco Jr. and the Great Ocean Treasure Hunt! | 1995 | Sega | Sega | Edutainment | 1 | No | **Stranded** | | | A children's spin-off of `Ecco the Dolphin`. The Genesis Ecco games are in every Sega collection; this one is not. |
-| Doraemon: Doraemon no Machi | 1996 | Sega | Sega | Edutainment | 1 | No | **Stranded** | | Japanese | Japan-only. Doraemon remains one of Japan's most valuable licences, which makes an old edutainment title commercially pointless to revive. |
-| Anpanman no Hiragana Daisuki | 1997 | Sega | Sega | Edutainment | 1 | No | **Stranded** | | Japanese | Japan-only. A hiragana-learning title built on the Anpanman licence, representative of the bulk of the library. |
+| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Availability | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Hello Kitty titles (various) | 1994–2003 | Sega | Sega | Edutainment | 1 | No | **Stranded** |  |  | Sold | Sanrio licences across a dozen Pico releases. Live licence, dead platform, hardware-dependent software. |
+| Richard Scarry's Busytown | 1994 | Sega | Sega | Edutainment | 1 | No | **Stranded** |  |  | Sold | Licensed from the Scarry estate. |
+| Sonic the Hedgehog's Gameworld | 1994 | Sega | Sega | Edutainment | 1 | No | **Stranded** |  |  | Sold | **A mainline-character Sonic game that has never been reissued or acknowledged.** Sega has reissued essentially every other Sonic title across its collections; this one is absent because it needs the Pico's tablet and book hardware to function. |
+| Tails and the Music Maker | 1994 | Sega | Sega | Music / edutainment | 1 | No | **Stranded** |  |  | Sold | A Tails-led music toy. The only Tails-starring game outside the Game Gear `Tails Adventure` line, and equally stranded. |
+| A Year at Pooh Corner | 1995 | Sega | Sega | Edutainment | 1 | No | **Stranded** |  |  | Sold | A Disney licence on Sega hardware; an arrangement neither company would reconstruct. |
+| Ecco Jr. and the Great Ocean Treasure Hunt! | 1995 | Sega | Sega | Edutainment | 1 | No | **Stranded** |  |  | Sold | A children's spin-off of `Ecco the Dolphin`. The Genesis Ecco games are in every Sega collection; this one is not. |
+| Doraemon: Doraemon no Machi | 1996 | Sega | Sega | Edutainment | 1 | No | **Stranded** |  | Japanese | Sold | Japan-only. Doraemon remains one of Japan's most valuable licences, which makes an old edutainment title commercially pointless to revive. |
+| Anpanman no Hiragana Daisuki | 1997 | Sega | Sega | Edutainment | 1 | No | **Stranded** |  | Japanese | Sold | Japan-only. A hiragana-learning title built on the Anpanman licence, representative of the bulk of the library. |
 
 ## Contested
 

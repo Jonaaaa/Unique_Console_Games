@@ -46,17 +46,17 @@ exists from day one, on hardware that is still current.
 
 ## Debut games
 
-| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Notes |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Donkey Kong Bananza | 2025 | Nintendo EPD | Nintendo | Platformer | 1–2 | No | **Stranded** | | | The first 3D Donkey Kong platformer since *Donkey Kong 64* (1999), from the *Super Mario Odyssey* team. |
-| Drag x Drive | 2025 | Nintendo EPD | Nintendo | Sports | 1–6 | Yes | **Stranded** | | | Wheelchair basketball played by sliding both Joy-Con as **mice** on a desk. Unportable by design, the closest Switch 2 equivalent to `Wii Sports` or `1-2-Switch`. |
-| Hyrule Warriors: Age of Imprisonment | 2025 | Omega Force | Nintendo | Musou | 1–2 | Yes | **Stranded** | | | The third Hyrule Warriors; as with *Age of Calamity*, it has not moved. |
-| Kirby Air Riders | 2025 | Sora Ltd. / Bandai Namco | Nintendo | Racing | 1–4 | Yes | **Stranded** | | | Masahiro Sakurai's sequel to `Kirby Air Ride` (GameCube, 2003), which remains stranded on GameCube. |
-| Mario Kart World | 2025 | Nintendo EPD | Nintendo | Racing | 1–24 | Yes | **Stranded** | | | Launch title. The series' first open-world entry, and the first mainline Mario Kart that is not a port or a Deluxe re-release since *Mario Kart 8* in 2014. |
-| Metroid Prime 4: Beyond | 2025 | Retro Studios | Nintendo | Action-adventure | 1 | No | Sim-ship | Switch (2025, same day) | | Announced in 2017, restarted from scratch in 2019. Also catalogued under [Switch](switch.md). |
-| Nintendo Switch 2 Welcome Tour | 2025 | Nintendo EPD | Nintendo | Tech demo | 1–4 | No | **Stranded** | | | A paid pack-in-style tour of the hardware itself; it demonstrates the console's own features, so it cannot exist anywhere else by definition. Charging for it was widely criticised. |
-| Pokémon Legends: Z-A | 2025 | Game Freak | Nintendo | RPG | 1–4 | Yes | Sim-ship | Switch (2025, same day) | | Also catalogued under [Switch](switch.md). |
-| Super Mario Galaxy 1+2 | 2025 | Nintendo EPD | Nintendo | Compilation | 1–2 | No | Sim-ship | Switch (2025, same day) | | Also catalogued under [Switch](switch.md). Brought `Galaxy 2` off Wii after 15 years. |
+| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Availability | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Donkey Kong Bananza | 2025 | Nintendo EPD | Nintendo | Platformer | 1–2 | No | **Stranded** |  |  | Sold | The first 3D Donkey Kong platformer since *Donkey Kong 64* (1999), from the *Super Mario Odyssey* team. |
+| Drag x Drive | 2025 | Nintendo EPD | Nintendo | Sports | 1–6 | Yes | **Stranded** |  |  | Sold | Wheelchair basketball played by sliding both Joy-Con as **mice** on a desk. Unportable by design, the closest Switch 2 equivalent to `Wii Sports` or `1-2-Switch`. |
+| Hyrule Warriors: Age of Imprisonment | 2025 | Omega Force | Nintendo | Musou | 1–2 | Yes | **Stranded** |  |  | Sold | The third Hyrule Warriors; as with *Age of Calamity*, it has not moved. |
+| Kirby Air Riders | 2025 | Sora Ltd. / Bandai Namco | Nintendo | Racing | 1–4 | Yes | **Stranded** |  |  | Sold | Masahiro Sakurai's sequel to `Kirby Air Ride` (GameCube, 2003), which remains stranded on GameCube. |
+| Mario Kart World | 2025 | Nintendo EPD | Nintendo | Racing | 1–24 | Yes | **Stranded** |  |  | Sold | Launch title. The series' first open-world entry, and the first mainline Mario Kart that is not a port or a Deluxe re-release since *Mario Kart 8* in 2014. |
+| Metroid Prime 4: Beyond | 2025 | Retro Studios | Nintendo | Action-adventure | 1 | No | Sim-ship | Switch (2025, same day) |  | Sold | Announced in 2017, restarted from scratch in 2019. Also catalogued under [Switch](switch.md). |
+| Nintendo Switch 2 Welcome Tour | 2025 | Nintendo EPD | Nintendo | Tech demo | 1–4 | No | **Stranded** |  |  | Sold | A paid pack-in-style tour of the hardware itself; it demonstrates the console's own features, so it cannot exist anywhere else by definition. Charging for it was widely criticised. |
+| Pokémon Legends: Z-A | 2025 | Game Freak | Nintendo | RPG | 1–4 | Yes | Sim-ship | Switch (2025, same day) |  | Sold | Also catalogued under [Switch](switch.md). |
+| Super Mario Galaxy 1+2 | 2025 | Nintendo EPD | Nintendo | Compilation | 1–2 | No | Sim-ship | Switch (2025, same day) |  | Sold | Also catalogued under [Switch](switch.md). Brought `Galaxy 2` off Wii after 15 years. |
 
 ## Contested
 

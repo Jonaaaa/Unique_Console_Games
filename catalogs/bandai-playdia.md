@@ -36,13 +36,13 @@ console that sold ~50,000 units over two years. `Ported` count of **zero**.
 
 ## Debut games
 
-| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Notes |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Dragon Ball Z: Shin Saiyajin Zetsumetsu Keikaku | 1994 | Bandai | Bandai | Interactive video | 1 | No | **Stranded** | | Japanese | Built from licensed broadcast footage, so the Toei and Shueisha rights would both need re-clearing for a Japan-only console that sold ~50,000 units. |
-| Mobile Suit Gundam: Mokuba no Kiseki | 1994 | Bandai | Bandai | Interactive video | 1 | No | **Stranded** | | | The Gundam licence is continuously renewed for new products and never for reissues. |
-| Sailor Moon S: Quiz Taiketsu! | 1994 | Bandai | Bandai | Quiz | 1 | No | **Stranded** | | | A launch title. Uses broadcast anime footage under licence, the exact combination that cannot be re-cleared economically. |
-| Ultraman Powered: Kaijuu Gekimetsu Sakusen | 1994 | Bandai | Bandai | Interactive video | 1 | No | **Stranded** | | | Tsuburaya's Ultraman rights, which have themselves been the subject of prolonged international litigation, a further bar. |
-| SD Gundam: Daizukan | 1995 | Bandai | Bandai | Reference / quiz | 1 | No | **Stranded** | | | Closer to an interactive encyclopaedia than a game, which is characteristic of the platform. |
+| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Availability | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Dragon Ball Z: Shin Saiyajin Zetsumetsu Keikaku | 1994 | Bandai | Bandai | Interactive video | 1 | No | **Stranded** |  | Japanese | Sold | Built from licensed broadcast footage, so the Toei and Shueisha rights would both need re-clearing for a Japan-only console that sold ~50,000 units. |
+| Mobile Suit Gundam: Mokuba no Kiseki | 1994 | Bandai | Bandai | Interactive video | 1 | No | **Stranded** |  |  | Sold | The Gundam licence is continuously renewed for new products and never for reissues. |
+| Sailor Moon S: Quiz Taiketsu! | 1994 | Bandai | Bandai | Quiz | 1 | No | **Stranded** |  |  | Sold | A launch title. Uses broadcast anime footage under licence, the exact combination that cannot be re-cleared economically. |
+| Ultraman Powered: Kaijuu Gekimetsu Sakusen | 1994 | Bandai | Bandai | Interactive video | 1 | No | **Stranded** |  |  | Sold | Tsuburaya's Ultraman rights, which have themselves been the subject of prolonged international litigation, a further bar. |
+| SD Gundam: Daizukan | 1995 | Bandai | Bandai | Reference / quiz | 1 | No | **Stranded** |  |  | Sold | Closer to an interactive encyclopaedia than a game, which is characteristic of the platform. |
 
 ## Excluded
 

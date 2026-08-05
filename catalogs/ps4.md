@@ -47,40 +47,40 @@ Two narrower causes do real work:
 
 ## Debut games
 
-| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Notes |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Knack | 2013 | SCE Japan Studio | Sony | Action-platformer | 1–2 | No | **Stranded** | | | A launch title, and the game Sony used to demonstrate the hardware. Japan Studio was dissolved in 2021, so its catalogue has no owner with an interest. |
-| Resogun | 2013 | Housemarque | Sony | Shoot 'em up | 1–2 | Dead | **Stranded** | | | The best-received PS4 launch title. Housemarque was acquired by Sony in 2021; the game has never left the platform. |
-| Bloodborne | 2015 | FromSoftware | Sony | Action RPG | 1–4 | Yes | **Stranded** | | | **The most-requested port in modern gaming.** Sony owns the IP and FromSoftware still exists; it has never been remastered, brought to PC, or given a PS5 patch beyond BC. The clearest "no obstacle, just no decision" entry on the platform. |
-| The Order: 1886 | 2015 | Ready at Dawn | Sony | Action-adventure | 1 | No | **Stranded** | | | Ready at Dawn moved to VR and was later shut down by Meta. A single-player game with no rights obstacle and no reissue. |
-| Uncharted: The Nathan Drake Collection | 2015 | Bluepoint Games | Sony | Compilation | 1 | No | **Stranded** | | | The three PS3 Uncharted games rebuilt for PS4. Notably omits `Golden Abyss`, which remains stranded on [PS Vita](ps-vita.md). |
-| Until Dawn | 2015 | Supermassive | Sony | Interactive horror | 1 | No | Ported | PS5, PC (2024 remake) | | The remake is a rebuild rather than a port of this build. |
-| Dragon Quest Builders | 2016 | Square Enix | Square Enix | Sandbox | 1 | No | Sim-ship | PS Vita (2016, same day); Switch (2018) | | Also catalogued under [PS Vita](ps-vita.md). |
-| Persona 5 | 2016 | Atlus | Atlus | JRPG | 1 | No | Sim-ship | PS3 (2016, same day) | | Also catalogued under [PS3](ps3.md). *Royal* (2019) is an expanded re-release that later reached PC, Switch and Xbox. |
-| Ratchet & Clank | 2016 | Insomniac | Sony | Platformer | 1 | No | **Stranded** | | | A reimagining of the 2002 PS2 game rather than a remaster, so it counts as its own debut. Never ported. |
-| The Last Guardian | 2016 | SCE Japan Studio / genDESIGN | Sony | Puzzle-adventure | 1 | No | **Stranded** | | | Fumito Ueda's follow-up to `Ico` and `Shadow of the Colossus`; both of which were remastered and ported repeatedly. This one has not been. |
-| Uncharted 4: A Thief's End | 2016 | Naughty Dog | Sony | Action-adventure | 1–10 | Dead (2019) | Ported | PS5, PC (2022, *Legacy of Thieves Collection*) |  | The last entry with Nathan Drake as lead, and the series' technical high point. Collected with `The Lost Legacy` for PS5 and PC. |
-| Gran Turismo Sport | 2017 | Polyphony Digital | Sony | Racing | 1–20 | **Dead (2024)** | **Stranded** | | | Its online services closed in Jan 2024, and because the game was built around them much of its content is gone. Manufacturer licences make reissue implausible, exactly as with every earlier Gran Turismo. |
-| Gravity Rush 2 | 2017 | SCE Japan Studio | Sony | Action-adventure | 1 | Dead (2018) | **Stranded** | | | Its predecessor was remastered for PS4; this sequel has gone nowhere. Japan Studio's dissolution stranded it. |
-| Horizon Zero Dawn | 2017 | Guerrilla Games | Sony | Action RPG | 1 | No | **Stranded** | | | A PC version exists (2020) and a PS5 remaster (2024), but neither is another *console*; the remaster is same-family and PC is not catalogued. |
-| Knack 2 | 2017 | SCE Japan Studio | Sony | Action-platformer | 1–2 | No | **Stranded** | | | Japan Studio's sequel to the launch title, released after the first game had become a punchline. The studio was dissolved in 2021, leaving both Knack games without an owner. |
-| Nioh | 2017 | Team Ninja | Sony / Koei Tecmo | Action RPG | 1–3 | Yes | **Stranded** | | | PC followed in 2017 and PS5 in 2021 (same family). No other console. |
-| Astro Bot Rescue Mission | 2018 | Team Asobi | Sony | Platformer (VR) | 1 | No | **Stranded** | | | **PSVR-exclusive.** Requires the original PlayStation VR headset, which Sony discontinued, peripheral-locked in the same way as `Wii Fit` or `Wonderbook`. |
-| Detroit: Become Human | 2018 | Quantic Dream | Sony | Interactive drama | 1 | No | **Stranded** | | | PC in 2019. Quantic Dream has since self-published elsewhere, but this Sony-published title has not moved. |
-| God of War | 2018 | SCE Santa Monica | Sony | Action-adventure | 1 | No | **Stranded** | | | PC in 2022; no second console. |
-| Marvel's Spider-Man | 2018 | Insomniac | Sony | Action-adventure | 1 | No | **Stranded** | | | PS5 remaster (2020) and PC (2022), but no other console, and the **Marvel licence** means Sony could not put it on Nintendo or Xbox hardware even if it wanted to. |
-| Concrete Genie | 2019 | PixelOpus | Sony | Adventure | 1 | No | **Stranded** | | | PixelOpus was closed by Sony in 2023. |
-| Days Gone | 2019 | Bend Studio | Sony | Action-adventure | 1 | No | **Stranded** | | | PC in 2021 and a PS5 remaster in 2025; no other console. Sony declined a sequel. |
-| Death Stranding | 2019 | Kojima Productions | Sony | Action-adventure | 1 | Yes | Ported | PC (2020); Xbox Series (2025, *Director's Cut*) | | Kojima Productions retained rights, which is why this reached Microsoft hardware while Sony's own titles did not. |
-| Dreams | 2020 | Media Molecule | Sony | Creation | 1–4 | **Dead (2024)** | **Stranded** | | | A game-creation platform whose entire value was the community. Sony ended live support in 2024, and Media Molecule was restructured. Millions of user creations exist only inside a service in wind-down, the same shape as `LittleBigPlanet` one generation earlier. |
-| Ghost of Tsushima | 2020 | Sucker Punch | Sony | Action-adventure | 1–3 | Yes | **Stranded** | | | PC in 2024 and a PS5 director's cut; no other console. |
-| Marvel's Spider-Man: Miles Morales | 2020 | Insomniac | Sony | Action-adventure | 1 | No | Sim-ship | PS5 (2020, same day); PC (2022) | | Cross-gen launch, also catalogued under [PS5](ps5.md). |
-| Minecraft Dungeons | 2020 | Mojang | Microsoft | Action RPG | 1–4 | Yes | Sim-ship | Xbox One, Switch, PC (2020, same day) | | Also catalogued under [Xbox One](xbox-one.md) and [Switch](switch.md). |
-| Sackboy: A Big Adventure | 2020 | Sumo Digital | Sony | Platformer | 1–4 | Dead | Sim-ship | PS5 (2020, same day); PC (2022) | | Also catalogued under [PS5](ps5.md). |
-| The Last of Us Part II | 2020 | Naughty Dog | Sony | Action-adventure | 1 | No | **Stranded** | | | A PS5 remaster (2024) and PC (2025), both within the family or off-console. |
-| God of War Ragnarök | 2022 | SCE Santa Monica | Sony | Action-adventure | 1 | No | Sim-ship | PS5 (2022, same day); PC (2024) | | Also catalogued under [PS5](ps5.md). |
-| Gran Turismo 7 | 2022 | Polyphony Digital | Sony | Racing | 1–20 | Yes | Sim-ship | PS5 (2022, same day) | | Also catalogued under [PS5](ps5.md). The last major cross-gen PS4 release. |
-| Horizon Forbidden West | 2022 | Guerrilla Games | Sony | Action RPG | 1 | No | Sim-ship | PS5 (2022, same day); PC (2024) | | Also catalogued under [PS5](ps5.md). |
+| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Availability | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Knack | 2013 | SCE Japan Studio | Sony | Action-platformer | 1–2 | No | **Stranded** |  |  | Sold | A launch title, and the game Sony used to demonstrate the hardware. Japan Studio was dissolved in 2021, so its catalogue has no owner with an interest. |
+| Resogun | 2013 | Housemarque | Sony | Shoot 'em up | 1–2 | Dead | **Stranded** |  |  | Sold | The best-received PS4 launch title. Housemarque was acquired by Sony in 2021; the game has never left the platform. |
+| Bloodborne | 2015 | FromSoftware | Sony | Action RPG | 1–4 | Yes | **Stranded** |  |  | Sold | **The most-requested port in modern gaming.** Sony owns the IP and FromSoftware still exists; it has never been remastered, brought to PC, or given a PS5 patch beyond BC. The clearest "no obstacle, just no decision" entry on the platform. |
+| The Order: 1886 | 2015 | Ready at Dawn | Sony | Action-adventure | 1 | No | **Stranded** |  |  | Sold | Ready at Dawn moved to VR and was later shut down by Meta. A single-player game with no rights obstacle and no reissue. |
+| Uncharted: The Nathan Drake Collection | 2015 | Bluepoint Games | Sony | Compilation | 1 | No | **Stranded** |  |  | Sold | The three PS3 Uncharted games rebuilt for PS4. Notably omits `Golden Abyss`, which remains stranded on [PS Vita](ps-vita.md). |
+| Until Dawn | 2015 | Supermassive | Sony | Interactive horror | 1 | No | Ported | PS5, PC (2024 remake) |  | Sold | The remake is a rebuild rather than a port of this build. |
+| Dragon Quest Builders | 2016 | Square Enix | Square Enix | Sandbox | 1 | No | Sim-ship | PS Vita (2016, same day); Switch (2018) |  | Sold | Also catalogued under [PS Vita](ps-vita.md). |
+| Persona 5 | 2016 | Atlus | Atlus | JRPG | 1 | No | Sim-ship | PS3 (2016, same day) |  | Sold | Also catalogued under [PS3](ps3.md). *Royal* (2019) is an expanded re-release that later reached PC, Switch and Xbox. |
+| Ratchet & Clank | 2016 | Insomniac | Sony | Platformer | 1 | No | **Stranded** |  |  | Sold | A reimagining of the 2002 PS2 game rather than a remaster, so it counts as its own debut. Never ported. |
+| The Last Guardian | 2016 | SCE Japan Studio / genDESIGN | Sony | Puzzle-adventure | 1 | No | **Stranded** |  |  | Sold | Fumito Ueda's follow-up to `Ico` and `Shadow of the Colossus`; both of which were remastered and ported repeatedly. This one has not been. |
+| Uncharted 4: A Thief's End | 2016 | Naughty Dog | Sony | Action-adventure | 1–10 | Dead (2019) | Ported | PS5, PC (2022, *Legacy of Thieves Collection*) |  | Sold | The last entry with Nathan Drake as lead, and the series' technical high point. Collected with `The Lost Legacy` for PS5 and PC. |
+| Gran Turismo Sport | 2017 | Polyphony Digital | Sony | Racing | 1–20 | **Dead (2024)** | **Stranded** |  |  | Sold | Its online services closed in Jan 2024, and because the game was built around them much of its content is gone. Manufacturer licences make reissue implausible, exactly as with every earlier Gran Turismo. |
+| Gravity Rush 2 | 2017 | SCE Japan Studio | Sony | Action-adventure | 1 | Dead (2018) | **Stranded** |  |  | Sold | Its predecessor was remastered for PS4; this sequel has gone nowhere. Japan Studio's dissolution stranded it. |
+| Horizon Zero Dawn | 2017 | Guerrilla Games | Sony | Action RPG | 1 | No | **Stranded** |  |  | Sold | A PC version exists (2020) and a PS5 remaster (2024), but neither is another *console*; the remaster is same-family and PC is not catalogued. |
+| Knack 2 | 2017 | SCE Japan Studio | Sony | Action-platformer | 1–2 | No | **Stranded** |  |  | Sold | Japan Studio's sequel to the launch title, released after the first game had become a punchline. The studio was dissolved in 2021, leaving both Knack games without an owner. |
+| Nioh | 2017 | Team Ninja | Sony / Koei Tecmo | Action RPG | 1–3 | Yes | **Stranded** |  |  | Sold | PC followed in 2017 and PS5 in 2021 (same family). No other console. |
+| Astro Bot Rescue Mission | 2018 | Team Asobi | Sony | Platformer (VR) | 1 | No | **Stranded** |  |  | Sold | **PSVR-exclusive.** Requires the original PlayStation VR headset, which Sony discontinued, peripheral-locked in the same way as `Wii Fit` or `Wonderbook`. |
+| Detroit: Become Human | 2018 | Quantic Dream | Sony | Interactive drama | 1 | No | **Stranded** |  |  | Sold | PC in 2019. Quantic Dream has since self-published elsewhere, but this Sony-published title has not moved. |
+| God of War | 2018 | SCE Santa Monica | Sony | Action-adventure | 1 | No | **Stranded** |  |  | Sold | PC in 2022; no second console. |
+| Marvel's Spider-Man | 2018 | Insomniac | Sony | Action-adventure | 1 | No | **Stranded** |  |  | Sold | PS5 remaster (2020) and PC (2022), but no other console, and the **Marvel licence** means Sony could not put it on Nintendo or Xbox hardware even if it wanted to. |
+| Concrete Genie | 2019 | PixelOpus | Sony | Adventure | 1 | No | **Stranded** |  |  | Sold | PixelOpus was closed by Sony in 2023. |
+| Days Gone | 2019 | Bend Studio | Sony | Action-adventure | 1 | No | **Stranded** |  |  | Sold | PC in 2021 and a PS5 remaster in 2025; no other console. Sony declined a sequel. |
+| Death Stranding | 2019 | Kojima Productions | Sony | Action-adventure | 1 | Yes | Ported | PC (2020); Xbox Series (2025, *Director's Cut*) |  | Sold | Kojima Productions retained rights, which is why this reached Microsoft hardware while Sony's own titles did not. |
+| Dreams | 2020 | Media Molecule | Sony | Creation | 1–4 | **Dead (2024)** | **Stranded** |  |  | Sold | A game-creation platform whose entire value was the community. Sony ended live support in 2024, and Media Molecule was restructured. Millions of user creations exist only inside a service in wind-down, the same shape as `LittleBigPlanet` one generation earlier. |
+| Ghost of Tsushima | 2020 | Sucker Punch | Sony | Action-adventure | 1–3 | Yes | **Stranded** |  |  | Sold | PC in 2024 and a PS5 director's cut; no other console. |
+| Marvel's Spider-Man: Miles Morales | 2020 | Insomniac | Sony | Action-adventure | 1 | No | Sim-ship | PS5 (2020, same day); PC (2022) |  | Sold | Cross-gen launch, also catalogued under [PS5](ps5.md). |
+| Minecraft Dungeons | 2020 | Mojang | Microsoft | Action RPG | 1–4 | Yes | Sim-ship | Xbox One, Switch, PC (2020, same day) |  | Sold | Also catalogued under [Xbox One](xbox-one.md) and [Switch](switch.md). |
+| Sackboy: A Big Adventure | 2020 | Sumo Digital | Sony | Platformer | 1–4 | Dead | Sim-ship | PS5 (2020, same day); PC (2022) |  | Sold | Also catalogued under [PS5](ps5.md). |
+| The Last of Us Part II | 2020 | Naughty Dog | Sony | Action-adventure | 1 | No | **Stranded** |  |  | Sold | A PS5 remaster (2024) and PC (2025), both within the family or off-console. |
+| God of War Ragnarök | 2022 | SCE Santa Monica | Sony | Action-adventure | 1 | No | Sim-ship | PS5 (2022, same day); PC (2024) |  | Sold | Also catalogued under [PS5](ps5.md). |
+| Gran Turismo 7 | 2022 | Polyphony Digital | Sony | Racing | 1–20 | Yes | Sim-ship | PS5 (2022, same day) |  | Sold | Also catalogued under [PS5](ps5.md). The last major cross-gen PS4 release. |
+| Horizon Forbidden West | 2022 | Guerrilla Games | Sony | Action RPG | 1 | No | Sim-ship | PS5 (2022, same day); PC (2024) |  | Sold | Also catalogued under [PS5](ps5.md). |
 
 ## Contested
 

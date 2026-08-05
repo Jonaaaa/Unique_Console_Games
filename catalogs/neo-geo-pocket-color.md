@@ -37,25 +37,25 @@ What remains stranded is stranded because SNK **does not own it alone**:
 
 ## Debut games
 
-| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Notes |
-|---|---|---|---|---|---|---|---|---|---|---|
-| King of Fighters R-1 | 1998 | SNK | SNK | Fighting | 1–2 | No | **Stranded** | | | A monochrome NGP launch title, superseded by `R-2` on colour hardware and skipped by the reissue programme. |
-| Baseball Stars Color | 1999 | SNK | SNK | Sports | 1–2 | No | **Stranded** | | | Original teams rather than licensed ones, but no series demand behind it. |
-| Biomotor Unitron | 1999 | Yumekobo | SNK | RPG | 1–2 | No | Ported | Switch (2021, *NGPC Selection Vol. 2*) | | A mech-customisation dungeon RPG. |
-| Dark Arms: Beast Buster 1999 | 1999 | SNK | SNK | Action RPG | 1 | No | Ported | Switch (2021, *NGPC Selection Vol. 2*) |  | An action role-playing game where you grow weapons from harvested seeds. Reissued individually on Switch. |
-| Faselei! | 1999 | Sacnoth | SNK | Tactical RPG | 1 | No | Ported | Switch (2021, *NGPC Selection Vol. 2*) | | From the `Shadow Hearts` team, whose console output remains stranded, making this the only accessible Sacnoth game of the era. |
-| Fatal Fury: First Contact | 1999 | SNK | SNK | Fighting | 1–2 | No | Ported | Switch (2020), *NGPC Selection Vol. 1* |  | A handheld fighting game with the arcade cast redrawn in a two-head-high style that suits the small screen. Reissued on Switch. |
-| Ganbare Neo Poke-kun | 1999 | SNK | SNK | Virtual pet | 1 | No | **Stranded** | | Japanese | Japan-only. A Tamagotchi-style mascot toy tied to the hardware's own branding, with minigames; never localised or reissued. |
-| King of Fighters R-2 | 1999 | SNK | SNK | Fighting | 1–2 | No | Ported | Switch (2021, *NGPC Selection Vol. 2*) |  | The handheld version of the 1998 arcade game, with a team-battle structure intact. Reissued on Switch. |
-| Metal Slug: 1st Mission | 1999 | SNK | SNK | Run and gun | 1 | No | Ported | Switch (2020), *NGPC Selection Vol. 1* | | Not a port of the arcade game, an original handheld entry with its own levels. |
-| Puzzle Link 2 | 1999 | Yumekobo | SNK | Puzzle | 1–2 | No | Ported | Switch (2021, *NGPC Selection Vol. 2*) |  | Connect matching symbols along free paths to clear the board. Reissued on Switch in 2021. |
-| SNK vs. Capcom: Card Fighters' Clash | 1999 | SNK | SNK | Card battler | 1–2 | No | **Stranded** | | | Two versions (SNK Cardfighter's and Capcom Cardfighter's) with different decks. Widely regarded as the platform's best game and **never reissued**: the Capcom character licence covers a full trading-card roster, which is a far larger clearance job than a fighting-game guest list. |
-| SNK vs. Capcom: The Match of the Millennium | 1999 | SNK | SNK | Fighting | 1–2 | No | Ported | Switch (2021), *NGPC Selection Vol. 1* | | Its reissue required Capcom's cooperation, which was granted, unlike the card game below. |
-| Sonic the Hedgehog Pocket Adventure | 1999 | Dimps | SNK | Platformer | 1 | No | **Stranded** | | | An SNK-developed Sonic game built by the future Dimps team. Absent from *Sonic Origins*, *Sonic Gems* and SNK's own collections, because it needs both companies to agree. |
-| Big Bang Pro Wrestling | 2000 | Saurus | SNK | Wrestling | 1–2 | No | **Stranded** | | | A late release into a dying platform, as SNK approached bankruptcy. |
-| Fantastic Night Dreams: Cotton | 2000 | Success | SNK | Shoot 'em up | 1 | No | Ported | Switch, PS4 (2021, *Cotton Guardian Force* era reissues) | | The Cotton series was revived in 2021, which pulled the handheld entry along with it. |
-| Metal Slug: 2nd Mission | 2000 | SNK | SNK | Run and gun | 1 | No | Ported | Switch (2020), *NGPC Selection Vol. 1* |  | A handheld run-and-gun with branching mission routes, built for the hardware rather than converted. Reissued on Switch. |
-| The Last Blade: Beyond the Destiny | 2000 | SNK | SNK | Fighting | 1–2 | No | Ported | Switch (2021, *NGPC Selection Vol. 2*) |  | A weapons-based handheld fighter drawn from the arcade series. Reissued on Switch. |
+| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Availability | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| King of Fighters R-1 | 1998 | SNK | SNK | Fighting | 1–2 | No | **Stranded** |  |  | Sold | A monochrome NGP launch title, superseded by `R-2` on colour hardware and skipped by the reissue programme. |
+| Baseball Stars Color | 1999 | SNK | SNK | Sports | 1–2 | No | **Stranded** |  |  | Sold | Original teams rather than licensed ones, but no series demand behind it. |
+| Biomotor Unitron | 1999 | Yumekobo | SNK | RPG | 1–2 | No | Ported | Switch (2021, *NGPC Selection Vol. 2*) |  | Sold | A mech-customisation dungeon RPG. |
+| Dark Arms: Beast Buster 1999 | 1999 | SNK | SNK | Action RPG | 1 | No | Ported | Switch (2021, *NGPC Selection Vol. 2*) |  | Sold | An action role-playing game where you grow weapons from harvested seeds. Reissued individually on Switch. |
+| Faselei! | 1999 | Sacnoth | SNK | Tactical RPG | 1 | No | Ported | Switch (2021, *NGPC Selection Vol. 2*) |  | Sold | From the `Shadow Hearts` team, whose console output remains stranded, making this the only accessible Sacnoth game of the era. |
+| Fatal Fury: First Contact | 1999 | SNK | SNK | Fighting | 1–2 | No | Ported | Switch (2020), *NGPC Selection Vol. 1* |  | Sold | A handheld fighting game with the arcade cast redrawn in a two-head-high style that suits the small screen. Reissued on Switch. |
+| Ganbare Neo Poke-kun | 1999 | SNK | SNK | Virtual pet | 1 | No | **Stranded** |  | Japanese | Sold | Japan-only. A Tamagotchi-style mascot toy tied to the hardware's own branding, with minigames; never localised or reissued. |
+| King of Fighters R-2 | 1999 | SNK | SNK | Fighting | 1–2 | No | Ported | Switch (2021, *NGPC Selection Vol. 2*) |  | Sold | The handheld version of the 1998 arcade game, with a team-battle structure intact. Reissued on Switch. |
+| Metal Slug: 1st Mission | 1999 | SNK | SNK | Run and gun | 1 | No | Ported | Switch (2020), *NGPC Selection Vol. 1* |  | Sold | Not a port of the arcade game, an original handheld entry with its own levels. |
+| Puzzle Link 2 | 1999 | Yumekobo | SNK | Puzzle | 1–2 | No | Ported | Switch (2021, *NGPC Selection Vol. 2*) |  | Sold | Connect matching symbols along free paths to clear the board. Reissued on Switch in 2021. |
+| SNK vs. Capcom: Card Fighters' Clash | 1999 | SNK | SNK | Card battler | 1–2 | No | **Stranded** |  |  | Sold | Two versions (SNK Cardfighter's and Capcom Cardfighter's) with different decks. Widely regarded as the platform's best game and **never reissued**: the Capcom character licence covers a full trading-card roster, which is a far larger clearance job than a fighting-game guest list. |
+| SNK vs. Capcom: The Match of the Millennium | 1999 | SNK | SNK | Fighting | 1–2 | No | Ported | Switch (2021), *NGPC Selection Vol. 1* |  | Sold | Its reissue required Capcom's cooperation, which was granted, unlike the card game below. |
+| Sonic the Hedgehog Pocket Adventure | 1999 | Dimps | SNK | Platformer | 1 | No | **Stranded** |  |  | Sold | An SNK-developed Sonic game built by the future Dimps team. Absent from *Sonic Origins*, *Sonic Gems* and SNK's own collections, because it needs both companies to agree. |
+| Big Bang Pro Wrestling | 2000 | Saurus | SNK | Wrestling | 1–2 | No | **Stranded** |  |  | Sold | A late release into a dying platform, as SNK approached bankruptcy. |
+| Fantastic Night Dreams: Cotton | 2000 | Success | SNK | Shoot 'em up | 1 | No | Ported | Switch, PS4 (2021, *Cotton Guardian Force* era reissues) |  | Sold | The Cotton series was revived in 2021, which pulled the handheld entry along with it. |
+| Metal Slug: 2nd Mission | 2000 | SNK | SNK | Run and gun | 1 | No | Ported | Switch (2020), *NGPC Selection Vol. 1* |  | Sold | A handheld run-and-gun with branching mission routes, built for the hardware rather than converted. Reissued on Switch. |
+| The Last Blade: Beyond the Destiny | 2000 | SNK | SNK | Fighting | 1–2 | No | Ported | Switch (2021, *NGPC Selection Vol. 2*) |  | Sold | A weapons-based handheld fighter drawn from the arcade series. Reissued on Switch. |
 
 ## Excluded
 
