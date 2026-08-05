@@ -43,7 +43,7 @@ migrated.
 
 | Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Notes |
 |---|---|---|---|---|---|---|---|---|---|---|
-| Excite Truck | 2006 | Monster Games | Nintendo | Racing | 1–2 | No | **Stranded** | | | Steered by tilting the remote sideways. |
+| Excite Truck | 2006 | Monster Games | Nintendo | Racing | 1–2 | No | **Stranded** |  |  | Steered by tilting the remote sideways. An arcade racer steered by tilting the remote, which is exactly why it cannot be ported. |
 | The Legend of Zelda: Twilight Princess | 2006 | Nintendo EAD | Nintendo | Action-adventure | 1 | No | Ported | Wii U (2016, *HD*) | | ⚠ [Contested](#contested), the Wii version shipped first, but the game was built for GameCube. |
 | Wii Play | 2006 | Nintendo EAD | Nintendo | Minigame collection | 1–2 | No | **Stranded** | | | 28.02M, bundled with a spare Wii Remote. Nine tech-demo minigames. |
 | Wii Sports | 2006 | Nintendo EAD | Nintendo | Sports | 1–4 | No | **Stranded** | | | **82.90M copies: the best-selling stranded game in existence**, and the fourth best-selling game ever. A pack-in built entirely around motion control. *Wii Sports Club* (Wii U) and *Nintendo Switch Sports* are separate games. |
@@ -53,7 +53,7 @@ migrated.
 | Mario Strikers Charged | 2007 | Next Level Games | Nintendo | Sports | 1–4 | Dead (2014) | **Stranded** | | | *Battle League* (Switch) is a new entry. |
 | Metroid Prime 3: Corruption | 2007 | Retro Studios | Nintendo | Action-adventure | 1 | No | **Stranded** | | | Its pointer-based aiming was the best argument for the Wii Remote, and the reason it hasn't been remastered alongside Prime 1. |
 | No More Heroes | 2007 | Grasshopper Manufacture | Marvelous / Ubisoft | Action | 1 | No | Ported | Switch, PC (2020–21), PS4, Xbox | | Suda51's remote-gesture finishing moves were remapped for the ports. |
-| Super Mario Galaxy | 2007 | Nintendo EAD | Nintendo | Platformer | 1–2 | No | Ported | Switch (2020, *3D All-Stars*), Switch (2025, *Galaxy 1+2*) | | |
+| Super Mario Galaxy | 2007 | Nintendo EAD | Nintendo | Platformer | 1–2 | No | Ported | Switch (2020, *3D All-Stars*), Switch (2025, *Galaxy 1+2*) |  | A platformer built on spherical gravity, and the generation's most inventive first-party game. Reached Switch inside a limited-run collection. |
 | Super Paper Mario | 2007 | Intelligent Systems | Nintendo | Platformer / RPG | 1 | No | **Stranded** | | | The series' most experimental entry; never reissued. |
 | Wii Fit | 2007 | Nintendo EAD | Nintendo | Fitness | 1 | No | **Stranded** | | | 22.67M. Requires the Balance Board, a peripheral no other platform has. |
 | Zack & Wiki: Quest for Barbaros' Treasure | 2007 | Capcom | Capcom | Puzzle adventure | 1 | No | **Stranded** | | | Every puzzle is solved with a physical remote gesture. |
@@ -64,32 +64,32 @@ migrated.
 | Fatal Frame IV: Mask of the Lunar Eclipse | 2008 | Grasshopper / Tecmo | Nintendo | Survival horror | 1 | No | Ported | PS4/PS5, Xbox, Switch, PC (2023, *Remaster*) | Japanese | Japan-only for 15 years; the remaster was its first Western release. |
 | LostWinds | 2008 | Frontier Developments | Frontier | Platformer | 1 | No | Ported | iOS (2009), PC, Switch (2018) | | **WiiWare.** One of the few WiiWare titles to escape before the Shop closed. |
 | Mario Kart Wii | 2008 | Nintendo EAD | Nintendo | Racing | 1–12 | Dead (2014) | **Stranded** | | | **37.38M, the best-selling stranded racing game.** Bundled with the Wii Wheel. |
-| Mario Super Sluggers | 2008 | Namco Bandai | Nintendo | Sports | 1–4 | No | **Stranded** | | | Never released in PAL territories. |
+| Mario Super Sluggers | 2008 | Namco Bandai | Nintendo | Sports | 1–4 | No | **Stranded** |  |  | Never released in PAL territories. A baseball game using the Mario cast, never released in PAL territories. |
 | Super Smash Bros. Brawl | 2008 | Sora Ltd. | Nintendo | Fighting | 1–4 | Dead (2014) | **Stranded** | | | 13.32M. Its Subspace Emissary campaign exists in no other Smash game and has never been reissued. |
-| Wario Land: Shake It! | 2008 | Good-Feel | Nintendo | Platformer | 1 | No | **Stranded** | | | The last Wario Land game. |
+| Wario Land: Shake It! | 2008 | Good-Feel | Nintendo | Platformer | 1 | No | **Stranded** |  |  | The last Wario Land game. A hand-animated platformer, and the last entry in its series. |
 | Wii Music | 2008 | Nintendo EAD | Nintendo | Music | 1–4 | No | **Stranded** | | | Miyamoto's most divisive project; motion-only instrument performance. |
-| Excitebots: Trick Racing | 2009 | Monster Games | Nintendo | Racing | 1–2 | Dead (2014) | **Stranded** | | | North America only, in tiny numbers. |
-| Little King's Story | 2009 | Cing / Town Factory | Marvelous / XSEED | Strategy | 1 | No | Ported | PSP (2012), PC, Switch (2019–20) | | |
+| Excitebots: Trick Racing | 2009 | Monster Games | Nintendo | Racing | 1–2 | Dead (2014) | **Stranded** |  |  | North America only, in tiny numbers. A stunt racer released in North America only and in tiny numbers. |
+| Little King's Story | 2009 | Cing / Town Factory | Marvelous / XSEED | Strategy | 1 | No | Ported | PSP (2012), PC, Switch (2019–20) |  | A strategy game where you order villagers to fight and build, under a storybook surface. Ported to PSP and later remastered. |
 | MadWorld | 2009 | PlatinumGames | Sega | Beat 'em up | 1 | No | **Stranded** | | | PlatinumGames' monochrome ultraviolence; the only one of its four early games never reissued. |
 | Metroid Prime Trilogy | 2009 | Retro Studios | Nintendo | Compilation | 1–4 | No | **Stranded** | | | Prime 1 and 2 rebuilt with Wii pointer controls plus Prime 3. *Metroid Prime Remastered* (Switch, 2023) covered only the first game, so this package (and the Wii control scheme for Prime 1 and 2) remains Wii-only. |
-| Muramasa: The Demon Blade | 2009 | Vanillaware | Marvelous / XSEED | Action RPG | 1 | No | Ported | Vita (2013, *Rebirth*) | | |
+| Muramasa: The Demon Blade | 2009 | Vanillaware | Marvelous / XSEED | Action RPG | 1 | No | Ported | Vita (2013, *Rebirth*) |  | A hand-drawn side-scrolling action game set in feudal Japan. Its Vita version added extra chapters. |
 | New Super Mario Bros. Wii | 2009 | Nintendo EAD | Nintendo | Platformer | 1–4 | No | **Stranded** | | | 30.32M. The only mainline New Super Mario Bros. game never re-released. |
-| Punch-Out!! | 2009 | Next Level Games | Nintendo | Sports | 1–2 | No | **Stranded** | | | The series' last entry, 15 years on. |
-| Sin & Punishment: Star Successor | 2009 | Treasure | Nintendo | Rail shooter | 1–2 | No | **Stranded** | | | Treasure's last major game. |
+| Punch-Out!! | 2009 | Next Level Games | Nintendo | Sports | 1–2 | No | **Stranded** |  |  | The series' last entry, 15 years on. A boxing game built on memorising tells, and the series' last entry after fifteen years. |
+| Sin & Punishment: Star Successor | 2009 | Treasure | Nintendo | Rail shooter | 1–2 | No | **Stranded** |  |  | Treasure's last major game. A rail shooter aimed with the remote, and Treasure's last major game. |
 | Wii Sports Resort | 2009 | Nintendo EAD | Nintendo | Sports | 1–4 | No | **Stranded** | | | 33.14M. Required MotionPlus, so it is doubly peripheral-locked. |
-| Donkey Kong Country Returns | 2010 | Retro Studios | Nintendo | Platformer | 1–2 | No | Ported | 3DS (2013), Switch (2025, *HD*) | | |
-| Kirby's Epic Yarn | 2010 | Good-Feel / HAL | Nintendo | Platformer | 1–2 | No | Ported | 3DS (2019, *Extra Epic Yarn*) | | |
+| Donkey Kong Country Returns | 2010 | Retro Studios | Nintendo | Platformer | 1–2 | No | Ported | 3DS (2013), Switch (2025, *HD*) |  | Retro Studios reviving the SNES series, with a difficulty to match. Ported to Nintendo 3DS and again to Switch. |
+| Kirby's Epic Yarn | 2010 | Good-Feel / HAL | Nintendo | Platformer | 1–2 | No | Ported | 3DS (2019, *Extra Epic Yarn*) |  | A platformer where everything is made of fabric and the character cannot die. Rebuilt for Nintendo 3DS. |
 | Metroid: Other M | 2010 | Team Ninja / Nintendo SPD | Nintendo | Action-adventure | 1 | No | **Stranded** | | | Controlled by holding the remote NES-style and pointing at the screen to shoot, a scheme with no modern analogue. |
-| Sonic Colors | 2010 | Sonic Team | Sega | Platformer | 1 | No | Ported | Multiplatform (2021, *Ultimate*) | | |
+| Sonic Colors | 2010 | Sonic Team | Sega | Platformer | 1 | No | Ported | Multiplatform (2021, *Ultimate*) |  | The entry that steadied the series after a bad decade, built around alien power-ups. Remastered in 2021. |
 | Super Mario All-Stars: 25th Anniversary Edition | 2010 | Nintendo | Nintendo | Compilation | 1–2 | No | **Stranded** | | | A limited-run reissue of the SNES compilation with a soundtrack CD and booklet, sold for a few months only. The disc itself has never been reissued. |
 | Super Mario Galaxy 2 | 2010 | Nintendo EAD | Nintendo | Platformer | 1–2 | No | Ported | Switch (2025, *Galaxy 1+2*) | | Was stranded for 15 years, omitted from *3D All-Stars* in 2020. |
 | Tatsunoko vs. Capcom: Ultimate All-Shooters | 2010 | Eighting | Capcom | Fighting | 1–2 | Dead (2014) | **Stranded** | | | A Capcom crossover with Tatsunoko's anime roster. The anime licence expired and cannot realistically be renewed. |
 | Trauma Team | 2010 | Atlus | Atlus | Simulation | 1–2 | No | **Stranded** | | | The last Trauma Center game; six specialisms, all motion-controlled. |
-| Wii Party | 2010 | Nd Cube | Nintendo | Party | 1–4 | No | **Stranded** | | | 9.35M. |
+| Wii Party | 2010 | Nd Cube | Nintendo | Party | 1–4 | No | **Stranded** |  |  | 9.35M. A minigame collection built entirely around the remote, and a nine-million seller nobody can play now. |
 | Xenoblade Chronicles | 2010 | Monolith Soft | Nintendo | RPG | 1 | No | Ported | 3DS (2015), Switch (2020, *Definitive Edition*) | | Nearly skipped Western release entirely; Operation Rainfall campaigned for it. |
-| Kirby's Return to Dream Land | 2011 | HAL Laboratory | Nintendo | Platformer | 1–4 | No | Ported | Switch (2023, *Deluxe*) | | |
+| Kirby's Return to Dream Land | 2011 | HAL Laboratory | Nintendo | Platformer | 1–4 | No | Ported | Switch (2023, *Deluxe*) |  | A traditional four-player Kirby game after several experiments. Remade for Switch in 2023. |
 | Pandora's Tower | 2011 | Ganbarion | Nintendo | Action RPG | 1 | No | **Stranded** | | | The third Operation Rainfall game, and likewise never reissued. |
-| Rhythm Heaven Fever | 2011 | Nintendo SPD | Nintendo | Rhythm | 1–2 | No | **Stranded** | | | PAL: *Beat the Beat: Rhythm Paradise*. |
+| Rhythm Heaven Fever | 2011 | Nintendo SPD | Nintendo | Rhythm | 1–2 | No | **Stranded** |  |  | PAL: *Beat the Beat: Rhythm Paradise*. A rhythm game with deliberately minimal visuals, and the series is dormant. |
 | The Last Story | 2011 | Mistwalker / AQ Interactive | Nintendo | RPG | 1–6 | Dead (2014) | **Stranded** | | | Hironobu Sakaguchi's post-Final Fantasy RPG. One of the Operation Rainfall three; the only one still stranded. |
 | The Legend of Zelda: Skyward Sword | 2011 | Nintendo EAD | Nintendo | Action-adventure | 1 | No | Ported | Switch (2021, *HD*) | | Built for 1:1 MotionPlus swordplay; the HD version added a button-only scheme. |
 | Kirby's Dream Collection | 2012 | HAL Laboratory | Nintendo | Compilation | 1–4 | No | **Stranded** | | | Six Kirby games plus new challenge stages and a history booklet, released for the series' 20th anniversary in limited quantities. The new content exists nowhere else. |
