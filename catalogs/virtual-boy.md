@@ -6,7 +6,7 @@
 | **Lifespan** | Jul 1995 (JP) – Mar 1996; ~770,000 units sold |
 | **Library size** | **24 entries**: 21 commercially released plus 3 completed-but-unreleased. The smallest complete library covered here. |
 | **Backward compat** | None. |
-| **Last verified** | 2026-07-29 |
+| **Last verified** | 2026-08-05 |
 | **Coverage** | **Complete.** Every commercially released title is catalogued individually, plus the completed-but-unreleased prototypes. |
 
 ## ⚠ The Virtual Boy's status changed completely in 2026
@@ -20,18 +20,19 @@ Classics** on Switch Online (Expansion Pack) for Switch 2, together with a physi
 cardboard viewer accessory. Seven games shipped at launch and five more arrived in a
 **May 2026** update.
 
-So this platform went from ~100% stranded to majority-`Ported` in five months, and
-the process is still running. Two rare Japanese titles remain conspicuously absent,
-and two **never-released** games are slated for the service this year, which raises
-a debut question the ruleset has to answer. See [Contested](#contested).
+So this platform went from ~100% stranded to two-thirds `Ported` in six months, and
+the process is still running. Two rare Japanese titles remain conspicuously absent.
+The two **never-released** games shipped on **4 Aug 2026**, thirty years after they
+were built, which is the first time this catalogue has recorded a debut and a port
+in the same breath. See [Contested](#contested).
 
 ## Summary
 
 | | Count |
 |---|---|
 | **Debut games** | **24** |
-| of which still `Stranded` | 10 |
-| of which since `Ported` | 14 |
+| of which still `Stranded` | 8 |
+| of which since `Ported` | 16 |
 | **Contested** | 2 |
 
 **Why the Virtual Boy stranded games, and why that broke.** The cause was purely
@@ -72,14 +73,14 @@ What remains stranded is now stranded for the ordinary reasons: **licences**
 | 3-D Tetris | 1996 | T&E Soft | Nintendo | Puzzle | 1 | No | Ported | Switch 2 (2026, launch lineup) | | North America only originally; a different game from *V-Tetris*. |
 | Nester's Funky Bowling | 1996 | Saffire | Nintendo | Sports | 1 | No | **Stranded** | | | North America only. Stars Nester, the mascot of the discontinued *Nintendo Power* magazine; a character Nintendo has not used since. |
 | Bound High! | | Japan System Supply | Nintendo | Action | 1 | No | **Stranded** | | | Finished but **never commercially released**, the platform died first. It leaked via a prototype and has no official release of any kind. |
-| D-Hopper | | Unknown | Nintendo | Unknown | 1 | No | **Stranded** | | | ⚠ [Contested](#contested), likewise unreleased in 1995 and slated for the 2026 service; same reasoning as `Zero Racers`. |
-| Zero Racers | | Nintendo EAD | Nintendo | Racing | 1 | No | **Stranded** | | | ⚠ [Contested](#contested): a completed F-Zero game cancelled in 1996, announced for the 2026 service. Built for Virtual Boy, so it is catalogued here; it becomes `Ported` when the service ships it. |
+| D-Hopper | | Unknown | Nintendo | Unknown | 1 | No | Ported | Switch 2 (2026, August update) | | ⚠ [Contested](#contested), likewise unreleased in 1995 and shipped alongside `Zero Racers` on 4 Aug 2026; same reasoning. |
+| Zero Racers | | Nintendo EAD | Nintendo | Racing | 1 | No | Ported | Switch 2 (2026, August update) | | ⚠ [Contested](#contested): a completed F-Zero game cancelled in 1996, released for the first time on 4 Aug 2026, thirty years after it was built. Catalogued here because Virtual Boy is the hardware it was made for. |
 
 ## Contested
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
-| Zero Racers / D-Hopper | 1996 (unreleased) | **Include** (`Stranded` until released) | Both were finished Virtual Boy software, built for this hardware and nothing else. Under the **shelved-games rule** the debut platform is the hardware a game was built for, not the vehicle that eventually delivers it, so these are Virtual Boy entries, exactly as `Star Fox 2` is an SNES entry. | Neither has been commercially released, so strictly neither has a debut date yet. When the 2026 service ships them they become `Ported`, not Switch 2 debuts. |
+| Zero Racers / D-Hopper | 1996 (unreleased) | **Include** (`Ported` since 4 Aug 2026) | Both were finished Virtual Boy software, built for this hardware and nothing else. Under the **shelved-games rule** the debut platform is the hardware a game was built for, not the vehicle that eventually delivers it, so these are Virtual Boy entries, exactly as `Star Fox 2` is an SNES entry. | Neither has been commercially released, so strictly neither has a debut date yet. When the 2026 service ships them they become `Ported`, not Switch 2 debuts. |
 | Bound High! | 1996 (unreleased) | **Include** (`Stranded`) | A completed, reviewed, catalogued game that only ever existed as Virtual Boy software. | It never shipped, so it has no release date and no purchasable form, out of scope for a collecting guide entirely. |
 
 ## Excluded
@@ -87,7 +88,7 @@ What remains stranded is now stranded for the ordinary reasons: **licences**
 | Title | Year | Why excluded |
 |---|---|---|
 | Virtual Boy – Nintendo Classics (the app itself) | 2026 | A re-release service, not a game. |
-| Dragon Hopper / other cancelled prototypes | | Cancelled before completion and never distributed; `D-Hopper` above is the one with a confirmed 2026 slate entry. |
+| Dragon Hopper / other cancelled prototypes | | Cancelled before completion and never distributed; `D-Hopper` above is the one Nintendo finished and shipped in 2026. |
 | Any Switch 2 Nintendo Classics release | 2026 | Re-releases by definition; they are what moved these rows to `Ported`. |
 | *(games with an earlier arcade release)* | | **Not excluded.** Arcades are out of scope; the first *home* release counts. |
 
@@ -109,3 +110,4 @@ Checked 2026-07-29.
 - [Nintendo Switch Online adds new Virtual Boy games in May 2026 update (Nintendo Everything)](https://nintendoeverything.com/nintendo-switch-online-adds-new-virtual-boy-games-in-may-2026-update/)
 - [Nintendo Expands Switch Online's Virtual Boy Library With Five More Games (Nintendo Life)](https://www.nintendolife.com/news/2026/05/nintendo-expands-switch-onlines-virtual-boy-library-with-five-more-games)
 - [Every Virtual Boy Game Coming To Nintendo Switch Online (GameSpot)](https://www.gamespot.com/gallery/every-game-coming-to-the-nintendo-switch-virtual-boy-library/2900-7433/)
+- [Zero Racers and D-Hopper join Virtual Boy - Nintendo Classics (Nintendo Life)](https://www.nintendolife.com/news/2026/08/two-cancelled-virtual-boy-games-join-nintendo-classics-today), 4 Aug 2026

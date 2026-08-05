@@ -44,7 +44,7 @@ debut is permanent.
 | [Sony PlayStation](catalogs/ps1.md) | Dec 1994 – Mar 2006 | **52** | 21 | 31 |
 | [Sega Saturn](catalogs/saturn.md) | Nov 1994 – 2000 (Japan) | **36** | 23 | 13 |
 | [Casio Loopy](catalogs/casio-loopy.md) | Oct 1995 – 1998 | **5** | 5 | 0 |
-| [Nintendo Virtual Boy](catalogs/virtual-boy.md) | Jul 1995 (JP) – Mar 1996 | **24** | 10 | 14 |
+| [Nintendo Virtual Boy](catalogs/virtual-boy.md) | Jul 1995 (JP) – Mar 1996 | **24** | 8 | 16 |
 | [Apple Bandai Pippin](catalogs/apple-pippin.md) | Mar 1996 – 1997 | **5** | 5 | 0 |
 | [Nintendo 64](catalogs/n64.md) | Jun 1996 (JP) – 2002 | **61** | 23 | 38 |
 | [Tiger Game.com](catalogs/game-com.md) | Sep 1997 – 2000 | **4** | 4 | 0 |
@@ -83,7 +83,7 @@ and portable games system with a commercial software library, from the Magnavox 
 (1972) to the Switch 2 (2025). See [ROSTER.md](ROSTER.md) for what is included,
 excluded and folded in, and why.
 
-**1,729 debut games. 1017 still stranded.**
+**1,729 debut games. 1,015 still stranded.**
 
 
 **Hardware revisions are not platforms.** Game Boy Pocket/Light, GBA SP/Micro,
