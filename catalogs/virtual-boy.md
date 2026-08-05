@@ -17,11 +17,14 @@ nothing else could reproduce, 21 released games, and not one official re-release
 
 That ended on **17 Feb 2026**, when Nintendo launched **Virtual Boy – Nintendo
 Classics** on Switch Online (Expansion Pack) for Switch 2, together with a physical
-cardboard viewer accessory. Seven games shipped at launch and five more arrived in a
-**May 2026** update.
+cardboard viewer accessory. Seven games shipped at launch, two on Mario Day in
+**March**, five in **May**, and two in **August**: sixteen of the twenty-four
+entries here, in four waves across six months.
 
 So this platform went from ~100% stranded to two-thirds `Ported` in six months, and
-the process is still running. Two rare Japanese titles remain conspicuously absent.
+the process is still running. Eight are still stranded, among them the two rarest
+Japanese carts, `SD Gundam Dimension War` and `Virtual Lab`.
+
 The two **never-released** games shipped on **4 Aug 2026**, thirty years after they
 were built, which is the first time this catalogue has recorded a debut and a port
 in the same breath. See [Contested](#contested).
@@ -54,8 +57,8 @@ What remains stranded is now stranded for the ordinary reasons: **licences**
 | Galactic Pinball | 1995 | Intelligent Systems | Nintendo | Pinball | 1 | No | Ported | Switch 2 (2026, launch lineup) | | |
 | Golf | 1995 | T&E Soft | Nintendo | Sports | 1 | No | Ported | Switch 2 (2026, launch lineup) | | JP: *T&E Virtual Golf*. |
 | Jack Bros. | 1995 | Atlus | Atlus | Action | 1 | No | Ported | Switch 2 (2026, May update) | | **The first Megami Tensei game released in the West**, years before the series arrived properly. |
-| Mario Clash | 1995 | Nintendo R&D1 | Nintendo | Action | 1 | No | Ported | Switch 2 (2026) | | A reworking of the *Mario Bros.* arcade concept using foreground/background planes. |
-| Mario's Tennis | 1995 | Nintendo R&D1 | Nintendo | Sports | 1 | No | Ported | Switch 2 (2026, Nintendo Classics) | | The North American pack-in, and the game most people who owned a Virtual Boy actually played. |
+| Mario Clash | 1995 | Nintendo R&D1 | Nintendo | Action | 1 | No | Ported | Switch 2 (2026, March update) | | A reworking of the *Mario Bros.* arcade concept using foreground/background planes. |
+| Mario's Tennis | 1995 | Nintendo R&D1 | Nintendo | Sports | 1 | No | Ported | Switch 2 (2026, March update) | | The North American pack-in, and the game most people who owned a Virtual Boy actually played. |
 | Panic Bomber | 1995 | Hudson Soft | Nintendo | Puzzle | 1 | No | **Stranded** | | | JP: *Tobidase! Panibomb*. Konami absorbed Hudson, so the Bomberman rights now sit outside Nintendo, which is why it was skipped while other launch titles were not. |
 | Red Alarm | 1995 | T&E Soft | Nintendo | Rail shooter | 1 | No | Ported | Switch 2 (2026, launch lineup) | | Wireframe-only 3D: the purest demonstration of the hardware, and near-unreadable without it. |
 | SD Gundam Dimension War | 1995 | Locomotive | Bandai | Tactical RPG | 1 | No | **Stranded** | | Japanese | **The rarest Virtual Boy game.** Japan-only, tiny print run, and it needs the Bandai Gundam licence, which is why it was skipped alongside `Virtual Lab`. |
@@ -111,3 +114,4 @@ Checked 2026-07-29.
 - [Nintendo Expands Switch Online's Virtual Boy Library With Five More Games (Nintendo Life)](https://www.nintendolife.com/news/2026/05/nintendo-expands-switch-onlines-virtual-boy-library-with-five-more-games)
 - [Every Virtual Boy Game Coming To Nintendo Switch Online (GameSpot)](https://www.gamespot.com/gallery/every-game-coming-to-the-nintendo-switch-virtual-boy-library/2900-7433/)
 - [Zero Racers and D-Hopper join Virtual Boy - Nintendo Classics (Nintendo Life)](https://www.nintendolife.com/news/2026/08/two-cancelled-virtual-boy-games-join-nintendo-classics-today), 4 Aug 2026
+- [Mario's Tennis and Mario Clash join Nintendo Classics on 10 Mar 2026 (Gematsu)](https://www.gematsu.com/2026/03/game-boy-advance-and-virtual-boy-nintendo-classics-add-mario-vs-donkey-kong-marios-tennis-and-mario-clash-on-march-10)
