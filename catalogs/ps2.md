@@ -53,28 +53,28 @@ Three more causes:
 
 | Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Notes |
 |---|---|---|---|---|---|---|---|---|---|---|
-| Dark Cloud | 2000 | Level-5 | Sony | Action RPG | 1 | No | Ported | PS4 (2016) | | Launch-window title. |
-| Devil May Cry | 2001 | Capcom | Capcom | Action | 1 | No | Ported | *HD Collection* (2012), multiplatform | | Began as a Resident Evil prototype. |
-| Fatal Frame | 2001 | Tecmo | Tecmo | Survival horror | 1 | No | Ported | Xbox (2002) | | PAL: *Project Zero*. |
-| Final Fantasy X | 2001 | Square | Square | RPG | 1 | No | Ported | PS3, Vita, PS4, Switch, Xbox, PC (2013–19, *HD Remaster*) | | |
+| Dark Cloud | 2000 | Level-5 | Sony | Action RPG | 1 | No | Ported | PS4 (2016) |  | Launch-window title. A dungeon crawler where the loot rebuilds destroyed towns. |
+| Devil May Cry | 2001 | Capcom | Capcom | Action | 1 | No | Ported | *HD Collection* (2012), multiplatform |  | Began as a Resident Evil prototype. It began as a Resident Evil prototype and became the template for stylish action games. |
+| Fatal Frame | 2001 | Tecmo | Tecmo | Survival horror | 1 | No | Ported | Xbox (2002) |  | PAL: *Project Zero*. Fight ghosts by photographing them with an antique camera. |
+| Final Fantasy X | 2001 | Square | Square | RPG | 1 | No | Ported | PS3, Vita, PS4, Switch, Xbox, PC (2013–19, *HD Remaster*) |  | The series' move to voice acting and a linear structure, and its first direct sequel. Square Enix has kept the remaster on every platform since. |
 | Frequency | 2001 | Harmonix | Sony | Rhythm | 1–4 | No | **Stranded** | | | Harmonix's debut, and the direct ancestor of *Guitar Hero* and *Rock Band*. Entirely licensed electronica; unreissuable. |
-| Gitaroo Man | 2001 | iNiS / Koei | Koei | Rhythm | 1–2 | No | Ported | PSP (2006, *Lives!*) | | |
+| Gitaroo Man | 2001 | iNiS / Koei | Koei | Rhythm | 1–2 | No | Ported | PSP (2006, *Lives!*) |  | A rhythm game where the notes are a guitar duel and the difficulty is unforgiving. Its PSP version added multiplayer and stopped there. |
 | Gran Turismo 3: A-Spec | 2001 | Polyphony Digital | Sony | Racing | 1–2 | No | **Stranded** | | | 14.89M, **the best-selling stranded game on this platform.** Same manufacturer-licensing wall as the PS1 games. |
-| Grand Theft Auto III | 2001 | DMA Design | Rockstar | Open-world action | 1 | No | Ported | PC, Xbox, Mobile, *Definitive Edition* (2021) | | |
-| Ico | 2001 | Team Ico | Sony | Puzzle-adventure | 1 | No | Ported | PS3 (2011, *HD*) | | |
-| Jak and Daxter: The Precursor Legacy | 2001 | Naughty Dog | Sony | Platformer | 1 | No | Ported | PS3 (2012, *HD*), PS4 | | |
+| Grand Theft Auto III | 2001 | DMA Design | Rockstar | Open-world action | 1 | No | Ported | PC, Xbox, Mobile, *Definitive Edition* (2021) |  | The entry that made open-world crime games the dominant genre. Its licensed radio stations are why later reissues have a different soundtrack. |
+| Ico | 2001 | Team Ico | Sony | Puzzle-adventure | 1 | No | Ported | PS3 (2011, *HD*) |  | A puzzle-adventure about leading a girl by the hand through a castle, with almost no interface. Rebuilt for PS3 in HD alongside its companion piece. |
+| Jak and Daxter: The Precursor Legacy | 2001 | Naughty Dog | Sony | Platformer | 1 | No | Ported | PS3 (2012, *HD*), PS4 |  | One continuous world with no loading screens, which was the technical claim to fame in 2001. Sony has reissued it in every generation since. |
 | Kinetica | 2001 | SCE Santa Monica | Sony | Racing | 1–4 | No | **Stranded** | | | Santa Monica Studio's first game, before *God of War*. |
-| Klonoa 2: Lunatea's Veil | 2001 | Namco | Namco | Platformer | 1 | No | Ported | multiplatform (2022, *Phantasy Reverie Series*) | | |
+| Klonoa 2: Lunatea's Veil | 2001 | Namco | Namco | Platformer | 1 | No | Ported | multiplatform (2022, *Phantasy Reverie Series*) |  | A 2.5D platformer that moves on a rail through a 3D world. Bandai Namco remade both entries in 2022. |
 | Maximo: Ghosts to Glory | 2001 | Capcom | Capcom | Action-platformer | 1 | No | **Stranded** | | | A spiritual successor to *Ghosts 'n Goblins*; omitted from every Capcom collection. |
-| Metal Gear Solid 2: Sons of Liberty | 2001 | KCEJ | Konami | Stealth action | 1 | No | Ported | Xbox, PC, *HD Collection*, *Master Collection* (2023) | | |
+| Metal Gear Solid 2: Sons of Liberty | 2001 | KCEJ | Konami | Stealth action | 1 | No | Ported | Xbox, PC, *HD Collection*, *Master Collection* (2023) |  | A stealth game that spends its second half undermining the expectations of its first. Carried by the HD and Master collections. |
 | Shadow Hearts | 2001 | Sacnoth | Aruze / Midway | RPG | 1 | No | **Stranded** | | | Sacnoth became Nautilus and dissolved; Aruze exited games. The whole trilogy has no clear rights holder and none of it has ever been reissued. |
-| Silent Hill 2 | 2001 | Team Silent | Konami | Survival horror | 1 | No | Ported | Xbox, PC, *HD Collection*; PS5/PC (2024 remake) | | |
+| Silent Hill 2 | 2001 | Team Silent | Konami | Survival horror | 1 | No | Ported | Xbox, PC, *HD Collection*; PS5/PC (2024 remake) |  | The entry the series is judged by, built on fog and a limited draw distance that became its aesthetic. Remade in 2024. |
 | Clock Tower 3 | 2002 | Capcom / Sunsoft | Capcom | Survival horror | 1 | No | **Stranded** | | | Directed by Kinji Fukasaku, who died shortly after, a director credit that complicates reissue. |
 | Final Fantasy XI | 2002 | Square | Square Enix | MMORPG | 1–?? | Dead (2016) | Ported | PC (2002, same day); Xbox 360 (2006) | | Square's first MMO. The PC version launched the same day, and under the PC rule that still makes this a PS2 debut. Its PS2 and Xbox 360 service ended in 2016; the game survives on PC only, so the console versions are gone. |
 | Grand Theft Auto: Vice City | 2002 | Rockstar North | Rockstar | Open-world action | 1 | No | Ported | PC, Xbox, Mobile, *Definitive Edition* (2021) | | Its licensed radio soundtrack was partially cut from later re-releases. |
-| Kingdom Hearts | 2002 | Square | Square / Disney | Action RPG | 1 | No | Ported | PS3, PS4, Xbox, Switch, PC (*HD 1.5 ReMIX* onward) | | |
-| Ratchet & Clank | 2002 | Insomniac | Sony | Platformer | 1 | No | Ported | PS3 (2012, *HD*), PS4 (2016 reimagining) | | |
-| Sly Cooper and the Thievius Raccoonus | 2002 | Sucker Punch | Sony | Platformer | 1 | No | Ported | PS3, Vita (2010–11, *HD*) | | |
+| Kingdom Hearts | 2002 | Square | Square / Disney | Action RPG | 1 | No | Ported | PS3, PS4, Xbox, Switch, PC (*HD 1.5 ReMIX* onward) |  | Square's role-playing systems with Disney worlds and characters, which sounded implausible and was not. Its Disney licences have never blocked a reissue. |
+| Ratchet & Clank | 2002 | Insomniac | Sony | Platformer | 1 | No | Ported | PS3 (2012, *HD*), PS4 (2016 reimagining) |  | A platformer built around an escalating arsenal rather than jumping. Sony has moved it forward with each generation. |
+| Sly Cooper and the Thievius Raccoonus | 2002 | Sucker Punch | Sony | Platformer | 1 | No | Ported | PS3, Vita (2010–11, *HD*) |  | A stealth platformer with cel-shaded art and one-hit deaths. Collected in HD for PS3 and Vita. |
 | Suikoden III | 2002 | Konami | Konami | RPG | 1 | No | **Stranded** | | | Konami remastered *Suikoden I & II* in 2025 and skipped this. The series' PS2 entries are all stranded. |
 | The Getaway | 2002 | Team Soho | Sony | Open-world action | 1 | No | **Stranded** | | | A recreation of central London with licensed street layouts. Team Soho became Sony London, closed 2019. |
 | TimeSplitters 2 | 2002 | Free Radical | Eidos | FPS | 1–4 | No | **Stranded** | | | ⚠ [Contested](#contested), fully playable as a hidden unlockable inside *Homefront: The Revolution* (2016). |
@@ -84,41 +84,41 @@ Three more causes:
 | Beyond Good & Evil | 2003 | Ubisoft Montpellier | Ubisoft | Action-adventure | 1 | No | Sim-ship | GameCube, Xbox, PC (2003, same day), HD versions (2011) | | Also catalogued under [GameCube](gamecube.md) and [Xbox](xbox.md). |
 | Def Jam: Vendetta | 2003 | AKI / EA | EA | Fighting | 1–4 | No | **Stranded** | | | **A three-way licensing knot.** Combines individual rapper likeness rights, individual music rights, and AKI's wrestling engine. `Fight for NY` (2004) is equally locked. |
 | Drakengard | 2003 | Cavia | Square Enix | Action RPG | 1 | No | **Stranded** | | | Yoko Taro's debut and the origin of the NieR timeline. Cavia dissolved in 2010; `NieR` was remastered and this was not. |
-| Manhunt | 2003 | Rockstar North | Rockstar | Stealth action | 1 | No | Ported | Xbox, PC (2004–07) | | Banned outright in several countries. |
+| Manhunt | 2003 | Rockstar North | Rockstar | Stealth action | 1 | No | Ported | Xbox, PC (2004–07) |  | Banned outright in several countries. A stealth game framed as a snuff film, which is what got it banned. |
 | Need for Speed Underground | 2003 | EA Black Box | EA | Racing | 1–2 | No | **Stranded** | | | Licensed music **and** licensed cars, plus real aftermarket-parts branding. |
-| Shin Megami Tensei III: Nocturne | 2003 | Atlus | Atlus | RPG | 1 | No | Ported | Switch, PS4, PC (2021, *HD Remaster*) | | |
-| Silent Hill 3 | 2003 | Team Silent | Konami | Survival horror | 1 | No | Ported | PC, *HD Collection* (2012) | | |
+| Shin Megami Tensei III: Nocturne | 2003 | Atlus | Atlus | RPG | 1 | No | Ported | Switch, PS4, PC (2021, *HD Remaster*) |  | A demon-recruiting role-playing game set after the world ends, and the series' most difficult mainline entry. Atlus remastered it in 2021. |
+| Silent Hill 3 | 2003 | Team Silent | Konami | Survival horror | 1 | No | Ported | PC, *HD Collection* (2012) |  | A direct sequel to the first game with a new protagonist. Reached PC at the time and the HD collection later, which is why the original disc is still preferred. |
 | Siren | 2003 | SCE Japan Studio | Sony | Survival horror | 1 | No | **Stranded** | | | Keiichiro Toyama's follow-up to `Silent Hill`. Its "sightjacking" mechanic has never been revisited. |
 | Soulcalibur II | 2003 | Project Soul | Namco | Fighting | 1–2 | Dead | Sim-ship | GameCube, Xbox (2003, same day) | | Also catalogued under [GameCube](gamecube.md) and [Xbox](xbox.md). Each version had an exclusive guest character; the PS2 build's was Heihachi. |
 | SSX 3 | 2003 | EA Canada | EA | Snowboarding | 1–2 | No | **Stranded** | | | Licensed soundtrack; EA has never revisited it. |
 | Burnout 3: Takedown | 2004 | Criterion | EA | Racing | 1–2 | No | **Stranded** | | | Widely considered the best arcade racer ever made, and unavailable. Licensed soundtrack plus EA's disinterest in the series. |
 | Champions of Norrath | 2004 | Snowblind | Sony Online | Action RPG | 1–4 | No | **Stranded** | | | Snowblind's engine games are split across publishers, which has kept them locked. |
 | Digital Devil Saga: Avatar Tuner | 2004 | Atlus | Atlus | RPG | 1 | No | **Stranded** | | | Atlus has remastered *Nocturne* and revived `Raidou`, and left this alone. |
-| Gran Turismo 4 | 2004 | Polyphony Digital | Sony | Racing | 1–2 | No | **Stranded** | | | 11.76M and never reissued. |
+| Gran Turismo 4 | 2004 | Polyphony Digital | Sony | Racing | 1–2 | No | **Stranded** |  |  | 11.76M and never reissued. Its several hundred licensed cars are the obstacle: each licence would need renegotiating. |
 | Grand Theft Auto: San Andreas | 2004 | Rockstar North | Rockstar | Open-world action | 1 | No | Ported | Xbox, PC, Mobile, *Definitive Edition* (2021) | | 17.33M. Its licensed radio stations were cut down in every later release. |
-| Katamari Damacy | 2004 | Namco | Namco | Puzzle / action | 1–2 | No | Ported | Switch, PC, PS4, Xbox (2018, *Reroll*) | | |
-| Metal Gear Solid 3: Snake Eater | 2004 | KCEJ | Konami | Stealth action | 1 | No | Ported | *HD Collection*, *Master Collection*; multiplatform (2024, *Delta* remake) | | |
+| Katamari Damacy | 2004 | Namco | Namco | Puzzle / action | 1–2 | No | Ported | Switch, PC, PS4, Xbox (2018, *Reroll*) |  | Roll a ball that absorbs everything it touches, starting with drawing pins and ending with continents. Namco reissued it widely from 2018. |
+| Metal Gear Solid 3: Snake Eater | 2004 | KCEJ | Konami | Stealth action | 1 | No | Ported | *HD Collection*, *Master Collection*; multiplatform (2024, *Delta* remake) |  | A Cold War prequel built around camouflage, injury and eating what you catch. The most-reissued entry in its series. |
 | Michigan: Report from Hell | 2004 | Grasshopper Manufacture | Spike | Survival horror | 1 | No | **Stranded** | | | Suda51; PAL and Japan only. Played entirely through a TV camera viewfinder. |
 | Rule of Rose | 2004 | Punchline | Sony / Atlus | Survival horror | 1 | No | **Stranded** | | | Tiny Western print run, banned or refused classification in several territories, and Punchline is defunct. One of the most expensive PS2 discs. |
-| Star Wars: Battlefront | 2004 | Pandemic | LucasArts | Shooter | 1–16 | Dead | Sim-ship | Xbox, PC (2004, same day); PS4 (2015, *Classic*) | | Also catalogued under [Xbox](xbox.md). |
-| God of War | 2005 | SCE Santa Monica | Sony | Action | 1 | No | Ported | PS3 (2009, *Collection*), PS Plus Premium | | |
+| Star Wars: Battlefront | 2004 | Pandemic | LucasArts | Shooter | 1–16 | Dead | Sim-ship | Xbox, PC (2004, same day); PS4 (2015, *Classic*) |  | Also catalogued under [Xbox](xbox.md). Large-scale battles from the films, launched the same day on Xbox and PC. |
+| God of War | 2005 | SCE Santa Monica | Sony | Action | 1 | No | Ported | PS3 (2009, *Collection*), PS Plus Premium |  | A brutal action game drawing on Greek myth, and the start of Sony's biggest first-party series. Collected on PS3 and never far from availability since. |
 | Guitar Hero | 2005 | Harmonix | RedOctane | Rhythm | 1–2 | No | **Stranded** | | | Requires the guitar controller **and** carries a fully licensed tracklist. Two independent walls. |
 | Haunting Ground | 2005 | Capcom | Capcom | Survival horror | 1 | No | **Stranded** | | | PAL: *Demento*. Capcom has reissued nearly every other horror game it owns; this one has never been touched, and discs command high prices. |
 | Killer7 | 2005 | Grasshopper Manufacture | Capcom | Action-adventure | 1 | No | Sim-ship | GameCube (2005, same day), PC (2018) | | Also catalogued under [GameCube](gamecube.md). |
 | Psychonauts | 2005 | Double Fine | Majesco | Platformer | 1 | No | Sim-ship | Xbox, PC (2005, same day) | | Also catalogued under [Xbox](xbox.md). Double Fine's debut; later ported nearly everywhere. |
 | Shadow of Rome | 2005 | Capcom | Capcom | Action / stealth | 1 | No | **Stranded** | | | A one-off Capcom historical action game with no sequel and no collection to join. |
-| Shadow of the Colossus | 2005 | Team Ico | Sony | Action-adventure | 1 | No | Ported | PS3 (2011, *HD*), PS4 (2018 remake) | | |
+| Shadow of the Colossus | 2005 | Team Ico | Sony | Action-adventure | 1 | No | Ported | PS3 (2011, *HD*), PS4 (2018 remake) |  | Sixteen boss fights and nothing else, in a deliberately empty world. Remade from scratch for PS4 in 2018. |
 | Steambot Chronicles | 2005 | Irem | Atlus | Action RPG | 1 | No | **Stranded** | | | Irem exited console development in 2011. |
-| We Love Katamari | 2005 | Namco | Namco | Puzzle / action | 1–2 | No | Ported | multiplatform (2023, *Reroll+*) | | |
-| Bully | 2006 | Rockstar Vancouver | Rockstar | Open-world action | 1 | No | Ported | Xbox 360, Wii, PC (2008, *Scholarship Edition*), Mobile | | PAL: *Canis Canem Edit*. |
-| Final Fantasy XII | 2006 | Square Enix | Square Enix | RPG | 1 | No | Ported | PS4, Switch, Xbox, PC (2017, *The Zodiac Age*) | | |
-| Genji: Days of the Blade | 2006 | Game Republic | Sony | Action | 1 | No | **Stranded** | | | Game Republic closed in 2011. |
-| God Hand | 2006 | Clover Studio | Capcom | Beat 'em up | 1 | No | Ported | PS3 (2011, PS2 Classics) | | Clover's last game. |
+| We Love Katamari | 2005 | Namco | Namco | Puzzle / action | 1–2 | No | Ported | multiplatform (2023, *Reroll+*) |  | The sequel, structured around requests from the first game's players. Remastered in 2023. |
+| Bully | 2006 | Rockstar Vancouver | Rockstar | Open-world action | 1 | No | Ported | Xbox 360, Wii, PC (2008, *Scholarship Edition*), Mobile |  | PAL: *Canis Canem Edit*. An open-world game set in a boarding school rather than a city. |
+| Final Fantasy XII | 2006 | Square Enix | Square Enix | RPG | 1 | No | Ported | PS4, Switch, Xbox, PC (2017, *The Zodiac Age*) |  | A single connected world with a combat system built on programmable rules. The `Zodiac Age` remaster is on everything. |
+| Genji: Days of the Blade | 2006 | Game Republic | Sony | Action | 1 | No | **Stranded** |  |  | Game Republic closed in 2011. A historical action game, and the studio's closure left nobody to reissue it. |
+| God Hand | 2006 | Clover Studio | Capcom | Beat 'em up | 1 | No | Ported | PS3 (2011, PS2 Classics) |  | Clover's last game. A deliberately absurd beat 'em up, and Clover's last game before the studio dissolved into PlatinumGames. |
 | Okami | 2006 | Clover Studio | Capcom | Action-adventure | 1 | No | Ported | Wii, PS3, multiplatform (2012–18, *HD*) | | Clover dissolved; the team became PlatinumGames. |
-| Persona 3 | 2006 | Atlus | Atlus | RPG | 1 | No | Ported | PSP (2009), multiplatform (2024, *Reload* remake) | | |
-| Odin Sphere | 2007 | Vanillaware | Atlus | Action RPG | 1 | No | Ported | PS4, PS3, Vita (2016, *Leifthrasir*) | | |
-| Rogue Galaxy | 2007 | Level-5 | Sony | Action RPG | 1 | No | Ported | PS4 (2018) | | |
-| Persona 4 | 2008 | Atlus | Atlus | RPG | 1 | No | Ported | Vita (2012, *Golden*), PC, PS4, Switch, Xbox | | |
+| Persona 3 | 2006 | Atlus | Atlus | RPG | 1 | No | Ported | PSP (2009), multiplatform (2024, *Reload* remake) |  | The entry that fused dungeon crawling with a school calendar and set the series' template. Its many versions are why it is on almost every platform now. |
+| Odin Sphere | 2007 | Vanillaware | Atlus | Action RPG | 1 | No | Ported | PS4, PS3, Vita (2016, *Leifthrasir*) |  | A side-scrolling action role-playing game with hand-drawn animation, and Vanillaware's breakthrough. Rebuilt as `Leifthrasir` in 2016. |
+| Rogue Galaxy | 2007 | Level-5 | Sony | Action RPG | 1 | No | Ported | PS4 (2018) |  | A space-opera action role-playing game from the `Dark Cloud` studio. Reissued on PS4 in 2018 as a PS2 Classic. |
+| Persona 4 | 2008 | Atlus | Atlus | RPG | 1 | No | Ported | Vita (2012, *Golden*), PC, PS4, Switch, Xbox |  | A murder mystery in a rural town, structured around a year of school. `Golden` on Vita is the definitive version and carried it everywhere else. |
 | Jak and Daxter: The Lost Frontier | 2009 | High Impact Games | Sony | Platformer | 1 | No | Sim-ship | PSP (2009, same day) | | Also catalogued under [PSP](psp.md). The last new Jak game. |
 
 ## Contested
