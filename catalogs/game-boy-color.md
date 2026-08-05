@@ -1,4 +1,4 @@
-# Game Boy Color
+# Nintendo Game Boy Color
 
 | | |
 |---|---|

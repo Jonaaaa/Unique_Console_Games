@@ -215,6 +215,22 @@ Sort by Year, then Title. Keep everything in **one** table; status is a column,
 not a section. Splitting by status buries the point that these are all the same
 kind of thing.
 
+## Naming platforms
+
+The `# ` heading is the platform's identity: it is what the README index links
+to and what the sibling suggester shows as a label. It uses the full name, with
+the manufacturer, because a list of sixty-eight of them is where an incomplete
+name looks wrong. `Nintendo Game Boy`, not `Game Boy`, alongside the
+`Nintendo 3DS` and `Sony PlayStation 2` that were already written that way.
+
+Leave the manufacturer off only where the name already contains it
+(`ColecoVision`, `Nintendo Entertainment System`) or where nobody has ever
+prefixed it (`Atari 2600` is Atari's, and the name says so).
+
+The `Also On` column follows the same rule, since it is a list of platforms.
+Prose does not: "the Game Boy's defining trick" is better than the alternative,
+and the short name is what people say.
+
 ## Per-platform file structure
 
 `catalogs/<platform-slug>.md`:

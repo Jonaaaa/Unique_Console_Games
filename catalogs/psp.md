@@ -1,4 +1,4 @@
-# PlayStation Portable
+# Sony PlayStation Portable
 
 | | |
 |---|---|
@@ -61,7 +61,7 @@ Every game that debuted on this platform and launched nowhere else. `Status` rec
 | Bleach: Heat the Soul (series, 1–7) | 2005–2010 | Racjin | SCE | Fighting | 1–2 | Dead | Stranded | | Japanese | Japan-only, seven games. Licensed anime fighting series, none re-released. |
 | Coded Arms | 2005 | Konami | Konami | FPS | 1–4 | Dead | Stranded | | | An early PSP FPS built on procedurally generated levels; Konami has never revisited it. |
 | Death Jr. | 2005 | Backbone Entertainment | Konami | Action-platformer | 1 | No | Stranded | | | One of the first PSP-original franchises. |
-| Grand Theft Auto: Liberty City Stories | 2005 | Rockstar Leeds | Rockstar | Open-world action | 1–6 | Dead | Ported | PS2 (2006), mobile (2015) | | |
+| Grand Theft Auto: Liberty City Stories | 2005 | Rockstar Leeds | Rockstar | Open-world action | 1–6 | Dead | Ported | PS2 (2006), Mobile (2015) | | |
 | Metal Gear Acid 2 | 2005 | Konami | Konami | Turn-based card strategy | 1–2 | No | Stranded | | | Shipped with the Solid Eye 3D viewer, which no other platform supports. |
 | Pursuit Force | 2005 | Bigbig Studios | SCE | Vehicular action | 1 | No | Stranded | | | Bigbig was closed by Sony in 2012. |
 | Untold Legends: Brotherhood of the Blade | 2005 | Climax | Sony Online | Action RPG | 1–4 | Dead | Ported | Mobile | | PSP launch title. |
@@ -107,7 +107,7 @@ Every game that debuted on this platform and launched nowhere else. `Status` rec
 | Resistance: Retribution | 2009 | Bend Studio | SCE | Third-person shooter | 1–8 | Dead | Stranded | | | Bend Studio moved to *Days Gone*; the whole Resistance series is stranded across PSP and PS3. |
 | Ys Seven | 2009 | Nihon Falcom | Falcom / XSEED | Action RPG | 1 | No | **Stranded** | | | No console release. PC version exists (PC (2017)) but PC is not a catalogued platform. |
 | Corpse Party | 2010 | Team GrisGris | XSEED | Horror adventure | 1 | No | Ported | PC, 3DS, Switch, PS4 (2016–21) | | |
-| Danganronpa: Trigger Happy Havoc | 2010 | Spike Chunsoft | Spike Chunsoft | Visual novel | 1 | No | Ported | Vita (2014), PC, Switch, PS4, mobile | | Japanese PSP original; the West only ever saw the Vita port onward. |
+| Danganronpa: Trigger Happy Havoc | 2010 | Spike Chunsoft | Spike Chunsoft | Visual novel | 1 | No | Ported | Vita (2014), PC, Switch, PS4, Mobile | | Japanese PSP original; the West only ever saw the Vita port onward. |
 | God of War: Ghost of Sparta | 2010 | Ready at Dawn | SCE | Action | 1 | No | Ported | PS3 (2011, *Origins Collection*) | | |
 | Kingdom Hearts: Birth by Sleep | 2010 | Square Enix | Square Enix | Action RPG | 1–6 | Dead | Ported | PS3 (2014, *HD 2.5 ReMIX*), PS4, Xbox, Switch, PC | | |
 | Metal Gear Solid: Peace Walker | 2010 | Kojima Productions | Konami | Stealth action | 1–4 | Dead | Ported | PS3, Xbox 360 (2011, *HD Edition*), multiplatform (2025, *Master Collection Vol. 2*) | | |

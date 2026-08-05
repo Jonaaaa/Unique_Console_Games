@@ -58,12 +58,12 @@ Intellivision. Arcade originals are out of scope and never disqualify.
 | Ice Climber | 1985 | Nintendo R&D1 | Nintendo | Platformer | 1–2 | No | Ported | NSO, Virtual Console, NES Classic | | |
 | Super Mario Bros. | 1985 | Nintendo R&D4 | Nintendo | Platformer | 1–2 | No | Ported | NSO, Virtual Console, NES Classic, GBA, All-Stars, Game & Watch | | The most re-released game in history. |
 | Castlevania | 1986 | Konami | Konami | Action-platformer | 1 | No | Ported | NSO, Virtual Console, *Castlevania Anniversary Collection* | | FDS debut. |
-| Dragon Quest | 1986 | Chunsoft | Enix | RPG | 1 | No | Ported | SNES, GBC, mobile, Switch | | |
+| Dragon Quest | 1986 | Chunsoft | Enix | RPG | 1 | No | Ported | SNES, GBC, Mobile, Switch | | |
 | Kid Icarus | 1986 | Nintendo R&D1 | Nintendo | Platformer | 1 | No | Ported | NSO, Virtual Console, 3DS | | FDS debut. |
 | Metroid | 1986 | Nintendo R&D1 | Nintendo | Action-adventure | 1 | No | Ported | NSO, Virtual Console, NES Classic, GBA | | FDS debut. |
 | The Legend of Zelda | 1986 | Nintendo EAD | Nintendo | Action-adventure | 1 | No | Ported | NSO, Virtual Console, NES Classic, GBA, GameCube | | Debuted on the Famicom Disk System; the cartridge release is the same game. |
 | Esper Dream | 1987 | Konami | Konami | Action RPG | 1 | No | **Stranded** | | Japanese | Japan-only, FDS. |
-| Final Fantasy | 1987 | Square | Square | RPG | 1 | No | Ported | WonderSwan, PS1, GBA, PSP, mobile, *Pixel Remaster* | | |
+| Final Fantasy | 1987 | Square | Square | RPG | 1 | No | Ported | WonderSwan, PS1, GBA, PSP, Mobile, *Pixel Remaster* | | |
 | Kid Niki: Radical Ninja | 1987 | Irem | Irem / Data East | Action-platformer | 1 | No | Stranded | | | Irem's console catalogue is largely dormant, and Data East's assets were auctioned off after its 2003 bankruptcy. |
 | Mega Man | 1987 | Capcom | Capcom | Action-platformer | 1 | No | Ported | *Mega Man Legacy Collection*, NSO, Virtual Console | | |
 | Mike Tyson's Punch-Out!! | 1987 | Nintendo R&D3 | Nintendo | Sports | 1 | No | Ported | NSO, Virtual Console (as *Punch-Out!! Featuring Mr. Dream*) | | ⚠ [Contested](#contested), the Tyson licence lapsed in 1990; the game survives only in de-licensed form. |

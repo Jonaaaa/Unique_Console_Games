@@ -68,7 +68,7 @@ A third, rarer cause appears here for the first time: **litigation**.
 | Demon's Crest | 1994 | Capcom | Capcom | Action-platformer | 1 | No | Ported | NSO, Virtual Console | | |
 | Donkey Kong Country | 1994 | Rare | Nintendo | Platformer | 1–2 | No | Ported | NSO, Virtual Console, SNES Classic, GBA | | |
 | EarthBound | 1994 | Ape / HAL | Nintendo | RPG | 1 | No | Ported | Wii U Virtual Console (2013), NSO, SNES Classic | | |
-| Final Fantasy VI | 1994 | Square | Square | RPG | 1 | No | Ported | PS1, GBA, mobile, *Pixel Remaster* | | Released as *Final Fantasy III* in North America. |
+| Final Fantasy VI | 1994 | Square | Square | RPG | 1 | No | Ported | PS1, GBA, Mobile, *Pixel Remaster* | | Released as *Final Fantasy III* in North America. |
 | Hagane: The Final Conflict | 1994 | CAProduction | Hudson Soft | Action-platformer | 1 | No | **Stranded** | | | Tiny North American print run, Blockbuster-rental-only in places. Never re-released. |
 | Illusion of Gaia | 1994 | Quintet | Enix / Nintendo | Action RPG | 1 | No | Ported | Virtual Console (Wii) | | |
 | Live A Live | 1994 | Square | Square | RPG | 1 | No | Ported | Switch (2022 remake), PS4/PS5/PC (2023) | Japanese | Japan-only for 28 years. |
@@ -78,7 +78,7 @@ A third, rarer cause appears here for the first time: **litigation**.
 | Uniracers | 1994 | DMA Design | Nintendo | Racing | 1–2 | No | **Stranded** | | | **Stranded by litigation.** Pixar sued over the animated unicycle characters and won; Nintendo pulled it and has never reissued it. PAL: *Unirally*. DMA Design later became Rockstar North. |
 | Batman Forever | 1995 | Probe | Acclaim | Beat 'em up | 1–2 | No | **Stranded** | | | DC film licence; Acclaim defunct. |
 | BS The Legend of Zelda | 1995 | Nintendo EAD | Nintendo | Action-adventure | 1 | Dead (1997) | **Stranded** | | | **Satellaview.** Broadcast by satellite in timed one-hour episodes with live voice narration. The broadcast infrastructure is gone and the game cannot be experienced as designed by anyone, on any hardware. |
-| Chrono Trigger | 1995 | Square | Square | RPG | 1 | No | Ported | PS1, DS, mobile, PC (2018) | | |
+| Chrono Trigger | 1995 | Square | Square | RPG | 1 | No | Ported | PS1, DS, Mobile, PC (2018) | | |
 | Clock Tower | 1995 | Human Entertainment | Human Entertainment | Survival horror | 1 | No | Ported | Switch, PS4/PS5, Xbox, PC (2024, *Rewind*) | Japanese | Japan-only originally; escaped in 2024 via WayForward and Limited Run. |
 | Earthworm Jim 2 | 1995 | Shiny | Playmates | Platformer | 1 | No | Ported | Multiple collections and re-releases | | The first *Earthworm Jim* debuted on Genesis, so only the sequel qualifies here, and only just. |
 | Front Mission | 1995 | Square | Square | Tactical RPG | 1 | No | Ported | DS (2007), Switch/PC/PS/Xbox (2022, *1st Remake*) | | |

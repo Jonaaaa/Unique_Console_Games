@@ -1,4 +1,4 @@
-# Game Boy
+# Nintendo Game Boy
 
 | | |
 |---|---|
@@ -56,7 +56,7 @@ on a Soviet Electronika 60 in 1984, so the Game Boy pack-in is a port.
 | Rolan's Curse | 1990 | Vic Tokai | Vic Tokai | Action RPG | 1–2 | No | **Stranded** | | | Vic Tokai left game publishing entirely; its catalogue has been dormant for two decades. |
 | The Real Ghostbusters | 1990 | Activision | Activision | Action | 1 | No | **Stranded** | | | Film licence. |
 | Cave Noire | 1991 | Konami | Konami | Roguelike | 1 | No | **Stranded** | | Japanese | Japan-only. Konami has never reissued it. |
-| Final Fantasy Adventure | 1991 | Square | Square | Action RPG | 1 | No | Ported | *Collection of Mana*, Switch/mobile (2016, *Adventures of Mana* remake) | | The first Mana game. PAL: *Mystic Quest*. |
+| Final Fantasy Adventure | 1991 | Square | Square | Action RPG | 1 | No | Ported | *Collection of Mana*, Switch/Mobile (2016, *Adventures of Mana* remake) | | The first Mana game. PAL: *Mystic Quest*. |
 | Kid Icarus: Of Myths and Monsters | 1991 | Nintendo R&D1 | Nintendo | Platformer | 1 | No | Ported | 3DS Virtual Console, NSO | | Never released in Japan. |
 | Metroid II: Return of Samus | 1991 | Nintendo R&D1 | Nintendo | Action-adventure | 1 | No | Ported | 3DS Virtual Console, NSO | | Remade twice, officially as *Samus Returns* (3DS) and unofficially as *AM2R*. |
 | Bionic Commando | 1992 | Minakuchi | Capcom | Action-platformer | 1 | No | **Stranded** | | | A separate design from the NES and arcade games; omitted from Capcom's collections. |

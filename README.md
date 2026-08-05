@@ -25,10 +25,10 @@ debut is permanent.
 | [Sega SG-1000](catalogs/sg-1000.md) | Jul 1983 – 1985 | **10** | 9 | 1 |
 | [Atari 7800](catalogs/atari-7800.md) | Designed 1984, shelved, released May 1986 – 1992 | **11** | 7 | 4 |
 | [Sega Master System](catalogs/master-system.md) | Oct 1985 – 1996 int'l, but **manufactured in Brazil by Tectoy into the 2020s** | **30** | 22 | 8 |
-| [TurboGrafx-16 / PC Engine](catalogs/turbografx-16.md) | Oct 1987 – 1994 int'l / 1999 JP | **29** | 9 | 20 |
+| [NEC TurboGrafx-16 / PC Engine](catalogs/turbografx-16.md) | Oct 1987 – 1994 int'l / 1999 JP | **29** | 9 | 20 |
 | [Sega Genesis / Mega Drive](catalogs/genesis.md) | Oct 1988 – 1997 (Brazil: into the 2020s via Tectoy) | **47** | 14 | 32 +1 sim |
 | [Atari Lynx](catalogs/atari-lynx.md) | Sep 1989 – 1995 | **15** | 10 | 5 |
-| [Game Boy](catalogs/game-boy.md) | Apr 1989 (JP) – 2003 | **34** | 11 | 22 +1 sim |
+| [Nintendo Game Boy](catalogs/game-boy.md) | Apr 1989 (JP) – 2003 | **34** | 11 | 22 +1 sim |
 | [Amstrad GX4000](catalogs/amstrad-gx4000.md) | Sep 1990 – 1991 | **3** | 3 | 0 |
 | [Sega Game Gear](catalogs/game-gear.md) | Oct 1990 – 1997 | **31** | 19 | 11 +1 sim |
 | [SNK Neo Geo](catalogs/neo-geo.md) | Apr 1990 – 2004 (final AES release) | **23** | 5 | 18 |
@@ -49,18 +49,18 @@ debut is permanent.
 | [Nintendo 64](catalogs/n64.md) | Jun 1996 (JP) – 2002 | **61** | 23 | 38 |
 | [Tiger Game.com](catalogs/game-com.md) | Sep 1997 – 2000 | **4** | 4 | 0 |
 | [Sega Dreamcast](catalogs/dreamcast.md) | Nov 1998 – Mar 2001 (discontinued) | **37** | 17 | 20 |
-| [Game Boy Color](catalogs/game-boy-color.md) | Oct 1998 – 2003 | **17** | 11 | 6 |
+| [Nintendo Game Boy Color](catalogs/game-boy-color.md) | Oct 1998 – 2003 | **17** | 11 | 6 |
 | [SNK Neo Geo Pocket / Color](catalogs/neo-geo-pocket-color.md) | Oct 1998 – 2001 | **17** | 6 | 11 |
 | [Bandai WonderSwan](catalogs/wonderswan.md) | Mar 1999 – 2003 | **15** | 12 | 3 |
 | [VM Labs Nuon](catalogs/nuon.md) | 2000 – 2002 | **5** | 4 | 1 |
 | [Sony PlayStation 2](catalogs/ps2.md) | Mar 2000 – Jan 2013 | **67** | 28 | 33 +6 sim |
 | [Nintendo GameCube](catalogs/gamecube.md) | Sep 2001 (JP) – 2007 | **51** | 24 | 24 +3 sim |
-| [Game Boy Advance](catalogs/gba.md) | Mar 2001 (JP) – 2010 | **41** | 19 | 22 |
+| [Nintendo Game Boy Advance](catalogs/gba.md) | Mar 2001 (JP) – 2010 | **41** | 19 | 22 |
 | [Microsoft Xbox](catalogs/xbox.md) | Nov 2001 – 2009 | **35** | 21 | 10 +4 sim |
 | [LeapFrog Leapster / Didj / LeapTV](catalogs/leapfrog.md) | 2003 – 2016 | **6** | 6 | 0 |
 | [Nokia N-Gage](catalogs/n-gage.md) | Oct 2003 – 2005 (hardware) | **8** | 8 | 0 |
 | [Nintendo DS](catalogs/nintendo-ds.md) | Nov 2004 – 2014 | **49** | 35 | 14 |
-| [PlayStation Portable](catalogs/psp.md) | Dec 2004 (JP) – 2014 (production ended) | **66** | 36 | 28 +2 sim |
+| [Sony PlayStation Portable](catalogs/psp.md) | Dec 2004 (JP) – 2014 (production ended) | **66** | 36 | 28 +2 sim |
 | [VTech V.Smile](catalogs/vtech-vsmile.md) | 2004 – 2011 | **5** | 5 | 0 |
 | [SSD Company XaviXPORT](catalogs/xavix.md) | 2004 – 2010 | **5** | 5 | 0 |
 | [Tiger Telematics Gizmondo](catalogs/gizmondo.md) | Mar 2005 – Feb 2006 | **5** | 5 | 0 |
@@ -68,7 +68,7 @@ debut is permanent.
 | [Sony PlayStation 3](catalogs/ps3.md) | Nov 2006 – 2017 | **60** | 31 | 19 +10 sim |
 | [Nintendo Wii](catalogs/wii.md) | Nov 2006 – 2013 | **51** | 37 | 14 |
 | [Nintendo 3DS](catalogs/nintendo-3ds.md) | Feb 2011 (JP) – Sep 2020 (production ended) | **145** | 124 | 14 +7 sim |
-| [PlayStation Vita](catalogs/ps-vita.md) | Dec 2011 (JP) – Mar 2019 (production ended) | **59** | 37 | 14 +8 sim |
+| [Sony PlayStation Vita](catalogs/ps-vita.md) | Dec 2011 (JP) – Mar 2019 (production ended) | **59** | 37 | 14 +8 sim |
 | [Nintendo Wii U](catalogs/wii-u.md) | Nov 2012 – Jan 2017 (13.56M units sold) | **79** | 43 | 29 +7 sim |
 | [Sony PlayStation 4](catalogs/ps4.md) | Nov 2013 – 2021 (production wound down) | **32** | 21 | 3 +8 sim |
 | [Microsoft Xbox One](catalogs/xbox-one.md) | Nov 2013 – 2020 | **32** | 22 | 7 +3 sim |

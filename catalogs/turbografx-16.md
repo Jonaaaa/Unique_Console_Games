@@ -1,4 +1,4 @@
-# TurboGrafx-16 / PC Engine
+# NEC TurboGrafx-16 / PC Engine
 
 | | |
 |---|---|

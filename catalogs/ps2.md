@@ -60,7 +60,7 @@ Three more causes:
 | Frequency | 2001 | Harmonix | Sony | Rhythm | 1–4 | No | **Stranded** | | | Harmonix's debut, and the direct ancestor of *Guitar Hero* and *Rock Band*. Entirely licensed electronica; unreissuable. |
 | Gitaroo Man | 2001 | iNiS / Koei | Koei | Rhythm | 1–2 | No | Ported | PSP (2006, *Lives!*) | | |
 | Gran Turismo 3: A-Spec | 2001 | Polyphony Digital | Sony | Racing | 1–2 | No | **Stranded** | | | 14.89M, **the best-selling stranded game on this platform.** Same manufacturer-licensing wall as the PS1 games. |
-| Grand Theft Auto III | 2001 | DMA Design | Rockstar | Open-world action | 1 | No | Ported | PC, Xbox, mobile, *Definitive Edition* (2021) | | |
+| Grand Theft Auto III | 2001 | DMA Design | Rockstar | Open-world action | 1 | No | Ported | PC, Xbox, Mobile, *Definitive Edition* (2021) | | |
 | Ico | 2001 | Team Ico | Sony | Puzzle-adventure | 1 | No | Ported | PS3 (2011, *HD*) | | |
 | Jak and Daxter: The Precursor Legacy | 2001 | Naughty Dog | Sony | Platformer | 1 | No | Ported | PS3 (2012, *HD*), PS4 | | |
 | Kinetica | 2001 | SCE Santa Monica | Sony | Racing | 1–4 | No | **Stranded** | | | Santa Monica Studio's first game, before *God of War*. |
@@ -71,7 +71,7 @@ Three more causes:
 | Silent Hill 2 | 2001 | Team Silent | Konami | Survival horror | 1 | No | Ported | Xbox, PC, *HD Collection*; PS5/PC (2024 remake) | | |
 | Clock Tower 3 | 2002 | Capcom / Sunsoft | Capcom | Survival horror | 1 | No | **Stranded** | | | Directed by Kinji Fukasaku, who died shortly after, a director credit that complicates reissue. |
 | Final Fantasy XI | 2002 | Square | Square Enix | MMORPG | 1–?? | Dead (2016) | Ported | PC (2002, same day); Xbox 360 (2006) | | Square's first MMO. The PC version launched the same day, and under the PC rule that still makes this a PS2 debut. Its PS2 and Xbox 360 service ended in 2016; the game survives on PC only, so the console versions are gone. |
-| Grand Theft Auto: Vice City | 2002 | Rockstar North | Rockstar | Open-world action | 1 | No | Ported | PC, Xbox, mobile, *Definitive Edition* (2021) | | Its licensed radio soundtrack was partially cut from later re-releases. |
+| Grand Theft Auto: Vice City | 2002 | Rockstar North | Rockstar | Open-world action | 1 | No | Ported | PC, Xbox, Mobile, *Definitive Edition* (2021) | | Its licensed radio soundtrack was partially cut from later re-releases. |
 | Kingdom Hearts | 2002 | Square | Square / Disney | Action RPG | 1 | No | Ported | PS3, PS4, Xbox, Switch, PC (*HD 1.5 ReMIX* onward) | | |
 | Ratchet & Clank | 2002 | Insomniac | Sony | Platformer | 1 | No | Ported | PS3 (2012, *HD*), PS4 (2016 reimagining) | | |
 | Sly Cooper and the Thievius Raccoonus | 2002 | Sucker Punch | Sony | Platformer | 1 | No | Ported | PS3, Vita (2010–11, *HD*) | | |
@@ -95,7 +95,7 @@ Three more causes:
 | Champions of Norrath | 2004 | Snowblind | Sony Online | Action RPG | 1–4 | No | **Stranded** | | | Snowblind's engine games are split across publishers, which has kept them locked. |
 | Digital Devil Saga: Avatar Tuner | 2004 | Atlus | Atlus | RPG | 1 | No | **Stranded** | | | Atlus has remastered *Nocturne* and revived `Raidou`, and left this alone. |
 | Gran Turismo 4 | 2004 | Polyphony Digital | Sony | Racing | 1–2 | No | **Stranded** | | | 11.76M and never reissued. |
-| Grand Theft Auto: San Andreas | 2004 | Rockstar North | Rockstar | Open-world action | 1 | No | Ported | Xbox, PC, mobile, *Definitive Edition* (2021) | | 17.33M. Its licensed radio stations were cut down in every later release. |
+| Grand Theft Auto: San Andreas | 2004 | Rockstar North | Rockstar | Open-world action | 1 | No | Ported | Xbox, PC, Mobile, *Definitive Edition* (2021) | | 17.33M. Its licensed radio stations were cut down in every later release. |
 | Katamari Damacy | 2004 | Namco | Namco | Puzzle / action | 1–2 | No | Ported | Switch, PC, PS4, Xbox (2018, *Reroll*) | | |
 | Metal Gear Solid 3: Snake Eater | 2004 | KCEJ | Konami | Stealth action | 1 | No | Ported | *HD Collection*, *Master Collection*; multiplatform (2024, *Delta* remake) | | |
 | Michigan: Report from Hell | 2004 | Grasshopper Manufacture | Spike | Survival horror | 1 | No | **Stranded** | | | Suda51; PAL and Japan only. Played entirely through a TV camera viewfinder. |
@@ -110,7 +110,7 @@ Three more causes:
 | Shadow of the Colossus | 2005 | Team Ico | Sony | Action-adventure | 1 | No | Ported | PS3 (2011, *HD*), PS4 (2018 remake) | | |
 | Steambot Chronicles | 2005 | Irem | Atlus | Action RPG | 1 | No | **Stranded** | | | Irem exited console development in 2011. |
 | We Love Katamari | 2005 | Namco | Namco | Puzzle / action | 1–2 | No | Ported | multiplatform (2023, *Reroll+*) | | |
-| Bully | 2006 | Rockstar Vancouver | Rockstar | Open-world action | 1 | No | Ported | Xbox 360, Wii, PC (2008, *Scholarship Edition*), mobile | | PAL: *Canis Canem Edit*. |
+| Bully | 2006 | Rockstar Vancouver | Rockstar | Open-world action | 1 | No | Ported | Xbox 360, Wii, PC (2008, *Scholarship Edition*), Mobile | | PAL: *Canis Canem Edit*. |
 | Final Fantasy XII | 2006 | Square Enix | Square Enix | RPG | 1 | No | Ported | PS4, Switch, Xbox, PC (2017, *The Zodiac Age*) | | |
 | Genji: Days of the Blade | 2006 | Game Republic | Sony | Action | 1 | No | **Stranded** | | | Game Republic closed in 2011. |
 | God Hand | 2006 | Clover Studio | Capcom | Beat 'em up | 1 | No | Ported | PS3 (2011, PS2 Classics) | | Clover's last game. |

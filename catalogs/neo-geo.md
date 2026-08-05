@@ -73,7 +73,7 @@ aggressively monetised. The exceptions are:
 | Shock Troopers | 1997 | Saurus | SNK | Run and gun | 1–2 | No | Ported | *ACA NEOGEO*, Switch, PS4 | | |
 | Blazing Star | 1998 | Yumekobo | SNK | Shoot 'em up | 1–2 | No | Ported | *ACA NEOGEO*, Switch, PS4, Xbox | | |
 | The Last Blade 2 | 1998 | SNK | SNK | Fighting | 1–2 | No | Ported | *ACA NEOGEO*, Switch, PS4, PC | | |
-| Garou: Mark of the Wolves | 1999 | SNK | SNK | Fighting | 1–2 | No | Ported | *ACA NEOGEO*, Switch, PS4, Xbox, PC, mobile | | Widely considered SNK's best fighting game; a sequel finally arrived 26 years later. |
+| Garou: Mark of the Wolves | 1999 | SNK | SNK | Fighting | 1–2 | No | Ported | *ACA NEOGEO*, Switch, PS4, Xbox, PC, Mobile | | Widely considered SNK's best fighting game; a sequel finally arrived 26 years later. |
 | Big Bang Pro Wrestling | 2000 | Saurus | SNK | Wrestling | 1–2 | No | **Stranded** | | | One of the very last AES releases, sold into a collapsing market as SNK headed for bankruptcy. Never reissued. |
 | Digger Man | 2000 | Kaz | Kaz | Action | 1 | No | **Stranded** | | | An independently produced Neo Geo Pocket title sold in tiny numbers direct from the developer, effectively the platform's first homebrew commercial release. |
 | Samurai Shodown V Special | 2004 | Yuki Enterprise | SNK Playmore | Fighting | 1–2 | No | Ported | *ACA NEOGEO*, *Samurai Shodown NeoGeo Collection* | | **The final AES release**, fourteen years after launch. |

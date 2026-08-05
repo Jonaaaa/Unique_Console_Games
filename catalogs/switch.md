@@ -62,7 +62,7 @@ Two narrower causes do real work, though:
 | Xenoblade Chronicles 2 | 2017 | Monolith Soft | Nintendo | RPG | 1 | No | **Stranded** | | | Monolith Soft is wholly owned by Nintendo, so its output never appears on competing hardware. |
 | Kirby Star Allies | 2018 | HAL Laboratory | Nintendo | Platformer | 1–4 | Yes | **Stranded** | | | No Kirby game has ever released on non-Nintendo hardware in the series' 33-year history. |
 | Nintendo Labo | 2018 | Nintendo EPD | Nintendo | Construction / toy | 1–4 | No | **Stranded** | | | Software that requires **cardboard kits Nintendo has discontinued**. Unobtainable despite the console still being on sale. |
-| Octopath Traveler | 2018 | Square Enix / Acquire | Square Enix / Nintendo | RPG | 1 | No | Ported | PC (2019), Xbox (2020), PS4/PS5, mobile | | Nintendo published it outside Japan, which delayed but did not prevent the ports. |
+| Octopath Traveler | 2018 | Square Enix / Acquire | Square Enix / Nintendo | RPG | 1 | No | Ported | PC (2019), Xbox (2020), PS4/PS5, Mobile | | Nintendo published it outside Japan, which delayed but did not prevent the ports. |
 | Super Mario Party | 2018 | Nd Cube | Nintendo | Party | 1–4 | Yes | **Stranded** | | | Requires one Joy-Con per player, so Switch Lite cannot play it locally. |
 | Super Smash Bros. Ultimate | 2018 | Sora Ltd. / Bandai Namco | Nintendo | Fighting | 1–8 | Yes | **Stranded** | | | 36.06M. Its guest roster spans a dozen publishers, which makes any future reissue a licensing problem even for Nintendo. |
 | Astral Chain | 2019 | PlatinumGames | Nintendo | Action | 1–2 | No | **Stranded** | | | Nintendo-published, so unlike *Bayonetta 2* or *The Wonderful 101* it has no Kickstarter escape route. |

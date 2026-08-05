@@ -70,7 +70,7 @@ likeness rights alongside everything else.
 | Ranger-X | 1993 | Gau Entertainment | Sega | Run and gun | 1 | No | **Stranded** | | | Technically extraordinary, a mech and a solar-powered motorbike acting as one unit. Absent from every Sega collection. |
 | Rocket Knight Adventures | 1993 | Konami | Konami | Action-platformer | 1 | No | Ported | Switch, PS4/PS5, Xbox, PC (2024, *Re-Sparked!*) | | Was stranded for 31 years; Konami collected it with both *Sparkster* games in 2024. |
 | Shinobi III: Return of the Ninja Master | 1993 | Sega | Sega | Action-platformer | 1 | No | Ported | Sega collections, Switch Online | | |
-| Sonic CD | 1993 | Sega CS / Sonic Team | Sega | Platformer | 1 | No | Ported | *Sonic Origins*, mobile, PC, many collections | | **Sega CD.** Its two soundtracks (JP/EU vs US) still ship as a toggle. |
+| Sonic CD | 1993 | Sega CS / Sonic Team | Sega | Platformer | 1 | No | Ported | *Sonic Origins*, Mobile, PC, many collections | | **Sega CD.** Its two soundtracks (JP/EU vs US) still ship as a toggle. |
 | X-Men | 1993 | Western Technologies | Sega | Action-platformer | 1 | No | **Stranded** | | | Marvel licence. Famous for a level that requires physically pressing the console's reset button. |
 | Beyond Oasis | 1994 | Ancient | Sega | Action RPG | 1 | No | Ported | Sega collections, Switch Online | | |
 | Castlevania: Bloodlines | 1994 | Konami | Konami | Action-platformer | 1 | No | Ported | *Castlevania Anniversary Collection* (2019) | | The only Genesis Castlevania. |

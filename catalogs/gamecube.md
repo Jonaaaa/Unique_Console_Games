@@ -72,7 +72,7 @@ What is left splits three ways:
 | Beyond Good & Evil | 2003 | Ubisoft Montpellier | Ubisoft | Action-adventure | 1 | No | Sim-ship | PS2, Xbox, PC (2003, same day), HD versions (2011) | | |
 | Billy Hatcher and the Giant Egg | 2003 | Sonic Team | Sega | Platformer | 1–4 | No | **Stranded** | | | No console release. PC version exists (PC (2006)) but PC is not a catalogued platform. |
 | Donkey Konga | 2003 | Namco | Nintendo | Rhythm | 1–4 | No | **Stranded** | | | Requires the DK Bongos peripheral and carries a licensed tracklist, two independent blockers. |
-| Final Fantasy Crystal Chronicles | 2003 | Square Enix / Game Designers Studio | Nintendo | Action RPG | 1–4 | No | Ported | Switch, PS4, mobile (2020, *Remastered*) | | Original multiplayer required a GBA per player; the remaster replaced it with online. |
+| Final Fantasy Crystal Chronicles | 2003 | Square Enix / Game Designers Studio | Nintendo | Action RPG | 1–4 | No | Ported | Switch, PS4, Mobile (2020, *Remastered*) | | Original multiplayer required a GBA per player; the remaster replaced it with online. |
 | F-Zero GX | 2003 | Amusement Vision / Sega | Nintendo | Racing | 1–4 | No | Ported | Switch 2 (2025, Nintendo Classics) | | ⚠ [Contested](#contested): developed alongside the arcade *F-Zero AX*, which shares hardware and content. |
 | Giftpia | 2003 | Skip Ltd. | Nintendo | Life sim | 1 | No | **Stranded** | | Japanese | Japan-only; never localised despite a completed English build reportedly existing. |
 | Gotcha Force | 2003 | Capcom | Capcom | Action | 1–2 | No | **Stranded** | | | A cult toy-battler with a devoted following and no reissue. |

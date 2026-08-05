@@ -63,7 +63,7 @@ Two further causes:
 | Twisted Metal 2 | 1996 | SingleTrac | Sony | Vehicular combat | 1–2 | No | Ported | PS3, PS Plus Premium | | |
 | Wild Arms | 1996 | Media.Vision | Sony | RPG | 1 | No | Ported | PS Plus Premium | | |
 | Bushido Blade | 1997 | Light Weight | Square | Fighting | 1–2 | No | **Stranded** | | | One-hit-kill swordfighting with limb damage; nothing since has copied it. |
-| Castlevania: Symphony of the Night | 1997 | KCET | Konami | Action-adventure | 1 | No | Ported | Saturn, PSP, Xbox 360, PS4, mobile, *Requiem* | | |
+| Castlevania: Symphony of the Night | 1997 | KCET | Konami | Action-adventure | 1 | No | Ported | Saturn, PSP, Xbox 360, PS4, Mobile, *Requiem* | | |
 | Colony Wars | 1997 | Psygnosis | Psygnosis | Space combat | 1 | No | **Stranded** | | | Psygnosis was absorbed into Sony's Liverpool studio, which was closed in 2012. |
 | Einhänder | 1997 | Square | Square | Shoot 'em up | 1 | No | **Stranded** | | | Square's only shoot 'em up. Absent from every Square Enix collection and re-release programme. |
 | Final Fantasy Tactics | 1997 | Square | Square | Tactical RPG | 1 | No | Ported | PSP (2007), iOS, multiplatform (2025, *The Ivalice Chronicles*) | | |
@@ -100,7 +100,7 @@ Two further causes:
 | Valkyrie Profile | 1999 | tri-Ace | Enix | RPG | 1 | No | Ported | PSP (2006), multiplatform (2022, *Lenneth*) | | |
 | Vib-Ribbon | 1999 | NanaOn-Sha | Sony | Rhythm | 1 | No | Ported | PS3 (2014) | | Ran entirely from RAM so players could swap in their own audio CDs, a feature no re-release reproduces. |
 | Fear Effect | 2000 | Kronos | Eidos | Action-adventure | 1 | No | **Stranded** | | | Cel-shaded horror with pre-rendered animated backgrounds. Kronos folded in 2000. |
-| Final Fantasy IX | 2000 | Square | Square | RPG | 1 | No | Ported | PC, PS4, Xbox, Switch, mobile (2016–19) | | |
+| Final Fantasy IX | 2000 | Square | Square | RPG | 1 | No | Ported | PC, PS4, Xbox, Switch, Mobile (2016–19) | | |
 | Mega Man Legends 2 | 2000 | Capcom | Capcom | Action-adventure | 1 | No | **Stranded** | | | As with the first game, absent from every Mega Man Legacy Collection; *Legends 3* was cancelled in 2011. |
 | Vagrant Story | 2000 | Square | Square | Action RPG | 1 | No | Ported | PS3, PS Plus Premium | | Yasumi Matsuno's Ivalice entry. |
 
