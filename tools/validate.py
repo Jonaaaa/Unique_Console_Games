@@ -181,10 +181,13 @@ def check_notes(path: Path) -> tuple[int, int]:
     """Count rows with no note and rows too short to be one.
 
     RULES.md requires a sentence per row saying what the release is and why its
-    status is what it is. This is reported rather than enforced while the
-    backlog is worked through: failing the build on it today would block every
-    commit for the sake of a debt that predates the rule. It becomes an error
-    when the count reaches zero.
+    status is what it is.
+
+    An empty cell is now an error: the backlog reached zero on 2026-08-05, so
+    the only way to add one is to write a row without a note, which is the thing
+    the rule exists to stop. A note under forty characters is still only
+    reported, because "short" is a judgement and some rows genuinely say what
+    they need to in a few words.
     """
     lines = path.read_text(encoding="utf-8").splitlines()
     starts = [i for i, ln in enumerate(lines) if ln.startswith(DEBUT_HEADER)]
@@ -276,6 +279,19 @@ def main() -> int:
         problems += check_glued(path)
     problems += check_links(catalogs + docs)
 
+    # Collected before the failure check below, not after: an empty note is an
+    # error now, so it has to reach `problems` while that list is still read.
+    thin = 0
+    worst: list[tuple[int, str]] = []
+    for path in catalogs:
+        empty, short = check_notes(path)
+        thin += short
+        if empty:
+            problems.append(f"{path.relative_to(ROOT)}: {empty} row(s) with an "
+                            f"empty Notes cell; see RULES.md#notes")
+        if short:
+            worst.append((short, f"{path.stem} ({short} thin)"))
+
     if problems:
         print(f"{len(problems)} problem(s) across {len(catalogs)} catalogues:",
               file=sys.stderr)
@@ -283,21 +299,11 @@ def main() -> int:
             print(f"  {problem}", file=sys.stderr)
         return 1
 
-    missing = thin = 0
-    worst: list[tuple[int, str]] = []
-    for path in catalogs:
-        m, n = check_notes(path)
-        missing += m
-        thin += n
-        if m or n:
-            worst.append((m * 2 + n, f"{path.stem} ({m} empty, {n} thin)"))
-
     if not args.quiet:
         print(f"{len(catalogs)} catalogues, {len(docs)} docs: no structural problems")
-        if missing or thin:
+        if thin:
             # Reported, not enforced: see check_notes. The list is the worklist.
-            print(f"  notes backlog: {missing} row(s) with no note, "
-                  f"{thin} under 40 characters")
+            print(f"  every row has a note; {thin} are under 40 characters")
             for _, label in sorted(worst, reverse=True)[:5]:
                 print(f"    {label}")
         else:

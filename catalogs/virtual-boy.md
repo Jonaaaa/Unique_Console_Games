@@ -57,7 +57,7 @@ exception, and is stranded only because it was never released at all.
 
 | Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Notes |
 |---|---|---|---|---|---|---|---|---|---|---|
-| Galactic Pinball | 1995 | Intelligent Systems | Nintendo | Pinball | 1 | No | Ported | Switch 2 (2026, launch lineup) | | |
+| Galactic Pinball | 1995 | Intelligent Systems | Nintendo | Pinball | 1 | No | Ported | Switch 2 (2026, launch lineup) |  | Four pinball tables using the stereoscopic display for depth rather than spectacle. Part of the February 2026 launch lineup. |
 | Golf | 1995 | T&E Soft | Nintendo | Sports | 1 | No | Ported | Switch 2 (2026, launch lineup) | | JP: *T&E Virtual Golf*. |
 | Jack Bros. | 1995 | Atlus | Atlus | Action | 1 | No | Ported | Switch 2 (2026, May update) | | **The first Megami Tensei game released in the West**, years before the series arrived properly. |
 | Mario Clash | 1995 | Nintendo R&D1 | Nintendo | Action | 1 | No | Ported | Switch 2 (2026, March update) | | A reworking of the *Mario Bros.* arcade concept using foreground/background planes. |

@@ -93,13 +93,13 @@ Two narrower causes do real work, though:
 | Everybody 1-2-Switch! | 2023 | Nintendo EPD | Nintendo | Party | 2–100 | No | **Stranded** | | | Uses phones as controllers. Released with no fanfare after a reportedly troubled development. |
 | Pikmin 4 | 2023 | Nintendo EPD | Nintendo | RTS | 1–2 | Yes | **Stranded** | | | The series has never appeared on non-Nintendo hardware in 22 years. |
 | Super Mario Bros. Wonder | 2023 | Nintendo EPD | Nintendo | Platformer | 1–4 | Yes | **Stranded** | | | Mario does not appear on competing platforms, the most absolute exclusivity in the industry. |
-| The Legend of Zelda: Tears of the Kingdom | 2023 | Nintendo EPD | Nintendo | Action-adventure | 1 | No | Ported | Switch 2 (2025, *Switch 2 Edition*) | | |
+| The Legend of Zelda: Tears of the Kingdom | 2023 | Nintendo EPD | Nintendo | Action-adventure | 1 | No | Ported | Switch 2 (2025, *Switch 2 Edition*) |  | A direct sequel reusing the same map with building and fusion systems layered over it. Its Switch 2 edition is an upgrade rather than a separate release. |
 | Emio – The Smiling Man: Famicom Detective Club | 2024 | Nintendo / Mages | Nintendo | Visual novel | 1 | No | **Stranded** | | | A sequel to a 1988 Famicom Disk System series, 36 years later. |
 | Endless Ocean Luminous | 2024 | Arika | Nintendo | Diving sim | 1–30 | Yes | **Stranded** | | | A new entry rather than a port of the Wii games, which remain stranded. |
 | Mario & Luigi: Brothership | 2024 | Acquire | Nintendo | RPG | 1 | No | **Stranded** | | | The first Mario & Luigi game since AlphaDream's bankruptcy. |
 | Nintendo World Championships: NES Edition | 2024 | Nintendo | Nintendo | Compilation | 1–8 | Yes | **Stranded** | | | 150 speedrun challenges built from 13 NES games: original content, not a re-release of the [1990 competition cart](nes.md). |
 | Princess Peach: Showtime! | 2024 | Good-Feel | Nintendo | Action-adventure | 1 | No | **Stranded** | | | Good-Feel developed it; Nintendo owns the character and the publishing rights. |
-| Super Mario Party Jamboree | 2024 | Nd Cube | Nintendo | Party | 1–4 | Yes | Ported | Switch 2 (2025, *Switch 2 Edition*) | | |
+| Super Mario Party Jamboree | 2024 | Nd Cube | Nintendo | Party | 1–4 | Yes | Ported | Switch 2 (2025, *Switch 2 Edition*) |  | The board-game series at its largest, with seven boards. Its Switch 2 edition adds motion and camera modes. |
 | The Legend of Zelda: Echoes of Wisdom | 2024 | Grezzo | Nintendo | Action-adventure | 1 | No | **Stranded** | | | The first mainline Zelda with Zelda as the playable character. |
 | Metroid Prime 4: Beyond | 2025 | Retro Studios | Nintendo | Action-adventure | 1 | No | Sim-ship | Switch 2 (2025, same day) | | Also catalogued under [Switch 2](switch-2.md). Announced in 2017 and restarted from scratch in 2019. |
 | Pokémon Legends: Z-A | 2025 | Game Freak | Nintendo | RPG | 1–4 | Yes | Sim-ship | Switch 2 (2025, same day) | | Also catalogued under [Switch 2](switch-2.md). |

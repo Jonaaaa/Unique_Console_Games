@@ -55,13 +55,13 @@ aggressively monetised. The exceptions are:
 | Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Notes |
 |---|---|---|---|---|---|---|---|---|---|---|
 | Baseball Stars Professional | 1990 | SNK | SNK | Sports | 1–2 | No | Ported | *ACA NEOGEO*, Neo Geo mini | | Original teams rather than licensed ones, which is why it could be reissued at all. |
-| League Bowling | 1990 | SNK | SNK | Sports | 1–4 | No | Ported | *ACA NEOGEO*, Neo Geo mini | | |
+| League Bowling | 1990 | SNK | SNK | Sports | 1–4 | No | Ported | *ACA NEOGEO*, Neo Geo mini |  | A four-player bowling game, and one of the few non-fighting games the hardware is remembered for. `ACA NEOGEO` carries it. |
 | Magician Lord | 1990 | Alpha Denshi | SNK | Action-platformer | 1 | No | Ported | *ACA NEOGEO*, *SNK 40th Anniversary*, Neo Geo mini | | Launch title, and the game SNK used to demonstrate the hardware. |
 | Nam-1975 | 1990 | SNK | SNK | Rail shooter | 1–2 | No | Ported | Switch, PS4, Xbox, PC (*ACA NEOGEO*), Wii Virtual Console | | A launch title for the system. |
-| Sengoku | 1991 | SNK | SNK | Beat 'em up | 1–2 | No | Ported | *ACA NEOGEO*, *SNK 40th Anniversary* | | |
+| Sengoku | 1991 | SNK | SNK | Beat 'em up | 1–2 | No | Ported | *ACA NEOGEO*, *SNK 40th Anniversary* |  | A beat 'em up where the player shifts between modern Tokyo and feudal Japan. Reissued through `ACA NEOGEO`. |
 | Art of Fighting | 1992 | SNK | SNK | Fighting | 1–2 | No | Ported | *ACA NEOGEO*, *SNK 40th Anniversary*, Switch, PS4 | | Introduced the spirit gauge and scaling camera. |
-| Fatal Fury 2 | 1992 | SNK | SNK | Fighting | 1–2 | No | Ported | *ACA NEOGEO*, *Fatal Fury Battle Archives*, Switch | | |
-| Samurai Shodown | 1993 | SNK | SNK | Fighting | 1–2 | No | Ported | *ACA NEOGEO*, *Samurai Shodown NeoGeo Collection* (2020) | | |
+| Fatal Fury 2 | 1992 | SNK | SNK | Fighting | 1–2 | No | Ported | *ACA NEOGEO*, *Fatal Fury Battle Archives*, Switch |  | The entry that fixed the series' two-plane fighting and expanded its cast. SNK owns it, so it travels. |
+| Samurai Shodown | 1993 | SNK | SNK | Fighting | 1–2 | No | Ported | *ACA NEOGEO*, *Samurai Shodown NeoGeo Collection* (2020) |  | A weapons-based fighter with long reach and heavy damage, unlike the punch-and-kick games around it. Reissued repeatedly. |
 | The King of Fighters '94 | 1994 | SNK | SNK | Fighting | 1–2 | No | Ported | *ACA NEOGEO*, Switch, PS4, Xbox, PC | | Began the crossover series that defined SNK. |
 | Windjammers | 1994 | Data East | Data East | Sports | 1–2 | No | Ported | PS4, Vita (2017), Switch (2018), PC | | Data East went bankrupt in 2003; the rights passed to Paon, which enabled the 2017 revival and a 2022 sequel. |
 | Crossed Swords II | 1995 | Alpha Denshi | SNK | Action RPG | 1–2 | No | **Stranded** | | | **Neo Geo CD exclusive.** The first game reached AES carts and the reissue programme; this sequel was CD-only and was skipped entirely. |
@@ -70,9 +70,9 @@ aggressively monetised. The exceptions are:
 | Metal Slug | 1996 | Nazca | SNK | Run and gun | 1–2 | No | Ported | Almost every platform since; *Metal Slug Anthology*, *ACA NEOGEO* | | Nazca's team was absorbed into SNK after this. |
 | Neo Turf Masters | 1996 | Nazca | SNK | Sports | 1–4 | No | Ported | *ACA NEOGEO*, Switch, PS4 | | JP: *Big Tournament Golf*. |
 | Samurai Shodown RPG | 1997 | SNK / Sacnoth | SNK | RPG | 1 | No | **Stranded** | | | **Neo Geo CD exclusive.** A full RPG spin-off, never officially localised and never reissued, the CD add-on's most substantial exclusive and its most thoroughly lost. |
-| Shock Troopers | 1997 | Saurus | SNK | Run and gun | 1–2 | No | Ported | *ACA NEOGEO*, Switch, PS4 | | |
-| Blazing Star | 1998 | Yumekobo | SNK | Shoot 'em up | 1–2 | No | Ported | *ACA NEOGEO*, Switch, PS4, Xbox | | |
-| The Last Blade 2 | 1998 | SNK | SNK | Fighting | 1–2 | No | Ported | *ACA NEOGEO*, Switch, PS4, PC | | |
+| Shock Troopers | 1997 | Saurus | SNK | Run and gun | 1–2 | No | Ported | *ACA NEOGEO*, Switch, PS4 |  | A top-down run-and-gun with eight selectable characters and branching routes. `ACA NEOGEO` carries it. |
+| Blazing Star | 1998 | Yumekobo | SNK | Shoot 'em up | 1–2 | No | Ported | *ACA NEOGEO*, Switch, PS4, Xbox |  | A shoot 'em up with pre-rendered sprites and a charge-shot system, and one of the hardware's best-looking games. Reissued through `ACA NEOGEO`. |
+| The Last Blade 2 | 1998 | SNK | SNK | Fighting | 1–2 | No | Ported | *ACA NEOGEO*, Switch, PS4, PC |  | The refined sequel, and often named the best-looking 2D fighter of its era. SNK-owned. |
 | Garou: Mark of the Wolves | 1999 | SNK | SNK | Fighting | 1–2 | No | Ported | *ACA NEOGEO*, Switch, PS4, Xbox, PC, Mobile | | Widely considered SNK's best fighting game; a sequel finally arrived 26 years later. |
 | Big Bang Pro Wrestling | 2000 | Saurus | SNK | Wrestling | 1–2 | No | **Stranded** | | | One of the very last AES releases, sold into a collapsing market as SNK headed for bankruptcy. Never reissued. |
 | Digger Man | 2000 | Kaz | Kaz | Action | 1 | No | **Stranded** | | | An independently produced Neo Geo Pocket title sold in tiny numbers direct from the developer, effectively the platform's first homebrew commercial release. |

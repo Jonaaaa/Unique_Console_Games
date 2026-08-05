@@ -65,9 +65,9 @@ cover most of what Atari owns. So `Stranded` here isolates two specific groups:
 | Swordquest: Earthworld | 1982 | Atari | Atari | Adventure | 1 | No | Ported | *Atari 50* (2022) | | Part of a contest series with real jewelled prizes; the fourth game was cancelled when Atari collapsed, so the contest was never resolved. |
 | Yars' Revenge | 1982 | Atari | Atari | Shoot 'em up | 1–2 | No | Ported | *Atari 50*, *Yars: Recharged* (2022), Atari Flashback | | Atari's best-selling original game. Began as an attempted `Star Castle` conversion and became something else entirely. |
 | Chase the Chuck Wagon | 1983 | Atari | Purina | Action | 1 | No | **Stranded** | | | A **dog-food advergame**, distributed by mail order rather than retail. Advergames are unreissuable; the brand owner has no interest and the publisher never held the rights. |
-| Keystone Kapers | 1983 | Activision | Activision | Platformer | 1 | No | Ported | *Activision Anthology* | | |
+| Keystone Kapers | 1983 | Activision | Activision | Platformer | 1 | No | Ported | *Activision Anthology* |  | Chase a thief up a department store past hazards, and one of the best-regarded games on the hardware. Activision owns it, so its collections carry it. |
 | Kool-Aid Man | 1983 | Atari | General Foods | Action | 1 | No | **Stranded** | | | Same pattern: a beverage advergame obtainable only by mailing in proofs of purchase. |
-| H.E.R.O. | 1984 | Activision | Activision | Action | 1 | No | Ported | *Activision Anthology* | | |
+| H.E.R.O. | 1984 | Activision | Activision | Action | 1 | No | Ported | *Activision Anthology* |  | Fly down mine shafts with a backpack rotor to rescue trapped miners. Same Activision rights, same collections. |
 | Montezuma's Revenge | 1984 | Utopia Software | Parker Brothers | Platformer | 1 | No | Ported | Multiple compilations and reissues | | Later became a benchmark problem in AI research for its sparse-reward structure. |
 | Pitfall II: Lost Caverns | 1984 | Activision | Activision | Platformer | 1 | No | Ported | *Activision Anthology* | | Technically remarkable, a far larger world than the hardware should have allowed. |
 | Solaris | 1986 | Atari | Atari | Space combat | 1 | No | Ported | *Atari 50*, Atari Flashback | | Released nine years into the platform's life and still cited as the most technically accomplished 2600 game. |

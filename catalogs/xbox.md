@@ -73,17 +73,17 @@ is `Ported` as normal.
 | Otogi 2: Immortal Warriors | 2003 | FromSoftware | Sega | Action | 1–2 | No | **Stranded** | | | Sega-published FromSoftware, the same rights split that strands the first game. |
 | Project Gotham Racing 2 | 2003 | Bizarre Creations | Microsoft | Racing | 1–8 | Dead | **Stranded** | | | Licensed cars and a licensed radio soundtrack, and Bizarre Creations closed in 2011. |
 | Soulcalibur II | 2003 | Project Soul | Namco | Fighting | 1–2 | Dead | Sim-ship | GameCube, PS2 (2003, same day) | | Also catalogued under [GameCube](gamecube.md) and [PS2](ps2.md). The Xbox build's exclusive guest was Spawn, licensed from Todd McFarlane, which is why this version specifically has never been reissued. |
-| Star Wars: Knights of the Old Republic | 2003 | BioWare | LucasArts | RPG | 1 | No | Ported | Switch, PS4/PS5, Mobile (2003–22) | | |
+| Star Wars: Knights of the Old Republic | 2003 | BioWare | LucasArts | RPG | 1 | No | Ported | Switch, PS4/PS5, Mobile (2003–22) |  | A role-playing game set four thousand years before the films, and the one BioWare is still measured by. Its rights carried it to almost everything. |
 | Breakdown | 2004 | Namco | Namco | FPS / action | 1 | No | **Stranded** | | | Entirely first-person including melee and cutscenes. |
-| Fable | 2004 | Big Blue Box / Lionhead | Microsoft | Action RPG | 1 | No | Ported | Xbox 360 (2008, *Anniversary* 2014), PC | | |
+| Fable | 2004 | Big Blue Box / Lionhead | Microsoft | Action RPG | 1 | No | Ported | Xbox 360 (2008, *Anniversary* 2014), PC |  | An action role-playing game where choices visibly change the character's appearance. Reached Xbox 360 in an expanded edition. |
 | Halo 2 | 2004 | Bungie | Microsoft | FPS | 1–16 | Dead (2010) | Ported | PC (2007), Xbox One/PC (2014–20, *MCC*) | | Its Xbox Live servers closed in 2010, the first major console online shutdown. |
-| Ninja Gaiden | 2004 | Team Ninja | Tecmo | Action | 1 | No | Ported | PS3 (2007, *Sigma*), multiplatform (2024, *Master Collection*) | | |
+| Ninja Gaiden | 2004 | Team Ninja | Tecmo | Action | 1 | No | Ported | PS3 (2007, *Sigma*), multiplatform (2024, *Master Collection*) |  | A punishingly difficult action game, and the series' 3D reinvention. Its `Sigma` version moved it to PS3. |
 | Phantom Dust | 2004 | Microsoft Game Studios | Microsoft | Action / card battler | 1–4 | Dead | Ported | Xbox One, PC (2017, *HD*) | | A cult card-combat game; the HD re-release was given away free. |
 | Star Wars: Battlefront | 2004 | Pandemic | LucasArts | Shooter | 1–16 | Dead | Sim-ship | PS2, PC (2004, same day) | | Also catalogued under [PS2](ps2.md). |
 | Steel Battalion: Line of Contact | 2004 | Capcom | Capcom | Mech simulator | 1–20 | **Dead (2010)** | **Stranded** | | | Online-only, needs the 40-button controller, and the servers are gone. Online-only, peripheral-dependent, and the servers are gone. |
 | Sudeki | 2004 | Climax | Microsoft | Action RPG | 1 | No | **Stranded** | | | A PC version exists (2005) but PC is not a catalogued platform, so no console alternative. |
-| Jade Empire | 2005 | BioWare | Microsoft | Action RPG | 1 | No | Ported | PC (2007), Mobile, Switch (2021, *Special Edition*) | | |
-| Oddworld: Stranger's Wrath | 2005 | Oddworld Inhabitants | EA | Action-adventure | 1 | No | Ported | PS3, Vita, Switch, PC (2010–20, *HD*) | | |
+| Jade Empire | 2005 | BioWare | Microsoft | Action RPG | 1 | No | Ported | PC (2007), Mobile, Switch (2021, *Special Edition*) |  | A martial-arts role-playing game in a mythic China, from the `Knights of the Old Republic` team. Ported to PC and phones. |
+| Oddworld: Stranger's Wrath | 2005 | Oddworld Inhabitants | EA | Action-adventure | 1 | No | Ported | PS3, Vita, Switch, PC (2010–20, *HD*) |  | A bounty-hunting action game that switches between first and third person, using live ammunition that runs away. Remastered onto several platforms. |
 | Psychonauts | 2005 | Double Fine | Majesco | Platformer | 1 | No | Sim-ship | PS2, PC (2005, same day) | | Double Fine's debut; later ported nearly everywhere. |
 
 ## Contested

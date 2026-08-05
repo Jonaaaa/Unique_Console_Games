@@ -71,7 +71,7 @@ PC does not count here. Beyond that:
 | Gears of War 4 | 2016 | The Coalition | Microsoft | Third-person shooter | 1–10 | Yes | **Stranded** | | | PC version day-one; never on another console. |
 | Quantum Break | 2016 | Remedy | Microsoft | Action | 1 | No | **Stranded** | | | Its live-action episodes were streamed, which complicates any reissue. PC version 2016. |
 | ReCore | 2016 | Comcept / Armature | Microsoft | Action-adventure | 1 | No | **Stranded** | | | Keiji Inafune's Microsoft-published project. PC version 2016. |
-| Cuphead | 2017 | Studio MDHR | Studio MDHR | Run and gun | 1–2 | No | Ported | Switch (2019), PS4 (2020), PC | | |
+| Cuphead | 2017 | Studio MDHR | Studio MDHR | Run and gun | 1–2 | No | Ported | Switch (2019), PS4 (2020), PC |  | A boss-rush run-and-gun drawn as a 1930s cartoon, cel by cel. Its exclusivity lapsed and it reached everything. |
 | Halo Wars 2 | 2017 | Creative Assembly | Microsoft | RTS | 1–6 | Yes | **Stranded** | | | PC version day-one. |
 | Sea of Thieves | 2018 | Rare | Microsoft | Action-adventure | 1–24 | Yes | Ported | PS5 (2024), PC | | **The first Microsoft first-party game released on a PlayStation console**: the moment the policy changed. |
 | State of Decay 2 | 2018 | Undead Labs | Microsoft | Survival | 1–4 | Yes | **Stranded** | | | PC version day-one. |
@@ -81,11 +81,11 @@ PC does not count here. Beyond that:
 | Bleeding Edge | 2020 | Ninja Theory | Microsoft | Multiplayer brawler | 1–8 | **Dead (2024)** | **Stranded** | | | Support ended within a year and servers closed in 2024. Online-only, so the game no longer functions. |
 | Grounded | 2020 | Obsidian | Microsoft | Survival | 1–4 | Yes | Ported | PS5, Switch (2024), PC | | Part of the 2024 multiplatform wave. |
 | Minecraft Dungeons | 2020 | Mojang | Microsoft | Action RPG | 1–4 | Yes | Sim-ship | PS4, Switch, PC (2020, same day) | | A rare Microsoft title that launched multiplatform on day one rather than staying on Xbox. |
-| Ori and the Will of the Wisps | 2020 | Moon Studios | Microsoft | Platformer | 1 | No | Ported | Switch (2020), PC | | |
+| Ori and the Will of the Wisps | 2020 | Moon Studios | Microsoft | Platformer | 1 | No | Ported | Switch (2020), PC |  | A hand-painted exploration platformer, larger and more combat-focused than the first. Ported to Switch. |
 | Tell Me Why | 2020 | Dontnod | Microsoft | Adventure | 1 | No | **Stranded** | | | PC version day-one; delisted from sale in 2024 and made temporarily free. |
 | Forza Horizon 5 | 2021 | Playground Games | Microsoft | Racing | 1–12 | Yes | Sim-ship | Xbox Series X/S (2021, same day); PS5 (2025), PC | | Also catalogued under [Xbox Series X\|S](xbox-series.md). |
 | Halo Infinite | 2021 | 343 Industries | Microsoft | FPS | 1–24 | Yes | Sim-ship | Xbox Series X/S, PC (2021, same day) | | Cross-gen launch; also catalogued under [Xbox Series X\|S](xbox-series.md). |
-| Pentiment | 2022 | Obsidian | Microsoft | Adventure | 1 | No | Ported | PS5, Switch (2024), PC | | |
+| Pentiment | 2022 | Obsidian | Microsoft | Adventure | 1 | No | Ported | PS5, Switch (2024), PC |  | A narrative game drawn as an illuminated manuscript, set across decades in a Bavarian abbey. Microsoft's policy change carried it to PS5 and Switch. |
 
 ## Contested
 

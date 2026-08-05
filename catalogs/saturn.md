@@ -59,7 +59,7 @@ On top of that:
 | Mr. Bones | 1996 | Zono | Sega | Platformer | 1 | No | **Stranded** | | | A blues soundtrack by Ronnie Montrose, music rights on top of obscurity. |
 | NiGHTS into Dreams | 1996 | Sonic Team | Sega | Action | 1–2 | No | Ported | PS2 (2008), PS3, Xbox 360, PC (2012) | | Shipped with the 3D Control Pad, the Saturn's analogue controller. |
 | Panzer Dragoon II Zwei | 1996 | Team Andromeda | Sega | Rail shooter | 1 | No | **Stranded** | | | A remake was announced in 2020 and has not materialised. |
-| Sakura Wars | 1996 | Sega / Red Company | Sega | Strategy / visual novel | 1 | No | Ported | Dreamcast, PSP (2008), PS2 | | |
+| Sakura Wars | 1996 | Sega / Red Company | Sega | Strategy / visual novel | 1 | No | Ported | Dreamcast, PSP (2008), PS2 |  | Half strategy game, half dating simulation, set in a steam-powered 1920s Tokyo. Ported to Dreamcast and PSP in Japan. |
 | Sega Ages | 1996 | Sega | Sega | Compilation | 1–2 | No | **Stranded** | | | Sega's first retro-compilation brand, launched on hardware its own reissue programme now skips. |
 | Shining the Holy Ark | 1996 | Camelot | Sega | RPG | 1 | No | **Stranded** | | | Camelot before Golden Sun and Mario Golf. |
 | Three Dirty Dwarves | 1996 | Appaloosa | Sega | Beat 'em up | 1–3 | No | **Stranded** | | | Appaloosa's beat 'em up, absent from Sega collections that skip the Saturn almost entirely. |
@@ -68,10 +68,10 @@ On top of that:
 | Grandia | 1997 | Game Arts | Game Arts / Sega | RPG | 1 | No | Ported | PS1 (1999), Switch/PC (2019, *HD Remaster*) | Japanese | Japan-only on Saturn; the West only ever got the PS1 version. |
 | Last Bronx | 1997 | Sega AM3 | Sega | Fighting | 1–2 | No | **Stranded** | | | An AM3 fighter whose Saturn build has never been reissued, despite the arcade original being preserved. |
 | Princess Crown | 1997 | Atlus | Atlus | Action RPG | 1 | No | Ported | PSP (2005, Japan only) | Japanese | The direct ancestor of *Odin Sphere*, the team became Vanillaware. Never localised. |
-| Silhouette Mirage | 1997 | Treasure | ESP | Action-platformer | 1 | No | Ported | PS1 (1998) | | |
+| Silhouette Mirage | 1997 | Treasure | ESP | Action-platformer | 1 | No | Ported | PS1 (1998) |  | An action-platformer where the character's facing direction changes which attacks work. Reached PS1 in a revised form. |
 | Sonic Jam | 1997 | Sonic Team | Sega | Compilation | 1–2 | No | **Stranded** | | | The four Genesis Sonic games plus **Sonic World**, an original 3D hub area that was the first playable 3D Sonic and exists nowhere else. Sega's later collections reissued the Genesis games but never Sonic World. |
-| Sonic R | 1997 | Traveller's Tales | Sega | Racing | 1–2 | No | Ported | PC (1998), *Sonic Gems Collection* (2005) | | |
-| Baroque | 1998 | Sting | Sting | Roguelike | 1 | No | Ported | PS1 (2000), Wii, PS2 (2007–08) | | |
+| Sonic R | 1997 | Traveller's Tales | Sega | Racing | 1–2 | No | Ported | PC (1998), *Sonic Gems Collection* (2005) |  | A racing game on foot rather than in karts, remembered mostly for its vocal soundtrack. Ported to PC and collected later. |
+| Baroque | 1998 | Sting | Sting | Roguelike | 1 | No | Ported | PS1 (2000), Wii, PS2 (2007–08) |  | A roguelike where dying is the intended way to learn the story, in a deliberately oppressive tower. Remade for Wii and PS2. |
 | Burning Rangers | 1998 | Sonic Team | Sega | Action | 1 | No | **Stranded** | | | Sonic Team's last Saturn game, a firefighting action game with fully voiced mission guidance. Never reissued in any form. |
 | Deep Fear | 1998 | System Sacom | Sega | Survival horror | 1 | No | **Stranded** | | | The Saturn's answer to *Resident Evil*, PAL and Japan only; never released in North America. |
 | Panzer Dragoon Saga | 1998 | Team Andromeda | Sega | RPG | 1 | No | **Stranded** | | | **The headline stranded game of the platform.** Four discs, roughly 20,000 North American copies, and Sega has said the source code is lost. Team Andromeda dissolved immediately after. Regularly cited as the most valuable mainstream Saturn cartridge-era collectable. |

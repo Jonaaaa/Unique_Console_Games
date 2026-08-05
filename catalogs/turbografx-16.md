@@ -54,19 +54,19 @@ CD-ROM² catalogue, with no re-release of any kind.
 | Keith Courage in Alpha Zones | 1989 | Alfa System | NEC | Action-platformer | 1 | No | Ported | TurboGrafx-16 Mini (2020) | | The North American pack-in, and widely blamed for the platform's US launch reception. |
 | Military Madness | 1989 | Hudson Soft | NEC | Turn-based strategy | 1–2 | No | Ported | Wii Virtual Console, TurboGrafx-16 Mini | | JP: *Nectaris*. |
 | Neutopia | 1989 | Hudson Soft | Hudson Soft | Action-adventure | 1 | No | Ported | Wii Virtual Console, TurboGrafx-16 Mini | | An direct Zelda homage. |
-| The Legendary Axe | 1989 | Victor Musical Industries | NEC | Action-platformer | 1 | No | Ported | TurboGrafx-16 Mini (2020) | | |
+| The Legendary Axe | 1989 | Victor Musical Industries | NEC | Action-platformer | 1 | No | Ported | TurboGrafx-16 Mini (2020) |  | A side-scrolling action game and the platform's Western launch showpiece. Reached the TurboGrafx-16 Mini and Virtual Console. |
 | Ys Book I & II | 1989 | Alfa System | NEC / Hudson | Compilation | 1 | No | Ported | Many later Ys collections and remasters | | **CD-ROM².** A landmark release, the first console game with Redbook CD audio and full voice acting. The compilation debuted here; the two PC-8801 games inside it did not. |
 | Devil's Crush | 1990 | Compile | Naxat Soft | Pinball | 1 | No | Ported | Wii Virtual Console, TurboGrafx-16 Mini | | The `Alien Crush` follow-up, and the better-regarded of the two. |
 | Splatterhouse | 1990 | Namco | Namco | Beat 'em up | 1 | No | Ported | Wii Virtual Console | | The first home version of the 1988 cabinet, with the gore intact where the Genesis version was censored. |
 | 1941: Counter Attack | 1991 | Capcom / Hudson | NEC Avenue | Shoot 'em up | 1 | No | **Stranded** | | | **Super CD-ROM².** The home conversion has never been reissued; Capcom's collections use the arcade builds instead. |
-| Bonk's Revenge | 1991 | Red Company | Hudson Soft | Platformer | 1 | No | Ported | Wii Virtual Console, TurboGrafx-16 Mini | | |
+| Bonk's Revenge | 1991 | Red Company | Hudson Soft | Platformer | 1 | No | Ported | Wii Virtual Console, TurboGrafx-16 Mini |  | The mascot platformer's sequel, built on headbutting enemies. Reissued on Wii Virtual Console. |
 | Coryoon | 1991 | Naxat Soft | Naxat Soft | Shoot 'em up | 1 | No | **Stranded** | | Japanese | Japan-only. Naxat's assets passed through several holders, leaving no clear owner. |
 | Magical Chase | 1991 | Palsoft | Palsoft | Shoot 'em up | 1 | No | **Stranded** | | | A cute-em-up with a **North American print run in the low hundreds**. Original carts regularly exceed $2,000, putting it among the most expensive commercially sold cartridges. Palsoft is long gone. |
-| Neutopia II | 1991 | Hudson Soft | Hudson Soft | Action-adventure | 1 | No | Ported | Wii Virtual Console | | |
+| Neutopia II | 1991 | Hudson Soft | Hudson Soft | Action-adventure | 1 | No | Ported | Wii Virtual Console |  | A top-down action-adventure closely modelled on `The Legend of Zelda`. Wii Virtual Console carried it. |
 | Air Zonk | 1992 | Red Company | Hudson Soft | Shoot 'em up | 1 | No | Ported | Wii Virtual Console, TurboGrafx-16 Mini | | A cyberpunk Bonk spin-off. |
 | Cosmic Fantasy 2 | 1992 | Laser Soft | Working Designs | RPG | 1 | No | **Stranded** | | | **CD-ROM².** One of the few Japanese PC Engine RPGs that *was* localised, by Working Designs: which dissolved in 2005, leaving the translation orphaned. |
 | Gate of Thunder | 1992 | Red Company | Hudson Soft | Shoot 'em up | 1 | No | Ported | Wii Virtual Console, TurboGrafx-16 Mini | | **Super CD-ROM².** Bundled with the TurboDuo and often cited as the platform's best shmup. |
-| Soldier Blade | 1992 | Hudson Soft | Hudson Soft | Shoot 'em up | 1 | No | Ported | Wii Virtual Console, TurboGrafx-16 Mini | | |
+| Soldier Blade | 1992 | Hudson Soft | Hudson Soft | Shoot 'em up | 1 | No | Ported | Wii Virtual Console, TurboGrafx-16 Mini |  | A vertical shoot 'em up, and the best-regarded of Hudson's `Soldier` series. Reissued on Wii Virtual Console. |
 | Star Parodier | 1992 | Hudson Soft | Hudson Soft | Shoot 'em up | 1 | No | Ported | Wii Virtual Console, PC Engine mini | | **Super CD-ROM².** A self-parody of Hudson's own *Star Soldier*. |
 | Tengai Makyou II: Manjimaru | 1992 | Red Company | Hudson Soft | RPG | 1 | No | **Stranded** | | Japanese | **Super CD-ROM².** A 30-hour voiced RPG, one of the largest games of its generation, and **never localised**. The whole `Tengai Makyou` line is stranded, the deepest single hole in the platform's catalogue. |
 | Bomberman '94 | 1993 | Hudson Soft | Hudson Soft | Action | 1–5 | No | Ported | Wii Virtual Console, PC Engine mini | | Five-player via multitap. |

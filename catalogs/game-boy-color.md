@@ -49,12 +49,12 @@ the only games in either series absent from *Rare Replay*.
 | Mega Man Xtreme | 2000 | Capcom | Capcom | Action-platformer | 1 | No | **Stranded** | | | Rebuilt *Mega Man X* content into original GBC levels; omitted from the X Legacy Collections. |
 | Metal Gear: Ghost Babel | 2000 | KCEJ | Konami | Stealth action | 1 | No | **Stranded** | | | Released as *Metal Gear Solid* in the West. A full original entry directed by Shinta Nojiri, omitted from the *Master Collection*. |
 | Perfect Dark | 2000 | Rare | Rare | Action | 1 | No | **Stranded** | | | A top-down GBC companion to the N64 game, requiring the Transfer Pak to unlock N64 content. Absent from *Rare Replay*. |
-| Pokémon Crystal | 2000 | Game Freak | Nintendo | RPG | 1–2 | No | Ported | 3DS Virtual Console (2018) | | |
-| Wario Land 3 | 2000 | Nintendo R&D1 | Nintendo | Platformer | 1 | No | Ported | 3DS Virtual Console, NSO | | |
+| Pokémon Crystal | 2000 | Game Freak | Nintendo | RPG | 1–2 | No | Ported | 3DS Virtual Console (2018) |  | The third-version revision of the second generation, with animated sprites and a female player character. Reissued on the Nintendo 3DS eShop before it closed. |
+| Wario Land 3 | 2000 | Nintendo R&D1 | Nintendo | Platformer | 1 | No | Ported | 3DS Virtual Console, NSO |  | A platformer with no death and a world that changes as you find treasures, structured more like a puzzle box. First-party. |
 | Alone in the Dark: The New Nightmare | 2001 | Pocket Studios | Infogrames | Survival horror | 1 | No | **Stranded** | | | A ground-up GBC game sharing only a title with the console release. |
-| Dragon Warrior Monsters 2 | 2001 | Tose | Enix | RPG | 1–2 | No | Ported | 3DS (2014 remake, Japan), Switch (2024) | | |
+| Dragon Warrior Monsters 2 | 2001 | Tose | Enix | RPG | 1–2 | No | Ported | 3DS (2014 remake, Japan), Switch (2024) |  | The monster-collecting spin-off's sequel, split across two versions. Remade for Nintendo 3DS in Japan. |
 | Resident Evil Gaiden | 2001 | M4 | Capcom | Survival horror | 1 | No | **Stranded** | | | A wholly original Resident Evil with a first-person timing-based combat system. Never reissued in any form. |
-| The Legend of Zelda: Oracle of Ages | 2001 | Flagship / Capcom | Nintendo | Action-adventure | 1 | No | Ported | 3DS Virtual Console, NSO | | |
+| The Legend of Zelda: Oracle of Ages | 2001 | Flagship / Capcom | Nintendo | Action-adventure | 1 | No | Ported | 3DS Virtual Console, NSO |  | One half of a pair made by Capcom, linked to the other by a password. Reached the Nintendo 3DS Virtual Console. |
 | The Legend of Zelda: Oracle of Seasons | 2001 | Flagship / Capcom | Nintendo | Action-adventure | 1 | No | Ported | 3DS Virtual Console, NSO | | Linked to *Oracle of Ages* by password. |
 | Shantae | 2002 | WayForward | Capcom | Platformer | 1 | No | Ported | 3DS Virtual Console (2013), Switch/PS4/PS5/Xbox (2021) | | Released at the very end of the GBC's life into a dead market; original carts became famously expensive. |
 

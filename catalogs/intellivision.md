@@ -55,8 +55,8 @@ the split here is clean; Mattel's own games survived, licensed ones did not.
 | B-17 Bomber | 1982 | APh Technological | Mattel | Flight simulation | 1 | No | Ported | *Intellivision Lives!*, Flashback | | **Intellivoice.** |
 | Beauty & the Beast | 1982 | Mattel | Mattel | Platformer | 1 | No | Ported | *Intellivision Lives!*, Flashback | | Unrelated to the fairy tale of the same name, a King Kong-style climbing game. |
 | Bomb Squad | 1982 | APh Technological | Mattel | Puzzle | 1 | No | **Stranded** | | | **Intellivoice.** A bomb-defusal game that talks you through the procedure; skipped by the reissue collections. |
-| Night Stalker | 1982 | Steve Montero | Mattel | Action | 1 | No | Ported | *Intellivision Lives!*, Flashback, Evercade | | |
-| Shark! Shark! | 1982 | Don Daglow | Mattel | Action | 1–2 | No | Ported | *Intellivision Lives!*, Flashback, Evercade | | |
+| Night Stalker | 1982 | Steve Montero | Mattel | Action | 1 | No | Ported | *Intellivision Lives!*, Flashback, Evercade |  | Shoot robots in a maze while avoiding a spider and a bat, in real time. The Intellivision collections carry it. |
+| Shark! Shark! | 1982 | Don Daglow | Mattel | Action | 1–2 | No | Ported | *Intellivision Lives!*, Flashback, Evercade |  | Eat smaller fish, avoid larger ones, and the fish get larger. Same collections. |
 | TRON: Deadly Discs | 1982 | Mattel | Mattel | Action | 1 | No | **Stranded** | | | The best-regarded TRON game of its era, and locked behind a **Disney** licence. Renamed in later Mattel collections to remove the branding, so the game as shipped has never been reissued. |
 
 ## Contested

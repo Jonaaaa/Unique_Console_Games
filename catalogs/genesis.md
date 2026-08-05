@@ -48,7 +48,7 @@ likeness rights alongside everything else.
 | Phantasy Star II | 1989 | Sega | Sega | RPG | 1 | No | Ported | Sega collections, Switch Online |  | A science-fiction role-playing game with a downbeat story, unusual for 1989. Sega-owned and in every collection since. |
 | Gaiares | 1990 | Telenet | Renovation | Shoot 'em up | 1 | No | **Stranded** | | | Telenet's assets have been dormant for decades. |
 | Michael Jackson's Moonwalker | 1990 | Sega | Sega | Action | 1 | No | **Stranded** | | | Locked behind the Jackson estate's likeness and music rights simultaneously. Sega has quietly omitted it from every collection for 35 years. |
-| Sonic the Hedgehog | 1991 | Sonic Team | Sega | Platformer | 1 | No | Ported | *Sonic Origins*, Sega collections, Mega Drive Mini, Switch Online | | |
+| Sonic the Hedgehog | 1991 | Sonic Team | Sega | Platformer | 1 | No | Ported | *Sonic Origins*, Sega collections, Mega Drive Mini, Switch Online |  | The game that gave Sega a mascot and a market position, built on speed the hardware could just about sustain. Sega-owned and reissued endlessly. |
 | Streets of Rage | 1991 | Sega | Sega | Beat 'em up | 1–2 | No | Ported | Sega collections, Mega Drive Mini, Switch Online | | Yuzo Koshiro's soundtrack; Sega owns it outright. |
 | Toejam & Earl | 1991 | Johnson Voorsanger | Sega | Action | 1–2 | No | Ported | Sega collections, Switch Online |  | Two aliens search a randomly generated Earth for ship parts, in a roguelike structure nobody else was using. Sega published it, so it travels. |
 | Batman Returns | 1992 | Malibu | Sega | Action-platformer | 1 | No | **Stranded** |  |  | DC film licence. A tie-in to the Burton film, needing both DC and film rights. |

@@ -56,11 +56,11 @@
 | Ecco the Dolphin | 1993 | Novotrade | Sega | Action-adventure | 1 | No | Ported | Sega collections | | The 8-bit version is a distinct build. |
 | Micro Machines | 1993 | Codemasters | Codemasters | Racing | 1–2 | No | **Stranded** | | | The Micro Machines toy licence has changed hands repeatedly. |
 | Power Strike II | 1993 | Compile | Sega | Shoot 'em up | 1 | No | **Stranded** | | | PAL-only. Compile's follow-up to *Aleste*; original carts are extremely scarce. |
-| Sonic Chaos | 1993 | Aspect | Sega | Platformer | 1 | No | Ported | Sega collections | | |
+| Sonic Chaos | 1993 | Aspect | Sega | Platformer | 1 | No | Ported | Sega collections |  | An 8-bit entry built for the smaller screen rather than scaled down from the Genesis games. Sega-owned. |
 | Streets of Rage II | 1993 | Sega / Ancient | Sega | Beat 'em up | 1 | No | **Stranded** | | | The 8-bit build is a separate, heavily reworked game, and unlike the Genesis version, it has never been reissued. |
 | The Ottifants | 1993 | Graftgold | Sega | Platformer | 1 | No | **Stranded** | | | Licensed from a German cartoon; Europe-only. |
 | Turma da Mônica em: O Resgate | 1993 | Tectoy | Tectoy | Platformer | 1 | No | **Stranded** | | | **Brazil-only.** A reskin of *Wonder Boy III*. |
-| Sonic the Hedgehog: Triple Trouble | 1994 | Aspect | Sega | Platformer | 1 | No | Ported | Sega collections (as a Game Gear title) | | |
+| Sonic the Hedgehog: Triple Trouble | 1994 | Aspect | Sega | Platformer | 1 | No | Ported | Sega collections (as a Game Gear title) |  | The last and largest 8-bit Sonic, with vehicle sections. Sega's own, so its collections carry it. |
 | Geraldinho | 1995 | Tectoy | Tectoy | Platformer | 1 | No | **Stranded** | | | **Brazil-only.** |
 | Sapo Xulé: O Mestre do Kung Fu | 1995 | Tectoy | Tectoy | Action | 1 | No | **Stranded** | | | **Brazil-only.** A Sega game re-skinned around a Brazilian TV character. Never sold outside Brazil. |
 | Férias Frustradas do Pica-Pau | 1996 | Tectoy | Tectoy | Platformer | 1 | No | **Stranded** | | | **Brazil-only.** Woody Woodpecker licence. |

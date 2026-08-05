@@ -43,10 +43,10 @@ of studios. There has never been any 3DO reissue programme of any kind.
 | Crash 'n Burn | 1993 | Crystal Dynamics | Crystal Dynamics | Racing | 1–2 | No | **Stranded** | | | The launch pack-in. Crystal Dynamics survived and became the Tomb Raider studio, but its 3DO output was left behind. |
 | Escape from Monster Manor | 1993 | Studio 3DO | Panasonic | FPS | 1 | No | **Stranded** | | | A launch-window Doom-alike; Studio 3DO's assets went to Ubisoft in 2003 and were never revisited. |
 | Guardian War | 1993 | Micro Cabin | Panasonic | Tactical RPG | 1 | No | **Stranded** | | | JP: *Powers Kingdom*. One of the few 3DO RPGs localised into English, and never reissued. |
-| Total Eclipse | 1993 | Crystal Dynamics | Crystal Dynamics | Rail shooter | 1 | No | Ported | PS1 (1995, as *Total Eclipse Turbo*), Saturn | | |
+| Total Eclipse | 1993 | Crystal Dynamics | Crystal Dynamics | Rail shooter | 1 | No | Ported | PS1 (1995, as *Total Eclipse Turbo*), Saturn |  | A rail shooter through canyons and tunnels, from the studio that later made `Tomb Raider`. Reworked for PS1 as `Solar Eclipse`. |
 | Immercenary | 1994 | Five Miles Out | Electronic Arts | FPS / RPG | 1 | No | **Stranded** | | | An open-world cyberpunk shooter far ahead of its hardware; the developer dissolved. |
 | Policenauts | 1994 | Konami | Konami | Adventure | 1 | No | Ported | PS1, Saturn (1996) | Japanese | Hideo Kojima's adventure game. Its 3DO release is the original; the console ports followed and were never localised either. |
-| The Horde | 1994 | Toys for Bob | Crystal Dynamics | Strategy / action | 1 | No | Ported | PC, Saturn (1994–96) | | |
+| The Horde | 1994 | Toys for Bob | Crystal Dynamics | Strategy / action | 1 | No | Ported | PC, Saturn (1994–96) |  | Defend a village from monsters between building phases, with live-action cutscenes. Reached PC and Saturn. |
 | Twisted: The Game Show | 1994 | Electronic Arts | Electronic Arts | Party | 1–4 | No | **Stranded** | | | Full-motion-video game show with paid actors, likeness rights on top of everything else. |
 | Way of the Warrior | 1994 | Naughty Dog | Universal Interactive | Fighting | 1–2 | No | **Stranded** | | | **Naughty Dog's first game**, made before *Crash Bandicoot*. Digitised-sprite fighting with a White Zombie soundtrack; the licensed music alone would block reissue, and the studio's owner has never revisited it. |
 | Blade Force | 1995 | Studio 3DO | Panasonic | Action | 1 | No | **Stranded** | | | A Studio 3DO original whose assets passed to Ubisoft in the 2003 bankruptcy and were never revisited. |
@@ -54,7 +54,7 @@ of studios. There has never been any 3DO reissue programme of any kind.
 | Gex | 1995 | Crystal Dynamics | Crystal Dynamics | Platformer | 1 | No | Ported | PS1, Saturn (1995–96), *Gex Trilogy* (2024) | | The 3DO's mascot attempt, and the only 3DO debut with a modern collection. |
 | Killing Time | 1995 | Studio 3DO | Panasonic | FPS | 1 | No | **Stranded** | | | A PC version followed in 1996, but PC is not a catalogued platform, so there is no second console to own it on. |
 | Lucienne's Quest | 1995 | Micro Cabin | Panasonic | RPG | 1 | No | **Stranded** | | | **The only traditional JRPG released in English on the platform.** Micro Cabin's catalogue has been dormant for two decades. |
-| Return Fire | 1995 | Silent Software | Prolific | Vehicular combat | 1–2 | No | Ported | PS1, Saturn, PC (1995–96) | | |
+| Return Fire | 1995 | Silent Software | Prolific | Vehicular combat | 1–2 | No | Ported | PS1, Saturn, PC (1995–96) |  | Vehicular capture-the-flag played to classical music. Ported to PS1 and Saturn. |
 | Captain Quazar | 1996 | Cyclone Studios | 3DO | Action | 1–2 | No | **Stranded** | | | One of the last 3DO releases, published as the company pivoted to PC. |
 
 ## Excluded
