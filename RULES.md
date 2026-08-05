@@ -209,11 +209,48 @@ One table per platform, identical columns everywhere so files stay diff-able.
 | `Status` | `Stranded`, `Ported`, or `Sim-ship`. |
 | `Also On` | Empty when stranded. Otherwise every platform with year: `Switch (2017), PC (2020)`. For `Sim-ship`, list the co-launch platforms and mark them, e.g. `Switch (2017, same day)`. |
 | `Language` | The language the game shipped in, where it is known and worth stating. Japan-only releases are `Japanese`. Leave empty rather than assuming; an empty cell means unrecorded, not English. |
-| `Notes` | One line. Prefer *why* it is stranded (hardware dependency, licensing, studio closure, server death) over review commentary. |
+| `Notes` | **Required.** At least one sentence saying what the release is and why its `Status` is what it is: the hardware dependency, licence, studio closure or dead server that stranded it, or what carried it off the platform. Not review commentary. See [Notes](#notes). |
 
 Sort by Year, then Title. Keep everything in **one** table; status is a column,
 not a section. Splitting by status buries the point that these are all the same
 kind of thing.
+
+## Notes
+
+Every row gets at least one sentence. A row with an empty `Notes` cell is a
+title and eight pieces of metadata, which tells a reader nothing they could not
+get from a list of games, and the whole value of this catalogue is the *reason*.
+
+A note should answer two things:
+
+1. **What the release is.** Enough to recognise it: what kind of game, or what
+   it is known for. One clause is usually enough.
+2. **Why its status is what it is.** For `Stranded`, the specific obstacle:
+   hardware nobody can reproduce, a licence that expired, a studio that closed,
+   servers that shut down, a Japan-only release nobody localised. For `Ported`
+   or `Sim-ship`, what carried it, where `Also On` alone does not make it
+   obvious.
+
+"Never rereleased" is not a reason, it is a restatement of the status. If the
+reason is genuinely unknown, say that: "no stated reason; the rights are with a
+publisher that has not revisited its back catalogue" is honest, and "unclear why
+this one was left behind" is better than a confident invention.
+
+### No spoilers
+
+These notes describe *releases*, not plots. A reader consulting a catalogue of
+stranded games has usually not played the thing they are reading about, and a
+note is the last place they expect to learn how it ends.
+
+Say what a game is and why it is stuck. Do not say what happens in it. Where a
+plot point is genuinely load-bearing for the stranding reason, which is rare,
+name the fact without the outcome: "its licensed soundtrack" rather than the
+scene the song plays in.
+
+The same applies to the sibling
+[`Start_Here`](https://github.com/Jonaaaa/Start_Here) routes, which have their
+own longer treatment of this, since a play-order tool is read by people who are
+about to start the series.
 
 ## Naming platforms
 

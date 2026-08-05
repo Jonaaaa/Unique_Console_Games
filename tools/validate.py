@@ -177,6 +177,34 @@ def check_rules(path: Path) -> list[str]:
     return problems
 
 
+def check_notes(path: Path) -> tuple[int, int]:
+    """Count rows with no note and rows too short to be one.
+
+    RULES.md requires a sentence per row saying what the release is and why its
+    status is what it is. This is reported rather than enforced while the
+    backlog is worked through: failing the build on it today would block every
+    commit for the sake of a debt that predates the rule. It becomes an error
+    when the count reaches zero.
+    """
+    lines = path.read_text(encoding="utf-8").splitlines()
+    starts = [i for i, ln in enumerate(lines) if ln.startswith(DEBUT_HEADER)]
+    if not starts:
+        return 0, 0
+    missing = thin = 0
+    for line in lines[starts[0] + 2:]:
+        if not line.startswith("|"):
+            break
+        cells = [c.strip() for c in CELL_SPLIT_RE.split(line)[1:-1]]
+        if len(cells) != EXPECTED_CELLS:
+            continue
+        note = cells[10]
+        if not note:
+            missing += 1
+        elif len(note) < 40:
+            thin += 1
+    return missing, thin
+
+
 def check_glued(path: Path) -> list[str]:
     """A table row must end at its final pipe.
 
@@ -255,8 +283,25 @@ def main() -> int:
             print(f"  {problem}", file=sys.stderr)
         return 1
 
+    missing = thin = 0
+    worst: list[tuple[int, str]] = []
+    for path in catalogs:
+        m, n = check_notes(path)
+        missing += m
+        thin += n
+        if m or n:
+            worst.append((m * 2 + n, f"{path.stem} ({m} empty, {n} thin)"))
+
     if not args.quiet:
         print(f"{len(catalogs)} catalogues, {len(docs)} docs: no structural problems")
+        if missing or thin:
+            # Reported, not enforced: see check_notes. The list is the worklist.
+            print(f"  notes backlog: {missing} row(s) with no note, "
+                  f"{thin} under 40 characters")
+            for _, label in sorted(worst, reverse=True)[:5]:
+                print(f"    {label}")
+        else:
+            print("  every row has a note")
     return 0
 
 
