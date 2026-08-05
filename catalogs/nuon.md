@@ -7,7 +7,7 @@
 | **Library size** | **8 commercial titles** |
 | **Backward compat** | Plays DVDs, being a DVD player. Not a game library. |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | **Complete.** All 8 commercial releases catalogued. |
+| **Coverage** | **Complete.** All 8 commercial releases were assessed; the 5 that debut here are listed individually. |
 
 ## ⚠ A console with no console
 

@@ -7,7 +7,7 @@
 | **Library size** | 14 released titles |
 | **Backward compat** | None. |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | **Complete.** All 14 releases catalogued. |
+| **Coverage** | **Complete.** All 14 releases were assessed; the 5 that debut here are listed individually. |
 
 ## ⚠ The console that ended in criminal convictions
 

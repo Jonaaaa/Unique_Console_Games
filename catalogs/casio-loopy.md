@@ -7,7 +7,7 @@
 | **Library size** | **10 games** |
 | **Backward compat** | None. |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | **Complete.** All 10 titles catalogued. |
+| **Coverage** | **Complete.** All 10 titles in the library were assessed; the 5 that debut here are listed individually. |
 
 ## ⚠ A console with a built-in sticker printer
 

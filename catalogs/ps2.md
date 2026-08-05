@@ -7,7 +7,7 @@
 | **Library size** | **~4 |
 | **Backward compat** | Plays PS1 discs. Early PS3 models play PS2 discs. Both are BC, **not** another platform. |
 | **Last verified** | 2026-07-29 |
-| **Coverage** | **Deliberately partial.** ~50 marquee and interesting titles verified individually out of ~4,400. No claim to completeness is made, see [Coverage gaps](#coverage-gaps). |
+| **Coverage** | **Deliberately partial.** Marquee and interesting titles verified individually, out of a library of ~4,400. No claim to completeness is made, see [Coverage gaps](#coverage-gaps). |
 
 ## ⚠ Read the coverage note before using the counts
 
