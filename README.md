@@ -11,7 +11,7 @@ debut is permanent.
 |---|---|---|---|---|
 | [Magnavox Odyssey](catalogs/magnavox-odyssey.md) | Sep 1972 – 1975 | **1** | 1 | 0 |
 | [Fairchild Channel F](catalogs/fairchild-channel-f.md) | Nov 1976 – 1983 | **6** | 6 | 0 |
-| [Atari 2600](catalogs/atari-2600.md) | Sep 1977 – 1992 | **22** | 7 | 15 |
+| [Atari 2600](catalogs/atari-2600.md) | Sep 1977 – 1992 | **25** | 10 | 15 |
 | [RCA Studio II](catalogs/rca-studio-ii.md) | Jan 1977 – 1979 | **4** | 4 | 0 |
 | [Bally Astrocade](catalogs/bally-astrocade.md) | 1978 – 1983 | **5** | 5 | 0 |
 | [Magnavox Odyssey²](catalogs/magnavox-odyssey-2.md) | 1978 – 1984 | **7** | 7 | 0 |
@@ -21,18 +21,18 @@ debut is permanent.
 | [Atari 5200](catalogs/atari-5200.md) | Nov 1982 – 1984 | **7** | 5 | 2 |
 | [ColecoVision](catalogs/colecovision.md) | Aug 1982 – 1985 | **9** | 7 | 2 |
 | [GCE Vectrex](catalogs/vectrex.md) | Nov 1982 – early 1984 | **8** | 8 | 0 |
-| [Nintendo Entertainment System / Famicom](catalogs/nes.md) | Jul 1983 (JP) – 1995 (NA) / 2003 (JP) | **61** | 26 | 34 +1 sim |
+| [Nintendo Entertainment System / Famicom](catalogs/nes.md) | Jul 1983 (JP) – 1995 (NA) / 2003 (JP) | **62** | 26 | 34 +1 sim |
 | [Sega SG-1000](catalogs/sg-1000.md) | Jul 1983 – 1985 | **10** | 9 | 1 |
 | [Atari 7800](catalogs/atari-7800.md) | Designed 1984, shelved, released May 1986 – 1992 | **11** | 7 | 4 |
 | [Sega Master System](catalogs/master-system.md) | Oct 1985 – 1996 int'l, but **manufactured in Brazil by Tectoy into the 2020s** | **30** | 22 | 8 |
 | [NEC TurboGrafx-16 / PC Engine](catalogs/turbografx-16.md) | Oct 1987 – 1994 int'l / 1999 JP | **29** | 9 | 20 |
-| [Sega Genesis / Mega Drive](catalogs/genesis.md) | Oct 1988 – 1997 (Brazil: into the 2020s via Tectoy) | **47** | 14 | 32 +1 sim |
+| [Sega Genesis / Mega Drive](catalogs/genesis.md) | Oct 1988 – 1997 (Brazil: into the 2020s via Tectoy) | **48** | 14 | 32 +1 sim |
 | [Atari Lynx](catalogs/atari-lynx.md) | Sep 1989 – 1995 | **15** | 10 | 5 |
-| [Nintendo Game Boy](catalogs/game-boy.md) | Apr 1989 (JP) – 2003 | **34** | 11 | 22 +1 sim |
+| [Nintendo Game Boy](catalogs/game-boy.md) | Apr 1989 (JP) – 2003 | **37** | 11 | 22 +1 sim |
 | [Amstrad GX4000](catalogs/amstrad-gx4000.md) | Sep 1990 – 1991 | **3** | 3 | 0 |
 | [Sega Game Gear](catalogs/game-gear.md) | Oct 1990 – 1997 | **31** | 19 | 11 +1 sim |
 | [SNK Neo Geo](catalogs/neo-geo.md) | Apr 1990 – 2004 (final AES release) | **23** | 5 | 18 |
-| [Super Nintendo / Super Famicom](catalogs/snes.md) | Nov 1990 (JP) – 1999 (NA) / 2003 (JP) | **57** | 16 | 40 +1 sim |
+| [Super Nintendo / Super Famicom](catalogs/snes.md) | Nov 1990 (JP) – 1999 (NA) / 2003 (JP) | **61** | 16 | 40 +1 sim |
 | [Philips CD-i](catalogs/cd-i.md) | Oct 1991 – 1998 | **9** | 8 | 1 |
 | [Watara Supervision](catalogs/watara-supervision.md) | 1992 – 1996 | **4** | 4 | 0 |
 | [3DO Interactive Multiplayer](catalogs/3do.md) | Oct 1993 – 1996 | **16** | 10 | 6 |
@@ -41,30 +41,30 @@ debut is permanent.
 | [Sega Pico](catalogs/sega-pico.md) | Jun 1993 – 2005 (Pico) / 2005–2013 (Beena) | **8** | 8 | 0 |
 | [Bandai Playdia](catalogs/bandai-playdia.md) | Sep 1994 – 1996 | **5** | 5 | 0 |
 | [NEC PC-FX](catalogs/pc-fx.md) | Dec 1994 – 1998 | **9** | 9 | 0 |
-| [Sony PlayStation](catalogs/ps1.md) | Dec 1994 – Mar 2006 | **52** | 21 | 31 |
+| [Sony PlayStation](catalogs/ps1.md) | Dec 1994 – Mar 2006 | **53** | 22 | 31 |
 | [Sega Saturn](catalogs/saturn.md) | Nov 1994 – 2000 (Japan) | **36** | 23 | 13 |
 | [Casio Loopy](catalogs/casio-loopy.md) | Oct 1995 – 1998 | **5** | 5 | 0 |
 | [Nintendo Virtual Boy](catalogs/virtual-boy.md) | Jul 1995 (JP) – Mar 1996 | **24** | 8 | 16 |
 | [Apple Bandai Pippin](catalogs/apple-pippin.md) | Mar 1996 – 1997 | **5** | 5 | 0 |
-| [Nintendo 64](catalogs/n64.md) | Jun 1996 (JP) – 2002 | **61** | 23 | 38 |
+| [Nintendo 64](catalogs/n64.md) | Jun 1996 (JP) – 2002 | **62** | 23 | 38 |
 | [Tiger Game.com](catalogs/game-com.md) | Sep 1997 – 2000 | **4** | 4 | 0 |
-| [Sega Dreamcast](catalogs/dreamcast.md) | Nov 1998 – Mar 2001 (discontinued) | **37** | 17 | 20 |
+| [Sega Dreamcast](catalogs/dreamcast.md) | Nov 1998 – Mar 2001 (discontinued) | **40** | 17 | 20 |
 | [Nintendo Game Boy Color](catalogs/game-boy-color.md) | Oct 1998 – 2003 | **17** | 11 | 6 |
 | [SNK Neo Geo Pocket / Color](catalogs/neo-geo-pocket-color.md) | Oct 1998 – 2001 | **17** | 6 | 11 |
 | [Bandai WonderSwan](catalogs/wonderswan.md) | Mar 1999 – 2003 | **15** | 12 | 3 |
 | [VM Labs Nuon](catalogs/nuon.md) | 2000 – 2002 | **5** | 4 | 1 |
 | [Sony PlayStation 2](catalogs/ps2.md) | Mar 2000 – Jan 2013 | **67** | 28 | 33 +6 sim |
 | [Nintendo GameCube](catalogs/gamecube.md) | Sep 2001 (JP) – 2007 | **51** | 24 | 24 +3 sim |
-| [Nintendo Game Boy Advance](catalogs/gba.md) | Mar 2001 (JP) – 2010 | **41** | 19 | 22 |
+| [Nintendo Game Boy Advance](catalogs/gba.md) | Mar 2001 (JP) – 2010 | **44** | 22 | 22 |
 | [Microsoft Xbox](catalogs/xbox.md) | Nov 2001 – 2009 | **35** | 21 | 10 +4 sim |
 | [LeapFrog Leapster / Didj / LeapTV](catalogs/leapfrog.md) | 2003 – 2016 | **6** | 6 | 0 |
 | [Nokia N-Gage](catalogs/n-gage.md) | Oct 2003 – 2005 (hardware) | **8** | 8 | 0 |
-| [Nintendo DS](catalogs/nintendo-ds.md) | Nov 2004 – 2014 | **49** | 35 | 14 |
+| [Nintendo DS](catalogs/nintendo-ds.md) | Nov 2004 – 2014 | **52** | 37 | 14 |
 | [Sony PlayStation Portable](catalogs/psp.md) | Dec 2004 (JP) – 2014 (production ended) | **66** | 36 | 28 +2 sim |
 | [VTech V.Smile](catalogs/vtech-vsmile.md) | 2004 – 2011 | **5** | 5 | 0 |
 | [SSD Company XaviXPORT](catalogs/xavix.md) | 2004 – 2010 | **5** | 5 | 0 |
 | [Tiger Telematics Gizmondo](catalogs/gizmondo.md) | Mar 2005 – Feb 2006 | **5** | 5 | 0 |
-| [Microsoft Xbox 360](catalogs/xbox-360.md) | Nov 2005 – 2016 | **45** | 22 | 20 +3 sim |
+| [Microsoft Xbox 360](catalogs/xbox-360.md) | Nov 2005 – 2016 | **48** | 25 | 20 +3 sim |
 | [Sony PlayStation 3](catalogs/ps3.md) | Nov 2006 – 2017 | **60** | 31 | 19 +10 sim |
 | [Nintendo Wii](catalogs/wii.md) | Nov 2006 – 2013 | **51** | 37 | 14 |
 | [Nintendo 3DS](catalogs/nintendo-3ds.md) | Feb 2011 (JP) – Sep 2020 (production ended) | **145** | 124 | 14 +7 sim |
@@ -83,7 +83,7 @@ and portable games system with a commercial software library, from the Magnavox 
 (1972) to the Switch 2 (2025). See [ROSTER.md](ROSTER.md) for what is included,
 excluded and folded in, and why.
 
-**1,729 debut games. 1,015 still stranded.**
+**1,755 debut games. 1,027 still stranded.**
 
 
 **Hardware revisions are not platforms.** Game Boy Pocket/Light, GBA SP/Micro,

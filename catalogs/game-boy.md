@@ -21,9 +21,9 @@ thorough with this library, so **the `Ported` share is high**.
 
 | | Count |
 |---|---|
-| **Debut games** | **34** |
+| **Debut games** | **37** |
 | of which still `Stranded` | 11 |
-| of which since `Ported` | 22 |
+| of which since `Ported` | 25 |
 | **Contested** | 2 |
 
 **Why the Game Boy strands games.** Three causes, one of them unique to this
@@ -47,36 +47,39 @@ on a Soviet Electronika 60 in 1984, so the Game Boy pack-in is a port.
 
 | Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Notes |
 |---|---|---|---|---|---|---|---|---|---|---|
-| Super Mario Land | 1989 | Nintendo R&D1 | Nintendo | Platformer | 1 | No | Ported | 3DS Virtual Console, NSO | | Launch title. Gunpei Yokoi's team working without Miyamoto. |
-| Amazing Penguin | 1990 | Natsume | Natsume | Puzzle | 1 | No | **Stranded** | | | A minor Natsume puzzle title with no series behind it to justify a revival. |
-| Balloon Kid | 1990 | Nintendo R&D1 | Nintendo | Platformer | 1 | No | Ported | 3DS Virtual Console, NSO | | A sequel to NES *Balloon Fight*; never released in Japan on GB. |
+| Final Fantasy Legend | 1989 | Square | Square | RPG | 1 | No | Ported | WonderSwan Color (2002), Nintendo DS (2008), Mobile, *Collection of SaGa* (2020) |  | The first `SaGa` game, sold in the West under the `Final Fantasy` name to trade on it. Square Enix has reissued the trilogy repeatedly under its real name. |
+| Super Mario Land | 1989 | Nintendo R&D1 | Nintendo | Platformer | 1 | No | Ported | 3DS Virtual Console, NSO |  | Launch title. Gunpei Yokoi's team working without Miyamoto. |
+| Amazing Penguin | 1990 | Natsume | Natsume | Puzzle | 1 | No | **Stranded** |  |  | A minor Natsume puzzle title with no series behind it to justify a revival. |
+| Balloon Kid | 1990 | Nintendo R&D1 | Nintendo | Platformer | 1 | No | Ported | 3DS Virtual Console, NSO |  | A sequel to NES *Balloon Fight*; never released in Japan on GB. |
 | Batman: The Video Game | 1990 | Sunsoft | Sunsoft | Action-platformer | 1 | No | **Stranded** |  |  | DC licence, as with its NES namesake. A handheld action platformer, held by the same DC licence as its NES counterpart. |
 | Days of Thunder | 1990 | Argonaut | Mindscape | Racing | 1 | No | **Stranded** |  |  | Film licence. A racing tie-in to the film, and the licence is the obstacle. |
 | Dr. Mario | 1990 | Nintendo R&D1 | Nintendo | Puzzle | 1–2 | No | Sim-ship | NES (1990, same day); 3DS Virtual Console, NSO |  | Also catalogued under [NES](nes.md). A pill-matching puzzle game, launched the same day on NES. |
-| Gargoyle's Quest | 1990 | Capcom | Capcom | Action RPG / adventure | 1 | No | Ported | 3DS Virtual Console | | A *Ghosts 'n Goblins* spin-off that plays nothing like it. |
-| Rolan's Curse | 1990 | Vic Tokai | Vic Tokai | Action RPG | 1–2 | No | **Stranded** | | | Vic Tokai left game publishing entirely; its catalogue has been dormant for two decades. |
+| Final Fantasy Legend II | 1990 | Square | Square | RPG | 1 | No | Ported | Nintendo DS (2009), Mobile, *Collection of SaGa* (2020) |  | The second `SaGa`, and the best-selling of the three. Collected on Switch in 2020 with the other two. |
+| Gargoyle's Quest | 1990 | Capcom | Capcom | Action RPG / adventure | 1 | No | Ported | 3DS Virtual Console |  | A *Ghosts 'n Goblins* spin-off that plays nothing like it. |
+| Rolan's Curse | 1990 | Vic Tokai | Vic Tokai | Action RPG | 1–2 | No | **Stranded** |  |  | Vic Tokai left game publishing entirely; its catalogue has been dormant for two decades. |
 | The Real Ghostbusters | 1990 | Activision | Activision | Action | 1 | No | **Stranded** |  |  | Film licence. A film tie-in, and the licence is why it stayed. |
-| Cave Noire | 1991 | Konami | Konami | Roguelike | 1 | No | **Stranded** | | Japanese | Japan-only. Konami has never reissued it. |
-| Final Fantasy Adventure | 1991 | Square | Square | Action RPG | 1 | No | Ported | *Collection of Mana*, Switch/Mobile (2016, *Adventures of Mana* remake) | | The first Mana game. PAL: *Mystic Quest*. |
+| Cave Noire | 1991 | Konami | Konami | Roguelike | 1 | No | **Stranded** |  | Japanese | Japan-only. Konami has never reissued it. |
+| Final Fantasy Adventure | 1991 | Square | Square | Action RPG | 1 | No | Ported | *Collection of Mana*, Switch/Mobile (2016, *Adventures of Mana* remake) |  | The first Mana game. PAL: *Mystic Quest*. |
+| Final Fantasy Legend III | 1991 | Square | Square | RPG | 1 | No | Ported | Nintendo DS (2011), Mobile, *Collection of SaGa* (2020) |  | The third and most conventional of the trilogy, with a time-travel structure. Part of the same collection. |
 | Kid Icarus: Of Myths and Monsters | 1991 | Nintendo R&D1 | Nintendo | Platformer | 1 | No | Ported | 3DS Virtual Console, NSO |  | A handheld sequel released everywhere except Japan, and gentler than the NES original. Reached the Nintendo 3DS Virtual Console before it closed. |
-| Metroid II: Return of Samus | 1991 | Nintendo R&D1 | Nintendo | Action-adventure | 1 | No | Ported | 3DS Virtual Console, NSO | | Remade twice, officially as *Samus Returns* (3DS) and unofficially as *AM2R*. |
-| Bionic Commando | 1992 | Minakuchi | Capcom | Action-platformer | 1 | No | **Stranded** | | | A separate design from the NES and arcade games; omitted from Capcom's collections. |
+| Metroid II: Return of Samus | 1991 | Nintendo R&D1 | Nintendo | Action-adventure | 1 | No | Ported | 3DS Virtual Console, NSO |  | Remade twice, officially as *Samus Returns* (3DS) and unofficially as *AM2R*. |
+| Bionic Commando | 1992 | Minakuchi | Capcom | Action-platformer | 1 | No | **Stranded** |  |  | A separate design from the NES and arcade games; omitted from Capcom's collections. |
 | Kirby's Dream Land | 1992 | HAL Laboratory | Nintendo | Platformer | 1 | No | Ported | 3DS Virtual Console, NSO |  | The character's debut, without the copy ability that came later. First-party, so it has been reissued repeatedly. |
-| Star Wars | 1992 | NMS Software | Capcom | Action-platformer | 1 | No | **Stranded** | | | Lucasfilm licence; absent from every Star Wars collection. |
+| Star Wars | 1992 | NMS Software | Capcom | Action-platformer | 1 | No | **Stranded** |  |  | Lucasfilm licence; absent from every Star Wars collection. |
 | Super Mario Land 2: 6 Golden Coins | 1992 | Nintendo R&D1 | Nintendo | Platformer | 1 | No | Ported | 3DS Virtual Console, NSO |  | A larger, stranger sequel with a world map, and the game that introduced Wario. Nintendo-owned. |
-| Trip World | 1992 | Sunsoft | Sunsoft | Platformer | 1 | No | Ported | Switch, PS4, PC (2022, *Trip World DX*) | | Japan/PAL-only originally; escaped because Sunsoft owns it outright. |
-| Kid Dracula | 1993 | Konami | Konami | Platformer | 1 | No | Ported | *Castlevania Anniversary Collection* (2019) | | The GB game is a different build from the Famicom original. |
+| Trip World | 1992 | Sunsoft | Sunsoft | Platformer | 1 | No | Ported | Switch, PS4, PC (2022, *Trip World DX*) |  | Japan/PAL-only originally; escaped because Sunsoft owns it outright. |
+| Kid Dracula | 1993 | Konami | Konami | Platformer | 1 | No | Ported | *Castlevania Anniversary Collection* (2019) |  | The GB game is a different build from the Famicom original. |
 | The Legend of Zelda: Link's Awakening | 1993 | Nintendo EAD | Nintendo | Action-adventure | 1 | No | Ported | 3DS Virtual Console, Switch (2019 remake), NSO |  | A self-contained entry made largely as a side project, and the series' oddest tonally. Fully remade for Switch in 2019. |
-| Donkey Kong | 1994 | Nintendo R&D1 | Nintendo | Puzzle-platformer | 1 | No | Ported | 3DS Virtual Console, NSO | | ⚠ [Contested](#contested): opens with the 1981 arcade game's four stages, then continues into 97 original ones. |
-| Mega Man V | 1994 | Minakuchi | Capcom | Action-platformer | 1 | No | Ported | 3DS Virtual Console | | The best-regarded of the five GB Mega Man games; entirely original robot masters. |
+| Donkey Kong | 1994 | Nintendo R&D1 | Nintendo | Puzzle-platformer | 1 | No | Ported | 3DS Virtual Console, NSO |  | ⚠ [Contested](#contested): opens with the 1981 arcade game's four stages, then continues into 97 original ones. |
+| Mega Man V | 1994 | Minakuchi | Capcom | Action-platformer | 1 | No | Ported | 3DS Virtual Console |  | The best-regarded of the five GB Mega Man games; entirely original robot masters. |
 | Wario Land: Super Mario Land 3 | 1994 | Nintendo R&D1 | Nintendo | Platformer | 1 | No | Ported | 3DS Virtual Console, NSO |  | The spin-off that made Wario a protagonist, built on power-ups rather than jumping. First-party. |
 | Kirby's Dream Land 2 | 1995 | HAL Laboratory | Nintendo | Platformer | 1 | No | Ported | 3DS Virtual Console, NSO |  | Adds animal companions that change how each copied ability works. Nintendo-owned. |
-| Mole Mania | 1996 | Nintendo R&D2 | Nintendo | Puzzle | 1 | No | Ported | 3DS Virtual Console | | A Miyamoto-produced puzzler that almost nobody played. |
-| Pokémon Red and Blue | 1996 | Game Freak | Nintendo | RPG | 1–2 | No | Ported | 3DS Virtual Console (2016) | | Link Cable trading was required to complete the Pokédex: the Virtual Console release emulated it, but the original cable experience is gone. |
-| Harvest Moon GB | 1997 | Victor Interactive | Natsume | Farming sim | 1 | No | **Stranded** | | | The same Harvest Moon / Story of Seasons rights split that strands the GBC sequel. |
-| Pocket Bomberman | 1997 | Hudson Soft | Hudson Soft | Action | 1 | No | **Stranded** | | | Konami absorbed Hudson in 2012; none of the handheld Bomberman games have been collected. |
+| Mole Mania | 1996 | Nintendo R&D2 | Nintendo | Puzzle | 1 | No | Ported | 3DS Virtual Console |  | A Miyamoto-produced puzzler that almost nobody played. |
+| Pokémon Red and Blue | 1996 | Game Freak | Nintendo | RPG | 1–2 | No | Ported | 3DS Virtual Console (2016) |  | Link Cable trading was required to complete the Pokédex: the Virtual Console release emulated it, but the original cable experience is gone. |
+| Harvest Moon GB | 1997 | Victor Interactive | Natsume | Farming sim | 1 | No | **Stranded** |  |  | The same Harvest Moon / Story of Seasons rights split that strands the GBC sequel. |
+| Pocket Bomberman | 1997 | Hudson Soft | Hudson Soft | Action | 1 | No | **Stranded** |  |  | Konami absorbed Hudson in 2012; none of the handheld Bomberman games have been collected. |
 | Dragon Quest Monsters: Terry's Wonderland | 1998 | Tose | Enix | RPG | 1–2 | No | Ported | 3DS (2012 remake), Switch (2023) |  | A monster-collecting spin-off predating most of the genre. Remade for Nintendo 3DS in 2012. |
-| Game Boy Camera | 1998 | Nintendo R&D1 | Nintendo | Camera / toy | 1 | No | **Stranded** | | | The cartridge *is* a camera, with a hidden shooter minigame and a music sequencer. Physically impossible to re-release meaningfully. Held a Guinness record as the world's smallest digital camera. |
+| Game Boy Camera | 1998 | Nintendo R&D1 | Nintendo | Camera / toy | 1 | No | **Stranded** |  |  | The cartridge *is* a camera, with a hidden shooter minigame and a music sequencer. Physically impossible to re-release meaningfully. Held a Guinness record as the world's smallest digital camera. |
 | Pokémon Trading Card Game | 1998 | Hudson Soft | Nintendo | Card battler | 1–2 | No | Ported | 3DS Virtual Console, NSO |  | A video game of the card game, with its own campaign. Reached the Nintendo 3DS Virtual Console. |
 | Pokémon Yellow | 1998 | Game Freak | Nintendo | RPG | 1–2 | No | Ported | 3DS Virtual Console (2016) |  | A revision of the first generation following the anime, with Pikachu as a following partner. Sold on the Nintendo 3DS eShop until it closed. |
 | Wario Land II | 1998 | Nintendo R&D1 | Nintendo | Platformer | 1 | No | Ported | 3DS Virtual Console, NSO |  | Wario cannot die, so the puzzles are built on being harmed in useful ways. Released for both Game Boy and Game Boy Color. |
@@ -95,7 +98,6 @@ on a Soviet Electronika 60 in 1984, so the Game Boy pack-in is a port.
 | Tetris | 1989 | The game debuted on an Electronika 60 in 1984 and on PC before that. The Game Boy pack-in (the best-selling Game Boy game ever at 35M) is a port. |
 | Super Mario Bros. Deluxe | 1999 | Enhanced port of the 1985 NES game. |
 | Donkey Kong Land series | 1995–97 | Original games, and they **qualify**; listed here only because they are often mistaken for ports of the SNES *Country* trilogy. |
-| Final Fantasy Legend I–III | 1989–91 | Qualify; these are the *SaGa* games, not ports of *Final Fantasy*. Listed here because the naming misleads. |
 | Any 3DS Virtual Console / NSO / collection release | | Re-releases by definition. |
 | *(games with an earlier arcade release)* | | **No longer excluded.** Arcades are out of scope (a cabinet is not a collectable home device) so the first *home* release counts as the debut. A prior release on another **home** console still disqualifies. |
 
