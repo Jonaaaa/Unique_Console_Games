@@ -39,7 +39,8 @@ not license its software to competing hardware. Every entry below is stranded fo
 that reason alone, and none has any other obstacle.
 
 One new wrinkle is worth recording early. The Switch 2 Joy-Con work as **optical
-mice**, and `Drag x Drive` is built entirely around that whose stranding cause exists from day one on current hardware.
+mice**, and `Drag x Drive` is built entirely around that. Its stranding cause
+exists from day one, on hardware that is still current.
 
 ---
 

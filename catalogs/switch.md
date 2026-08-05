@@ -42,7 +42,8 @@ obstacle, no dead studio, no lost source code.
 Two narrower causes do real work, though:
 
 1. **Peripherals, again.** `Ring Fit Adventure` needs the Ring-Con. `Nintendo Labo`
- needs cardboard kits Nintendo no longer manufactures to a game that becomes unobtainable while the console is still on sale.
+ needs cardboard kits Nintendo no longer manufactures, which turns a first-party
+ release into a game that becomes unobtainable while the console is still on sale.
 2. **Online-only and service titles.** Several Switch games have already been shut
  down mid-generation.
 

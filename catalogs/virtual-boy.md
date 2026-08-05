@@ -25,9 +25,10 @@ So this platform went from ~100% stranded to two-thirds `Ported` in six months, 
 the process is still running. Eight are still stranded, among them the two rarest
 Japanese carts, `SD Gundam Dimension War` and `Virtual Lab`.
 
-The two **never-released** games shipped on **4 Aug 2026**, thirty years after they
-were built, which is the first time this catalogue has recorded a debut and a port
-in the same breath. See [Contested](#contested).
+Two of the three **never-released** games shipped on **4 Aug 2026**, thirty years
+after they were built, which is the first time this catalogue has recorded a debut
+and a port in the same breath. `Bound High!` is the third and is still waiting.
+See [Contested](#contested).
 
 ## Summary
 
@@ -42,11 +43,13 @@ in the same breath. See [Contested](#contested).
 **hardware**: a parallax stereoscopic display with two independent 384×224 red LED
 arrays. No screen since has reproduced it, and every emulator has had to fake it
 with anaglyph glasses or side-by-side views. Nintendo's 2026 solution was to ship a
-**cardboard viewer** (the same trick as Nintendo Labo) the rare case of a company solving a stranded-hardware problem by manufacturing the missing hardware again.
+**cardboard viewer**, the same trick as Nintendo Labo: the rare case of a company
+solving a stranded-hardware problem by manufacturing the missing hardware again.
 
 What remains stranded is now stranded for the ordinary reasons: **licences**
 (`Waterworld`'s film rights, `SD Gundam Dimension War`'s Bandai rights) and
-**obscurity** (Japan-only titles with tiny print runs).
+**obscurity** (Japan-only titles with tiny print runs). `Bound High!` is the
+exception, and is stranded only because it was never released at all.
 
 ---
 
