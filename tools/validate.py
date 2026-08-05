@@ -71,6 +71,13 @@ def check_file(path: Path) -> list[str]:
             stripped = line.rstrip()
             if not stripped.endswith("|"):
                 problems.append(f"{rel}:{i}: paragraph glued to a table row")
+        # Two header rows on one line. This renders as one row with spare cells
+        # rather than as two, so the second field is present in the file and
+        # missing from the page, and any tooling that reads the header by line
+        # cannot see it at all. Found once in game-boy.md, where it hid the
+        # backward-compatibility note for months.
+        if re.match(r"\|\s*\*\*[^*]+\*\*\s*\|.*\|\s*\|\s*\*\*[^*]+\*\*\s*\|", line):
+            problems.append(f"{rel}:{i}: two header rows glued onto one line")
 
     # --- the debut table --------------------------------------------------
     starts = [i for i, ln in enumerate(lines) if ln.startswith(DEBUT_HEADER)]

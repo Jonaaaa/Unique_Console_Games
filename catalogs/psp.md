@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| **Platform** | Sony PlayStation Portable (PSP-1000 → PSP-E1000, PSP Go) |
+| **Platform** | PlayStation Portable (2004): PSP-1000 → PSP-E1000, PSP Go |
 | **Lifespan** | Dec 2004 (JP) – 2014 (production ended); ~80M units sold |
 | **Store status** | **Closed.** PSP storefront shut 2016; PSP purchases via PS3/Vita ended 2021. |
 | **Backward compat** | PSP titles run on PS Vita and PS TV. That is BC, **not** another platform, see the [BC rule](../RULES.md#backward-compatibility-is-not-another-platform). |

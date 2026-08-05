@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| **Platform** | Sony PlayStation Vita (PCH-1000 / PCH-2000) |
+| **Platform** | PlayStation Vita (2011): PCH-1000, PCH-2000 |
 | **Lifespan** | Dec 2011 (JP) – Mar 2019 (production ended); ~16M units sold |
 | **Store status** | **Open.** Sony announced closure in Mar 2021 and reversed the decision six weeks later. |
 | **Backward compat** | Plays PSP, PS1 and PS Minis digitally; PlayStation TV plays most Vita games. Neither counts as another platform, see the [BC rule](../RULES.md#backward-compatibility-is-not-another-platform). |

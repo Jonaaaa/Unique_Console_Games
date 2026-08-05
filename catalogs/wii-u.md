@@ -7,6 +7,7 @@
 | **eShop closed** | 27 Mar 2023 |
 | **Online services ended** | 8 Apr 2024 |
 | **Library size** | 792 releases total (Wikipedia list, parsed 2026-07-29) |
+| **Backward compat** | Plays Wii discs and Wii download software in Wii Mode. That is BC, **not** another platform. |
 | **Last verified** | 2026-07-29 |
 | **Coverage** | Retail and notable eShop titles individually verified. The ~150-title micro-publisher tail is covered by publisher block in the [Appendix](#appendix-the-eshop-long-tail), not individually verified. |
 

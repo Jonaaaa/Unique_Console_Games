@@ -6,7 +6,8 @@
 | **Hardware revisions** | **Game Boy Pocket** (1996) and **Game Boy Light** (1998, Japan) are form-factor revisions that play the identical cartridge library; neither has a single exclusive game, so neither gets its own catalogue. |
 | **Lifespan** | Apr 1989 (JP) – 2003; 118.69M units sold (GB + GBC combined) |
 | **See also** | [Game Boy Color](game-boy-color.md) for the ~570 GBC-exclusive "black cartridge" titles. Dual-mode games that run on both are catalogued here. |
-| **Library size** | ~1,050 Game Boy titles | | **Backward compat** | Game Boy Color and GBA play GB cartridges. That is BC, **not** another platform. |
+| **Library size** | ~1,050 Game Boy titles |
+| **Backward compat** | Game Boy Color and GBA play GB cartridges. That is BC, **not** another platform. |
 | **Last verified** | 2026-07-29 |
 | **Coverage** | Marquee and historically significant titles verified individually. The licensed tie-in tail is summarised, not enumerated. |
 
