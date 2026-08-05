@@ -54,22 +54,22 @@ What is left splits three ways:
 | Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Notes |
 |---|---|---|---|---|---|---|---|---|---|---|
 | Animal Crossing | 2001 | Nintendo EAD | Nintendo | Life sim | 1–4 | No | **Stranded** | | | The series' Western debut. Later entries are sequels, not ports, so the GameCube original remains the only way to play it, including its hidden library of emulated NES games. |
-| Luigi's Mansion | 2001 | Nintendo EAD | Nintendo | Action-adventure | 1 | No | Ported | 3DS (2018), Switch 2 (2025, Nintendo Classics) | | Launch title. |
-| Pikmin | 2001 | Nintendo EAD | Nintendo | RTS | 1 | No | Ported | Wii (2009, *New Play Control*), Switch (2020) | | |
+| Luigi's Mansion | 2001 | Nintendo EAD | Nintendo | Action-adventure | 1 | No | Ported | 3DS (2018), Switch 2 (2025, Nintendo Classics) |  | Launch title. A ghost-hunting adventure sold as a launch title in place of a Mario game. |
+| Pikmin | 2001 | Nintendo EAD | Nintendo | RTS | 1 | No | Ported | Wii (2009, *New Play Control*), Switch (2020) |  | A real-time strategy game about commanding plant creatures against a countdown, and unlike anything Nintendo had made. Reissued on Wii and again on Switch. |
 | Star Wars Rogue Squadron II: Rogue Leader | 2001 | Factor 5 | LucasArts | Action | 1 | No | **Stranded** | | | Launch title and the GameCube's technical showpiece. Factor 5 folded in 2009. |
 | Super Monkey Ball | 2001 | Amusement Vision | Sega | Platformer | 1–4 | No | Ported | *Banana Mania* (2021, multiplatform) | | ⚠ [Contested](#contested), derived from the *Monkey Ball* arcade cabinet of the same year. |
 | Super Smash Bros. Melee | 2001 | HAL Laboratory | Nintendo | Fighting | 1–4 | No | **Stranded** | | | **A conspicuous omission.** No licensing obstacle and enormous ongoing demand (a competitive scene has sustained it for 25 years) yet Nintendo has never re-released it and has repeatedly acted against community tournaments and netplay tools. |
 | Wave Race: Blue Storm | 2001 | NST | Nintendo | Racing | 1–2 | No | **Stranded** | | | Launch title. The series has been dormant since. |
 | Cubivore: Survival of the Fittest | 2002 | Saru Brunei / Intelligent Systems | Atlus | Action | 1–4 | No | **Stranded** | | | Tiny North American print run via Atlus. |
 | Eternal Darkness: Sanity's Requiem | 2002 | Silicon Knights | Nintendo | Survival horror | 1 | No | **Stranded** | | | Nintendo owns it outright, yet it has never been reissued. Its "sanity effects" patent expired in 2021; Silicon Knights collapsed after losing a countersuit to Epic in 2012. |
-| Metroid Prime | 2002 | Retro Studios | Nintendo | Action-adventure | 1 | No | Ported | Wii (2009), Switch (2023, *Remastered*) | | |
-| Resident Evil Zero | 2002 | Capcom | Capcom | Survival horror | 1 | No | Ported | Wii, PS3/PS4, Xbox 360/One, PC, Switch (2016, *HD Remaster*) | | |
-| Sonic Mega Collection | 2002 | Sonic Team | Sega | Compilation | 1–2 | No | Ported | PS2, Xbox, PC (2004, *Plus*) | | |
+| Metroid Prime | 2002 | Retro Studios | Nintendo | Action-adventure | 1 | No | Ported | Wii (2009), Switch (2023, *Remastered*) |  | The series in first person without becoming a shooter, built by a studio Nintendo had just bought. Remastered for Switch in 2023. |
+| Resident Evil Zero | 2002 | Capcom | Capcom | Survival horror | 1 | No | Ported | Wii, PS3/PS4, Xbox 360/One, PC, Switch (2016, *HD Remaster*) |  | A prequel with two characters swapped at will and no item boxes. Capcom remastered it alongside the first game's remake. |
+| Sonic Mega Collection | 2002 | Sonic Team | Sega | Compilation | 1–2 | No | Ported | PS2, Xbox, PC (2004, *Plus*) |  | A compilation of Genesis games, which is why it moved to every other platform within two years. |
 | Star Fox Adventures | 2002 | Rare | Nintendo | Action-adventure | 1 | No | **Stranded** | | | Rare's last Nintendo game, released weeks before Microsoft bought the studio. Nintendo owns Star Fox; Microsoft owns Rare. Neither can reissue it alone. |
-| Super Mario Sunshine | 2002 | Nintendo EAD | Nintendo | Platformer | 1 | No | Ported | Switch (2020, *3D All-Stars*), Switch 2 (announced) | | |
+| Super Mario Sunshine | 2002 | Nintendo EAD | Nintendo | Platformer | 1 | No | Ported | Switch (2020, *3D All-Stars*), Switch 2 (announced) |  | A tropical `Mario 64` sequel built around a water cannon, and divisive for it. Reached Switch only inside a limited-run collection. |
 | The Legend of Zelda: The Wind Waker | 2002 | Nintendo EAD | Nintendo | Action-adventure | 1 | No | Ported | Wii U (2013, *HD*), Switch 2 (2025, Nintendo Classics) | | The Switch 2 release is the **GameCube original**, not the Wii U remaster, which remains stranded on Wii U. |
-| Baten Kaitos: Eternal Wings and the Lost Ocean | 2003 | Monolith Soft / tri-Crescendo | Namco | RPG | 1 | No | Ported | Switch, PS4/PS5, Xbox, PC (2023, *HD Remaster*) | | |
-| Beyond Good & Evil | 2003 | Ubisoft Montpellier | Ubisoft | Action-adventure | 1 | No | Sim-ship | PS2, Xbox, PC (2003, same day), HD versions (2011) | | |
+| Baten Kaitos: Eternal Wings and the Lost Ocean | 2003 | Monolith Soft / tri-Crescendo | Namco | RPG | 1 | No | Ported | Switch, PS4/PS5, Xbox, PC (2023, *HD Remaster*) |  | A role-playing game where combat is played with a deck of cards. Remastered with its prequel in 2023, twenty years on. |
+| Beyond Good & Evil | 2003 | Ubisoft Montpellier | Ubisoft | Action-adventure | 1 | No | Sim-ship | PS2, Xbox, PC (2003, same day), HD versions (2011) |  | An adventure game about a photojournalist exposing a conspiracy, launched the same day across four platforms and sold badly on all of them. |
 | Billy Hatcher and the Giant Egg | 2003 | Sonic Team | Sega | Platformer | 1–4 | No | **Stranded** | | | No console release. PC version exists (PC (2006)) but PC is not a catalogued platform. |
 | Donkey Konga | 2003 | Namco | Nintendo | Rhythm | 1–4 | No | **Stranded** | | | Requires the DK Bongos peripheral and carries a licensed tracklist, two independent blockers. |
 | Final Fantasy Crystal Chronicles | 2003 | Square Enix / Game Designers Studio | Nintendo | Action RPG | 1–4 | No | Ported | Switch, PS4, Mobile (2020, *Remastered*) | | Original multiplayer required a GBA per player; the remaster replaced it with online. |
@@ -80,28 +80,28 @@ What is left splits three ways:
 | Mario Golf: Toadstool Tour | 2003 | Camelot | Nintendo | Sports | 1–4 | No | **Stranded** | | | Camelot's Mario sports games have never been collected, and the GameCube entries have no re-release vehicle. |
 | Mario Kart: Double Dash!! | 2003 | Nintendo EAD | Nintendo | Racing | 1–8 | No | **Stranded** | | | The only mainline Mario Kart never re-released. Its two-riders-per-kart design has never been revisited. |
 | P.N.03 | 2003 | Capcom Production Studio 4 | Capcom | Action | 1 | No | **Stranded** | | | Shinji Mikami's first director credit after *Resident Evil 4* pre-production. Part of the Capcom Five; the only one never reissued. |
-| Pokémon Colosseum | 2003 | Genius Sonority | Nintendo | RPG | 1–4 | No | Ported | Switch 2 (announced) | | |
+| Pokémon Colosseum | 2003 | Genius Sonority | Nintendo | RPG | 1–4 | No | Ported | Switch 2 (announced) |  | A console entry with no wild encounters: you steal Pokémon from other trainers instead. Announced for the Nintendo Classics service. |
 | Soulcalibur II | 2003 | Project Soul | Namco | Fighting | 1–2 | No | Sim-ship | PS2, Xbox (2003, same day); Switch 2 (2025, Nintendo Classics) | | The GameCube build's exclusive Link guest character is why the Switch 2 reissue matters. |
 | Star Wars Rogue Squadron III: Rebel Strike | 2003 | Factor 5 | LucasArts | Action | 1–2 | No | **Stranded** | | | Factor 5 folded in 2009, and Disney's Star Wars reissue programme has skipped the Rogue Squadron trilogy entirely. |
-| Tales of Symphonia | 2003 | Namco Tales Studio | Namco | Action RPG | 1–4 | No | Ported | PS2 (2004), PS3, PC, Switch (2016–23) | | |
+| Tales of Symphonia | 2003 | Namco Tales Studio | Namco | Action RPG | 1–4 | No | Ported | PS2 (2004), PS3, PC, Switch (2016–23) |  | The series' breakout entry in the West, with real-time party combat. Ported within a year and remastered in 2023. |
 | The Legend of Zelda: Collector's Edition | 2003 | Nintendo | Nintendo | Compilation | 1 | No | **Stranded** | | | A promotional disc given away with hardware bundles and through Nintendo's loyalty programme, never sold at retail. Contains four Zelda games plus a *Wind Waker* demo, and has never been reissued in any form. |
 | Viewtiful Joe | 2003 | Clover Studio | Capcom | Action | 1 | No | Ported | PS2 (2004) | | Part of the Capcom Five; the PS2 version arrived a year later. |
-| Wario World | 2003 | Treasure | Nintendo | Platformer | 1 | No | Ported | Switch 2 (2025, Nintendo Classics) | | |
+| Wario World | 2003 | Treasure | Nintendo | Platformer | 1 | No | Ported | Switch 2 (2025, Nintendo Classics) |  | A short, heavy beat 'em up platformer by Treasure. Reached the Nintendo Classics service in 2025. |
 | Custom Robo | 2004 | Noise | Nintendo | Fighting | 1–4 | No | **Stranded** | | | The series ended with this and its DS follow-up; Nintendo has not touched the IP since 2007. |
 | Donkey Kong Jungle Beat | 2004 | Nintendo EAD | Nintendo | Platformer | 1 | No | Ported | Wii (2008, *New Play Control*) | | The Wii version replaced the bongo controls. |
-| Mario Power Tennis | 2004 | Camelot | Nintendo | Sports | 1–4 | No | Ported | Wii (2009, *New Play Control*) | | |
-| Metroid Prime 2: Echoes | 2004 | Retro Studios | Nintendo | Action-adventure | 1–4 | No | Ported | Wii (2009, *Metroid Prime Trilogy*) | | |
-| Paper Mario: The Thousand-Year Door | 2004 | Intelligent Systems | Nintendo | RPG | 1 | No | Ported | Switch (2024, full remake) | | |
+| Mario Power Tennis | 2004 | Camelot | Nintendo | Sports | 1–4 | No | Ported | Wii (2009, *New Play Control*) |  | Camelot's tennis game with court gimmicks and special shots. Reissued on Wii with motion controls. |
+| Metroid Prime 2: Echoes | 2004 | Retro Studios | Nintendo | Action-adventure | 1–4 | No | Ported | Wii (2009, *Metroid Prime Trilogy*) |  | A darker sequel built on swapping between mirrored light and dark worlds. Collected on Wii, and not yet remastered. |
+| Paper Mario: The Thousand-Year Door | 2004 | Intelligent Systems | Nintendo | RPG | 1 | No | Ported | Switch (2024, full remake) |  | Widely held to be the best entry in its series, with timed-input combat and a theatre framing. Fully remade for Switch in 2024. |
 | The Legend of Zelda: Four Swords Adventures | 2004 | Nintendo EAD | Nintendo | Action-adventure | 1–4 | No | **Stranded** | | | Full multiplayer needs four GBAs and four link cables, the most hardware-dependent setup Nintendo ever shipped. |
 | Battalion Wars | 2005 | Kuju | Nintendo | RTS | 1 | No | **Stranded** | | | The Advance Wars series in 3D; both it and its Wii sequel are stranded. |
-| Chibi-Robo! | 2005 | Skip Ltd. | Nintendo | Adventure | 1 | No | Ported | Switch 2 (2026, Nintendo Classics) | | |
+| Chibi-Robo! | 2005 | Skip Ltd. | Nintendo | Adventure | 1 | No | Ported | Switch 2 (2026, Nintendo Classics) |  | A tiny robot cleans a house and solves its family's problems, on a constant battery timer. Reached the Nintendo Classics service in 2026. |
 | Fire Emblem: Path of Radiance | 2005 | Intelligent Systems | Nintendo | Tactical RPG | 1 | No | Ported | Switch 2 (2026, Nintendo Classics) | | Was stranded for 21 years and commanded high cart prices until the 2026 reissue. |
-| Geist | 2005 | n-Space | Nintendo | FPS | 1–4 | No | **Stranded** | | | A rare Nintendo-published M-rated FPS. |
-| Killer7 | 2005 | Grasshopper Manufacture | Capcom | Action-adventure | 1 | No | Sim-ship | PS2 (2005, same day), PC (2018) | | |
-| Pokémon XD: Gale of Darkness | 2005 | Genius Sonority | Nintendo | RPG | 1 | No | Ported | Switch 2 (2026, Nintendo Classics) | | |
-| Resident Evil 4 | 2005 | Capcom Production Studio 4 | Capcom | Survival horror | 1 | No | Ported | Almost every platform since; full remake (2023) | | The most-ported game here. |
+| Geist | 2005 | n-Space | Nintendo | FPS | 1–4 | No | **Stranded** |  |  | A rare Nintendo-published M-rated FPS. A first-person shooter where the player possesses enemies and objects, and a rare Nintendo-published shooter that nobody has revisited. |
+| Killer7 | 2005 | Grasshopper Manufacture | Capcom | Action-adventure | 1 | No | Sim-ship | PS2 (2005, same day), PC (2018) |  | An on-rails action game with a deliberately alienating control scheme, and Suda51's breakthrough. Launched the same day on PS2. |
+| Pokémon XD: Gale of Darkness | 2005 | Genius Sonority | Nintendo | RPG | 1 | No | Ported | Switch 2 (2026, Nintendo Classics) |  | The sequel to `Colosseum`, with the same stealing premise and a longer campaign. Announced for Nintendo Classics. |
+| Resident Evil 4 | 2005 | Capcom Production Studio 4 | Capcom | Survival horror | 1 | No | Ported | Almost every platform since; full remake (2023) |  | The most-ported game here. The over-the-shoulder camera that reshaped action games, and the most-ported game in this catalogue. |
 | Star Fox: Assault | 2005 | Namco | Nintendo | Action | 1–4 | No | **Stranded** | | | Namco-developed but Nintendo-owned; a split that has kept every console Star Fox after 64 stranded. |
-| Super Mario Strikers | 2005 | Next Level Games | Nintendo | Sports | 1–4 | No | **Stranded** | | | PAL: *Mario Smash Football*. |
+| Super Mario Strikers | 2005 | Next Level Games | Nintendo | Sports | 1–4 | No | **Stranded** |  |  | PAL: *Mario Smash Football*. A deliberately violent football game with no fouls; Nintendo has never reissued it. |
 | Baten Kaitos Origins | 2006 | Monolith Soft / tri-Crescendo | Nintendo | RPG | 1 | No | Ported | Switch, PS4/PS5, Xbox, PC (2023, *HD Remaster*) | | Never released in PAL territories originally. |
 | Odama | 2006 | Vivarium | Nintendo | Pinball / strategy | 1 | No | **Stranded** | | | Shipped with a microphone for voice commands to troops. |
 

@@ -43,47 +43,47 @@ without a Western release of any kind.
 
 | Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Notes |
 |---|---|---|---|---|---|---|---|---|---|---|
-| Advance Wars | 2001 | Intelligent Systems | Nintendo | Turn-based strategy | 1–4 | No | Ported | Wii U Virtual Console; Switch (2023, *Re-Boot Camp* remake) | | Delayed in Japan for years after 9/11. |
-| Car Battler Joe | 2001 | Ancient | Natsume | Action RPG | 1–2 | No | **Stranded** | | | Yuzo Koshiro's studio. |
-| Castlevania: Circle of the Moon | 2001 | KCEK | Konami | Action-adventure | 1 | No | Ported | *Castlevania Advance Collection* (2021) | | Launch title. |
-| Golden Sun | 2001 | Camelot | Nintendo | RPG | 1–2 | No | Ported | Wii U Virtual Console, NSO | | |
+| Advance Wars | 2001 | Intelligent Systems | Nintendo | Turn-based strategy | 1–4 | No | Ported | Wii U Virtual Console; Switch (2023, *Re-Boot Camp* remake) |  | Delayed in Japan for years after 9/11. Turn-based war on a grid, delayed for years in Japan for obvious reasons. |
+| Car Battler Joe | 2001 | Ancient | Natsume | Action RPG | 1–2 | No | **Stranded** |  |  | Yuzo Koshiro's studio. Part road-combat game, part role-playing game, from Yuzo Koshiro's studio Ancient. |
+| Castlevania: Circle of the Moon | 2001 | KCEK | Konami | Action-adventure | 1 | No | Ported | *Castlevania Advance Collection* (2021) |  | Launch title. The first Advance entry, a launch title with a card-combination magic system. |
+| Golden Sun | 2001 | Camelot | Nintendo | RPG | 1–2 | No | Ported | Wii U Virtual Console, NSO |  | A role-playing game where elemental spirits are both party members and puzzle tools. Reached Wii U Virtual Console and, later, Nintendo Classics. |
 | Klonoa: Empire of Dreams | 2001 | Namco | Namco | Platformer | 1 | No | **Stranded** | | | Omitted from the 2022 *Klonoa Phantasy Reverie Series*, which covered the PS1 and Wii games. |
-| Mario Kart: Super Circuit | 2001 | Intelligent Systems | Nintendo | Racing | 1–4 | No | Ported | Wii U Virtual Console, NSO | | Launch-window title. |
+| Mario Kart: Super Circuit | 2001 | Intelligent Systems | Nintendo | Racing | 1–4 | No | Ported | Wii U Virtual Console, NSO |  | The handheld return to the original's flat-track style, with every SNES course included. First-party. |
 | Sonic Advance | 2001 | Dimps / Sonic Team | Sega | Platformer | 1–2 | No | **Stranded** | | | Omitted from *Sonic Origins* and every Sonic collection; the whole Advance trilogy is stranded. |
-| Wario Land 4 | 2001 | Nintendo R&D1 | Nintendo | Platformer | 1 | No | Ported | Wii U Virtual Console, NSO | | |
-| Castlevania: Harmony of Dissonance | 2002 | KCEK | Konami | Action-adventure | 1 | No | Ported | *Castlevania Advance Collection* (2021) | | |
+| Wario Land 4 | 2001 | Nintendo R&D1 | Nintendo | Platformer | 1 | No | Ported | Wii U Virtual Console, NSO |  | A platformer built on transforming Wario by hurting him, with an escape timer per level. Nintendo-owned. |
+| Castlevania: Harmony of Dissonance | 2002 | KCEK | Konami | Action-adventure | 1 | No | Ported | *Castlevania Advance Collection* (2021) |  | The middle Advance entry, with a doubled castle map and a divisive sound chip. Collected by Konami. |
 | Densetsu no Stafy | 2002 | Tose | Nintendo | Platformer | 1 | No | **Stranded** | | Japanese | Japan-only; the series only reached the West on DS. |
-| Golden Sun: The Lost Age | 2002 | Camelot | Nintendo | RPG | 1–2 | No | Ported | Wii U Virtual Console, NSO | | |
+| Golden Sun: The Lost Age | 2002 | Camelot | Nintendo | RPG | 1–2 | No | Ported | Wii U Virtual Console, NSO |  | The second half of one story, playable from the other side's perspective, with save transfer from the first. Same services as its predecessor. |
 | Harry Potter and the Chamber of Secrets | 2002 | Griptonite | EA | Action-adventure | 1 | No | **Stranded** | | | Warner licence; representative of the GBA's very large licensed tail. |
-| Metroid Fusion | 2002 | Nintendo R&D1 | Nintendo | Action-adventure | 1 | No | Ported | Wii U Virtual Console, NSO | | |
-| Pokémon Ruby and Sapphire | 2002 | Game Freak | Nintendo | RPG | 1–2 | No | Ported | 3DS (2014, *Omega Ruby / Alpha Sapphire* remakes) | | |
-| Riviera: The Promised Land | 2002 | Sting | Sting / Atlus | RPG | 1 | No | Ported | PSP (2006), iOS | | |
+| Metroid Fusion | 2002 | Nintendo R&D1 | Nintendo | Action-adventure | 1 | No | Ported | Wii U Virtual Console, NSO |  | A tighter, more directed entry with a stalking enemy, running parallel to `Metroid Prime`. First-party. |
+| Pokémon Ruby and Sapphire | 2002 | Game Freak | Nintendo | RPG | 1–2 | No | Ported | 3DS (2014, *Omega Ruby / Alpha Sapphire* remakes) |  | The third generation, and the first with double battles and natures. Remade for Nintendo 3DS in 2014. |
+| Riviera: The Promised Land | 2002 | Sting | Sting / Atlus | RPG | 1 | No | Ported | PSP (2006), iOS |  | A role-playing game with no map movement: you select scenes and manage limited-use items. Ported to PSP and phones. |
 | Sonic Advance 2 | 2002 | Dimps | Sega | Platformer | 1–2 | No | **Stranded** | | | Omitted from *Sonic Origins* and every Sonic collection; all three Advance games are stranded together. |
-| The Lord of the Rings: The Two Towers | 2002 | Griptonite | EA | Action RPG | 1 | No | **Stranded** | | | Film licence. |
-| Advance Wars 2: Black Hole Rising | 2003 | Intelligent Systems | Nintendo | Turn-based strategy | 1–4 | No | Ported | Wii U Virtual Console; Switch (2023, in *Re-Boot Camp*) | | |
+| The Lord of the Rings: The Two Towers | 2002 | Griptonite | EA | Action RPG | 1 | No | **Stranded** |  |  | Film licence. A film tie-in, and the licence is the obstacle. |
+| Advance Wars 2: Black Hole Rising | 2003 | Intelligent Systems | Nintendo | Turn-based strategy | 1–4 | No | Ported | Wii U Virtual Console; Switch (2023, in *Re-Boot Camp*) |  | A direct sequel with new commanding officers and a campaign map. Remade with the first in 2023. |
 | Astro Boy: Omega Factor | 2003 | Treasure / Hitmaker | Sega | Beat 'em up | 1 | No | **Stranded** | | | Treasure at its peak, locked behind the Tezuka estate's Astro Boy licence. |
 | Boktai: The Sun Is in Your Hand | 2003 | KCEJ | Konami | Stealth action | 1 | No | **Stranded** | | | The cartridge contains a **solar sensor**. Your weapon recharges from real sunlight, and the in-game clock tracks real time. Hideo Kojima-produced. Re-releasing it would require removing the thing it is about. |
-| Castlevania: Aria of Sorrow | 2003 | KCEK | Konami | Action-adventure | 1 | No | Ported | *Castlevania Advance Collection* (2021) | | Widely rated the best GBA Castlevania. |
+| Castlevania: Aria of Sorrow | 2003 | KCEK | Konami | Action-adventure | 1 | No | Ported | *Castlevania Advance Collection* (2021) |  | Widely rated the best GBA Castlevania. Set in 2035 with a soul-stealing system, and widely rated the best game on the handheld. |
 | Final Fantasy Tactics Advance | 2003 | Square Enix | Square Enix | Tactical RPG | 1–2 | No | **Stranded** | | | Never reissued, despite the PSP *War of the Lions* and the 2025 *Ivalice Chronicles* both revisiting the PS1 game. |
-| Fire Emblem | 2003 | Intelligent Systems | Nintendo | Tactical RPG | 1–2 | No | Ported | Wii U Virtual Console, NSO | | The series' first Western release. |
-| Mario & Luigi: Superstar Saga | 2003 | AlphaDream | Nintendo | RPG | 1 | No | Ported | 3DS (2017 remake) | | AlphaDream went bankrupt in 2019. |
+| Fire Emblem | 2003 | Intelligent Systems | Nintendo | Tactical RPG | 1–2 | No | Ported | Wii U Virtual Console, NSO |  | The series' first Western release. The series' first Western release, which is why its Japanese numbering is seven. |
+| Mario & Luigi: Superstar Saga | 2003 | AlphaDream | Nintendo | RPG | 1 | No | Ported | 3DS (2017 remake) |  | AlphaDream went bankrupt in 2019. A role-playing game with timed inputs and two brothers on separate buttons; AlphaDream went bankrupt in 2019. |
 | Ninja Five-O | 2003 | Hudson Soft | Konami | Action-platformer | 1 | No | Ported | Switch, PS4/PS5, Xbox, PC (2024) | | Tiny original print run made carts famously expensive; reissued in 2024. |
 | Summon Night: Swordcraft Story | 2003 | Flight-Plan | Banpresto / Atlus | Action RPG | 1–2 | No | **Stranded** | | | Banpresto's rights moved to Bandai Namco while Atlus held the localisation; a split that has kept it locked. |
-| WarioWare, Inc.: Mega Microgame$! | 2003 | Nintendo R&D1 | Nintendo | Minigame collection | 1–2 | No | Ported | Wii U Virtual Console, NSO | | |
+| WarioWare, Inc.: Mega Microgame$! | 2003 | Nintendo R&D1 | Nintendo | Minigame collection | 1–2 | No | Ported | Wii U Virtual Console, NSO |  | Hundreds of games lasting five seconds each, and the start of its own series. First-party. |
 | Classic NES Series | 2004 | Nintendo | Nintendo | Compilation | 1–2 | No | **Stranded** | | | Individually boxed GBA cartridges of single NES games: a re-release line, but each cartridge is a distinct product that first shipped on GBA and has never been reissued as such. |
-| Fire Emblem: The Sacred Stones | 2004 | Intelligent Systems | Nintendo | Tactical RPG | 1–2 | No | Ported | Wii U Virtual Console, NSO | | |
+| Fire Emblem: The Sacred Stones | 2004 | Intelligent Systems | Nintendo | Tactical RPG | 1–2 | No | Ported | Wii U Virtual Console, NSO |  | A standalone entry with a branching campaign and free-roaming map. Reached Wii U Virtual Console. |
 | Kirby & the Amazing Mirror | 2004 | Flagship / HAL | Nintendo | Platformer | 1–4 | No | Ported | Wii U Virtual Console, NSO | | Four-player co-op needed four GBAs and four cartridges. |
 | Mario Golf: Advance Tour | 2004 | Camelot | Nintendo | Sports RPG | 1–4 | No | **Stranded** | | | Its RPG mode linked to the GameCube game via cable. |
 | Pokémon Emerald | 2004 | Game Freak | Nintendo | RPG | 1–2 | No | **Stranded** | | | The only third-version Pokémon game never remade or re-released. *Omega Ruby / Alpha Sapphire* remade Ruby and Sapphire and not this. |
 | Sonic Advance 3 | 2004 | Dimps | Sega | Platformer | 1–2 | No | **Stranded** | | | As with the rest of the Advance trilogy, absent from every Sonic re-release. |
-| The Legend of Zelda: The Minish Cap | 2004 | Flagship / Capcom | Nintendo | Action-adventure | 1 | No | Ported | Wii U Virtual Console, NSO | | |
+| The Legend of Zelda: The Minish Cap | 2004 | Flagship / Capcom | Nintendo | Action-adventure | 1 | No | Ported | Wii U Virtual Console, NSO |  | A Capcom-developed entry built on shrinking to the size of an insect. First-party rights, so it travels. |
 | WarioWare: Twisted! | 2004 | Nintendo R&D1 | Nintendo | Minigame collection | 1 | No | **Stranded** | | | A **gyroscope in the cartridge**; every microgame is played by rotating the console. Never re-released, and the one WarioWare that cannot be. Never released in PAL territories at all. |
 | Drill Dozer | 2005 | Game Freak | Nintendo | Platformer | 1 | No | Ported | Wii U Virtual Console | | The cartridge has a rumble motor; the Virtual Console release lost it. |
 | Gunstar Super Heroes | 2005 | Treasure | Sega | Run and gun | 1 | No | **Stranded** | | | A sequel to the Genesis *Gunstar Heroes*, which itself is widely re-released; this one is not. |
 | Mario Tennis: Power Tour | 2005 | Camelot | Nintendo | Sports RPG | 1–4 | No | **Stranded** | | | Camelot's handheld sports RPGs have never been reissued, and its link features assumed GBA hardware. |
 | Mother 3 | 2006 | Brownie Brown / HAL | Nintendo | RPG | 1 | No | Ported | NSO (Japan, 2024) | Japanese | Japan-only for 18 years. Its NSO release is **Japan-only**, so outside Japan it remains effectively stranded and has never been officially translated. |
 | Rhythm Tengoku | 2006 | Nintendo SPD | Nintendo | Rhythm | 1 | No | **Stranded** | | Japanese | Japan-only. The first Rhythm Heaven game, never localised and never re-released; the arcade version is a separate product. |
-| Yggdra Union | 2006 | Sting | Sting / Atlus | Tactical RPG | 1 | No | Ported | PSP (2008), iOS | | |
+| Yggdra Union | 2006 | Sting | Sting / Atlus | Tactical RPG | 1 | No | Ported | PSP (2008), iOS |  | A tactical role-playing game where a card hand drives every battle. Ported to PSP and phones. |
 
 ## Contested
 
