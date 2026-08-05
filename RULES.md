@@ -215,6 +215,37 @@ Sort by Year, then Title. Keep everything in **one** table; status is a column,
 not a section. Splitting by status buries the point that these are all the same
 kind of thing.
 
+## What the Excluded table actually holds
+
+The heading says "Why excluded" and most rows mean it, but the table has been
+carrying three different kinds of row and a reader has no way to tell them
+apart. They are all worth keeping. They just need naming.
+
+1. **Genuine exclusions.** The game fails the debut test: it appeared first on
+   PC, or on an earlier console, or it is a re-release, or it is not a game.
+   This is the common case and the heading describes it correctly.
+
+2. **Disambiguations.** The game *does* qualify and is in the debut table, and
+   the row exists because something about it invites the opposite conclusion.
+   `Crazy Taxi`'s arcade lineage, `Castlevania III` being assumed Famicom Disk
+   System-exclusive, `Final Fantasy Legend` being the `SaGa` games under a
+   misleading name. These rows begin "Qualifies" and say what the confusion is.
+
+3. **Bulk-qualifying groups.** Several games that qualify, share one status, and
+   are recorded as a group rather than given a row each. `Munchkin` sequels on
+   the Odyssey², the remaining Casio Loopy titles. These say "not separately
+   tabled", and like the Appendix they sit **outside the counts** — the summary
+   block counts rows, so a group of five counts as none.
+
+The third kind is the one to be careful with, because it means `Debut games` is
+a count of table rows rather than of qualifying games, and the two differ
+wherever a group row exists.
+
+A reason of four words is fine when four words are the whole reason. "PC
+original.", "Backward compatibility." and "Re-releases by definition." each name
+the rule that disqualifies the title, which is all this column is for. Length is
+not the measure; naming the rule is.
+
 ## Notes
 
 Every row gets at least one sentence. A row with an empty `Notes` cell is a
@@ -279,7 +310,8 @@ and the short name is what people say.
 3. **Debut-exclusive games**: the single main table.
 4. **Contested**: the argument on both sides.
 5. **Excluded**: titles commonly assumed to qualify but that fail the debut test,
- with the reason recorded so they are not re-added.
+ with the reason recorded so they are not re-added. See [What the Excluded
+ table actually holds](#what-the-excluded-table-actually-holds).
 6. **Appendix**: long tails assessed in bulk rather than individually, clearly
  labelled and kept out of the counts.
 7. **Sources**: links, with the date checked.

@@ -29,6 +29,7 @@ DEBUT_HEADER = (
     "| Status | Also On | Language | Notes |"
 )
 EXPECTED_CELLS = 11
+EXCLUDED_HEADER = "| Title | Year | Why excluded |"
 VALID_STATUS = {"Stranded", "Ported", "Sim-ship"}
 
 SEPARATOR_RE = re.compile(r"^\|[\s:|-]+\|$")
@@ -208,6 +209,51 @@ def check_notes(path: Path) -> tuple[int, int]:
     return missing, thin
 
 
+def check_qualifies(path: Path) -> list[str]:
+    """Flag Excluded rows that say the title qualifies but give it no debut row.
+
+    The Excluded table carries disambiguations: rows saying "this does qualify,
+    here is why you might think otherwise". Those only make sense if the game is
+    actually in the debut table. Where it is not, the file is asserting that a
+    game belongs and then not listing it, which silently understates the counts.
+
+    Group rows that say "not separately tabled" are deliberate and exempt; see
+    RULES.md on what the Excluded table holds.
+    """
+    lines = path.read_text(encoding="utf-8").splitlines()
+    starts = [i for i, ln in enumerate(lines) if ln.startswith(DEBUT_HEADER)]
+    if not starts:
+        return []
+    titles = []
+    for line in lines[starts[0] + 2:]:
+        if not line.startswith("|"):
+            break
+        cells = [c.strip() for c in CELL_SPLIT_RE.split(line)[1:-1]]
+        if len(cells) == EXPECTED_CELLS:
+            titles.append(cells[0].lower())
+    blob = " | ".join(titles)
+
+    excluded = [i for i, ln in enumerate(lines) if ln.startswith(EXCLUDED_HEADER)]
+    if not excluded:
+        return []
+    problems = []
+    for lineno, line in enumerate(lines[excluded[0] + 2:], excluded[0] + 3):
+        if not line.startswith("|"):
+            break
+        cells = [c.strip() for c in CELL_SPLIT_RE.split(line)[1:-1]]
+        if len(cells) != 3 or not cells[2].startswith("Qualif"):
+            continue
+        if "not separately tabled" in cells[2]:
+            continue
+        # The first distinctive word of the title is enough to spot the row.
+        key = re.split(r"[,/]", cells[0])[0].strip().lower()
+        if key and key not in blob:
+            rel = path.relative_to(ROOT)
+            problems.append(f"{rel}:{lineno}: {cells[0]!r} is marked as qualifying "
+                            f"but has no debut row")
+    return problems
+
+
 def check_glued(path: Path) -> list[str]:
     """A table row must end at its final pipe.
 
@@ -292,6 +338,10 @@ def main() -> int:
         if short:
             worst.append((short, f"{path.stem} ({short} thin)"))
 
+    qualifying: list[str] = []
+    for path in catalogs:
+        qualifying += check_qualifies(path)
+
     if problems:
         print(f"{len(problems)} problem(s) across {len(catalogs)} catalogues:",
               file=sys.stderr)
@@ -301,6 +351,10 @@ def main() -> int:
 
     if not args.quiet:
         print(f"{len(catalogs)} catalogues, {len(docs)} docs: no structural problems")
+        if qualifying:
+            print(f"  {len(qualifying)} row(s) marked as qualifying with no debut row:")
+            for q in qualifying:
+                print(f"    {q}")
         if thin:
             # Reported, not enforced: see check_notes. The list is the worklist.
             print(f"  every row has a note; {thin} are under 40 characters")
