@@ -52,18 +52,18 @@ The one durable cause is the familiar one: **licensed cars**. `Forza Motorsport`
 
 | Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Availability | Notes |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| Forza Horizon 5 | 2021 | Playground Games | Microsoft | Racing | 1–12 | Yes | Sim-ship | Xbox One (2021, same day); PS5 (2025), PC |  | Sold | Also catalogued under [Xbox One](xbox-one.md). Cross-gen at launch, then the first Forza to reach PlayStation. |
+| Forza Horizon 5 | 2021 | Playground Games | Microsoft | Racing | 1–12 | Yes | Sim-ship | Xbox One (2021, same day); PlayStation 5 (2025), PC |  | Sold | Also catalogued under [Xbox One](xbox-one.md). Cross-gen at launch, then the first Forza to reach PlayStation. |
 | Halo Infinite | 2021 | 343 Industries | Microsoft | FPS | 1–24 | Yes | Sim-ship | Xbox One, PC (2021, same day) |  | Sold | Also catalogued under [Xbox One](xbox-one.md). Its campaign shipped without the co-op and Forge modes originally promised. |
-| The Medium | 2021 | Bloober Team | Bloober Team | Survival horror | 1 | No | Ported | PC (2021, same day); PS5 (2021), Switch 2 (2025) |  | Sold | A timed console exclusive; the same-day PC launch makes this a Series X/S debut under the PC rule, and the later PS5 release makes it `Ported`. |
+| The Medium | 2021 | Bloober Team | Bloober Team | Survival horror | 1 | No | Ported | PC (2021, same day); PlayStation 5 (2021), Switch 2 (2025) |  | Sold | A timed console exclusive; the same-day PC launch makes this a Series X/S debut under the PC rule, and the later PlayStation 5 release makes it `Ported`. |
 | Forza Motorsport | 2023 | Turn 10 | Microsoft | Racing | 1–24 | Yes | **Stranded** |  |  | Sold | Licensed cars and manufacturers. Every prior Forza has been delisted once those licences lapsed; this one is on the same clock. |
-| Hi-Fi Rush | 2023 | Tango Gameworks | Microsoft | Rhythm action | 1 | No | Ported | PS5 (2024), Switch (2025), PC |  | Sold | Shadow-dropped. **Tango Gameworks was closed by Microsoft in 2024 and then sold to Krafton**, which is why the game survived while its studio did not. |
+| Hi-Fi Rush | 2023 | Tango Gameworks | Microsoft | Rhythm action | 1 | No | Ported | PlayStation 5 (2024), Switch (2025), PC |  | Sold | Shadow-dropped. **Tango Gameworks was closed by Microsoft in 2024 and then sold to Krafton**, which is why the game survived while its studio did not. |
 | Redfall | 2023 | Arkane Austin | Microsoft | Co-op FPS | 1–4 | **Dead (2025)** | **Stranded** |  |  | Sold | Critically panned; **Arkane Austin was closed in 2024** and support ended in 2025. Its always-online design means the servers' closure materially breaks it. |
-| Starfield | 2023 | Bethesda | Microsoft | RPG | 1 | Yes | **Stranded** |  |  | Sold | ⚠ [Contested](#contested), a PS5 release has been reported and may have shipped; PC version is day-one. |
-| Indiana Jones and the Great Circle | 2024 | MachineGames | Microsoft | Action-adventure | 1 | No | Ported | PS5 (2025), PC |  | Sold | Disney/Lucasfilm licence, which did not prevent the PS5 port. |
-| Senua's Saga: Hellblade II | 2024 | Ninja Theory | Microsoft | Action-adventure | 1 | No | Ported | PS5 (2025), PC |  | Sold | Ninja Theory's second Hellblade, and part of the 2024–25 PlayStation wave. |
+| Starfield | 2023 | Bethesda | Microsoft | RPG | 1 | Yes | **Stranded** |  |  | Sold | ⚠ [Contested](#contested), a PlayStation 5 release has been reported and may have shipped; PC version is day-one. |
+| Indiana Jones and the Great Circle | 2024 | MachineGames | Microsoft | Action-adventure | 1 | No | Ported | PlayStation 5 (2025), PC |  | Sold | Disney/Lucasfilm licence, which did not prevent the PlayStation 5 port. |
+| Senua's Saga: Hellblade II | 2024 | Ninja Theory | Microsoft | Action-adventure | 1 | No | Ported | PlayStation 5 (2025), PC |  | Sold | Ninja Theory's second Hellblade, and part of the 2024–25 PlayStation wave. |
 | Avowed | 2025 | Obsidian | Microsoft | Action RPG | 1 | No | **Stranded** |  |  | Sold | PC version day-one; no console release elsewhere yet. |
 | South of Midnight | 2025 | Compulsion Games | Microsoft | Action-adventure | 1 | No | **Stranded** |  |  | Sold | PC version day-one. |
-| The Outer Worlds 2 | 2025 | Obsidian | Microsoft | Action RPG | 1 | No | Sim-ship | PS5, PC (2025, same day) |  | Sold | Microsoft's multiplatform pivot applied from day one rather than retroactively, the clearest sign the exclusivity era has ended. |
+| The Outer Worlds 2 | 2025 | Obsidian | Microsoft | Action RPG | 1 | No | Sim-ship | PlayStation 5, PC (2025, same day) |  | Sold | Microsoft's multiplatform pivot applied from day one rather than retroactively, the clearest sign the exclusivity era has ended. |
 
 ## Contested
 

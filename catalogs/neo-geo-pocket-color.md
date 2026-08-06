@@ -53,7 +53,7 @@ What remains stranded is stranded because SNK **does not own it alone**:
 | SNK vs. Capcom: The Match of the Millennium | 1999 | SNK | SNK | Fighting | 1–2 | No | Ported | Switch (2021), *NGPC Selection Vol. 1* |  | Sold | Its reissue required Capcom's cooperation, which was granted, unlike the card game below. |
 | Sonic the Hedgehog Pocket Adventure | 1999 | Dimps | SNK | Platformer | 1 | No | **Stranded** |  |  | Sold | An SNK-developed Sonic game built by the future Dimps team. Absent from *Sonic Origins*, *Sonic Gems* and SNK's own collections, because it needs both companies to agree. |
 | Big Bang Pro Wrestling | 2000 | Saurus | SNK | Wrestling | 1–2 | No | **Stranded** |  |  | Sold | A late release into a dying platform, as SNK approached bankruptcy. |
-| Fantastic Night Dreams: Cotton | 2000 | Success | SNK | Shoot 'em up | 1 | No | Ported | Switch, PS4 (2021, *Cotton Guardian Force* era reissues) |  | Sold | The Cotton series was revived in 2021, which pulled the handheld entry along with it. |
+| Fantastic Night Dreams: Cotton | 2000 | Success | SNK | Shoot 'em up | 1 | No | Ported | Switch, PlayStation 4 (2021, *Cotton Guardian Force* era reissues) |  | Sold | The Cotton series was revived in 2021, which pulled the handheld entry along with it. |
 | Metal Slug: 2nd Mission | 2000 | SNK | SNK | Run and gun | 1 | No | Ported | Switch (2020), *NGPC Selection Vol. 1* |  | Sold | A handheld run-and-gun with branching mission routes, built for the hardware rather than converted. Reissued on Switch. |
 | The Last Blade: Beyond the Destiny | 2000 | SNK | SNK | Fighting | 1–2 | No | Ported | Switch (2021, *NGPC Selection Vol. 2*) |  | Sold | A weapons-based handheld fighter drawn from the arcade series. Reissued on Switch. |
 

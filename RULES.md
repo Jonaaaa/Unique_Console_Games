@@ -207,7 +207,7 @@ One table per platform, identical columns everywhere so files stay diff-able.
 | `Players` | Local player count: `1`, `1–4`, `1–5 (asym.)`. Use `asym.` for asymmetric second-screen designs. |
 | `Online` | `Yes`, `No`, or `Dead (year)` where servers have shut down. |
 | `Status` | `Stranded`, `Ported`, or `Sim-ship`. |
-| `Also On` | Empty when stranded. Otherwise every platform with year: `Switch (2017), PC (2020)`. For `Sim-ship`, list the co-launch platforms and mark them, e.g. `Switch (2017, same day)`. |
+| `Also On` | Empty when stranded. Otherwise every platform with year: `Switch (2017), PC (2020)`. For `Sim-ship`, list the co-launch platforms and mark them, e.g. `Switch (2017, same day)`. Spell the PlayStation numbers out, `PlayStation 3` rather than `PS3`, matching the sibling tools. |
 | `Language` | The language the game shipped in, where it is known and worth stating. Japan-only releases are `Japanese`. Leave empty rather than assuming; an empty cell means unrecorded, not English. |
 | `Availability` | `Sold` if an ordinary public channel still carries it, including the second-hand market. `Backup` if none does. See [Availability](#availability-whether-it-can-still-be-bought). |
 | `Notes` | **Required.** At least one sentence saying what the release is and why its `Status` is what it is: the hardware dependency, licence, studio closure or dead server that stranded it, or what carried it off the platform. Not review commentary. See [Notes](#notes). |
