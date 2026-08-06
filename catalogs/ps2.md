@@ -54,7 +54,7 @@ Three more causes:
 | Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Availability | Notes |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | Dark Cloud | 2000 | Level-5 | Sony | Action RPG | 1 | No | Ported | PlayStation 4 (2016) |  | Sold | Launch-window title. A dungeon crawler where the loot rebuilds destroyed towns. |
-| Devil May Cry | 2001 | Capcom | Capcom | Action | 1 | No | Ported | *HD Collection* (2012), multiplatform |  | Sold | Began as a Resident Evil prototype. It began as a Resident Evil prototype and became the template for stylish action games. |
+| Devil May Cry | 2001 | Capcom | Capcom | Action | 1 | No | Ported | *HD Collection* (2012), multiplatform |  | Sold | Began as a Resident Evil prototype and became the template for stylish action games. |
 | Fatal Frame | 2001 | Tecmo | Tecmo | Survival horror | 1 | No | Ported | Xbox (2002) |  | Sold | PAL: *Project Zero*. Fight ghosts by photographing them with an antique camera. |
 | Final Fantasy X | 2001 | Square | Square | RPG | 1 | No | Ported | PlayStation 3, Vita, PlayStation 4, Switch, Xbox, PC (2013–19, *HD Remaster*) |  | Sold | The series' move to voice acting and a linear structure, and its first direct sequel. Square Enix has kept the remaster on every platform since. |
 | Frequency | 2001 | Harmonix | Sony | Rhythm | 1–4 | No | **Stranded** |  |  | Sold | Harmonix's debut, and the direct ancestor of *Guitar Hero* and *Rock Band*. Entirely licensed electronica; unreissuable. |

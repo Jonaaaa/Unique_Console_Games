@@ -47,7 +47,7 @@ games ever reached Wii U Virtual Console.
 | Feel the Magic: XY/XX | 2004 | Sonic Team | Sega | Minigame collection | 1 | No | **Stranded** |  |  | Sold | Launch title, built entirely around touch, mic and blowing into the console. |
 | Advance Wars: Dual Strike | 2005 | Intelligent Systems | Nintendo | Turn-based strategy | 1–4 | No | **Stranded** |  |  | Sold | The *Re-Boot Camp* remake covered only the two GBA games. |
 | Animal Crossing: Wild World | 2005 | Nintendo EAD | Nintendo | Life sim | 1–4 | Dead (2014) | **Stranded** |  |  | Sold | 11.75M sold. The first handheld entry, and the one that made the series a phenomenon. |
-| Big Brain Academy | 2005 | Nintendo SPD | Nintendo | Edutainment | 1–8 | No | **Stranded** |  |  | Sold | The 2021 Switch entry is a new game. A set of timed mental tests; the 2021 Switch game is a new entry rather than a port. |
+| Big Brain Academy | 2005 | Nintendo SPD | Nintendo | Edutainment | 1–8 | No | **Stranded** |  |  | Sold | A set of timed mental tests; the 2021 Switch game is a new entry rather than a port. |
 | Brain Age: Train Your Brain in Minutes a Day! | 2005 | Nintendo SPD | Nintendo | Edutainment | 1–4 | No | **Stranded** |  |  | Sold | 19.01M sold. The Switch *Brain Training* is a separate later entry. |
 | Castlevania: Dawn of Sorrow | 2005 | KCEK | Konami | Action-adventure | 1–2 | No | Ported | Switch, PlayStation 4/5, Xbox, PC (2024, *Castlevania Dominus Collection*) |  | Sold | Its touchscreen seal-drawing was replaced in the collection. |
 | Electroplankton | 2005 | indieszero | Nintendo | Music toy | 1 | No | **Stranded** |  |  | Sold | Toshio Iwai's interactive sound toy. Ten instruments, no goals. Its DSiWare split-release is the only reissue and is likewise gone. |
@@ -78,7 +78,7 @@ games ever reached Wii U Virtual Console.
 | Ninja Gaiden: Dragon Sword | 2008 | Team Ninja | Tecmo | Action | 1 | No | **Stranded** |  |  | Sold | Played entirely with the stylus, holding the DS sideways. |
 | Pokémon Platinum | 2008 | Game Freak | Nintendo | RPG | 1–4 | Dead (2014) | **Stranded** |  |  | Sold | *Brilliant Diamond / Shining Pearl* remade Diamond and Pearl and not Platinum, which is the definitive version of the generation. |
 | Rhythm Heaven | 2008 | Nintendo SPD | Nintendo | Rhythm | 1 | No | **Stranded** |  |  | Sold | PAL: *Rhythm Paradise*. The series has been dormant since the 3DS entry. |
-| Sands of Destruction | 2008 | Imageepoch | Sega | RPG | 1 | No | **Stranded** |  |  | Sold | Imageepoch went bankrupt in 2015. A role-playing game about a group trying to end the world rather than save it; Imageepoch went bankrupt in 2015. |
+| Sands of Destruction | 2008 | Imageepoch | Sega | RPG | 1 | No | **Stranded** |  |  | Sold | A role-playing game about a group trying to end the world rather than save it; Imageepoch went bankrupt in 2015. |
 | Soma Bringer | 2008 | Monolith Soft | Nintendo | Action RPG | 1–4 | No | **Stranded** |  | Japanese | Sold | Japan-only, never localised. Monolith Soft's only DS original. |
 | WarioWare: Snapped! | 2008 | Nintendo SPD | Nintendo | Minigame collection | 1 | No | **Stranded** |  |  | Backup | DSiWare launch title using the DSi's camera to track the player's body. Died with the DSi Shop in 2017. |
 | Dragon Quest IX: Sentinels of the Starry Skies | 2009 | Level-5 | Square Enix | RPG | 1–4 | Dead (2014) | **Stranded** |  |  | Sold | 5.85M sold and never re-released. Its multiplayer and item distribution ran on local wireless and a dead StreetPass-style tagging system. |

@@ -62,7 +62,7 @@ that lacks them, the same category as `Wii Sports` or `Drag x Drive`.
 | Rise of the Ronin | 2024 | Team Ninja | Sony / Koei Tecmo | Action RPG | 1–3 | Yes | **Stranded** |  |  | Sold | PC followed; no other console. An open-world action game set during the end of the shogunate, by the `Nioh` studio. |
 | Stellar Blade | 2024 | Shift Up | Sony | Action | 1 | No | **Stranded** |  |  | Sold | A Korean-developed Sony exclusive; PC in 2025. |
 | Death Stranding 2: On the Beach | 2025 | Kojima Productions | Sony | Action-adventure | 1 | Yes | **Stranded** |  |  | Sold | Kojima Productions retained rights to the first game and took it to Xbox; whether this follows is unresolved. |
-| Ghost of Yōtei | 2025 | Sucker Punch | Sony | Action-adventure | 1 | Yes | **Stranded** |  |  | Sold | The follow-up to `Ghost of Tsushima`. An open-world samurai game set three centuries after `Ghost of Tsushima`, and Sony-owned like its predecessor. |
+| Ghost of Yōtei | 2025 | Sucker Punch | Sony | Action-adventure | 1 | Yes | **Stranded** |  |  | Sold | An open-world samurai game set three centuries after `Ghost of Tsushima`, and Sony-owned like its predecessor. |
 | The Outer Worlds 2 | 2025 | Obsidian | Microsoft | Action RPG | 1 | No | Sim-ship | Xbox Series X\|S, PC (2025, same day) |  | Sold | Also catalogued under [Xbox Series X\|S](xbox-series.md). A Microsoft-published game launching on PlayStation day one. |
 
 ## Contested

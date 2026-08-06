@@ -43,7 +43,7 @@ migrated.
 
 | Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Availability | Notes |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| Excite Truck | 2006 | Monster Games | Nintendo | Racing | 1–2 | No | **Stranded** |  |  | Sold | Steered by tilting the remote sideways. An arcade racer steered by tilting the remote, which is exactly why it cannot be ported. |
+| Excite Truck | 2006 | Monster Games | Nintendo | Racing | 1–2 | No | **Stranded** |  |  | Sold | An arcade racer steered by turning the remote sideways and tilting it, which is exactly why it cannot be ported. |
 | The Legend of Zelda: Twilight Princess | 2006 | Nintendo EAD | Nintendo | Action-adventure | 1 | No | Ported | Wii U (2016, *HD*) |  | Sold | ⚠ [Contested](#contested), the Wii version shipped first, but the game was built for GameCube. |
 | Wii Play | 2006 | Nintendo EAD | Nintendo | Minigame collection | 1–2 | No | **Stranded** |  |  | Sold | 28.02M, bundled with a spare Wii Remote. Nine tech-demo minigames. |
 | Wii Sports | 2006 | Nintendo EAD | Nintendo | Sports | 1–4 | No | **Stranded** |  |  | Sold | **82.90M copies: the best-selling stranded game in existence**, and the fourth best-selling game ever. A pack-in built entirely around motion control. *Wii Sports Club* (Wii U) and *Nintendo Switch Sports* are separate games. |
@@ -64,17 +64,17 @@ migrated.
 | Fatal Frame IV: Mask of the Lunar Eclipse | 2008 | Grasshopper / Tecmo | Nintendo | Survival horror | 1 | No | Ported | PlayStation 4/5, Xbox, Switch, PC (2023, *Remaster*) | Japanese | Sold | Japan-only for 15 years; the remaster was its first Western release. |
 | LostWinds | 2008 | Frontier Developments | Frontier | Platformer | 1 | No | Ported | iOS (2009), PC, Switch (2018) |  | Sold | **WiiWare.** One of the few WiiWare titles to escape before the Shop closed. |
 | Mario Kart Wii | 2008 | Nintendo EAD | Nintendo | Racing | 1–12 | Dead (2014) | **Stranded** |  |  | Sold | **37.38M, the best-selling stranded racing game.** Bundled with the Wii Wheel. |
-| Mario Super Sluggers | 2008 | Namco Bandai | Nintendo | Sports | 1–4 | No | **Stranded** |  |  | Sold | Never released in PAL territories. A baseball game using the Mario cast, never released in PAL territories. |
+| Mario Super Sluggers | 2008 | Namco Bandai | Nintendo | Sports | 1–4 | No | **Stranded** |  |  | Sold | A baseball game using the Mario cast, never released in PAL territories. |
 | Super Smash Bros. Brawl | 2008 | Sora Ltd. | Nintendo | Fighting | 1–4 | Dead (2014) | **Stranded** |  |  | Sold | 13.32M. Its Subspace Emissary campaign exists in no other Smash game and has never been reissued. |
 | Wario Land: Shake It! | 2008 | Good-Feel | Nintendo | Platformer | 1 | No | **Stranded** |  |  | Sold | The last Wario Land game. A hand-animated platformer, and the last entry in its series. |
 | Wii Music | 2008 | Nintendo EAD | Nintendo | Music | 1–4 | No | **Stranded** |  |  | Sold | Miyamoto's most divisive project; motion-only instrument performance. |
-| Excitebots: Trick Racing | 2009 | Monster Games | Nintendo | Racing | 1–2 | Dead (2014) | **Stranded** |  |  | Sold | North America only, in tiny numbers. A stunt racer released in North America only and in tiny numbers. |
+| Excitebots: Trick Racing | 2009 | Monster Games | Nintendo | Racing | 1–2 | Dead (2014) | **Stranded** |  |  | Sold | A stunt racer released in North America only and in tiny numbers. |
 | Little King's Story | 2009 | Cing / Town Factory | Marvelous / XSEED | Strategy | 1 | No | Ported | PSP (2012), PC, Switch (2019–20) |  | Sold | A strategy game where you order villagers to fight and build, under a storybook surface. Ported to PSP and later remastered. |
 | MadWorld | 2009 | PlatinumGames | Sega | Beat 'em up | 1 | No | **Stranded** |  |  | Sold | PlatinumGames' monochrome ultraviolence; the only one of its four early games never reissued. |
 | Metroid Prime Trilogy | 2009 | Retro Studios | Nintendo | Compilation | 1–4 | No | **Stranded** |  |  | Sold | Prime 1 and 2 rebuilt with Wii pointer controls plus Prime 3. *Metroid Prime Remastered* (Switch, 2023) covered only the first game, so this package (and the Wii control scheme for Prime 1 and 2) remains Wii-only. |
 | Muramasa: The Demon Blade | 2009 | Vanillaware | Marvelous / XSEED | Action RPG | 1 | No | Ported | Vita (2013, *Rebirth*) |  | Sold | A hand-drawn side-scrolling action game set in feudal Japan. Its Vita version added extra chapters. |
 | New Super Mario Bros. Wii | 2009 | Nintendo EAD | Nintendo | Platformer | 1–4 | No | **Stranded** |  |  | Sold | 30.32M. The only mainline New Super Mario Bros. game never re-released. |
-| Punch-Out!! | 2009 | Next Level Games | Nintendo | Sports | 1–2 | No | **Stranded** |  |  | Sold | The series' last entry, 15 years on. A boxing game built on memorising tells, and the series' last entry after fifteen years. |
+| Punch-Out!! | 2009 | Next Level Games | Nintendo | Sports | 1–2 | No | **Stranded** |  |  | Sold | A boxing game built on memorising tells, and the series' last entry after fifteen years. |
 | Sin & Punishment: Star Successor | 2009 | Treasure | Nintendo | Rail shooter | 1–2 | No | **Stranded** |  |  | Sold | Treasure's last major game. A rail shooter aimed with the remote, and Treasure's last major game. |
 | Wii Sports Resort | 2009 | Nintendo EAD | Nintendo | Sports | 1–4 | No | **Stranded** |  |  | Sold | 33.14M. Required MotionPlus, so it is doubly peripheral-locked. |
 | Donkey Kong Country Returns | 2010 | Retro Studios | Nintendo | Platformer | 1–2 | No | Ported | 3DS (2013), Switch (2025, *HD*) |  | Sold | Retro Studios reviving the SNES series, with a difficulty to match. Ported to Nintendo 3DS and again to Switch. |

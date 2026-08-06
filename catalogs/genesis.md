@@ -44,7 +44,7 @@ likeness rights alongside everything else.
 | Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Availability | Notes |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | Altered Beast | 1988 | Sega | Sega | Beat 'em up | 1–2 | No | Ported | Sega collections, Mega Drive Mini |  | Sold | Launch pack-in. First home version of the 1988 cabinet. |
-| Golden Axe | 1989 | Sega | Sega | Beat 'em up | 1–2 | No | Ported | Sega collections, Mega Drive Mini, Switch Online |  | Sold | First home version of the 1989 cabinet. A fantasy beat 'em up, and the first home version of the 1989 arcade game. |
+| Golden Axe | 1989 | Sega | Sega | Beat 'em up | 1–2 | No | Ported | Sega collections, Mega Drive Mini, Switch Online |  | Sold | A fantasy beat 'em up, and the first home version of the 1989 cabinet. |
 | Phantasy Star II | 1989 | Sega | Sega | RPG | 1 | No | Ported | Sega collections, Switch Online |  | Sold | A science-fiction role-playing game with a downbeat story, unusual for 1989. Sega-owned and in every collection since. |
 | Gaiares | 1990 | Telenet | Renovation | Shoot 'em up | 1 | No | **Stranded** |  |  | Sold | Telenet's assets have been dormant for decades. |
 | Michael Jackson's Moonwalker | 1990 | Sega | Sega | Action | 1 | No | **Stranded** |  |  | Sold | Locked behind the Jackson estate's likeness and music rights simultaneously. Sega has quietly omitted it from every collection for 35 years. |
