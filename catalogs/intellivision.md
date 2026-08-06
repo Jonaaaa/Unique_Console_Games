@@ -45,7 +45,7 @@ the split here is clean; Mattel's own games survived, licensed ones did not.
 
 | Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Availability | Notes |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| NBA Basketball / NHL Hockey / PGA Golf | 1979–80 | APh Technological | Mattel | Sports | 1–2 | No | **Stranded** |  |  | Sold | The rest of Mattel's licensed sports line. All four leagues plus the PGA, all expired, all unreissuable under their original names. |
+| NBA Basketball / NHL Hockey / PGA Golf | 1979–1980 | APh Technological | Mattel | Sports | 1–2 | No | **Stranded** |  |  | Sold | The rest of Mattel's licensed sports line. All four leagues plus the PGA, all expired, all unreissuable under their original names. |
 | NFL Football | 1979 | APh Technological | Mattel | Sports | 1–2 | No | **Stranded** |  |  | Sold | A launch title with a real **NFL licence in 1979**: extraordinary at the time, and now an absolute bar to reissue. Renamed in later collections to strip the licence. |
 | Major League Baseball | 1980 | APh Technological | Mattel | Sports | 1–2 | No | **Stranded** |  |  | Sold | MLB and MLBPA rights from 1980. Same problem, and the reason Mattel's sports line is absent from its own anniversary collections under its original names. |
 | Astrosmash | 1981 | John Sohl | Mattel | Shoot 'em up | 1 | No | Ported | *Intellivision Lives!*, Flashback, Evercade, Switch |  | Sold | The platform's best-selling game and its pack-in. |

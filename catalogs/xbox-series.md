@@ -35,9 +35,9 @@ there**. Padding the list would mean breaking the ruleset.
 | of which still `Stranded` | 5 |
 | of which since `Ported` | 4 |
 | of which `Sim-ship` | 3 |
-| **Contested** | 1 | **Why the Series X|
+| **Contested** | 1 |
 
-S strands games.** Almost nothing here is stranded by an
+**Why the Series X|S strands games.** Almost nothing here is stranded by an
 *obstacle*. There are no dead peripherals, no lost source code, no expired anime
 licences. What remains stranded is stranded because **Microsoft has not yet chosen
 to move it**, and the company has demonstrated since 2024 that it will. This is

@@ -94,7 +94,7 @@ games ever reached Wii U Virtual Console.
 | Ghost Trick: Phantom Detective | 2010 | Capcom | Capcom | Puzzle adventure | 1 | No | Ported | iOS (2012), multiplatform (2023 remaster) |  | Sold | A puzzle game about rewinding the last four minutes before a death, by the `Ace Attorney` writer. Remastered in 2023. |
 | Pokémon Black and White | 2010 | Game Freak | Nintendo | RPG | 1–4 | Dead (2014) | **Stranded** |  |  | Sold | 15.64M sold. The only mainline Pokémon generation with no remake, port or re-release of any kind. |
 | Radiant Historia | 2010 | Atlus | Atlus | RPG | 1 | No | Ported | 3DS (2017, *Perfect Chronology*) |  | Sold | A role-playing game built on moving between two timelines to fix each with the other. Expanded on Nintendo 3DS. |
-| Solatorobo: Red the Hunter | 2010 | CyberConnect2 | Bandai Namco | Action RPG | 1 | Dead (2014) | **Stranded** |  |  | Sold | CyberConnect2's own IP, but its predecessor `Tail Concerto` is stranded too and the studio has worked almost exclusively on licensed games since. |
+| Solatorobo: Red the Hunter | 2010 | CyberConnect2 | Namco Bandai | Action RPG | 1 | Dead (2014) | **Stranded** |  |  | Sold | CyberConnect2's own IP, but its predecessor `Tail Concerto` is stranded too and the studio has worked almost exclusively on licensed games since. |
 | Pokémon Black 2 and White 2 | 2012 | Game Freak | Nintendo | RPG | 1–4 | Dead (2014) | **Stranded** |  |  | Sold | The last mainline DS Pokémon games; likewise untouched. |
 
 ## Contested

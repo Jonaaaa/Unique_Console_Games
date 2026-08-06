@@ -4,7 +4,7 @@
 |---|---|
 | **Platform** | PlayStation 2 (2000), PS2 Slim (2004) |
 | **Lifespan** | Mar 2000 – Jan 2013; **160.30M units sold, the best-selling console ever** |
-| **Library size** | **~4 |
+| **Library size** | **~4,400 titles**: the largest library in this repo by a wide margin |
 | **Backward compat** | Plays PS1 discs. Early PS3 models play PS2 discs. Both are BC, **not** another platform. |
 | **Last verified** | 2026-07-29 |
 | **Coverage** | **Deliberately partial.** Marquee and interesting titles verified individually, out of a library of ~4,400. No claim to completeness is made, see [Coverage gaps](#coverage-gaps). |

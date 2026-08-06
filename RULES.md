@@ -193,14 +193,14 @@ catalogue to drift into inconsistency.
 One table per platform, identical columns everywhere so files stay diff-able.
 
 ```markdown
-| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Notes |
-|---|---|---|---|---|---|---|---|---|---|---|
+| Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Availability | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|---|
 ```
 
 | Column | Rule |
 |---|---|
 | `Title` | Full official title, region-neutral (prefer NA naming, note PAL name if it differs). |
-| `Year` | Year of first release **anywhere**, not the local region's date. |
+| `Year` | Year of first release **anywhere**, not the local region's date. A range where one row covers several years of releases, both ends spelled in full: `1979–1980`. Empty only for a game finished but never commercially released, where there is no such year to give. |
 | `Developer` | Studio. Multiple studios separated by `/`. |
 | `Publisher` | Publisher at first release. |
 | `Genre` | Short and consistent; reuse terms already in the file. |
