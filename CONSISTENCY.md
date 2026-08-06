@@ -6,7 +6,7 @@ found by accident, because a rule change happened to expose it.
 
 This file records the checks so drift can be found on purpose instead.
 
-## The 18 checks
+## The 19 checks
 
 Each maps to a rule in [the ruleset](RULES.md). All are machine-verifiable from
 the tables themselves.
@@ -32,6 +32,7 @@ the tables themselves.
 | R16 | A row flagged `⚠ Contested` has its argument written out in the Contested table | Contested |
 | R17 | A note does not make the same point twice in consecutive sentences (reported, not failed) | Notes |
 | R18 | A `Stranded` row does not have a note saying the game reached another platform | Status semantics |
+| R19 | `Year` is four digits, a range with both ends in full, or empty | Table schema |
 
 **R13 is the one that catches the most.** In its first run it found 16 sim-ships
 present in only one file, including three where a note said "Also catalogued under X"
@@ -59,6 +60,19 @@ Two rule *gaps* were also exposed, and are now settled in the skill:
 - **Arcade-derived exclusions must cite the real reason.** `Ikaruga` on GameCube was
  excluded "arcade first" when arcades are out of scope; the actual disqualifier is
  that the Dreamcast version reached home first.
+
+## Proving the checks fire
+
+`./tools/selftest.py` reintroduces the fault each check was built for and
+asserts the validator fails. A check that reports nothing looks exactly like a
+check that cannot fire, and three drafts of R18 shipped in that state: one was
+case-sensitive against a capitalised note, one had shredded its platform list on
+spaces so `Game Boy` became `Game` and `Boy`, and one compared a whole regex
+capture where it meant the first word. Every one of them passed a clean tree.
+
+Each case edits a real catalogue and restores it afterwards whether or not the
+check passed. Run it after touching `validate.py`, and add a case with any new
+check rather than trusting a green run.
 
 ## When to run it
 

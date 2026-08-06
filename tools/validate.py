@@ -42,6 +42,11 @@ SEPARATOR_RE = re.compile(r"^\|[\s:|-]+\|$")
 CELL_SPLIT_RE = re.compile(r"(?<!\\)\|")
 H1_RE = re.compile(r"^#\s+(\S.*?)\s*$")
 DEBUT_COUNT_RE = re.compile(r"\|\s*\*\*Debut games\*\*\s*\|\s*\*{0,2}(\d+)")
+# Four digits, a range with both ends in full, or empty for a game finished and
+# never commercially released. See RULES.md. The Suggester parses this column
+# for its decade filter and its sort, so a malformed year fails silently there
+# rather than here, which is the wrong place to find out.
+YEAR_RE = re.compile(r"^(?:\d{4}(?:\u2013\d{4})?)?$")
 # Markdown links to a path, ignoring anchors-only and absolute URLs.
 LINK_RE = re.compile(r"\[[^\]]*\]\((?!https?://|#)([^)#]+)(#[^)]*)?\)")
 # Sentence boundary: a stop followed by something that starts a new sentence.
@@ -133,6 +138,9 @@ def check_file(path: Path) -> list[str]:
             problems.append(f"{rel}:{lineno}: unknown status {status!r}")
         if not cells[0].strip():
             problems.append(f"{rel}:{lineno}: empty title")
+        if not YEAR_RE.match(cells[1]):
+            problems.append(f"{rel}:{lineno}: {cells[0]!r} has year {cells[1]!r}; "
+                            f"expected 1990, 1979\u20131980, or empty")
 
         # Status and Also On have to agree. Nothing enforced this before, and
         # the documentation had drifted to describe a placeholder character the

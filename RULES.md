@@ -3,7 +3,7 @@
 The rules behind every catalogue here: what qualifies, how the table is shaped,
 how contested cases are settled, and how to research a new platform. Read this
 before adding a platform or auditing an existing file.
-[`CONSISTENCY.md`](CONSISTENCY.md) lists the 18 checks that enforce it.
+[`CONSISTENCY.md`](CONSISTENCY.md) lists the 19 checks that enforce it.
 
 Build and maintain per-platform catalogues of the games each console **gave the
 world first**. One markdown file per platform under `catalogs/`, table-driven.
