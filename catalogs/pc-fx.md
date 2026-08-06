@@ -47,7 +47,7 @@ will be.
 | Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Availability | Notes |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | Battle Heat | 1994 | NEC Avenue | NEC | Fighting | 1–2 | No | **Stranded** |  |  | Sold | A launch title, and one of the strangest fighting games ever built: **entirely pre-rendered animation** rather than sprites or polygons, because the hardware could not do 3D. A product of the console's central limitation. |
-| Team Innocent: The Point of No Return | 1994 | Red Company | NEC | Action-adventure | 1 | No | **Stranded** |  |  | Sold | The launch title, and the game used to demonstrate the hardware's FMV capability. Red Company (later Red Entertainment) survives, but this has never been reissued. |
+| Team Innocent: The Point of No Return | 1994 | Red Company | NEC | Action-adventure | 1 | No | **Stranded** |  |  | Sold | A launch title alongside `Battle Heat`, and the one used to demonstrate the hardware's FMV capability. Red Company (later Red Entertainment) survives, but this has never been reissued. |
 | Kishin Dōji Zenki FX | 1995 | Hudson Soft | Hudson Soft | Fighting | 1–2 | No | **Stranded** |  |  | Sold | A licensed anime tie-in, the pattern that defines the platform. |
 | Miraculum: The Last Revelation | 1995 | Media Works | NEC | RPG | 1 | No | **Stranded** |  |  | Sold | One of the few non-visual-novel RPGs on the platform. |
 | Blue Breaker: Ken Yorimo Hohoemi o | 1996 | Hudson Soft | Hudson Soft | Visual novel / RPG | 1 | No | **Stranded** |  |  | Sold | Representative of the platform's dominant genre. |

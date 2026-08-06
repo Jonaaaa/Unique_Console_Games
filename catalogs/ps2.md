@@ -26,7 +26,7 @@ state and `Ported` is the exception.
 
 | | Count |
 |---|---|
-| **Debut games** | **67** |
+| **Debut games** | **68** |
 | of which still `Stranded` | 28 |
 | of which since `Ported` | 33 |
 | **Contested** | 2 |
@@ -94,6 +94,7 @@ Three more causes:
 | Burnout 3: Takedown | 2004 | Criterion | EA | Racing | 1–2 | No | **Stranded** |  |  | Sold | Widely considered the best arcade racer ever made, and unavailable. Licensed soundtrack plus EA's disinterest in the series. |
 | Champions of Norrath | 2004 | Snowblind | Sony Online | Action RPG | 1–4 | No | **Stranded** |  |  | Sold | Snowblind's engine games are split across publishers, which has kept them locked. |
 | Digital Devil Saga: Avatar Tuner | 2004 | Atlus | Atlus | RPG | 1 | No | **Stranded** |  |  | Sold | Atlus has remastered *Nocturne* and revived `Raidou`, and left this alone. |
+| Fallout: Brotherhood of Steel | 2004 | Interplay | Interplay | Action RPG | 1–2 | No | Sim-ship | Xbox (2004, same day) |  | Sold | The only `Fallout` that never touched a PC, which is why it is here and the rest of the series is not. A top-down action game the series' own fans and later stewards have disowned; Interplay lost the licence to Bethesda in 2007 and nothing has reissued it. |
 | Gran Turismo 4 | 2004 | Polyphony Digital | Sony | Racing | 1–2 | No | **Stranded** |  |  | Sold | 11.76M and never reissued. Its several hundred licensed cars are the obstacle: each licence would need renegotiating. |
 | Grand Theft Auto: San Andreas | 2004 | Rockstar North | Rockstar | Open-world action | 1 | No | Ported | Xbox, PC, Mobile, *Definitive Edition* (2021) |  | Sold | 17.33M. Its licensed radio stations were cut down in every later release. |
 | Katamari Damacy | 2004 | Namco | Namco | Puzzle / action | 1–2 | No | Ported | Switch, PC, PlayStation 4, Xbox (2018, *Reroll*) |  | Sold | Roll a ball that absorbs everything it touches, starting with drawing pins and ending with continents. Namco reissued it widely from 2018. |

@@ -25,10 +25,10 @@ is `Ported` as normal.
 
 | | Count |
 |---|---|
-| **Debut games** | **35** |
+| **Debut games** | **36** |
 | of which still `Stranded` | 21 |
 | of which since `Ported` | 10 |
-| of which `Sim-ship` | 4 |
+| of which `Sim-ship` | 5 |
 | **Contested** | 1 |
 
 **Why the Xbox strands games.** Three causes, and the first is unique to Microsoft.
@@ -76,6 +76,7 @@ is `Ported` as normal.
 | Star Wars: Knights of the Old Republic | 2003 | BioWare | LucasArts | RPG | 1 | No | Ported | Switch, PlayStation 4/5, Mobile (2003–22) |  | Sold | A role-playing game set four thousand years before the films, and the one BioWare is still measured by. Its rights carried it to almost everything. |
 | Breakdown | 2004 | Namco | Namco | FPS / action | 1 | No | **Stranded** |  |  | Sold | Entirely first-person including melee and cutscenes. |
 | Fable | 2004 | Big Blue Box / Lionhead | Microsoft | Action RPG | 1 | No | Ported | Xbox 360 (2008, *Anniversary* 2014), PC |  | Sold | An action role-playing game where choices visibly change the character's appearance. Reached Xbox 360 in an expanded edition. |
+| Fallout: Brotherhood of Steel | 2004 | Interplay | Interplay | Action RPG | 1–2 | No | Sim-ship | PlayStation 2 (2004, same day) |  | Sold | The only `Fallout` that never touched a PC, which is why it is here and the rest of the series is not. Interplay lost the licence to Bethesda in 2007, so the one party who could reissue it is not the one who made it. |
 | Halo 2 | 2004 | Bungie | Microsoft | FPS | 1–16 | Dead (2010) | Ported | PC (2007), Xbox One/PC (2014–20, *MCC*) |  | Sold | Its Xbox Live servers closed in 2010, the first major console online shutdown. |
 | Ninja Gaiden | 2004 | Team Ninja | Tecmo | Action | 1 | No | Ported | PlayStation 3 (2007, *Sigma*), multiplatform (2024, *Master Collection*) |  | Sold | A punishingly difficult action game, and the series' 3D reinvention. Its `Sigma` version moved it to PlayStation 3. |
 | Phantom Dust | 2004 | Microsoft Game Studios | Microsoft | Action / card battler | 1–4 | Dead | Ported | Xbox One, PC (2017, *HD*) |  | Sold | A cult card-combat game; the HD re-release was given away free. |
