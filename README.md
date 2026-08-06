@@ -173,12 +173,29 @@ not facts**. They routinely list multiplatform games (`ZombiU`, `Watch Dogs`,
 ```
 
 Verifies that each file has exactly one debut table, that every row has its
-eleven cells and a known status, that `Also On` agrees with `Status`, that the
-Summary count matches the rows actually present, that no heading is glued to the
-end of a table row, and that every relative link and heading anchor resolves.
-GitHub renders all of those mistakes without complaint, so they look correct on
-the page and are wrong in the data. The same script runs on every push and pull
-request.
+twelve cells and a known status, that `Year` and `Availability` are in the shapes
+the ruleset gives them, that `Also On` agrees with `Status`, that the Summary
+count matches the rows actually present, that no heading is glued to the end of a
+table row, and that every relative link and heading anchor resolves. GitHub
+renders all of those mistakes without complaint, so they look correct on the page
+and are wrong in the data. The same script runs on every push and pull request.
+
+```sh
+./tools/selftest.py
+```
+
+Reintroduces the fault each check was built for and confirms the validator
+fails, restoring every file afterwards. A check that reports nothing looks
+exactly like a check that cannot fire, and three drafts of one shipped in that
+state. Run it after touching `validate.py`; the git hook does too, and so does
+CI.
+
+```sh
+./install-hooks.sh
+```
+
+Installs the pre-commit hook. Hooks live in `.git/hooks/`, which git does not
+track, so a fresh clone has none until this is run.
 
 It is a structure check only. Whether a game genuinely debuted on a platform is
 a research question no script can settle; [`CONSISTENCY.md`](CONSISTENCY.md)
