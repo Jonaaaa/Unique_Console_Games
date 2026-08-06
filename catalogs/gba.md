@@ -120,7 +120,9 @@ without a Western release of any kind.
 ## Coverage gaps
 
 - Licensed and Japan-only tails characterised, not enumerated.
-- NSO's GBA library is expanding; `Ported` is a floor.
+- Every `Stranded` row here is provisional in one direction only: the status caveat above explains why
+  `Ported` is a floor, and the practical effect is that this file needs rechecking whenever Nintendo
+  adds to the Switch Online library.
 - e-Reader content not catalogued.
 
 ## Sources

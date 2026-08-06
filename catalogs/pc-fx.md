@@ -16,7 +16,7 @@ NEC's successor to the PC Engine launched three weeks after the PlayStation with
 sprite work, on the theory that Japan's anime market would carry it.
 
 It did not. The PC-FX sold ~400,000 units in Japan only and its library is roughly
-**80% visual novels and dating sims**. Combined with NEC's exit from hardware and
+**roughly three-quarters visual novels and dating sims**. Combined with NEC's exit from hardware and
 Hudson's absorption into Konami, this is the most completely stranded platform
 here: essentially nothing has ever been reissued, and essentially nothing ever
 will be.

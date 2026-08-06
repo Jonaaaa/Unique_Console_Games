@@ -57,8 +57,8 @@ own rights.
 
 - Complete for the 8 commercial releases; a small homebrew scene has since produced
  further software, which is out of scope.
-- Install-base figures were never published because the chipset shipped inside
- third-party hardware.
+- No install-base figure exists to check any of this against, for the reason the
+ summary gives, so there is no way to tell how many of these eight ever sold.
 
 ## Sources
 
