@@ -369,9 +369,11 @@ def check_repeats(path: Path) -> list[str]:
         for first, second in zip(sentences, sentences[1:]):
             a = set(re.findall(r"[a-z]{5,}", first.lower()))
             b = set(re.findall(r"[a-z]{5,}", second.lower()))
-            if not a or not b:
-                continue
-            if len(a & b) / min(len(a), len(b)) >= 0.6:
+            # Three content words minimum, or the arithmetic is meaningless: a
+            # sentence with one long word shares 100% of it the moment the next
+            # sentence repeats that word, which is how `Re:coded` and `Star Fox
+            # Adventures` were being reported for saying two different things.
+            if min(len(a), len(b)) >= 3 and len(a & b) / min(len(a), len(b)) >= 0.6:
                 problems.append(f"{rel}:{lineno}: {cells[0]!r} says the same thing twice: "
                                 f"{first[:48]!r} then {second[:48]!r}")
                 break
