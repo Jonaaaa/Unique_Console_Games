@@ -75,7 +75,7 @@ migrated.
 | Muramasa: The Demon Blade | 2009 | Vanillaware | Marvelous / XSEED | Action RPG | 1 | No | Ported | Vita (2013, *Rebirth*) |  | Sold | A hand-drawn side-scrolling action game set in feudal Japan. Its Vita version added extra chapters. |
 | New Super Mario Bros. Wii | 2009 | Nintendo EAD | Nintendo | Platformer | 1–4 | No | **Stranded** |  |  | Sold | 30.32M. The only mainline New Super Mario Bros. game never re-released. |
 | Punch-Out!! | 2009 | Next Level Games | Nintendo | Sports | 1–2 | No | **Stranded** |  |  | Sold | A boxing game built on memorising tells, and the series' last entry after fifteen years. |
-| Sin & Punishment: Star Successor | 2009 | Treasure | Nintendo | Rail shooter | 1–2 | No | **Stranded** |  |  | Sold | Treasure's last major game. A rail shooter aimed with the remote, and Treasure's last major game. |
+| Sin & Punishment: Star Successor | 2009 | Treasure | Nintendo | Rail shooter | 1–2 | No | **Stranded** |  |  | Sold | A rail shooter aimed with the remote, and Treasure's last major game. |
 | Wii Sports Resort | 2009 | Nintendo EAD | Nintendo | Sports | 1–4 | No | **Stranded** |  |  | Sold | 33.14M. Required MotionPlus, so it is doubly peripheral-locked. |
 | Donkey Kong Country Returns | 2010 | Retro Studios | Nintendo | Platformer | 1–2 | No | Ported | 3DS (2013), Switch (2025, *HD*) |  | Sold | Retro Studios reviving the SNES series, with a difficulty to match. Ported to Nintendo 3DS and again to Switch. |
 | Kirby's Epic Yarn | 2010 | Good-Feel / HAL | Nintendo | Platformer | 1–2 | No | Ported | 3DS (2019, *Extra Epic Yarn*) |  | Sold | A platformer where everything is made of fabric and the character cannot die. Rebuilt for Nintendo 3DS. |

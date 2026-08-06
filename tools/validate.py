@@ -402,15 +402,16 @@ def check_repeats(path: Path) -> list[str]:
         cells = [c.strip() for c in CELL_SPLIT_RE.split(line)[1:-1]]
         if len(cells) != EXPECTED_CELLS:
             continue
-        sentences = [s for s in SENTENCE_RE.split(cells[11]) if len(s.split()) >= 5]
+        sentences = [s for s in SENTENCE_RE.split(cells[11]) if len(s.split()) >= 3]
         for first, second in zip(sentences, sentences[1:]):
             a = set(re.findall(r"[a-z]{5,}", first.lower()))
             b = set(re.findall(r"[a-z]{5,}", second.lower()))
-            # Three content words minimum, or the arithmetic is meaningless: a
-            # sentence with one long word shares 100% of it the moment the next
-            # sentence repeats that word, which is how `Re:coded` and `Star Fox
-            # Adventures` were being reported for saying two different things.
-            if min(len(a), len(b)) >= 3 and len(a & b) / min(len(a), len(b)) >= 0.6:
+            # Two content words minimum. One is meaningless: a sentence with a
+            # single long word shares all of it the moment the next sentence
+            # repeats that word. Two still reports `Star Fox Adventures` and
+            # `Panzer Dragoon Orta`, which say two different things about the
+            # same subject, and that is the price of seeing the short leads.
+            if min(len(a), len(b)) >= 2 and len(a & b) / min(len(a), len(b)) >= 0.6:
                 problems.append(f"{rel}:{lineno}: {cells[0]!r} says the same thing twice: "
                                 f"{first[:48]!r} then {second[:48]!r}")
                 break

@@ -44,7 +44,7 @@ without a Western release of any kind.
 | Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Availability | Notes |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | Advance Wars | 2001 | Intelligent Systems | Nintendo | Turn-based strategy | 1–4 | No | Ported | Wii U Virtual Console; Switch (2023, *Re-Boot Camp* remake) |  | Sold | Turn-based war on a grid, held back in Japan for years after the September 2001 attacks. |
-| Car Battler Joe | 2001 | Ancient | Natsume | Action RPG | 1–2 | No | **Stranded** |  |  | Sold | Yuzo Koshiro's studio. Part road-combat game, part role-playing game, from Yuzo Koshiro's studio Ancient. |
+| Car Battler Joe | 2001 | Ancient | Natsume | Action RPG | 1–2 | No | **Stranded** |  |  | Sold | Part road-combat game, part role-playing game, from Yuzo Koshiro's studio Ancient. |
 | Castlevania: Circle of the Moon | 2001 | KCEK | Konami | Action-adventure | 1 | No | Ported | *Castlevania Advance Collection* (2021) |  | Sold | Launch title. The first Advance entry, a launch title with a card-combination magic system. |
 | Golden Sun | 2001 | Camelot | Nintendo | RPG | 1–2 | No | Ported | Wii U Virtual Console, NSO |  | Sold | A role-playing game where elemental spirits are both party members and puzzle tools. Reached Wii U Virtual Console and, later, Nintendo Classics. |
 | Klonoa: Empire of Dreams | 2001 | Namco | Namco | Platformer | 1 | No | **Stranded** |  |  | Sold | Omitted from the 2022 *Klonoa Phantasy Reverie Series*, which covered the PlayStation 1 and Wii games. |

@@ -39,11 +39,11 @@ candidate here.
 
 | Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Availability | Notes |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| Anime Land | 1995 | Casio | Casio | Creation | 1 | No | **Stranded** |  |  | Sold | An animation and sticker-making tool for the console built around a thermal sticker printer. It produces physical output, which is the one thing no reissue can reproduce. |
-| Lupiton's Wonder Palette | 1995 | Casio | Casio | Creation | 1 | No | **Stranded** |  |  | Sold | A drawing and sticker-printing title; its output medium is thermal adhesive paper, so there is nothing a re-release could reproduce. |
-| Nigaoe Artist | 1995 | Casio | Casio | Creation | 1 | No | **Stranded** |  |  | Sold | A launch title whose entire purpose is composing faces and printing them as stickers; software whose output is physical. |
-| Wanwan Aijou Monogatari | 1995 | Casio | Casio | Pet sim | 1 | No | **Stranded** |  |  | Sold | A dog-raising game with printable results. |
-| Little Romance | 1996 | Casio | Casio | Visual novel | 1 | No | **Stranded** |  |  | Sold | A dating sim, and among the rarest commercially released console games; the Loopy's tiny print runs make original cartridges extremely scarce. |
+| Anime Land | 1995 | Casio | Casio | Creation | 1 | No | **Stranded** |  | Japanese | Sold | An animation and sticker-making tool for the console built around a thermal sticker printer. It produces physical output, which is the one thing no reissue can reproduce. |
+| Lupiton's Wonder Palette | 1995 | Casio | Casio | Creation | 1 | No | **Stranded** |  | Japanese | Sold | A drawing and sticker-printing title; its output medium is thermal adhesive paper, so there is nothing a re-release could reproduce. |
+| Nigaoe Artist | 1995 | Casio | Casio | Creation | 1 | No | **Stranded** |  | Japanese | Sold | A launch title whose entire purpose is composing faces and printing them as stickers; software whose output is physical. |
+| Wanwan Aijou Monogatari | 1995 | Casio | Casio | Pet sim | 1 | No | **Stranded** |  | Japanese | Sold | A dog-raising game with printable results. |
+| Little Romance | 1996 | Casio | Casio | Visual novel | 1 | No | **Stranded** |  | Japanese | Sold | A dating sim, and among the rarest commercially released console games; the Loopy's tiny print runs make original cartridges extremely scarce. |
 
 ## Excluded
 
