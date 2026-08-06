@@ -45,7 +45,7 @@ since aged out. `Ported` count of **zero**.
 | Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Availability | Notes |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | Letter Factory | 2003 | LeapFrog | LeapFrog | Edutainment | 1 | No | **Stranded** |  |  | Sold | **Leapster.** A launch title and LeapFrog's own property rather than a licence, yet still unreissued, because the company left cartridge hardware entirely. |
-| Dora the Explorer: Wildlife Rescue | 2004 | LeapFrog | LeapFrog | Edutainment | 1 | No | **Stranded** |  |  | Sold | **Leapster.** Nickelodeon licence. |
+| Dora the Explorer: Wildlife Rescue | 2004 | LeapFrog | LeapFrog | Edutainment | 1 | No | **Stranded** |  |  | Sold | **Leapster.** An educational game on a Nickelodeon licence, which is the reason it cannot move: the platform is gone and the character rights were only ever leased. |
 | Nicktoons: Android Invasion | 2008 | LeapFrog | LeapFrog | Platformer | 1 | No | **Stranded** |  |  | Sold | **Didj.** A genuine platformer rather than an activity collection, which is what made Didj distinct, and it carries a Nickelodeon licence. |
 | Star Wars Jedi Math | 2008 | LeapFrog | LeapFrog | Edutainment | 1 | No | **Stranded** |  |  | Sold | **Didj.** A **Lucasfilm licence used to teach arithmetic**, now Disney-owned, an unreissuable combination. |
 | Disney Princess: Pathway to Adventure | 2014 | LeapFrog | LeapFrog | Edutainment | 1 | No | **Stranded** |  |  | Sold | **LeapTV.** Motion-controlled, so it depends on a discontinued camera peripheral as well as the Disney licence. |

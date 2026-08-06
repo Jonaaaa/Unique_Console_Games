@@ -41,7 +41,7 @@ What remains stranded is stranded because SNK **does not own it alone**:
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | King of Fighters R-1 | 1998 | SNK | SNK | Fighting | 1–2 | No | **Stranded** |  |  | Sold | A monochrome NGP launch title, superseded by `R-2` on colour hardware and skipped by the reissue programme. |
 | Baseball Stars Color | 1999 | SNK | SNK | Sports | 1–2 | No | **Stranded** |  |  | Sold | Original teams rather than licensed ones, but no series demand behind it. |
-| Biomotor Unitron | 1999 | Yumekobo | SNK | RPG | 1–2 | No | Ported | Switch (2021, *NGPC Selection Vol. 2*) |  | Sold | A mech-customisation dungeon RPG. |
+| Biomotor Unitron | 1999 | Yumekobo | SNK | RPG | 1–2 | No | Ported | Switch (2021, *NGPC Selection Vol. 2*) |  | Sold | A dungeon role-playing game about building and rebuilding a fighting robot between runs, and one of the deepest games on the handheld. Reissued on Switch in the second `NGPC Selection`. |
 | Dark Arms: Beast Buster 1999 | 1999 | SNK | SNK | Action RPG | 1 | No | Ported | Switch (2021, *NGPC Selection Vol. 2*) |  | Sold | An action role-playing game where you grow weapons from harvested seeds. Reissued individually on Switch. |
 | Faselei! | 1999 | Sacnoth | SNK | Tactical RPG | 1 | No | Ported | Switch (2021, *NGPC Selection Vol. 2*) |  | Sold | From the `Shadow Hearts` team, whose console output remains stranded, making this the only accessible Sacnoth game of the era. |
 | Fatal Fury: First Contact | 1999 | SNK | SNK | Fighting | 1–2 | No | Ported | Switch (2020), *NGPC Selection Vol. 1* |  | Sold | A handheld fighting game with the arcade cast redrawn in a two-head-high style that suits the small screen. Reissued on Switch. |

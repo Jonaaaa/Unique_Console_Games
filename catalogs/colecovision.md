@@ -46,7 +46,7 @@ platform famous belong to Nintendo, Sega and Universal; none of whom would reiss
 | Venture | 1982 | Exidy | Coleco | Action | 1 | No | Ported | ColecoVision Flashback (2014) |  | Sold | First home release of the Exidy cabinet. |
 | War Room | 1983 | Coleco | Coleco | Strategy | 1–2 | No | **Stranded** |  |  | Sold | A Cold War nuclear-strategy game released the year of *WarGames*. Coleco original; never reissued. |
 | 2010: The Graphics Action Game | 1984 | Coleco | Coleco | Action | 1 | No | **Stranded** |  |  | Sold | A licensed tie-in to the *2010: The Year We Make Contact* film, released as Coleco was collapsing. |
-| Dam Busters | 1984 | Coleco | Coleco | Flight simulation | 1 | No | **Stranded** |  |  | Sold | Licensed from the 1955 film. |
+| Dam Busters | 1984 | Coleco | Coleco | Flight simulation | 1 | No | **Stranded** |  |  | Sold | A bombing-run game licensed from the 1955 film, which is the licence that keeps it where it is. ColecoVision compilations have never included it. |
 | Fortune Builder | 1984 | Coleco | Coleco | Simulation | 1–4 | No | **Stranded** |  |  | Sold | **An early city-building / property simulation**, predating *SimCity* by five years and supporting four players. The platform's most historically interesting game and unavailable. |
 | Illusions | 1984 | Coleco | Coleco | Puzzle | 1–2 | No | **Stranded** |  |  | Sold | A late Coleco original released as the company was winding down; Coleco's 1988 liquidation left no rights holder with an interest. |
 | Telly Turtle | 1984 | Coleco | Coleco | Puzzle | 1 | No | **Stranded** |  |  | Sold | One of the final releases before Coleco exited the market. |

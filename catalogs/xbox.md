@@ -52,7 +52,7 @@ is `Ported` as normal.
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | Amped: Freestyle Snowboarding | 2001 | Indie Built | Microsoft | Snowboarding | 1–2 | Dead | **Stranded** |  |  | Sold | Licensed soundtrack; Indie Built was closed in 2006. |
 | Dead or Alive 3 | 2001 | Team Ninja | Tecmo | Fighting | 1–4 | No | **Stranded** |  |  | Sold | Launch title. Team Ninja's DOA output split across platforms; this entry never moved. |
-| Fuzion Frenzy | 2001 | Blitz Games | Microsoft | Party | 1–4 | No | **Stranded** |  |  | Sold | Launch title. |
+| Fuzion Frenzy | 2001 | Blitz Games | Microsoft | Party | 1–4 | No | **Stranded** |  |  | Sold | A launch title and a party game built entirely around four players on one console, which is why it never suited a later re-release. Microsoft has left it alone since. |
 | Halo: Combat Evolved | 2001 | Bungie | Microsoft | FPS | 1–16 | Dead | Ported | Xbox 360 (2011, *Anniversary*), Xbox One/PC (2020, *MCC*) |  | Sold | Launch title, and the reason the console existed. |
 | Oddworld: Munch's Oddysee | 2001 | Oddworld Inhabitants | Microsoft | Platformer | 1 | No | Ported | PlayStation 4, Switch, PC (2010–20) |  | Sold | Xbox launch exclusive that later escaped when Oddworld regained control. |
 | Project Gotham Racing | 2001 | Bizarre Creations | Microsoft | Racing | 1–4 | Dead | **Stranded** |  |  | Sold | The successor to `Metropolis Street Racer` (Dreamcast), which is also stranded. Licensed cars plus licensed radio; Bizarre closed in 2011. |
@@ -62,7 +62,7 @@ is `Ported` as normal.
 | MechAssault | 2002 | Day 1 Studios | Microsoft | Mech action | 1–8 | Dead | **Stranded** |  |  | Sold | The BattleTech licence has since moved to Paradox, splitting the rights. |
 | Otogi: Myth of Demons | 2002 | FromSoftware | Sega | Action | 1 | No | **Stranded** |  |  | Sold | FromSoftware pre-*Demon's Souls*. Both Otogi games are stranded, so a chunk of From's pre-Souls output is unavailable. |
 | Panzer Dragoon Orta | 2002 | Smilebit | Sega | Rail shooter | 1 | No | **Stranded** |  |  | Sold | The fourth Panzer Dragoon. `Panzer Dragoon` got a 2020 remake and `Zwei` was announced; Orta has never been touched. |
-| RalliSport Challenge | 2002 | Digital Illusions | Microsoft | Racing | 1–4 | Dead | **Stranded** |  |  | Sold | Licensed rally cars and teams. |
+| RalliSport Challenge | 2002 | Digital Illusions | Microsoft | Racing | 1–4 | Dead | **Stranded** |  |  | Sold | A rally game with licensed cars and team liveries, and the licences expired with the console. Microsoft's backward-compatibility programme skipped it for that reason. |
 | Steel Battalion | 2002 | Capcom | Capcom | Mech simulator | 1 | No | **Stranded** |  |  | Sold | Shipped with a **two-piece controller: 40+ buttons, two joysticks and three foot pedals**, including an eject lever that deletes your save if you fail to use it. Unreleasable. |
 | Toejam & Earl III: Mission to Earth | 2002 | Humanature | Sega | Action | 1–2 | No | **Stranded** |  |  | Sold | The only Toejam & Earl game absent from Sega's collections. |
 | Beyond Good & Evil | 2003 | Ubisoft Montpellier | Ubisoft | Action-adventure | 1 | No | Sim-ship | GameCube, PlayStation 2, PC (2003, same day), HD versions (2011) |  | Sold | Also catalogued under [GameCube](gamecube.md) and [PlayStation 2](ps2.md). |

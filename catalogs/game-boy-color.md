@@ -55,7 +55,7 @@ the only games in either series absent from *Rare Replay*.
 | Dragon Warrior Monsters 2 | 2001 | Tose | Enix | RPG | 1–2 | No | Ported | 3DS (2014 remake, Japan), Switch (2024) |  | Sold | The monster-collecting spin-off's sequel, split across two versions. Remade for Nintendo 3DS in Japan. |
 | Resident Evil Gaiden | 2001 | M4 | Capcom | Survival horror | 1 | No | **Stranded** |  |  | Sold | A wholly original Resident Evil with a first-person timing-based combat system. Never reissued in any form. |
 | The Legend of Zelda: Oracle of Ages | 2001 | Flagship / Capcom | Nintendo | Action-adventure | 1 | No | Ported | 3DS Virtual Console, NSO |  | Sold | One half of a pair made by Capcom, linked to the other by a password. Reached the Nintendo 3DS Virtual Console. |
-| The Legend of Zelda: Oracle of Seasons | 2001 | Flagship / Capcom | Nintendo | Action-adventure | 1 | No | Ported | 3DS Virtual Console, NSO |  | Sold | Linked to *Oracle of Ages* by password. |
+| The Legend of Zelda: Oracle of Seasons | 2001 | Flagship / Capcom | Nintendo | Action-adventure | 1 | No | Ported | 3DS Virtual Console, NSO |  | Sold | Half of a paired release, linked to `Oracle of Ages` by a password system that carries a finished save into the other game. Both reached Virtual Console and Switch Online, where the linking still works. |
 | Shantae | 2002 | WayForward | Capcom | Platformer | 1 | No | Ported | 3DS Virtual Console (2013), Switch/PlayStation 4/5/Xbox (2021) |  | Sold | Released at the very end of the GBC's life into a dead market; original carts became famously expensive. |
 
 ## Contested

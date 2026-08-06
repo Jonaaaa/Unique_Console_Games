@@ -58,7 +58,7 @@ exception, and is stranded only because it was never released at all.
 | Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Availability | Notes |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | Galactic Pinball | 1995 | Intelligent Systems | Nintendo | Pinball | 1 | No | Ported | Switch 2 (2026, launch lineup) |  | Sold | Four pinball tables using the stereoscopic display for depth rather than spectacle. Part of the February 2026 launch lineup. |
-| Golf | 1995 | T&E Soft | Nintendo | Sports | 1 | No | Ported | Switch 2 (2026, launch lineup) |  | Sold | JP: *T&E Virtual Golf*. |
+| Golf | 1995 | T&E Soft | Nintendo | Sports | 1 | No | Ported | Switch 2 (2026, launch lineup) |  | Sold | Called `T&E Virtual Golf` in Japan. A golf game using the stereoscopic display for depth down the fairway, which is the one thing the hardware did well. Included in the 2026 Switch 2 launch lineup. |
 | Jack Bros. | 1995 | Atlus | Atlus | Action | 1 | No | Ported | Switch 2 (2026, May update) |  | Sold | **The first Megami Tensei game released in the West**, years before the series arrived properly. |
 | Mario Clash | 1995 | Nintendo R&D1 | Nintendo | Action | 1 | No | Ported | Switch 2 (2026, March update) |  | Sold | A reworking of the *Mario Bros.* arcade concept using foreground/background planes. |
 | Mario's Tennis | 1995 | Nintendo R&D1 | Nintendo | Sports | 1 | No | Ported | Switch 2 (2026, March update) |  | Sold | The North American pack-in, and the game most people who owned a Virtual Boy actually played. |

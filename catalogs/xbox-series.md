@@ -62,7 +62,7 @@ The one durable cause is the familiar one: **licensed cars**. `Forza Motorsport`
 | Indiana Jones and the Great Circle | 2024 | MachineGames | Microsoft | Action-adventure | 1 | No | Ported | PlayStation 5 (2025), PC |  | Sold | Disney/Lucasfilm licence, which did not prevent the PlayStation 5 port. |
 | Senua's Saga: Hellblade II | 2024 | Ninja Theory | Microsoft | Action-adventure | 1 | No | Ported | PlayStation 5 (2025), PC |  | Sold | Ninja Theory's second Hellblade, and part of the 2024–25 PlayStation wave. |
 | Avowed | 2025 | Obsidian | Microsoft | Action RPG | 1 | No | **Stranded** |  |  | Sold | PC version day-one; no console release elsewhere yet. |
-| South of Midnight | 2025 | Compulsion Games | Microsoft | Action-adventure | 1 | No | **Stranded** |  |  | Sold | PC version day-one. |
+| South of Midnight | 2025 | Compulsion Games | Microsoft | Action-adventure | 1 | No | **Stranded** |  |  | Sold | Shipped on PC the same day, which under the PC rule leaves this a console debut rather than a multiplatform launch. Microsoft has moved a great deal to PlayStation since 2024 and not yet this. |
 | The Outer Worlds 2 | 2025 | Obsidian | Microsoft | Action RPG | 1 | No | Sim-ship | PlayStation 5, PC (2025, same day) |  | Sold | Microsoft's multiplatform pivot applied from day one rather than retroactively, the clearest sign the exclusivity era has ended. |
 
 ## Contested

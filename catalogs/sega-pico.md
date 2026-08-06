@@ -51,7 +51,7 @@ practice, a platform with no reissues of any kind.
 | Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Availability | Notes |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | Hello Kitty titles (various) | 1994–2003 | Sega | Sega | Edutainment | 1 | No | **Stranded** |  |  | Sold | Sanrio licences across a dozen Pico releases. Live licence, dead platform, hardware-dependent software. |
-| Richard Scarry's Busytown | 1994 | Sega | Sega | Edutainment | 1 | No | **Stranded** |  |  | Sold | Licensed from the Scarry estate. |
+| Richard Scarry's Busytown | 1994 | Sega | Sega | Edutainment | 1 | No | **Stranded** |  |  | Sold | A reading and activity title licensed from the Richard Scarry estate, for a console aimed at children too young to hold a pad. The licence is why it cannot move and the format is why nobody has tried. |
 | Sonic the Hedgehog's Gameworld | 1994 | Sega | Sega | Edutainment | 1 | No | **Stranded** |  |  | Sold | **A mainline-character Sonic game that has never been reissued or acknowledged.** Sega has reissued essentially every other Sonic title across its collections; this one is absent because it needs the Pico's tablet and book hardware to function. |
 | Tails and the Music Maker | 1994 | Sega | Sega | Music / edutainment | 1 | No | **Stranded** |  |  | Sold | A Tails-led music toy. The only Tails-starring game outside the Game Gear `Tails Adventure` line, and equally stranded. |
 | A Year at Pooh Corner | 1995 | Sega | Sega | Edutainment | 1 | No | **Stranded** |  |  | Sold | A Disney licence on Sega hardware; an arrangement neither company would reconstruct. |

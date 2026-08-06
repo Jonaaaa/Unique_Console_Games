@@ -46,7 +46,7 @@ On top of that:
 | Magic Knight Rayearth | 1995 | Sega | Sega / Working Designs | Action RPG | 1 | No | **Stranded** |  |  | Sold | The **last official Saturn release in North America** (1998), three years after Japan. Anime licence blocks reissue. |
 | Panzer Dragoon | 1995 | Team Andromeda | Sega | Rail shooter | 1 | No | Ported | Switch, PC, PlayStation 4, Xbox (2020, *Remake*) |  | Sold | The remake is a rebuild, not an emulation, which is why it took 25 years. |
 | Shinobi Legions | 1995 | Sega | Sega / Vic Tokai | Action-platformer | 1 | No | **Stranded** |  |  | Sold | PAL: *Shinobi X*. Live-action digitised sprites. |
-| Virtua Fighter 2 | 1995 | Sega AM2 | Sega | Fighting | 1–2 | No | Ported | *Sega Ages*, PlayStation 2, Switch Online (Expansion Pack) |  | Sold | First home version of the 1994 cabinet. |
+| Virtua Fighter 2 | 1995 | Sega AM2 | Sega | Fighting | 1–2 | No | Ported | *Sega Ages*, PlayStation 2, Switch Online (Expansion Pack) |  | Sold | The first home version of the 1994 cabinet and the game that sold Saturns in Japan. Later reissues exist, so the Saturn disc is no longer the only route. |
 | Albert Odyssey: Legend of Eldean | 1996 | Sunsoft | Working Designs | RPG | 1 | No | **Stranded** |  |  | Sold | Working Designs dissolved in 2005 and Sunsoft has never reclaimed the localisation. |
 | Christmas NiGHTS into Dreams | 1996 | Sonic Team | Sega | Action | 1 | No | **Stranded** |  |  | Sold | A free promotional disc whose content changes with the console's internal clock. The 2012 re-release included some of it as a mode, but the standalone disc has never been reissued. |
 | Cyber Troopers Virtual-On | 1996 | Sega AM3 | Sega | Mech fighting | 1–2 | No | Ported | Dreamcast, Xbox 360 (2009), PlayStation 4 (2018) |  | Sold | First home version of the 1995 cabinet; the Saturn release supported the Twin Stick controller. |
@@ -55,7 +55,7 @@ On top of that:
 | Enemy Zero | 1996 | Warp | Sega | Survival horror | 1 | No | **Stranded** |  |  | Sold | Kenji Eno's invisible-enemy horror game; enemies are located by sound alone. Warp dissolved and Eno died in 2013. |
 | Fighters Megamix | 1996 | Sega AM2 | Sega | Fighting | 1–2 | No | **Stranded** |  |  | Sold | Crosses *Virtua Fighter* with *Fighting Vipers* and adds guest characters, including a vehicle from *Daytona USA*, a licensing knot of Sega's own making. |
 | Guardian Heroes | 1996 | Treasure | Sega | Beat 'em up / RPG | 1–6 | No | Ported | Xbox 360 (2011) |  | Sold | Six-player versus mode, branching story, RPG levelling. |
-| Linkle Liver Story | 1996 | Nextech | Sega | Action RPG | 1 | No | **Stranded** |  | Japanese | Sold | Japan-only. |
+| Linkle Liver Story | 1996 | Nextech | Sega | Action RPG | 1 | No | **Stranded** |  | Japanese | Sold | A Japan-only action role-playing game with a cast of animals, from the team that later made `Grandia`. Never localised and never reissued, which leaves the Saturn disc as the only copy. |
 | Mr. Bones | 1996 | Zono | Sega | Platformer | 1 | No | **Stranded** |  |  | Sold | A blues soundtrack by Ronnie Montrose, music rights on top of obscurity. |
 | NiGHTS into Dreams | 1996 | Sonic Team | Sega | Action | 1–2 | No | Ported | PlayStation 2 (2008), PlayStation 3, Xbox 360, PC (2012) |  | Sold | Shipped with the 3D Control Pad, the Saturn's analogue controller. |
 | Panzer Dragoon II Zwei | 1996 | Team Andromeda | Sega | Rail shooter | 1 | No | **Stranded** |  |  | Sold | A remake was announced in 2020 and has not materialised. |

@@ -24,8 +24,8 @@ and only a few Lynx titles have been picked up.
 
 | | Count |
 |---|---|
-| **Debut games** | **15** |
-| of which still `Stranded` | 10 |
+| **Debut games** | **13** |
+| of which still `Stranded` | 8 |
 | of which since `Ported` | 5 |
 | **Contested** | 1 |
 
@@ -50,14 +50,12 @@ and only a few Lynx titles have been picked up.
 | Warbirds | 1989 | Epyx | Atari | Flight combat | 1–6 | No | **Stranded** |  |  | Sold | Six-player dogfighting over ComLynx: one of the earliest multi-unit handheld deathmatch games, and unreproducible without the cables. |
 | Klax | 1990 | Atari | Atari | Puzzle | 1 | No | Ported | *Atari 50* (2022), and many platforms |  | Sold | ⚠ [Contested](#contested), the arcade cabinet is out of scope, but home versions appeared across several platforms in the same window. |
 | Todd's Adventures in Slime World | 1990 | Epyx | Epyx | Action-platformer | 1–6 | No | Ported | Genesis (1992), PC |  | Sold | Its six-player co-op was Lynx-only; the Genesis version cut it. |
-| Zarlor Mercenary | 1990 | Epyx | Atari | Shoot 'em up | 1–4 | No | **Stranded** |  |  | Sold | Four-player co-op shooter over ComLynx. |
+| Zarlor Mercenary | 1990 | Epyx | Atari | Shoot 'em up | 1–4 | No | **Stranded** |  |  | Sold | A cooperative shooter for four handhelds daisy-chained over ComLynx, so its main mode needs four consoles, four cartridges and three cables. That is why no compilation has attempted it. |
 | Dracula the Undead | 1991 | Atari | Atari | Adventure | 1 | No | **Stranded** |  |  | Sold | An adaptation of the Stoker novel: public domain, so the licence is not the barrier; obscurity is. |
 | Rampart | 1991 | Atari | Atari | Strategy | 1–2 | No | Ported | *Atari 50* (2022) |  | Sold | First home release on this platform, though other conversions followed quickly. |
-| Scrapyard Dog | 1991 | Atari | Atari | Platformer | 1 | No | **Stranded** |  |  | Sold | Also on 7800. |
 | Turbo Sub | 1991 | Imagitec | Atari | Rail shooter | 1 | No | Ported | *Atari 50* (2022) |  | Sold | One of the few Lynx titles Atari has reissued. |
-| Basketbrawl | 1992 | Atari | Atari | Sports | 1–2 | No | **Stranded** |  |  | Sold | Also on 7800. |
 | Battlewheels | 1993 | Beyond Games | Beyond Games | Vehicular combat | 1–6 | No | **Stranded** |  |  | Sold | Six-player car combat over ComLynx, released as the platform was dying. Beyond Games no longer exists. |
-| Malibu Bikini Volleyball | 1993 | Hand Made Software | Atari | Sports | 1–2 | No | **Stranded** |  |  | Sold | A late release into a dead market. |
+| Malibu Bikini Volleyball | 1993 | Hand Made Software | Atari | Sports | 1–2 | No | **Stranded** |  |  | Sold | A volleyball game released in 1993 into a handheld market the Game Boy had already taken, and one of the last Lynx titles Atari published. Nothing has reissued it and the branding would not survive the attempt. |
 
 ## Contested
 
@@ -69,6 +67,8 @@ and only a few Lynx titles have been picked up.
 
 | Title | Year | Why excluded |
 |---|---|---|
+| Scrapyard Dog | 1991 | Debuted on the Atari 7800 in 1990; this is a port a year later, so it fails the debut test. Catalogued under [Atari 7800](atari-7800.md). |
+| Basketbrawl | 1992 | Debuted on the Atari 7800 in 1990; this is a port two years later. Catalogued under [Atari 7800](atari-7800.md). |
 | California Games | 1989 | The pack-in title, but a Commodore 64 original (1987). |
 | Ms. Pac-Man, Pac-Land, Xenophobe, Joust, Gauntlet | 1990–92 | Arcade conversions with earlier home releases elsewhere. |
 | Shanghai, Chip's Challenge sequels, Checkered Flag | 1990–91 | Home computer originals or later entries. |

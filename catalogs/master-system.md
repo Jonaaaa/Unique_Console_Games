@@ -40,9 +40,9 @@
 | Fantasy Zone II: The Tears of Opa-Opa | 1987 | Sega | Sega | Shoot 'em up | 1 | No | Ported | 3DS (2014, *Sega 3D Classics*) |  | Sold | Unusually, the **Master System version came first**; the arcade version followed years later. |
 | Miracle Warriors: Seal of the Dark Lord | 1987 | Sega | Sega | RPG | 1 | No | **Stranded** |  |  | Sold | An early Sega RPG whose Western localisation has never been reissued in any form. |
 | Phantasy Star | 1987 | Sega | Sega | RPG | 1 | No | Ported | Sega Ages, Genesis collections, Switch |  | Sold | A first-person dungeon RPG with animated enemies, years ahead of its Western contemporaries. |
-| Zillion | 1987 | Sega | Sega | Action-adventure | 1 | No | **Stranded** |  |  | Sold | Anime licence, which blocks reissue. |
+| Zillion | 1987 | Sega | Sega | Action-adventure | 1 | No | **Stranded** |  |  | Sold | A side-scrolling shooter on an anime licence, and the licence is the obstacle. Sega has reissued a great deal of the Master System library and never this. |
 | Alex Kidd: The Lost Stars | 1988 | Sega | Sega | Platformer | 1 | No | **Stranded** |  |  | Sold | Arcade-derived, but the home version is the collectable one. |
-| Golvellius: Valley of Doom | 1988 | Compile | Sega | Action RPG | 1 | No | **Stranded** |  |  | Sold | Compile's Zelda-like; never reissued. |
+| Golvellius: Valley of Doom | 1988 | Compile | Sega | Action RPG | 1 | No | **Stranded** |  |  | Sold | Compile's open-world action-adventure, the closest the Master System came to `Zelda`, and one of the few games of its size on the hardware. Never included in a Sega collection. |
 | Kenseiden | 1988 | Sega | Sega | Action-platformer | 1 | No | **Stranded** |  |  | Sold | 8-bit-only Sega action title, absent from collections that concentrate on the Genesis era. |
 | Psycho Fox | 1989 | Vic Tokai | Sega | Platformer | 1 | No | **Stranded** |  |  | Sold | Vic Tokai's engine later became *DecapAttack* on Genesis. |
 | Wonder Boy III: The Dragon's Trap | 1989 | Westone | Sega | Action-adventure | 1 | No | Ported | Multiplatform (2017 remake) |  | Sold | The remake lets you toggle between original and new art in real time. |
@@ -53,7 +53,7 @@
 | Sonic the Hedgehog | 1991 | Ancient | Sega | Platformer | 1 | No | Ported | Sega collections, Game Gear |  | Sold | ⚠ [Contested](#contested): a **completely different game** from the Genesis original, built by Yuzo Koshiro's studio. |
 | Land of Illusion Starring Mickey Mouse | 1992 | Sega | Sega | Platformer | 1 | No | **Stranded** |  |  | Sold | Disney licence. The 8-bit *Illusion* games are separate designs from the Genesis ones. |
 | Master of Darkness | 1992 | SIMS | Sega | Action-platformer | 1 | No | **Stranded** |  |  | Sold | A Castlevania-alike Sega made because it could not license Castlevania. Never reissued. |
-| Ecco the Dolphin | 1993 | Novotrade | Sega | Action-adventure | 1 | No | Ported | Sega collections |  | Sold | The 8-bit version is a distinct build. |
+| Ecco the Dolphin | 1993 | Novotrade | Sega | Action-adventure | 1 | No | Ported | Sega collections |  | Sold | A separate 8-bit build rather than a conversion, with its own levels and a different structure from the Genesis game. Sega's collections carry the Genesis version, so this one stayed behind until later compilations picked it up. |
 | Micro Machines | 1993 | Codemasters | Codemasters | Racing | 1–2 | No | **Stranded** |  |  | Sold | The Micro Machines toy licence has changed hands repeatedly. |
 | Power Strike II | 1993 | Compile | Sega | Shoot 'em up | 1 | No | **Stranded** |  |  | Sold | PAL-only. Compile's follow-up to *Aleste*; original carts are extremely scarce. |
 | Sonic Chaos | 1993 | Aspect | Sega | Platformer | 1 | No | Ported | Sega collections |  | Sold | An 8-bit entry built for the smaller screen rather than scaled down from the Genesis games. Sega-owned. |
@@ -61,10 +61,10 @@
 | The Ottifants | 1993 | Graftgold | Sega | Platformer | 1 | No | **Stranded** |  |  | Sold | Licensed from a German cartoon; Europe-only. |
 | Turma da Mônica em: O Resgate | 1993 | Tectoy | Tectoy | Platformer | 1 | No | **Stranded** |  |  | Sold | **Brazil-only.** A reskin of *Wonder Boy III*. |
 | Sonic the Hedgehog: Triple Trouble | 1994 | Aspect | Sega | Platformer | 1 | No | Ported | Sega collections (as a Game Gear title) |  | Sold | The last and largest 8-bit Sonic, with vehicle sections. Sega's own, so its collections carry it. |
-| Geraldinho | 1995 | Tectoy | Tectoy | Platformer | 1 | No | **Stranded** |  |  | Sold | **Brazil-only.** |
+| Geraldinho | 1995 | Tectoy | Tectoy | Platformer | 1 | No | **Stranded** |  |  | Sold | **Brazil-only.** A Tectoy original built around a Brazilian comic-strip character, made for a market where the Master System outlived the rest of the world by years. The licence never left the country and neither did the game. |
 | Sapo Xulé: O Mestre do Kung Fu | 1995 | Tectoy | Tectoy | Action | 1 | No | **Stranded** |  |  | Sold | **Brazil-only.** A Sega game re-skinned around a Brazilian TV character. Never sold outside Brazil. |
 | Férias Frustradas do Pica-Pau | 1996 | Tectoy | Tectoy | Platformer | 1 | No | **Stranded** |  |  | Sold | **Brazil-only.** Woody Woodpecker licence. |
-| Sonic Blast | 1996 | Aspect | Sega | Platformer | 1 | No | **Stranded** |  |  | Sold | Brazil-only on Master System. |
+| Sonic Blast | 1996 | Aspect | Sega | Platformer | 1 | No | **Stranded** |  |  | Sold | **Brazil-only.** A Game Gear game Tectoy converted to the Master System for a market still buying the hardware in 1996. The Game Gear original is the version everyone else got. |
 
 ## Contested
 

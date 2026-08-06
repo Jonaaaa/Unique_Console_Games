@@ -43,7 +43,7 @@ market and has no games division. `Ported` count of **zero**.
 | XaviX Bowling | 2004 | SSD Company | SSD Company | Sports | 1–4 | No | **Stranded** |  |  | Sold | Shipped with a weighted plastic ball controller. |
 | XaviX Tennis | 2004 | SSD Company | SSD Company | Sports | 1–2 | No | **Stranded** |  |  | Sold | The launch title, bundled with a motion-sensing racket. Predates `Wii Sports` by two years and does essentially the same thing: the most historically significant entry on the platform, and unavailable. |
 | Jackie Chan Powerboxing | 2005 | SSD Company | SSD Company | Fitness | 1 | No | **Stranded** |  |  | Sold | Bundled with boxing gloves and carrying a **Jackie Chan likeness licence**: peripheral dependency plus a personal-rights deal, so doubly locked. |
-| XaviX Baseball | 2005 | SSD Company | SSD Company | Sports | 1–2 | No | **Stranded** |  |  | Sold | Bundled with a bat peripheral. |
+| XaviX Baseball | 2005 | SSD Company | SSD Company | Sports | 1–2 | No | **Stranded** |  |  | Sold | Sold bundled with a plastic bat the console reads directly, so the cartridge alone does nothing. The hardware was never sold widely and the peripheral is what makes it unrecoverable. |
 | XaviX Fishing | 2006 | SSD Company | SSD Company | Fishing | 1 | No | **Stranded** |  |  | Sold | Shipped with a rod-and-reel controller featuring force feedback. |
 
 ## Excluded
