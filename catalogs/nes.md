@@ -106,7 +106,7 @@ Intellivision. Arcade originals are out of scope and never disqualify.
 | Bible Adventures | 1991 | Wisdom Tree | Wisdom Tree | Platformer | 1 | No | **Stranded** |  |  | Sold | Unlicensed, published without Nintendo's approval using a lockout workaround. Never legitimised. |
 | Home Alone | 1991 | Bethesda | THQ | Action | 1 | No | **Stranded** |  |  | Sold | Film licence. Bethesda's first published game. |
 | Tiny Toon Adventures | 1991 | Konami | Konami | Platformer | 1 | No | **Stranded** |  |  | Sold | Warner cartoon licence; absent from every Konami collection. |
-| Cool World | 1992 | Ocean | Ocean | Platformer | 1 | No | **Stranded** |  |  | Sold | Film licence; Ocean defunct. A film tie-in from a publisher that no longer exists. |
+| Cool World | 1992 | Ocean Software | Ocean | Platformer | 1 | No | **Stranded** |  |  | Sold | Film licence; Ocean defunct. A film tie-in from a publisher that no longer exists. |
 | Gimmick! | 1992 | Sunsoft | Sunsoft | Platformer | 1 | No | Ported | Switch, PlayStation 4, PC (2023, *Gimmick! Special Edition*) |  | Sold | Japan/Scandinavia-only originally. Escaped in 2023 because Sunsoft owns it outright. |
 | M.C. Kids | 1992 | Virgin Games | Virgin | Platformer | 1 | No | **Stranded** |  |  | Sold | McDonald's licence. A platformer built as a McDonald's promotion, so the licence is the whole problem. |
 | Moon Crystal | 1992 | Hect | Hect | Platformer | 1 | No | **Stranded** |  | Japanese | Sold | Japan-only. Rotoscoped animation; publisher long defunct. |

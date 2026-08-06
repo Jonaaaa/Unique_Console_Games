@@ -47,11 +47,11 @@ here with **zero** ports:
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | Pocket Kingdom: Own the World | 2003 | Sumea | Nokia | Strategy RPG | 1–4 | Dead (2010) | **Stranded** |  |  | Sold | Built entirely around N-Gage Arena, persistent online territory control. With the service gone the game does not function at all, in the same category as `Warhawk` on PlayStation 3. |
 | Ashen | 2004 | Torus Games | Nokia | FPS | 1–4 | Dead (2010) | **Stranded** |  |  | Sold | The platform's technical showcase, a genuine 3D shooter on a 2004 phone. Widely regarded as the best N-Gage game and never reissued in any form. |
-| Pathway to Glory | 2004 | Redlynx | Nokia | Tactical strategy | 1–4 | Dead (2010) | **Stranded** |  |  | Sold | A WWII squad-tactics game by the studio that later made `Trials`. Critically the best-received N-Gage title; RedLynx was bought by Ubisoft, which has never revisited it. |
+| Pathway to Glory | 2004 | RedLynx | Nokia | Tactical strategy | 1–4 | Dead (2010) | **Stranded** |  |  | Sold | A WWII squad-tactics game by the studio that later made `Trials`. Critically the best-received N-Gage title; RedLynx was bought by Ubisoft, which has never revisited it. |
 | Glimmerati | 2005 | Bugbear | Nokia | Racing | 1–4 | Dead (2010) | **Stranded** |  |  | Sold | By the studio behind `FlatOut` and `Wreckfest`. Bugbear survives under THQ Nordic; this does not. |
 | High Seize | 2005 | Ideaworks3D | Nokia | Strategy | 1–4 | Dead (2010) | **Stranded** |  |  | Sold | One of the last dedicated N-Gage releases. |
 | One | 2005 | Digital Legends | Nokia | Fighting | 1–2 | Dead (2010) | **Stranded** |  |  | Sold | A Digital Legends fighting game built on N-Gage Arena; the service closed in 2010 and Nokia exited gaming, leaving no owner. |
-| Pathway to Glory: Ikusa Islands | 2005 | Redlynx | Nokia | Tactical strategy | 1–4 | Dead (2010) | **Stranded** |  |  | Sold | The sequel, released as the hardware was discontinued. |
+| Pathway to Glory: Ikusa Islands | 2005 | RedLynx | Nokia | Tactical strategy | 1–4 | Dead (2010) | **Stranded** |  |  | Sold | The sequel, released as the hardware was discontinued. |
 | Requiem of Hell | 2005 | Elkware | Nokia | Action RPG | 1 | No | **Stranded** |  |  | Sold | A Diablo-style action RPG; Elkware is defunct. |
 
 ## Contested

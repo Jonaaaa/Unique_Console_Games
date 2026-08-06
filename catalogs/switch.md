@@ -81,7 +81,7 @@ Two narrower causes do real work, though:
 | Bravely Default II | 2021 | Claytechworks | Square Enix / Nintendo | RPG | 1 | No | **Stranded** |  |  | Sold | No console release. PC version exists (PC (2021)) but PC is not a catalogued platform. |
 | Metroid Dread | 2021 | MercurySteam / Nintendo EPD | Nintendo | Action-adventure | 1 | No | **Stranded** |  |  | Sold | MercurySteam worked for hire; Nintendo owns Metroid and has never placed it on other hardware. |
 | Monster Hunter Rise | 2021 | Capcom | Capcom | Hunting action | 1–4 | Yes | Ported | PC (2022), PlayStation 4/5, Xbox (2023) |  | Sold | A timed Switch exclusive; Capcom moved it as soon as the deal expired. |
-| New Pokémon Snap | 2021 | Bandai Namco | Nintendo | Photography | 1 | Yes | **Stranded** |  |  | Sold | The Pokémon Company licenses mainline console Pokémon games to Nintendo hardware only. |
+| New Pokémon Snap | 2021 | Bandai Namco Studios | Nintendo | Photography | 1 | Yes | **Stranded** |  |  | Sold | The Pokémon Company licenses mainline console Pokémon games to Nintendo hardware only. |
 | Bayonetta 3 | 2022 | PlatinumGames | Nintendo | Action | 1 | No | **Stranded** |  |  | Sold | The whole trilogy is now split across three states: 1 is multiplatform, 2 is Switch-only, 3 is Switch-only. |
 | Kirby and the Forgotten Land | 2022 | HAL Laboratory | Nintendo | Platformer | 1–2 | Yes | Ported | Switch 2 (2025, *Switch 2 Edition*) |  | Sold | The Switch 2 Edition is a separate paid SKU, so this counts as a re-release. |
 | Mario Strikers: Battle League | 2022 | Next Level Games | Nintendo | Sports | 1–8 | Yes | **Stranded** |  |  | Sold | Next Level Games was acquired outright by Nintendo in 2021. |

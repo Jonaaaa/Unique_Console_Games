@@ -201,7 +201,7 @@ One table per platform, identical columns everywhere so files stay diff-able.
 |---|---|
 | `Title` | Full official title, region-neutral (prefer NA naming, note PAL name if it differs). |
 | `Year` | Year of first release **anywhere**, not the local region's date. A range where one row covers several years of releases, both ends spelled in full: `1979–1980`. Empty only for a game finished but never commercially released, where there is no such year to give. |
-| `Developer` | Studio. Multiple studios separated by `/`. |
+| `Developer` | Studio, in its own styling: `indieszero`, `tri-Ace`, `SIMS`. Multiple studios separated by `/`. **A shared word is not a shared company.** `Climax Entertainment` made `Landstalker` in Japan in 1992, `Climax Studios` made `Silent Hill: Origins` in Britain in 2007, and `Climax Graphics` made `Blue Stinger`; collapsing them because they all start with Climax would be three errors, not one tidy-up. |
 | `Publisher` | Publisher at first release. |
 | `Genre` | Short and consistent; reuse terms already in the file. |
 | `Players` | Local player count: `1`, `1–4`, `1–5 (asym.)`. Use `asym.` for asymmetric second-screen designs. For an online game with no local mode, record the party size, as `Phantasy Star Online` does at `1–4`. Empty only where the row covers a service rather than a single game and no count applies. |

@@ -75,7 +75,7 @@ exception, and is stranded only because it was never released at all.
 | Virtual Lab | 1995 | J-Wing | J-Wing | Puzzle | 1 | No | **Stranded** |  | Japanese | Sold | Japan-only with a very small print run; among the most expensive Virtual Boy carts and **absent from the 2026 service**. |
 | Virtual League Baseball | 1995 | Kemco | Kemco | Sports | 1 | No | **Stranded** |  |  | Sold | JP: *Virtual Pro Yakyuu '95*. Carries Japanese league branding that has long since lapsed. |
 | V-Tetris | 1995 | Locomotive | Bullet-Proof Software | Puzzle | 1 | No | Ported | Switch 2 (2026, May update) | Japanese | Sold | Japan-only originally. Its inclusion required re-clearing the Tetris licence. |
-| Waterworld | 1995 | Ocean | Ocean | Action | 1 | No | **Stranded** |  |  | Sold | The Kevin Costner film licence, on a dead console, from a defunct publisher. The least reissuable game on the platform. |
+| Waterworld | 1995 | Ocean Software | Ocean | Action | 1 | No | **Stranded** |  |  | Sold | The Kevin Costner film licence, on a dead console, from a defunct publisher. The least reissuable game on the platform. |
 | 3-D Tetris | 1996 | T&E Soft | Nintendo | Puzzle | 1 | No | Ported | Switch 2 (2026, launch lineup) |  | Sold | North America only originally; a different game from *V-Tetris*. |
 | Nester's Funky Bowling | 1996 | Saffire | Nintendo | Sports | 1 | No | **Stranded** |  |  | Sold | North America only. Stars Nester, the mascot of the discontinued *Nintendo Power* magazine; a character Nintendo has not used since. |
 | Bound High! |  | Japan System Supply | Nintendo | Action | 1 | No | **Stranded** |  |  | Sold | Finished but **never commercially released**, the platform died first. It leaked via a prototype and has no official release of any kind. |

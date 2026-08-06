@@ -53,7 +53,7 @@ favourite, which shows the barrier is commercial interest rather than rights.
 | Meltdown | 1990 | Atari | Atari | Light-gun shooter | 1–2 | No | **Stranded** |  |  | Sold | XG-1 light gun again; CRT-dependent and never reissued. |
 | Midnight Mutants | 1990 | Radioactive Software | Atari | Action-adventure | 1 | No | **Stranded** |  |  | Sold | Licensed the likeness of horror host **Grandpa Munster** (Al Lewis), a personal-likeness deal from 1990 that cannot realistically be re-cleared. The 7800's most ambitious game. |
 | Motor Psycho | 1990 | Atari | Atari | Racing | 1–2 | No | Ported | *Atari 50* (2022) |  | Sold | A late 7800 original that made the anniversary collection. |
-| Ninja Golf | 1990 | Blue Sky Software | Atari | Action / sports | 1 | No | Ported | *Atari 50* (2022) |  | Sold | The platform's cult classic: golf where you then fight ninjas along the fairway. Atari owns it outright, which is why it was the 7800 title chosen for *Atari 50*. |
+| Ninja Golf | 1990 | BlueSky Software | Atari | Action / sports | 1 | No | Ported | *Atari 50* (2022) |  | Sold | The platform's cult classic: golf where you then fight ninjas along the fairway. Atari owns it outright, which is why it was the 7800 title chosen for *Atari 50*. |
 | Scrapyard Dog | 1990 | Atari | Atari | Platformer | 1 | No | Ported | Atari Lynx (1991) |  | Sold | One of the last 7800 releases, from the point where Atari had already moved on. A Lynx conversion followed in 1991 and nothing since. |
 
 ## Excluded
