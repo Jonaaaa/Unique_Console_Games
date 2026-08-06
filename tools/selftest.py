@@ -49,6 +49,12 @@ CASES = [
     ("catalogs/amstrad-gx4000.md", "\u26a0 [Contested](#contested): a cartridge version",
      "\u26a0 a cartridge version",
      "bare warning glyph", "a warning glyph pointing at no argument"),
+    # Copies a claim ps3.md already makes onto an unrelated row, which is the
+    # shape the check exists for: the claim ranges over every other row.
+    ("catalogs/wii.md", "| 30.32M, and one of the two mainline",
+     "| The only part of the Ratchet series never collected or remastered. "
+     "30.32M, and one of the two mainline",
+     "claim to be the only", "two rows claiming the same superlative"),
     ("catalogs/gba.md", "| The series' first Western release, which is why",
      "| The series' first Western release. The series' first Western release, which is why",
      "report:same thing twice", "a note that says the same thing twice"),

@@ -51,6 +51,10 @@ YEAR_RE = re.compile(r"^(?:\d{4}(?:\u2013\d{4})?)?$")
 LINK_RE = re.compile(r"\[[^\]]*\]\((?!https?://|#)([^)#]+)(#[^)]*)?\)")
 # Sentence boundary: a stop followed by something that starts a new sentence.
 SENTENCE_RE = re.compile(r"(?<=[.!?])\s+(?=[A-Z`\u201c(*])")
+# "The only X never re-released" is a claim about every other row in the file,
+# so two rows cannot both make it. `New Super Mario Bros. 2` and `New Super
+# Mario Bros. Wii` each said it while the Status column showed both Stranded.
+ONLY_RE = re.compile(r"\bthe only ([a-z][\w' .`-]{6,60}?)\s*(?:[.,;]|$)", re.I)
 # Platform names a note might mention, kept broad: a false positive costs a
 # glance, a Stranded row that actually moved costs the reader a wrong purchase.
 KNOWN_PLATFORMS = (
@@ -464,6 +468,39 @@ def check_stranded_notes(path: Path) -> list[str]:
     return problems
 
 
+def check_only_claims(catalogs: list[Path]) -> list[str]:
+    """Two rows must not both claim to be the only anything.
+
+    The claim ranges over the whole repo, not one file, so this runs across all
+    catalogues at once. Comparison is on the claim's wording after lowercasing
+    and squeezing whitespace; a genuine pair of distinct claims will not collide
+    unless they were written to say the same thing.
+    """
+    problems: list[str] = []
+    seen: dict[str, list[str]] = {}
+    for path in catalogs:
+        rel = path.relative_to(ROOT)
+        lines = path.read_text(encoding="utf-8").splitlines()
+        try:
+            start = next(i for i, ln in enumerate(lines) if ln.startswith(DEBUT_HEADER))
+        except StopIteration:
+            continue
+        for lineno, line in enumerate(lines[start + 2:], start + 3):
+            if not line.startswith("|"):
+                break
+            cells = [c.strip() for c in CELL_SPLIT_RE.split(line)[1:-1]]
+            if len(cells) != EXPECTED_CELLS:
+                continue
+            for m in ONLY_RE.finditer(cells[11]):
+                key = re.sub(r"\s+", " ", re.sub(r"[`*]", "", m.group(1))).strip().lower()
+                seen.setdefault(key, []).append(f"{rel}:{lineno} {cells[0]!r}")
+    for key, rows in sorted(seen.items()):
+        if len(rows) > 1:
+            problems.append(f"{len(rows)} rows each claim to be the only {key!r}: "
+                            + "; ".join(rows))
+    return problems
+
+
 def check_ragged(path: Path) -> list[str]:
     """Every row in a table carries the same number of cells as its header.
 
@@ -547,6 +584,7 @@ def main() -> int:
     for path in catalogs:
         problems += check_contested(path)
     problems += check_links(catalogs + docs)
+    problems += check_only_claims(catalogs)
 
     # Collected before the failure check below, not after: an empty note is an
     # error now, so it has to reach `problems` while that list is still read.
