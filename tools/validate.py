@@ -46,6 +46,26 @@ DEBUT_COUNT_RE = re.compile(r"\|\s*\*\*Debut games\*\*\s*\|\s*\*{0,2}(\d+)")
 LINK_RE = re.compile(r"\[[^\]]*\]\((?!https?://|#)([^)#]+)(#[^)]*)?\)")
 # Sentence boundary: a stop followed by something that starts a new sentence.
 SENTENCE_RE = re.compile(r"(?<=[.!?])\s+(?=[A-Z`\u201c(*])")
+# Platform names a note might mention, kept broad: a false positive costs a
+# glance, a Stranded row that actually moved costs the reader a wrong purchase.
+KNOWN_PLATFORMS = (
+    "Lynx", "7800", "5200", "2600", "Jaguar", "Game Boy", "Game Gear",
+    "Master System", "Genesis", "Mega Drive", "Saturn", "Dreamcast", "SNES",
+    "Super Famicom", "NES", "Famicom", "Nintendo 64", "N64", "GameCube",
+    "Wii U", "Wii", "Switch 2", "Switch", "3DS", "Nintendo DS",
+    "Game Boy Advance", "Virtual Boy", "PlayStation", "PSP", "Vita", "Xbox",
+    "TurboGrafx", "PC Engine", "Neo Geo", "WonderSwan", "Amiga", "Steam",
+    "iOS", "Android", "Virtual Console",
+)
+# Case-insensitive: the phrase starts a sentence as often as not, and the first
+# version of this missed "Also on 7800" for exactly that reason.
+WENT_ELSEWHERE_RE = re.compile(
+    r"\b(?:also (?:on|released on|available on)|released on|came to|reached|ported to|"
+    r"appeared on|version on)\s+(?:the\s+)?([A-Za-z0-9][\w'\- ]{2,24})", re.I)
+CONTRAST_RE = re.compile(
+    r"\bthis one\b|\bdid not\b|\bhas not\b|\bnever\b|\bonly the\b|\bleft behind\b|"
+    r"\bstayed on\b|\bnot this\b|\bexcept\b|\bwhile this\b|\bthe series\b|"
+    r"\bthe first game\b|\bthis sequel\b|\bskipped\b|\bnot a catalogued platform\b", re.I)
 
 
 def anchor(heading: str) -> str:
@@ -380,6 +400,52 @@ def check_repeats(path: Path) -> list[str]:
     return problems
 
 
+def check_stranded_notes(path: Path) -> list[str]:
+    """A `Stranded` row whose note says the game went somewhere.
+
+    `Scrapyard Dog` and `Basketbrawl` sat in the Lynx catalogue as `Stranded`
+    with notes reading "Also on 7800", and their 7800 rows said the reverse.
+    Both were true, both were ports of 1990 originals, and neither belonged in
+    the Lynx debut table at all. The `Also On` column was empty in every one of
+    the four rows, so nothing that reads columns could see it.
+
+    A Stranded note may name a platform to say the game did *not* go there, or
+    that a different game did, which is often the whole point of the note. Those
+    are skipped on the contrast wording rather than reported forever.
+    """
+    problems = []
+    rel = path.relative_to(ROOT)
+    lines = path.read_text(encoding="utf-8").splitlines()
+    try:
+        start = next(i for i, ln in enumerate(lines) if ln.startswith(DEBUT_HEADER))
+    except StopIteration:
+        return problems
+    for lineno, line in enumerate(lines[start + 2:], start + 3):
+        if not line.startswith("|"):
+            break
+        cells = [c.strip() for c in CELL_SPLIT_RE.split(line)[1:-1]]
+        if len(cells) != EXPECTED_CELLS:
+            continue
+        if re.sub(r"[*`]", "", cells[7]).strip() != "Stranded":
+            continue
+        note = cells[11]
+        if CONTRAST_RE.search(note):
+            continue
+        m = WENT_ELSEWHERE_RE.search(note)
+        if not m:
+            continue
+        # Naming this file's own platform is describing the debut, not a move.
+        # The capture runs on past the platform ("5200 cartridge and Atari"),
+        # so compare its first token against the file's own console name.
+        heading = next((ln for ln in lines if H1_RE.match(ln)), "")
+        if m.group(1).split()[0].lower() in heading.lower():
+            continue
+        if any(pl.lower() in m.group(1).lower() for pl in KNOWN_PLATFORMS):
+            problems.append(f"{rel}:{lineno}: {cells[0]!r} is Stranded but its note says "
+                            f"{m.group(0)!r}; check the debut and fill Also On")
+    return problems
+
+
 def check_ragged(path: Path) -> list[str]:
     """Every row in a table carries the same number of cells as its header.
 
@@ -459,6 +525,7 @@ def main() -> int:
     for path in catalogs + docs:
         problems += check_glued(path)
         problems += check_ragged(path)
+        problems += check_stranded_notes(path)
     for path in catalogs:
         problems += check_contested(path)
     problems += check_links(catalogs + docs)
