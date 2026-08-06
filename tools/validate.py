@@ -44,6 +44,8 @@ H1_RE = re.compile(r"^#\s+(\S.*?)\s*$")
 DEBUT_COUNT_RE = re.compile(r"\|\s*\*\*Debut games\*\*\s*\|\s*\*{0,2}(\d+)")
 # Markdown links to a path, ignoring anchors-only and absolute URLs.
 LINK_RE = re.compile(r"\[[^\]]*\]\((?!https?://|#)([^)#]+)(#[^)]*)?\)")
+# Sentence boundary: a stop followed by something that starts a new sentence.
+SENTENCE_RE = re.compile(r"(?<=[.!?])\s+(?=[A-Z`\u201c(*])")
 
 
 def anchor(heading: str) -> str:
@@ -332,6 +334,50 @@ def check_contested(path: Path) -> list[str]:
     return problems
 
 
+def check_repeats(path: Path) -> list[str]:
+    """A note must not make the same point twice in consecutive sentences.
+
+    The failure is always the same shape: a short note was written, a fuller
+    sentence was written later to replace it, and the old one was never
+    deleted. `Fire Emblem` read "The series' first Western release. The series'
+    first Western release, which is why its Japanese numbering is seven." for
+    as long as the row existed. Seventeen catalogue notes were in that state.
+
+    Compared on content words of five letters or more, so shared articles and
+    prepositions do not trigger it.
+
+    Reported rather than failed. It is a word-overlap heuristic over prose and
+    two notes trip it honestly: `Star Fox Adventures` and `WarioWare: Twisted!`
+    each make two different points that happen to share their proper nouns.
+    The list is a worklist, not a verdict.
+    """
+    problems = []
+    rel = path.relative_to(ROOT)
+    try:
+        start = next(i for i, ln in enumerate(path.read_text(encoding="utf-8").splitlines())
+                     if ln.startswith(DEBUT_HEADER))
+    except StopIteration:
+        return problems
+    lines = path.read_text(encoding="utf-8").splitlines()
+    for lineno, line in enumerate(lines[start + 2:], start + 3):
+        if not line.startswith("|"):
+            break
+        cells = [c.strip() for c in CELL_SPLIT_RE.split(line)[1:-1]]
+        if len(cells) != EXPECTED_CELLS:
+            continue
+        sentences = [s for s in SENTENCE_RE.split(cells[11]) if len(s.split()) >= 5]
+        for first, second in zip(sentences, sentences[1:]):
+            a = set(re.findall(r"[a-z]{5,}", first.lower()))
+            b = set(re.findall(r"[a-z]{5,}", second.lower()))
+            if not a or not b:
+                continue
+            if len(a & b) / min(len(a), len(b)) >= 0.6:
+                problems.append(f"{rel}:{lineno}: {cells[0]!r} says the same thing twice: "
+                                f"{first[:48]!r} then {second[:48]!r}")
+                break
+    return problems
+
+
 def check_ragged(path: Path) -> list[str]:
     """Every row in a table carries the same number of cells as its header.
 
@@ -429,8 +475,10 @@ def main() -> int:
             worst.append((short, f"{path.stem} ({short} thin)"))
 
     qualifying: list[str] = []
+    repeats: list[str] = []
     for path in catalogs:
         qualifying += check_qualifies(path)
+        repeats += check_repeats(path)
 
     if problems:
         print(f"{len(problems)} problem(s) across {len(catalogs)} catalogues:",
@@ -445,6 +493,10 @@ def main() -> int:
             print(f"  {len(qualifying)} row(s) marked as qualifying with no debut row:")
             for q in qualifying:
                 print(f"    {q}")
+        if repeats:
+            print(f"  {len(repeats)} note(s) that may say the same thing twice:")
+            for r in repeats:
+                print(f"    {r}")
         if thin:
             # Reported, not enforced: see check_notes. The list is the worklist.
             print(f"  every row has a note; {thin} are under 40 characters")
