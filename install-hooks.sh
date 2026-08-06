@@ -25,10 +25,11 @@ cd "$(git rev-parse --show-toplevel)" || exit 0
 }
 
 if git diff --cached --name-only | grep -qx "tools/validate.py"; then
-  # selftest edits catalogues and restores them. Refuse to run it over a dirty
-  # tree, where a crash mid-case would be indistinguishable from your own edits.
-  if [ -n "$(git status --porcelain -- catalogs README.md)" ]; then
-    echo "pre-commit: validate.py is staged but the tree has unstaged data changes;" >&2
+  # selftest writes to the tree and restores it. Unstaged edits are the hazard:
+  # a crash mid-case would be indistinguishable from your own work. Staged ones
+  # are safe, and are the ordinary case when a check and its data change together.
+  if ! git diff --quiet -- catalogs README.md; then
+    echo "pre-commit: validate.py is staged but there are unstaged data changes;" >&2
     echo "            run ./tools/selftest.py yourself once it is clean." >&2
   else
     ./tools/selftest.py >/dev/null || {
