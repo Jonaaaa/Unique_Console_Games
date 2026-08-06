@@ -98,7 +98,7 @@ Every game that debuted on this platform and launched nowhere else. `Status` rec
 | Boku no Natsuyasumi 4 | 2009 | Millennium Kitchen | Sony | Life sim | 1 | No | Stranded |  | Japanese | Sold | Japan-only. The whole series is stranded outside Japan. |
 | Disgaea Infinite | 2009 | Nippon Ichi | NIS America | Visual novel | 1 | No | Stranded |  |  | Sold | The only Disgaea title never re-released. |
 | Gran Turismo | 2009 | Polyphony Digital | Sony | Racing | 1–4 | Dead | Stranded |  |  | Sold | 800 cars, no career mode. Polyphony has never revisited it. |
-| Half-Minute Hero | 2009 | Marvelous | Marvelous / XSEED | RPG / action | 1 | No | Ported | Xbox 360, PC (2010–12) |  | Sold | A role-playing game compressed into thirty-second runs, with a time-rewind mechanic to extend them. Reached Xbox 360 and PC within two years. |
+| Half-Minute Hero | 2009 | Marvelous | Marvelous / XSEED | Action RPG | 1 | No | Ported | Xbox 360, PC (2010–12) |  | Sold | A role-playing game compressed into thirty-second runs, with a time-rewind mechanic to extend them. Reached Xbox 360 and PC within two years. |
 | Jak and Daxter: The Lost Frontier | 2009 | High Impact Games | Sony | Platformer | 1 | No | Sim-ship | PlayStation 2 (2009, same day) |  | Sold | The last new Jak game. Made by another studio after Naughty Dog moved on, and launched on PlayStation 2 the same day. |
 | LittleBigPlanet PSP | 2009 | SCE Cambridge | Sony | Platformer / creation | 1 | Dead (2021) | Stranded |  |  | Sold | Levels were shared with the PlayStation 3 community; that infrastructure is gone. |
 | LocoRoco Midnight Carnival | 2009 | SCE Japan Studio | Sony | Platformer | 1 | No | Stranded |  |  | Sold | LocoRoco 1 and 2 were both remastered for PlayStation 4; this spin-off was not. |
