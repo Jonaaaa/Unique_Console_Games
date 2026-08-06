@@ -63,7 +63,7 @@ that lacks them, the same category as `Wii Sports` or `Drag x Drive`.
 | Stellar Blade | 2024 | Shift Up | Sony | Action | 1 | No | **Stranded** |  |  | Sold | A Korean-developed Sony exclusive; PC in 2025. |
 | Death Stranding 2: On the Beach | 2025 | Kojima Productions | Sony | Action-adventure | 1 | Yes | **Stranded** |  |  | Sold | Kojima Productions retained rights to the first game and took it to Xbox; whether this follows is unresolved. |
 | Ghost of Yōtei | 2025 | Sucker Punch | Sony | Action-adventure | 1 | Yes | **Stranded** |  |  | Sold | The follow-up to `Ghost of Tsushima`. An open-world samurai game set three centuries after `Ghost of Tsushima`, and Sony-owned like its predecessor. |
-| The Outer Worlds 2 | 2025 | Obsidian | Microsoft | Action RPG | 1 | No | Sim-ship | Xbox Series X/S, PC (2025, same day) |  | Sold | Also catalogued under [Xbox Series X\|S](xbox-series.md). A Microsoft-published game launching on PlayStation day one. |
+| The Outer Worlds 2 | 2025 | Obsidian | Microsoft | Action RPG | 1 | No | Sim-ship | Xbox Series X\|S, PC (2025, same day) |  | Sold | Also catalogued under [Xbox Series X\|S](xbox-series.md). A Microsoft-published game launching on PlayStation day one. |
 
 ## Contested
 

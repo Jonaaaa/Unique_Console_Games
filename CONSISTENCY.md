@@ -6,14 +6,14 @@ found by accident, because a rule change happened to expose it.
 
 This file records the checks so drift can be found on purpose instead.
 
-## The 14 checks
+## The 15 checks
 
 Each maps to a rule in [the ruleset](RULES.md). All are machine-verifiable from
 the tables themselves.
 
 | # | Check | Rule it enforces |
 |---|---|---|
-| R0 | Status is one of `Stranded` / `Ported` / `Sim-ship`; every row has exactly 11 columns | Table schema |
+| R0 | Status is one of `Stranded` / `Ported` / `Sim-ship`; every row has exactly 12 columns | Table schema |
 | R1 | Rows sorted by Year, then Title | Table schema |
 | R2 | `Stranded` rows leave `Also On` empty | Status semantics |
 | R3 | `Ported` / `Sim-ship` rows have a non-empty `Also On` | Status semantics |
@@ -27,7 +27,8 @@ the tables themselves.
 | R11 | Every file has Debut games / Excluded / Sources / Coverage gaps / Last verified | File structure |
 | R12 | No broken internal links | |
 | R13 | **Sim-ship reciprocity**: a `Sim-ship` must appear in every co-launch platform's file that exists | Never pick a canonical platform |
-| R14 | Escaped pipes (`\|`) must not appear in table cells; they break column parsing | Table schema |
+| R14 | A literal pipe in a cell is written `\|`; an unescaped one splits the row into extra cells | Table schema |
+| R15 | Every row in a table carries the same number of cells as its header | Table schema |
 
 **R13 is the one that catches the most.** In its first run it found 16 sim-ships
 present in only one file, including three where a note said "Also catalogued under X"

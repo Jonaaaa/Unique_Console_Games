@@ -83,8 +83,8 @@ PC does not count here. Beyond that:
 | Minecraft Dungeons | 2020 | Mojang | Microsoft | Action RPG | 1–4 | Yes | Sim-ship | PlayStation 4, Switch, PC (2020, same day) |  | Sold | A rare Microsoft title that launched multiplatform on day one rather than staying on Xbox. |
 | Ori and the Will of the Wisps | 2020 | Moon Studios | Microsoft | Platformer | 1 | No | Ported | Switch (2020), PC |  | Sold | A hand-painted exploration platformer, larger and more combat-focused than the first. Ported to Switch. |
 | Tell Me Why | 2020 | Dontnod | Microsoft | Adventure | 1 | No | **Stranded** |  |  | Backup | PC version day-one; delisted from sale in 2024 and made temporarily free. |
-| Forza Horizon 5 | 2021 | Playground Games | Microsoft | Racing | 1–12 | Yes | Sim-ship | Xbox Series X/S (2021, same day); PlayStation 5 (2025), PC |  | Sold | Also catalogued under [Xbox Series X\|S](xbox-series.md). |
-| Halo Infinite | 2021 | 343 Industries | Microsoft | FPS | 1–24 | Yes | Sim-ship | Xbox Series X/S, PC (2021, same day) |  | Sold | Cross-gen launch; also catalogued under [Xbox Series X\|S](xbox-series.md). |
+| Forza Horizon 5 | 2021 | Playground Games | Microsoft | Racing | 1–12 | Yes | Sim-ship | Xbox Series X\|S (2021, same day); PlayStation 5 (2025), PC |  | Sold | Also catalogued under [Xbox Series X\|S](xbox-series.md). |
+| Halo Infinite | 2021 | 343 Industries | Microsoft | FPS | 1–24 | Yes | Sim-ship | Xbox Series X\|S, PC (2021, same day) |  | Sold | Cross-gen launch; also catalogued under [Xbox Series X\|S](xbox-series.md). |
 | Pentiment | 2022 | Obsidian | Microsoft | Adventure | 1 | No | Ported | PlayStation 5, Switch (2024), PC |  | Sold | A narrative game drawn as an illuminated manuscript, set across decades in a Bavarian abbey. Microsoft's policy change carried it to PlayStation 5 and Switch. |
 
 ## Contested

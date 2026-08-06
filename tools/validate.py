@@ -284,6 +284,38 @@ def check_glued(path: Path) -> list[str]:
     return problems
 
 
+def check_ragged(path: Path) -> list[str]:
+    """Every row in a table carries the same number of cells as its header.
+
+    `check_glued` above catches prose that runs past a row's final pipe, but it
+    cannot see the case that actually happened twice here: the trailing text
+    itself ended in a pipe, so the row still looked terminated. What gave both
+    away was the cell count. `xbox-series.md` had a paragraph folded into the
+    last row of its summary table, and README's platform index had an unescaped
+    pipe in `Xbox Series X|S` splitting that row into six cells.
+
+    A literal pipe in a cell is written `\\|`; see RULES.md and CONSISTENCY.md R14.
+    """
+    problems = []
+    rel = path.relative_to(ROOT)
+    width = None
+    for i, line in enumerate(path.read_text(encoding="utf-8").splitlines(), 1):
+        line = line.rstrip()
+        if not line.startswith("|"):
+            width = None
+            continue
+        cells = len(CELL_SPLIT_RE.split(line)) - 2
+        if width is None:            # this row is the header
+            width = cells
+            continue
+        if not line.strip("|-: "):   # the |---|---| separator
+            continue
+        if cells != width:
+            problems.append(f"{rel}:{i}: table header has {width} cells, this row "
+                            f"has {cells}; an unescaped pipe or glued text")
+    return problems
+
+
 def check_links(paths: list[Path]) -> list[str]:
     """Relative links must resolve, and any anchor must match a real heading."""
     problems: list[str] = []
@@ -330,6 +362,7 @@ def main() -> int:
         problems += check_rules(path)
     for path in catalogs + docs:
         problems += check_glued(path)
+        problems += check_ragged(path)
     problems += check_links(catalogs + docs)
 
     # Collected before the failure check below, not after: an empty note is an

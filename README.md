@@ -74,7 +74,7 @@ debut is permanent.
 | [Microsoft Xbox One](catalogs/xbox-one.md) | Nov 2013 – 2020 | **32** | 22 | 7 +3 sim |
 | [Nintendo Switch](catalogs/switch.md) | Mar 2017 – present (superseded by Switch 2, Jun 2025) | **51** | 41 | 5 +5 sim |
 | [Sony PlayStation 5](catalogs/ps5.md) | Nov 2020 – present | **18** | 12 | 0 +6 sim |
-| [Microsoft Xbox Series X|S](catalogs/xbox-series.md) | Nov 2020 – present | **12** | 5 | 4 +3 sim |
+| [Microsoft Xbox Series X\|S](catalogs/xbox-series.md) | Nov 2020 – present | **12** | 5 | 4 +3 sim |
 | [Panic Playdate](catalogs/playdate.md) | Apr 2022 – present | **6** | 5 | 1 |
 | [Nintendo Switch 2](catalogs/switch-2.md) | Jun 2025 – present | **9** | 6 | 0 +3 sim |
 
