@@ -61,7 +61,7 @@ migrated.
 | Boom Blox | 2008 | EA Los Angeles | EA | Puzzle | 1–4 | No | **Stranded** |  |  | Sold | Co-designed with Steven Spielberg, a personal-credit arrangement that complicates reissue. |
 | Captain Rainbow | 2008 | Skip Ltd. | Nintendo | Action-adventure | 1 | No | **Stranded** |  | Japanese | Sold | Japan-only. Stars Nintendo's forgotten characters (Little Mac, Birdo, Lip), an internal-IP tangle that guarantees it never returns. |
 | Disaster: Day of Crisis | 2008 | Monolith Soft | Nintendo | Action | 1 | No | **Stranded** |  |  | Sold | PAL/Japan only; never released in North America. |
-| Fatal Frame IV: Mask of the Lunar Eclipse | 2008 | Grasshopper / Tecmo | Nintendo | Survival horror | 1 | No | Ported | PlayStation 4/PS5, Xbox, Switch, PC (2023, *Remaster*) | Japanese | Sold | Japan-only for 15 years; the remaster was its first Western release. |
+| Fatal Frame IV: Mask of the Lunar Eclipse | 2008 | Grasshopper / Tecmo | Nintendo | Survival horror | 1 | No | Ported | PlayStation 4/5, Xbox, Switch, PC (2023, *Remaster*) | Japanese | Sold | Japan-only for 15 years; the remaster was its first Western release. |
 | LostWinds | 2008 | Frontier Developments | Frontier | Platformer | 1 | No | Ported | iOS (2009), PC, Switch (2018) |  | Sold | **WiiWare.** One of the few WiiWare titles to escape before the Shop closed. |
 | Mario Kart Wii | 2008 | Nintendo EAD | Nintendo | Racing | 1–12 | Dead (2014) | **Stranded** |  |  | Sold | **37.38M, the best-selling stranded racing game.** Bundled with the Wii Wheel. |
 | Mario Super Sluggers | 2008 | Namco Bandai | Nintendo | Sports | 1–4 | No | **Stranded** |  |  | Sold | Never released in PAL territories. A baseball game using the Mario cast, never released in PAL territories. |
