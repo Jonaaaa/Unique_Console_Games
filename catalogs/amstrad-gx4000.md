@@ -29,7 +29,7 @@ being home computers in console shells.
 | **Debut games** | **3** |
 | of which still `Stranded` | 3 |
 | of which since `Ported` | 0 |
-| **Contested** | 0 |
+| **Contested** | 1 |
 
 **Why the GX4000 strands games.** Its few genuine debuts are stranded because Amstrad
 left gaming, the console sold ~15,000 units in Europe only, and the developers involved
@@ -42,8 +42,14 @@ were small British studios that mostly folded during the early-90s consolidation
 | Title | Year | Developer | Publisher | Genre | Players | Online | Status | Also On | Language | Availability | Notes |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | Burnin' Rubber | 1990 | Ocean Software | Amstrad | Racing | 1–2 | No | **Stranded** |  |  | Sold | The pack-in title, and one of the few games written for the enhanced Plus hardware rather than converted to it. Ocean was absorbed by Infogrames in 1996. |
-| Navy Seals | 1990 | Ocean Software | Ocean | Action | 1 | No | **Stranded** |  |  | Sold | ⚠ A cartridge version built for the Plus hardware alongside the CPC release; the enhanced build is GX4000-specific. |
+| Navy Seals | 1990 | Ocean Software | Ocean | Action | 1 | No | **Stranded** |  |  | Sold | ⚠ [Contested](#contested): a cartridge version built for the Plus hardware alongside the CPC release, and the enhanced build is GX4000-specific. |
 | Plotting | 1990 | Ocean Software | Ocean | Puzzle | 1 | No | **Stranded** |  |  | Sold | A Taito arcade licence on a European console that sold 15,000 units, the licence outlived the hardware by decades. |
+
+## Contested
+
+| Title | Year | Verdict | Case for including | Case against |
+|---|---|---|---|---|
+| Navy Seals | 1990 | **Include** (`Stranded`) | The cartridge is a distinct build for the Plus hardware, not the CPC tape shipped on a different medium, and that build exists nowhere else. | The CPC version came first and this is the same game with enhanced graphics, which is the shape of an enhanced re-release rather than a debut. |
 
 ## Excluded
 

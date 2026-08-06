@@ -351,7 +351,16 @@ def check_contested(path: Path) -> list[str]:
         if not line.startswith("|"):
             break
         cells = [c.strip() for c in CELL_SPLIT_RE.split(line)[1:-1]]
-        if len(cells) != EXPECTED_CELLS or "[Contested]" not in cells[11]:
+        if len(cells) != EXPECTED_CELLS:
+            continue
+        # A warning glyph in a row means one thing here: the debut is arguable
+        # and the argument is written up. `Navy Seals` carried a bare one for
+        # the life of the file, in a catalogue with no Contested section at all.
+        if "\u26a0" in cells[11] and "[Contested]" not in cells[11]:
+            problems.append(f"{rel}:{lineno}: {cells[0]!r} has a bare warning glyph; "
+                            f"write it as \u26a0 [Contested](#contested) and argue it")
+            continue
+        if "[Contested]" not in cells[11]:
             continue
         title = re.sub(r"[^a-z0-9]", "", re.sub(r"[`*]", "", cells[0]).lower())
         # A Contested row may cover two games at once ("Zero Racers / D-Hopper"),
