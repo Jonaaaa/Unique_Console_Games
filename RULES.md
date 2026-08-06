@@ -204,8 +204,8 @@ One table per platform, identical columns everywhere so files stay diff-able.
 | `Developer` | Studio. Multiple studios separated by `/`. |
 | `Publisher` | Publisher at first release. |
 | `Genre` | Short and consistent; reuse terms already in the file. |
-| `Players` | Local player count: `1`, `1–4`, `1–5 (asym.)`. Use `asym.` for asymmetric second-screen designs. |
-| `Online` | `Yes`, `No`, or `Dead (year)` where servers have shut down. |
+| `Players` | Local player count: `1`, `1–4`, `1–5 (asym.)`. Use `asym.` for asymmetric second-screen designs. For an online game with no local mode, record the party size, as `Phantasy Star Online` does at `1–4`. Empty only where the row covers a service rather than a single game and no count applies. |
+| `Online` | `Yes`, `No`, or `Dead (year)` where servers have shut down. A bare `Dead` means the shutdown is certain but the year is not established; leave it bare rather than guessing, the same way `Language` is left empty. Do not bold the value to mark a game as badly broken by the shutdown, which was tried on 15 rows out of 111 and said nothing the note beside it did not already say at length. Put that in `Notes`. |
 | `Status` | `Stranded`, `Ported`, or `Sim-ship`. |
 | `Also On` | Empty when stranded. Otherwise every platform with year: `Switch (2017), PC (2020)`. For `Sim-ship`, list the co-launch platforms and mark them, e.g. `Switch (2017, same day)`. Spell the PlayStation numbers out, `PlayStation 3` rather than `PS3`, matching the sibling tools, including inside a slash list: `PlayStation 4/5`, not `PlayStation 4/PS5`. Same for `PlayStation Plus` and `PlayStation Vita`. `PSP` stays abbreviated, which is what every file already calls it and what no other product could mean. |
 | `Language` | The language the game shipped in, where it is known and worth stating. Japan-only releases are `Japanese`. Leave empty rather than assuming; an empty cell means unrecorded, not English. |
