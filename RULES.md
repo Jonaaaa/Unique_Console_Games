@@ -235,7 +235,7 @@ apart. They are all worth keeping. They just need naming.
 3. **Bulk-qualifying groups.** Several games that qualify, share one status, and
    are recorded as a group rather than given a row each. `Munchkin` sequels on
    the Odyssey², the remaining Casio Loopy titles. These say "not separately
-   tabled", and like the Appendix they sit **outside the counts** — the summary
+   tabled", and like the Appendix they sit **outside the counts**: the summary
    block counts rows, so a group of five counts as none.
 
 The third kind is the one to be careful with, because it means `Debut games` is
