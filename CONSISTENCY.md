@@ -6,7 +6,7 @@ found by accident, because a rule change happened to expose it.
 
 This file records the checks so drift can be found on purpose instead.
 
-## The 15 checks
+## The 16 checks
 
 Each maps to a rule in [the ruleset](RULES.md). All are machine-verifiable from
 the tables themselves.
@@ -29,6 +29,7 @@ the tables themselves.
 | R13 | **Sim-ship reciprocity**: a `Sim-ship` must appear in every co-launch platform's file that exists | Never pick a canonical platform |
 | R14 | A literal pipe in a cell is written `\|`; an unescaped one splits the row into extra cells | Table schema |
 | R15 | Every row in a table carries the same number of cells as its header | Table schema |
+| R16 | A row flagged `⚠ Contested` has its argument written out in the Contested table | Contested |
 
 **R13 is the one that catches the most.** In its first run it found 16 sim-ships
 present in only one file, including three where a note said "Also catalogued under X"

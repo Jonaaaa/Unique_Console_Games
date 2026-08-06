@@ -30,6 +30,7 @@ DEBUT_HEADER = (
 )
 EXPECTED_CELLS = 12
 EXCLUDED_HEADER = "| Title | Year | Why excluded |"
+CONTESTED_HEADER = "| Title | Year | Verdict | Case for including | Case against |"
 VALID_STATUS = {"Stranded", "Ported", "Sim-ship"}
 # Whether it can still be bought, which is a different question from
 # whether it ever left the platform. See RULES.md#availability-whether-it-can-still-be-bought.
@@ -284,6 +285,53 @@ def check_glued(path: Path) -> list[str]:
     return problems
 
 
+def check_contested(path: Path) -> list[str]:
+    """A row flagged Contested has its argument written out in that section.
+
+    The marker is a link, so `check_links` confirms the heading exists and stops
+    there. It cannot tell whether the section says anything about this game, and
+    for nine rows across five files it did not: `gamecube.md` flagged two games
+    against a Contested table that held a header and nothing else, from the
+    first commit onward. A reader following the link found an empty table.
+    """
+    problems = []
+    rel = path.relative_to(ROOT)
+    lines = path.read_text(encoding="utf-8").splitlines()
+
+    def titles(header: str, width: int) -> list[str]:
+        try:
+            start = next(i for i, ln in enumerate(lines) if ln.startswith(header))
+        except StopIteration:
+            return []
+        out = []
+        for line in lines[start + 2:]:
+            if not line.startswith("|"):
+                break
+            cells = [c.strip() for c in CELL_SPLIT_RE.split(line)[1:-1]]
+            if len(cells) == width:
+                out.append(re.sub(r"[^a-z0-9]", "", re.sub(r"[`*]", "", cells[0]).lower()))
+        return out
+
+    argued = [t for t in titles(CONTESTED_HEADER, 5) if t]
+    try:
+        start = next(i for i, ln in enumerate(lines) if ln.startswith(DEBUT_HEADER))
+    except StopIteration:
+        return problems
+    for lineno, line in enumerate(lines[start + 2:], start + 3):
+        if not line.startswith("|"):
+            break
+        cells = [c.strip() for c in CELL_SPLIT_RE.split(line)[1:-1]]
+        if len(cells) != EXPECTED_CELLS or "[Contested]" not in cells[11]:
+            continue
+        title = re.sub(r"[^a-z0-9]", "", re.sub(r"[`*]", "", cells[0]).lower())
+        # A Contested row may cover two games at once ("Zero Racers / D-Hopper"),
+        # so containment either way counts as the argument being made.
+        if not any(title in a or a in title for a in argued):
+            problems.append(f"{rel}:{lineno}: {cells[0]!r} is flagged Contested but the "
+                            f"Contested table says nothing about it")
+    return problems
+
+
 def check_ragged(path: Path) -> list[str]:
     """Every row in a table carries the same number of cells as its header.
 
@@ -363,6 +411,8 @@ def main() -> int:
     for path in catalogs + docs:
         problems += check_glued(path)
         problems += check_ragged(path)
+    for path in catalogs:
+        problems += check_contested(path)
     problems += check_links(catalogs + docs)
 
     # Collected before the failure check below, not after: an empty note is an
