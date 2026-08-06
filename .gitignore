@@ -5,6 +5,10 @@
 scratch/
 tmp/
 
+# Python bytecode, from tools/ importing each other
+__pycache__/
+*.pyc
+
 # Editor / OS noise
 .DS_Store
 *.swp
