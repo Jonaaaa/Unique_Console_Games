@@ -109,6 +109,8 @@ What is left splits three ways:
 
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
+| Super Monkey Ball | 2001 | **Include** (`Ported`) | The *Monkey Ball* cabinet is an arcade release, and arcades are out of scope here, so the GameCube version is the first release anyone could own. | The cabinet shipped the same year and the GameCube game is a direct conversion of it, so the console version is not where the game began. |
+| F-Zero GX | 2003 | **Include** (`Ported`) | `F-Zero AX` is an arcade cabinet and out of scope, and GX is the home game with its own structure and progression. | The two were built together and share hardware, machines and tracks, so neither is cleanly first. |
 
 ## Excluded
 

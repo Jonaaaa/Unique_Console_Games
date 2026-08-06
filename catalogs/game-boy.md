@@ -90,6 +90,7 @@ on a Soviet Electronika 60 in 1984, so the Game Boy pack-in is a port.
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
 | Tetris DX | 1998 | **Include** (`Stranded`) | Adds save files, a scoring system, a versus mode and colour: a distinct GBC product, not a straight re-release. | It is fundamentally *Tetris* on the same platform family, so it is an enhanced re-release rather than a debut. |
+| Donkey Kong | 1994 | **Include** (`Ported`) | Ninety-seven of its stages are original and the puzzle design is new, and the 1981 cabinet is an arcade release that is out of scope regardless. | It carries the arcade game's name and opens with its four stages, which makes it read as a re-release. |
 
 ## Excluded
 

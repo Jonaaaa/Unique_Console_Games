@@ -110,6 +110,7 @@ A third, rarer cause appears here for the first time: **litigation**.
 |---|---|---|---|---|
 | Star Fox 2 | 2017 | **Include** (`Ported`) | Completed for the SNES in 1995. Under the **shelved-games rule** the debut platform is the hardware a game was built for, so this is an SNES entry whose 2017 SNES Classic release makes it `Ported`. The Virtual Boy's `Zero Racers` is treated identically. | Its actual first sale was 2017 on a plug-and-play device, so a literal reading would make that its debut platform. |
 | Earthworm Jim 2 | 1995 | **Include** | The SNES and Genesis versions were separate builds and the SNES release was not preceded by the Genesis one. | Released across SNES/Genesis/Saturn/PS1 in close succession; a sim-ship, which would put it in several catalogues rather than this one. |
+| Super Punch-Out!! | 1994 | **Include** (`Ported`) | A different design from the 1984 cabinet it shares a name with, and arcades are out of scope in any case. | The shared name makes it look like a conversion of the arcade game rather than a new one. |
 
 ## Excluded
 

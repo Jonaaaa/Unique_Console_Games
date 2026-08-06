@@ -18,7 +18,7 @@
 | of which still `Stranded` | 37 |
 | of which since `Ported` | 14 |
 | of which `Sim-ship` | 8 |
-| **Contested** | 1 |
+| **Contested** | 2 |
 
 **Why the Vita strands games.** The Wii U stranded games through hardware, the
 GamePad could not be emulated on a single screen. The Vita's causes are commercial
@@ -110,6 +110,7 @@ port?"*.
 | Title | Year | Verdict | Case for including | Case against |
 |---|---|---|---|---|
 | Oreshika: Tainted Bloodlines | 2014 | **Include** | Debuted on Vita worldwide as a new game; never ported. | It is a sequel-remake of *Ore no Shikabane o Koete Yuke* (PS1, 1999), which some readings treat as the same product rather than a new one. |
+| Tearaway | 2013 | **Include** (`Ported`) | Built around the Vita's rear touch pad, and `Unfolded` is a rebuild for a different controller rather than the same game moved. | `Unfolded` carries the same story and title to PlayStation 4, which most readers will treat as the same game. |
 
 **Resolved by the rule change:** *Tearaway* and *Soul Sacrifice Delta* are no
 longer contested. *Tearaway* debuted on Vita, so *Unfolded* only sets its `Status`

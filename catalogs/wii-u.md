@@ -19,7 +19,7 @@
 | of which still `Stranded` | 43 |
 | of which since `Ported` | 29 |
 | of which `Sim-ship` | 7 |
-| **Contested** | 2 |
+| **Contested** | 6 |
 
 **Why the Wii U strands games.** Almost every stranded entry is stuck for the same
 structural reason: the GamePad. The Wii U shipped a second screen with a gyroscope,
@@ -132,6 +132,10 @@ port?"*.
 |---|---|---|---|---|
 | Super Smash Bros. for Wii U | 2014 | **Include** | It is a separate build, not a version: different stages, different modes (8-Player Smash, Smash Tour), different engine target. Nothing named this exists on any other platform. | *Super Smash Bros. for Nintendo 3DS* shipped first (Sep 2014 JP) under the same product line, so the Wii U release is the second half of one product rather than a debut. |
 | Mario & Sonic at the Rio 2016 Olympic Games | 2016 | **Include** | The Wii U build has never appeared elsewhere and has its own event roster. | The 3DS game of the same name shipped first (Feb 2016 JP), and an *Arcade Edition* also exists; both are separate products, but the shared title muddies the debut claim. |
+| NES Remix | 2013 | **Include** (`Stranded`) | `Ultimate NES Remix` on 3DS is a separate selection with its own content, not this game carried across. | It recompiles some of these challenges, so part of the Wii U game is playable elsewhere. |
+| NES Remix 2 | 2014 | **Include** (`Stranded`) | The same reasoning as `NES Remix`: the 3DS compilation is its own selection rather than a port of this one. | It too is partly recompiled on 3DS, so the Wii U release is not the only way to play some of it. |
+| FAST Racing NEO | 2015 | **Include** (`Ported`) | The Wii U release is the original, and `FAST RMX` followed it. | `RMX` is renamed, rebuilt and expanded enough to argue it is a different game rather than a port of this one. |
+| Super Mario Maker | 2015 | **Include** (`Ported`) | The Wii U release is the original and the complete one. | The 3DS version strips course uploading entirely, which is arguably a different product rather than a port. |
 
 **Resolved by the rule change:** *Super Mario Maker*, *NES Remix*, *NES Remix 2*
 and *FAST Racing NEO* are no longer contested. All four debuted on Wii U; that

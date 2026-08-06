@@ -37,7 +37,7 @@ See [Contested](#contested).
 | **Debut games** | **24** |
 | of which still `Stranded` | 8 |
 | of which since `Ported` | 16 |
-| **Contested** | 2 |
+| **Contested** | 3 |
 
 **Why the Virtual Boy stranded games, and why that broke.** The cause was purely
 **hardware**: a parallax stereoscopic display with two independent 384×224 red LED
